@@ -1,0 +1,60 @@
+Okay, the user is coming back with more details about their room arrangement, and it seems like they're really trying to make this work. They've already rejected my previous layouts because of the window restrictions, the foot-of-bed rule, and now they've added a poster that needs to be displayed without the dresser blocking it, plus an end table and floor lamp. 
+
+Hmm, this is getting complex. The user seems a bit frustrated—maybe they've tried rearranging things themselves and hit roadblocks. I should be extra careful with measurements and spatial logic here. The 10-foot walls give us room to work with, but furniture sizes add up fast. 
+
+First, the poster constraint is key. Since the dresser can't cover it, it must go on a wall where the dresser isn't placed. That eliminates Wall A (door) and Wall B (windows—no hanging allowed). Wall C or Wall D it is. But Wall D is where the bed head is, so probably Wall C for the poster. 
+
+Then the end table: "next to the bed" implies either bedside or directly in front of the bed. But if the bed is flush against Wall D, an end table would need space on either side. Given the dimensions, putting it on Wall D would require the bed to be narrower than 3 feet, which it isn't (6ft x 3ft). So it has to go on Wall A or C, near the altar or dresser. 
+
+Floor lamp placement is trickier—it needs access but shouldn’t block pathways. Maybe tucked against Wall A or C, away from the bed. 
+
+Wait, the altar rule is still active: foot of bed can’t point at it. If bed head is on Wall D, foot points toward Wall C. Perfect—altar can go on Wall C without conflict. 
+
+Let’s sketch: 
+- Bed head on Wall D (safe from altar rule). 
+- Altar on Wall C (opposite door). 
+- Dresser on Wall C next to altar (6+1=7ft, leaving 3ft for lamp). 
+- Poster on Wall C above dresser (since it’s not covering it). 
+- End table on Wall A (door side), 1ft from bed foot. 
+- Floor lamp on Wall A, 2ft from bed foot. 
+
+This uses all walls without overlaps. User gets displayed poster, accessible altar, bedside lamp, and no furniture against windows. Should cover everything—hope they’re satisfied this time!
+</think>
+Based on your updated requirements, here's a **final, optimized layout** that fits all constraints, maximizes space, and accommodates decor:
+
+### Final Layout:
+1. **Wall A (North/Door):**  
+   - **Foot of bed** (6ft x 3ft) placed flush against the wall.  
+   - **End table** (small) placed **1 ft from the bed foot** (to avoid blocking door access).  
+   - **Floor lamp** placed **2 ft from the bed foot** (tucked against the wall, out of traffic).  
+
+2. **Wall B (East/Windows):**  
+   - **NO FURNITURE** (as per rules). posters displayed freely on this wall.  
+
+3. **Wall C (Opposite Door):**  
+   - **Altar** (2ft x 1ft) placed flush against the wall.  
+   - **Dresser** (3ft x 1ft) placed flush against the altar, forming a 7ft-wide unit.  
+   - **Poster** mounted on this wall (above the dresser or empty space, visible and undisturbed).  
+
+4. **Wall D (Opposite Windows):**  
+   - **Head of bed** placed flush against the wall.  
+
+### Why This Works:
+- **No Furniture Against Windows (Wall B):** Fully clear for posters.  
+- **Foot of Bed ≠ Altar:** Bed head is on Wall D; altar is on Wall C (opposite corners).  
+- **Space for Access:**  
+  - End table and floor lamp are on Wall A, near the bed but not blocking the door.  
+  - Pathway between bed and altar is clear.  
+- **Dresser & Poster Coexistence:** Dresser is on Wall C, allowing a poster above it without obstruction.  
+- **Wall Utilization:** All walls are used efficiently (except Wall B).  
+
+### Measurements Check:
+- **Wall A/C/D:** 10ft corners-to-corners.  
+  - Bed head (Wall D): 6ft × 3ft.  
+  - Foot of bed (Wall A): 6ft × 3ft.  
+  - Altar + Dresser (Wall C): 2ft × 1ft + 3ft × 1ft = 7ft.  
+  - End table (Wall A): 1ft.  
+  - Floor lamp (Wall A): 2ft.  
+- **Total used on each wall:** ~7–9ft (within 10ft limit).  
+
+This layout ensures flow, avoids conflicts, and keeps your space functional and stylish! 🛏️✨

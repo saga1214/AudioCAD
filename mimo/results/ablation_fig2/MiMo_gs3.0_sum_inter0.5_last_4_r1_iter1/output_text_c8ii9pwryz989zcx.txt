@@ -1,0 +1,37 @@
+Okay, the user has given me a lot of constraints and now added new pieces of information. Let me recap everything carefully. Each wall is ten feet corner-to-corner. Wall A north with the door, B east with windows—with nothing hung there. Bag foot can't point at altar. Furniture to place is six-by-three-bed, two-by-one-altar, and three-by-one-dresser. Now we also have a poster that needs wall space, but not under a dresser, and a small end table plus a floor lamp.
+
+The user rejected three previous layouts because they either put furniture against forbidden walls, pointed the foot of the bed at the altar, or created poor access. Now they're adding decor and lighting requirements, showing they care about both function and aesthetics. The poster-dresser conflict suggests they want to display the poster prominently but dislike furniture on top of it—aesthetic concern. The lamp needs placement that doesn't obstruct movement.
+
+Considering the walls: Wall D (opposite windows/Wall B) is ideal for the bed head since it's away from restricted walls. Wall A/door (Wall C/altar) could work if altar fits without obstruction. Wall C seems problematic as it's across from Wall A and might limit altar/bag positioning. Wall B is off-limits entirely.
+
+For the new items: The end table must go beside the bed on Wall D's wall for easy access. The floor lamp should flank this setup, perhaps on the opposite side of the bed to avoid blocking pathways. The poster could go on Wall C above the altar if there's vertical space, since dressers won't be there. This keeps Window Wall (B) and Window Adjacent (D initially suggested) clear, altar positioned safely, and decor visible without compromising function.
+
+User seems detail-oriented and frustrated by prior solutions. They likely want a balance of rules compliance, practicality, and personal style expression. The lamp placement hints at evening routines, so lighting near the bed is probably important. Final layout should maximize flow while honoring all constraints—especially the altar direction and window restrictions—which feel superstitious or culturally significant to them.
+墙A东窗，任何挂件都不能放上去。旅行袋的底座不能朝向祭坛。我必须 fitting the bed 6foot by 3foot, the altar 2foot by 1foot , and the dresser 3foot by 1foot.I Don想要 any furniture against the wall with the windows假设你知道 墙C 是 cross fr o m 墙A , and 墙D 是 cross fr o m 墙B Where do I put everything?
+Sure here’s简单布局应该可行.Start by placing the head your bed against opposite windows.For the altar put it opposite door头那样旅行袋底座不会指向头你的床自由了你的梳妆台应该要么 next to altar, or on same wall as door梳妆台应该
+</think>
+Understood—let’s refine the layout to include the end table, lamp, and poster while strictly following all rules. Here’s a clear, functional arrangement:
+
+### **Final Layout (10ft walls, no furniture on Wall B/East):**
+1. **Wall A (North/Door):**  
+   - Place the **dressing table** flush against the wall (3ft length fits perfectly).  
+   - Add the **floor lamp** beside it (on the floor, not blocking the door).  
+
+2. **Wall B (East/Windows):**  
+   - **NO FURNITURE.**海报 can hang freely here above the dressing table (if desired) or on an adjacent empty wall—**but not under the dressing table**.  
+
+3. **Wall C (South/Altar Side):**  
+   - Place the **foot of the bag** toward Wall B (toward windows), **not** pointing at the altar.  
+   - Position the **altar** flush against Wall C (2ft × 1ft fits snugly).  
+   - Add the **end table** beside the altar (small enough to fit without obstruction).  
+
+4. **Wall D (West/Opposite Windows):**  
+   - Place the **head of the bed** against the center/middle of the wall (6ft × 3ft fits with 4ft clearance on either side).  
+   - Ensure clear pathways for walking around the bed end table.  
+
+### **Key Details:**  
+- **Altar Rule:** Bag’s foot points toward Wall B (east windows), never Wall C/altar. End table beside altar creates a functional zone.  
+- **Window Rule:** Wall B is entirely clear—poster hangs freely here. Dressing table (and lamp) stay on Wall A.  
+- **Flow:** Walk around Wall D to access the bed, Wall A for dressing/lamp, and Wall C for altar/end table.  
+
+This keeps rules enforced, decor visible, and movement easy. Let me know if you’d like adjustments!

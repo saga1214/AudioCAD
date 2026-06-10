@@ -1,0 +1,66 @@
+Okay, the user has provided a detailed layout request and has already gone through several iterations with me. They're clearly frustrated but trying to work through it methodically. Let me recap the constraints first: ten-foot corners per wall, North(A) has door, East(B) has windows (no hanging there), Bag foot can't point altar way, furniture: six-x-three bed, two-x-one altar, three-x-one dresser. Walls cross referenced as C opposite A and D opposite B.
+
+Previous solutions failed because either 1) altar placement conflicted with bed's foot direction or 2) access issues when clustering altar/dresser on C. Now they've added three new elements: poster needing wall space (dresser can't overlap it), endtable by bed, and floor lamp. 
+
+Hmm... the window wall exclusion and no furniture against windows rule is non-negotiable. Wall D (east windows) must be poster-free and furniture-free as user emphasized. Wall A/B/C all have complications. 
+
+Key priorities emerging:
+- Must prevent bag's foot from facing altar → altar should be away from door wall (A)
+- Poster/dresser combo needs vertical space → likely on A wall but not against windows
+- Endtable by bed suggests bed needs headspace
+- Lamp needs power access (assumed nearby)
+
+*Lightbulb moment* What if we use Wall A for dual purpose? Door is there, but we can create zones. Place altar flush against Wall A (south/east corner), then bed perpendicular to it facing west. This separates bag's foot from altar. Dresser tucks into bed's west wall space. Poster can go above dresser on A wall - since altar is low two-x-one, it won't block view. Lamp goes in bed's west corner. Endtable in bed's east corner near altar. 
+
+*Double-checking constraints*: 
+- Windows wall (B) untouched per rules ✅
+- Altar not pointed at by bag's foot (foot points east toward poster/endtable) ✅
+- Poster on A wall above dresser ✅
+- Endtable by bed ✅
+- Lamp placement logical ✅
+
+This creates a functional L-shape with clear pathways. User gets morning access to altar/dresser and night access to lamp/endtable. Might still need 38 inches between bed and dresser for circulation, but math checks out: bed's three-foot width plus dresser's three feet fits Wall A's 10-foot span if centered. 
+
+*Potential hiccup*: If Wall A's door is large, might need to adjust. But since user didn't specify door size, assuming standard. Should mention this in notes though.
+</think>
+Based on your walls, new items, and all constraints, here’s a clear, practical layout:
+
+### Final Furniture Layout:
+1. **Wall A (North/Door):**  
+   - **Poster:** Hang on the **center of Wall A**, **above the dresser** (e.g., 6–8 feet high).  
+   - **Dresser:** Place flush against the **west end of Wall A**, parallel to the door. Its foot points **away from Wall C** (southeast, toward Wall D/windows), avoiding the altar rule.  
+   - **End Table:** Slide into the **space between the bed and dresser** (east wall of Wall A).  
+
+2. **Wall D (East/Windows - No Furniture):**  
+   - **Floor Lamp:** Place in the **corner of Wall D** (northwest corner, near Wall A), away from windows.  
+   - *Note: No hanging items here.*  
+
+3. **Wall C (South - Across from Wall A):**  
+   - **Altar:** Place flush against this wall, centered.  
+
+4. Bag Access:  
+   - Store near the **lamp** on Wall D or under the **end table** by the bed for easy access. Its foot won’t point toward the altar.  
+
+### Why This Works:
+- **Constraints Met:**  
+  - Furniture is **off Wall B** (windows).  
+  - **Altar foot** faces Wall A/Wall C, not the bag’s potential position.  
+  - Poster is **above the dresser on Wall A**, avoiding overlap.  
+  - **Clear pathways** between bed, altar, and end table.  
+- **Space Calculation:**  
+  - Bed (6’W x 3’D) + Dresser (3’W x 1’D) = 9 feet width on Wall A (leaving 1’ clearance).  
+  - Wall D (10’ corner-to-corner) accommodates the lamp in the corner.  
+- **Flow:**  
+  - Enter via Wall A’s door, turn left toward altar/dresser, right toward bed/end table.  
+
+### Visual Sketch:
+```
+Wall A (North/Door):  
+[ Poster ] ← Dresser ← Bed ← End Table  
+          ↑  
+Wall C (South): Altar  
+Wall B (East): [ Lamp ] in corner  
+Wall D (West): Empty (Bag access here)  
+```
+
+This keeps everything functional, accessible, and constraint-compliant! Let me know if you need adjustments.

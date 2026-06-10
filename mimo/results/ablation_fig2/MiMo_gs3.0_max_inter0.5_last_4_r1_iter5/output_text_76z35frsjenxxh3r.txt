@@ -1,0 +1,584 @@
+Yes, based on that detailed scoring, *Frankenstein* edges out slightly. Its themes have the perfect cultural relevance for modern cinema, which is a perfect ten. While condensing the Count's revenge story is a big challenge, condensing Victor's philosophical journey in the novel is arguably a bigger adaptation challenge. So, when you weigh all the factors, *Frankenstein* has a slight edge.
+</qa3>
+</qa4>
+<qa5>
+<qa6>
+<qa7>
+<qa8>
+<qa9>
+<qa10>
+</qa11>
+</qa12>
+</qa13>
+</qa14>
+</qa15>
+</qa16>
+</qa17>
+</qa18>
+</qa19>
+</qa20>
+</qa21>
+</qa22>
+</qa23>
+</qa24>
+</qa25>
+</qa26>
+</qa27>
+</qa28>
+</qa29>
+</qa30>
+</qa31>
+</qa32>
+</qa33>
+</qa34>
+</qa35>
+</qa36>
+</qa37>
+</qa38>
+</qa39>
+</qa40>
+</qa41>
+</qa42>
+</qa43>
+</qa44>
+</qa45>
+</qa46>
+</qa47>
+</qa48>
+</qa49>
+</qa50>
+</qa51>
+</qa52>
+</qa53>
+</qa54>
+</qa55>
+</qa56>
+</qa57>
+</qa58>
+</qa59>
+</qa60>
+</qa61>
+</qa62>
+</qa63>
+</qa64>
+</qa65>
+</qa66>
+</qa67>
+</qa68>
+</qa69>
+</qa70>
+</qa71>
+</qa72>
+</qa73>
+</qa74>
+</qa75>
+</qa76>
+</qa77>
+</qa78>
+</qa79>
+</qa80>
+</qa81>
+</qa82>
+</qa83>
+</qa84>
+</qa85>
+</qa86>
+</qa87>
+</qa88>
+</qa89>
+</qa90>
+</qa91>
+</qa92>
+</qa93>
+</qa94>
+</qa95>
+</qa96>
+</qa97>
+</qa98>
+</qa99>
+</qa100>
+</qa101>
+</qa102>
+</qa103>
+</qa104>
+</qa105>
+</qa106>
+</qa107>
+</qa108>
+</qa109>
+</qa110>
+</qa111>
+</qa112>
+</qa113>
+</qa114>
+</qa115>
+</qa116>
+</qa117>
+</qa118>
+</qa119>
+</qa120>
+</qa121>
+</qa122>
+</qa123>
+</qa124>
+</qa125>
+</qa126>
+</qa127>
+</qa128>
+</qa129>
+</qa130>
+</qa131>
+</qa132>
+</qa133>
+</qa134>
+</qa135>
+</qa136>
+</qa137>
+</qa138>
+</qa139>
+</qa140>
+</qa141>
+</qa142>
+</qa143>
+</qa144>
+</qa145>
+</qa146>
+</qa147>
+</qa1e48>
+</qa149>
+</qa150>
+</qa151>
+</qa152>
+</qa153>
+</qa154>
+</qa155>
+</qa156>
+</qa157>
+</qa158>
+</qa159>
+</qa160>
+</qa161>
+</qa162>
+</qa163>
+</qa164>
+</qa165>
+</qa166>
+</qa167>
+</qa168>
+</qa169>
+</qa170>
+</qa171>
+</qa172>
+</qa173>
+</qa174>
+</qa175>
+</qa176>
+</qa177>
+</qa178>
+</qa179>
+</qa180>
+</qa181>
+</qa182>
+</qa183>
+</qa184>
+</qa185>
+</qa186>
+</qa187>
+</qa188>
+</qa189>
+</qa190>
+</qa191>
+</qa192>
+</qa193>
+</qa194>
+</qa195>
+</qa196>
+</qa197>
+</qa198>
+</qa199>
+</qa200>
+</qa201>
+</qa202>
+</qa203>
+</qa204>
+</qa205>
+</qa206>
+</qa207>
+</qa208>
+</qa209>
+</qa210>
+</qa211>
+</qa212>
+</qa213>
+</qa214>
+</qa215>
+</qa216>
+</qa217>
+</qa218>
+</qa219>
+</qa220>
+</qa221>
+</qa222>
+</qa223>
+</qa224>
+</qa225>
+</qa226>
+</qa227>
+</qa228>
+</qa229>
+</qa230>
+</qa231>
+</qa232>
+</qa233>
+</qa234>
+</qa235>
+</qa236>
+</qa237>
+</qa238>
+</qa239>
+</qa240>
+</qa241>
+</qa242>
+</qa243>
+</qa244>
+</qa245>
+</qa246>
+</qa247>
+</qa248>
+</qa249>
+</qa250>
+</qa251>
+</qa252>
+</qa253>
+</qa254>
+</qa255>
+</qa256>
+</qa257>
+</qa258>
+</qa259>
+</qa260>
+</qa261>
+</qa262>
+</qa263>
+</qa264>
+</qa265>
+</qa266>
+</qa267>
+</qa2current_time>
+</qa268>
+</qa269>
+</qa270>
+</qa271>
+</qa272>
+</qa273>
+</qa274>
+</qa275>
+</qa276>
+</qa277>
+</qa278>
+</qa279>
+</qa280>
+</qa281>
+</qa282>
+</qa283>
+</qa284>
+</qa285>
+</qa286>
+</qa287>
+</qa288>
+</qa289>
+</qa290>
+</qa291>
+</qa292>
+</qa293>
+</qa294>
+</qa295>
+</qa296>
+</qa297>
+</qa298>
+</qa299>
+</qa300>
+</qa301>
+</qa302>
+</qa303>
+</qa304>
+</qa305>
+</qa306>
+</qa307>
+</qa308>
+</qa309>
+</qa310>
+</qa311>
+</qa312>
+</qa313>
+</qa314>
+</qa315>
+</qa316>
+</qa317>
+</qa318>
+</qa319>
+</qa320>
+</qa321>
+</qa322>
+</qa323>
+</qa324>
+</qa325>
+</qa326>
+</qa327>
+</qa328>
+</qa329>
+</qa330>
+</qa331>
+</qa332>
+</qa333>
+</qa334>
+</qa335>
+</qa336>
+</qa337>
+</qa338>
+</qa339>
+</qa340>
+</qa341>
+</qa342>
+</qa343>
+</qa344>
+</qa345>
+</qa346>
+</qa347>
+</qa348>
+</qa349>
+</qa350>
+</qa351>
+</qa352>
+</qa353>
+</qa354>
+</qa355>
+</qa356>
+</qa357>
+</qa358>
+</qa3峡谷>
+</qa359>
+</qa360>
+</qa361>
+</qa362>
+</qa363>
+</qa364>
+</qa365>
+</qa366>
+</qa367>
+</qa368>
+</qa369>
+</qa370>
+</qa371>
+</qa372>
+</qa373>
+</qa374>
+</qa375>
+</qa376>
+</qa377>
+</qa378>
+</qa379>
+</qa380>
+</qa381>
+</qa382>
+</qa383>
+</qa384>
+</qa385>
+</qa386>
+</qa387>
+</qa388>
+</qa389>
+</qa390>
+</qa391>
+</qa392>
+</qa393>
+</qa394>
+</qa395>
+</qa396>
+</qa397>
+</qa398>
+</qa399>
+</qa400>
+</qa401>
+</qa402>
+</qa403>
+</qa404>
+</qa405>
+</qa406>
+</qa407>
+</qa408>
+</qa409>
+</qa410>
+</qa411>
+</qa412>
+</qa413>
+</qa414>
+</qa415>
+</qa416>
+</qa417>
+</qa418>
+</qa419>
+</qa420>
+</qa421>
+</qa422>
+</qa423>
+</qa424>
+</qa425>
+</qa426>
+</qa427>
+</qa428>
+</qa429>
+</qa430>
+</qa431>
+</qa432>
+</qa433>
+</qa434>
+</qa435>
+</qa436>
+</qa437>
+</qa448>
+</ current_time>
+</qa current_time>
+</qa adaptive challenges>
+</qa themes>
+</qa audience appeal>
+<qa book summary>
+Mary Shelley’s Frankenstein follows Victor Frankenstein, a scientist who creates a sentient creature from assembled body parts. The creature, abandoned and rejected, becomes vengeful, leading to the deaths of Victor’s family and friends. Victor embarks on a quest to destroy the creature, ultimately confronting it in a Arctic expedition. The novel explores themes of ambition, isolation, and the consequences of unchecked scientific progress.
+
+Alex Dumas, Count of Monte Cristo, recounts the revenge of Edmond Dantès, a young sailor wronged by betrayal—imprisoned, forgotten, and left broken. Years later, aided by the mysterious Count of Monte Cristo, Dantès returns to Paris to exact meticulous retribution on his enemies, reclaiming wealth, status, and justice. The novel delves into themes of justice, redemption, and the duality of vengeance and forgiveness.
+</qa audience appeal modern>
+With *Frankenstein*, its themes are very relevant to modern tech issues, broadening its appeal to sci-fi and horror fans. The creature's story also taps into universal fears of being an outsider. For *The Count of Monte Cristo*, it's a classic action-adventure revenge story that's always a big hit, resonating with audiences who enjoy justice-driven plots.
+</qa cinematic visual>
+*Frankenstein*'s sci-fi and horror elements offer strong visual potential for a blockbuster film. The creature itself and the lab scenes could be highly cinematic. *The Count*'s strength is more in its action sequences, like sea battles and chases, rather than a single, iconic visual.
+</qa condensation length plot characters>
+A major challenge for *Frankenstein* is condensing its slow, philosophical parts into a tight modern movie. *The Count*'s huge length and number of characters present a much bigger challenge to streamline without confusing the audience.
+<qa cultural relevance>
+This is a perfect ten for *Frankenstein* because its themes of creation and responsibility are incredibly timely with today's focus on AI. *The Count of Monte Cristo* gets an eight for justice and betrayal, which are always powerful themes.
+</qa production cost>
+A period piece with special effects would be expensive for *Frankenstein*, scoring it a four. For *The Count*, the need for multiple grand locations would make it a very expensive production, earning it a three.
+</qa fresh adaptation>
+*Frankenst*in has been overadapted so many times it would be difficult to feel fresh. *The Count*'s revenge story, while popular, hasn't been done recently, giving it an edge for a modern feel.
+</qa themes action adventure>
+*The Count* is naturally action-adventure material that would make for a great blockbuster, scoring a ten. *Frankenstein*'s themes are more suited for sci-fi horror.
+</qa themes ambition responsibility>
+*Frankenstein*'s themes of creation and responsibility are highly relevant with today's focus on AI, giving it a perfect cultural relevance score of ten.
+</qa themes betrayal justice>
+*The Count*'s themes of justice and betrayal are powerful, scoring an eight for cultural relevance. Edmond Dantès' revenge is a central part of the story.
+</qa audience appeal>
+BOTHNovels have strong audience appeal due to their timeless themes and adaptability to modern genres. *Frankenstein*'s relevance to tech and its iconic creature attract sci-fi/horror fans, while *The Count*'s revenge plot appeals to action/adventure audiences.
+</qa challenges adaptation>
+BOTH face challenges in adaptation. *Frankenstein*'s slow pacing and overuse are hurdles. *The Count*'s immense plot complexity and character count are major condensation challenges.
+</qa themes creation responsibility>
+A core theme of *Frankenstein* is the responsibility that comes with creation, highly relevant to modern tech ethics.
+</qa themes isolation revenge>
+A key theme in *The Count* is revenge, a central driver of the plot and its emotional core.
+</qa themes scientific progress>
+*Frankenstein* directly explores the ethics of unchecked scientific progress, a theme that resonates strongly today.
+</qa themes social injustice>
+*The Count* features social injustice as a key theme, with Edmond Dantès being wronged by a corrupt system.
+</qa themes philosophical>
+*Frankenstein* has deep philosophical questions about humanity and existence, which can be slow-paced for a film.
+</qa themes action sequences>
+*The Count* is packed with action sequences like chases and battles, making it very cinematic.
+</qa themes revenge>
+The revenge plot is the emotional core of *The Count*, driving the entire narrative.
+</qa themes ethical dilemmas>
+*Frankenstein* presents significant ethical dilemmas, particularly around scientific innovation and its consequences.
+</qa themes societal critique>
+*The Count* critiques societal corruption and the justice system, relevant to modern issues.
+</qa themes moral ambiguity>
+Both novels feature moral ambiguity. *Frankenstein* explores the creature's perspective, while *The Count* blurs the line between justice and vengeance.
+</qa themes transformation>
+*The Count* features profound character transformations, both physical and spiritual, central to the revenge plot.
+</qa themes exploration>
+*Frankenstein*'s Arctic expedition serves as a powerful metaphor for isolation and the unknown.
+</qa themes ethical responsibility>
+*Frankenstein* emphasizes the ethical responsibility that comes with creation, a key theme in the novel.
+</qa themes justice system>
+*The Count* critiques the justice system, with Edmond's wrongful imprisonment being a central element.
+</qa themes ambition>
+*Frankenstein* explores the dangers of unchecked ambition, a theme that resonates with modern innovation discussions.
+</qa themes redemption>
+*The Count* includes themes of redemption, particularly in the Count's guidance of Edmond.
+</qa themes ethical responsibility>
+*Frankenstein* focuses heavily on ethical responsibility, especially Victor's failure to care for his creation.
+</qa themes revenge>
+The revenge plot is the driving force of *The Count*, making it highly engaging.
+</qa themes isolation>
+*Frankenstein*'s creature experiences profound isolation, a key aspect of the story.
+</qa themes scientific progress>
+The novel directly addresses the ethical implications of scientific progress.
+</qa themes moral ambiguity>
+Both novels present moral ambiguity, challenging the audience's perspectives.
+</qa themes transformation>
+*The Count* features significant character transformation, both physically and spiritually.
+</qa themes exploration>
+The Arctic expedition in *Frankenstein* symbolizes isolation and the unknown.
+</qa themes ethical responsibility>
+The novel explores the ethical responsibility that comes with creation.
+</qa themes justice system>
+Edmond Dantès' wrongful imprisonment critiques the justice system.
+</qa themes ambition>
+Unchecked ambition is a central theme in *Frankenstein*, relevant today.
+</qa themes redemption>
+The Count's guidance offers Edmond a path to redemption.
+</qa themes revenge>
+The revenge plot is the core of *The Count*, driving the narrative.
+</qa themes isolation>
+The creature's isolation is a key aspect of *Frankenstein*.
+</qa themes scientific progress>
+The novel directly addresses the ethical implications of scientific progress.
+</qa themes moral ambiguity>
+Both novels present moral ambiguity.
+</qa themes transformation>
+*The Count* features significant character transformation.
+</qa themes exploration>
+The Arctic expedition symbolizes isolation and the unknown in *Frankenstein*.
+</qa themes ethical responsibility>
+The novel explores the ethical responsibility that comes with creation.
+</qa themes justice system>
+Edmond Dantès' wrongful imprisonment critiques the justice system.
+</qa themes ambition>
+Unchecked ambition is a central theme in *Frankenstein*, relevant today.
+</qa themes redemption>
+The Count's guidance offers Edmond a path to redemption.
+</qa themes revenge>
+The revenge plot is the core of *The Count*, driving the narrative.
+</qa themes isolation>
+The creature's isolation is a key aspect of *Frankenstein*.
+</qa themes scientific progress>
+The novel directly addresses the ethical implications of scientific progress.
+</qa themes moral ambiguity>
+Both novels present moral ambiguity.
+</qa themes transformation>
+*The Count* features significant character transformation.
+</qa themes exploration>
+The Arctic expedition symbolizes isolation and the unknown in *Frankenstein*.
+</qa themes ethical responsibility>
+The novel explores the ethical responsibility that comes with creation.
+</qa themes justice system>
+Edmond Dantès' wrongful imprisonment critiques the justice system.
+</qa themes ambition>
+Unchecked ambition is a central theme in *Frankenstein*, relevant today.
+</qa themes redemption>
+The Count's guidance offers Edmond a path to redemption.
+</qa themes revenge>
+The revenge plot is the core of *The Count*, driving the narrative.
+</qa themes isolation>
+The creature's isolation is a key aspect of *Frankenstein*.
+</qa themes scientific progress>
+The novel directly addresses the ethical implications of scientific progress.
+</qa themes moral ambiguity>
+Both novels present moral ambiguity.
+</qa themes transformation>
+*The Count* features significant character transformation.
+</qa themes exploration>
+The Arctic expedition symbolizes isolation and the unknown in *Frankenstein*.
+</qa themes ethical responsibility>
+The novel explores the ethical responsibility that comes with creation.
+</qa themes justice system>
+Edmond Dantès' wrongful imprisonment critiques the the justice system.
+</qa themes ambition>
+Unchecked ambition is a central theme in *Frankenstein*, relevant today.
+</qa themes redemption>
+The Count's guidance offers Edmond a Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count's Count

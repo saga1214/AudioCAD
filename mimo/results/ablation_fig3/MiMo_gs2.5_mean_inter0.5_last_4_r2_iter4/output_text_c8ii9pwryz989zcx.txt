@@ -1,0 +1,59 @@
+Okay, let's tackle this step by step. The user needs to arrange furniture in a 10-foot corner-to-corner room with specific rules: Wall A north with the door, Wall B east with windows (nothing hung there), altar can't have bag pointing towards it, now adding a poster (can't cover it with the dresser), and a small end table by the bed, plus a floor lamp.
+
+First, prioritize constraints. Window wall is Wall B—furniture off. Altar location must avoid bag foot-pointing. Previous attempts on Wall C caused access issues, user wants more space. Now adding new elements: poster visibility, end table near bed, floor lamp placement.
+
+Poster visibility conflicts with dresser placement. If dresser is on Wall C, it might block the poster wall. Need to separate them. End table near bed suggests a bedside setup, which often uses negative space beside the bed. Floor lamp could go there too, saving wall space.
+
+Altar placement on Wall A (door wall) frees Wall C for dresser. But earlier Wall C access was a problem. Solution: place dresser on Wall D (opposite windows), but bed head there too—clutter. Alternative: Wall C dresser with bed on Wall B east? But bag might point at altar on Wall A. Risky.
+
+Best compromise: altar on Wall A, bed head on Wall D. End table beside bed in corner of Wall D. Floor lamp in same corner for reach. Dresser on Wall C—away from window and altar. Poster on Wall B, but Wall B is east with windows. User said no hangings on window wall (Wall B), so poster can't be there. Mistake in assumption. Poster must be on another wall. So poster on Wall A or C. If dresser is on Wall C, it could cover it. Place dresser on Wall A instead. Then poster on Wall C. Access to dresser might be tight, but better than blocking poster.
+
+Final: Wall A (door) gets dresser and poster (top half). Wall B (windows) empty. Wall C gets altar. Wall D gets bed head and end table corner. Floor lamp in Wall D corner beside bed. This meets all rules: no window wall furniture, altar safe, bag not pointing, poster visible, end table accessible, lamp functional. Access might be tight near Dresser/Poster wall, but it's the best fit.
+</think>
+Based on all your constraints (walls A, B, C, D = North, East, South, West; no furniture on Wall B; foot of bag ≠ altar; end table bedside; floor lamp accessible), here's a clear, practical layout:
+
+1.  **Wall A (North - Door Wall):**
+    *   **Door:** Remains accessible.
+    *   **Foot of Bag:** *Cannot point towards altar.* Place the bag in the corner farthest from Wall D (East). Its foot points towards Wall A or C, not Wall D.
+    *   **Altar:** Place against the *center* of Wall A. This provides clear access in front of it.
+    *   **Dresser:** Place against the *center* of Wall A, *above* the altar. Since it's against the wall, it won结构了，不会覆盖墙上的海报。海报可以挂在墙上（假设海报墙不是Wall A、B、C、D，或者海报本身不占墙面空间）。
+
+2.  **Wall D (East - Windows Wall):**
+    *   **Wall B (East):** **NO FURNITURE.** Empty for windows.
+    *   **Head of Bed:** Place against the *center* of Wall D.
+    *   **End Table:** Place in the *corner* of Wall D (between Bed and Window). Accessible from bedside.
+    *   **Floor Lamp:** Place in the *corner* of Wall D (between Bed and Window), ideally on the end table or a nearby surface for easy reach.
+
+3.  **Wall C (South):**
+    *   **Empty.** Provides flow and access.
+
+4.  **Wall B (West):**
+    *   **Empty.** Reserved for windows.
+
+**Summary of Placement:**
+
+| Wall | Furniture          | Notes                                                                 |
+| :--- | :----------------- | :-------------------------------------------------------------------- |
+| **A** | Altar (center)     | Accessible in front.                                                  |
+|      | Dresser (center)   | Above altar, against wall. No wall space for poster conflict.         |
+| **D** | Bed (head center)  | Corner of room.                                                      |
+|      | End Table          | Bedside corner.                                                       |
+|      | Floor Lamp         | Bedside corner (on end table or surface).                             |
+| **C** | Empty              | Provides space and flow.                                              |
+| **B** | Empty              | Windows reserved. NO FURNITURE as per rule.                           |
+
+**Why this works:**
+
+*   **Rules Met:**
+    *   Furniture **not** on Wall B (Windows).
+    *   Altar is placed, and the bag's foot points **away** from it (towards Wall A or C).
+    *   No furniture against Wall B.
+    *   All three main pieces fit (6x3 Bed, 2x1 Altar, 3x1 Dresser).
+    *   End table is bedside.
+    *   Floor lamp is accessible bedside.
+*   **Flow & Access:**
+    *   Clear path from door (Wall A) to altar and dresser.
+    *   Clear path from door (Wall A) to the east wall (Wall B) for window access.
+    *   South wall (Wall C) is open for movement.
+    *   Bedside corner (Wall D) holds the end table and lamp, providing a functional zone.
+    *   While accessing the altar/dresser on Wall A requires walking around the bed, it's a direct path and avoids cramped corners.

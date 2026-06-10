@@ -1,0 +1,13 @@
+Got it. Let's look at a scenario that highlights a key difference between college and high school rules. The difference is all about how they define the defender used to check for offside. In college, they use the 'second-to-last defender,' while in high school, it's often the 'last defender.' Let's use Red Team versus Blue Team to make it clear.
+
+Here’s the scenario: Red Team is defending their goal. A defender, number two, is positioned near the edge of the penalty area. Just behind him is the last Red Team defender, number one. The Blue Team has a forward, number seven, who is level with the two defenders but slightly closer to the goal line than both of them. Then, the midfielder, number ten, plays a long pass forward to number seven. The pass is played just as number seven is entering the penalty area.
+
+Now, here's the critical part: The ball is played, and a Red Defender touches it first just inside the penalty area. The ball then rebounds off Defender number two. Number seven gets to the deflected ball first and scores.
+
+So, which rule applies? It all comes down to whether we use the 'second-to-last defender' or the 'last defender.'
+
+Under the college rule, which uses the 'second-to-last defender,' Defender number two is the one being compared to. Number seven is level with him but closer to the goal. So, yes, he is offside. The offense stands.
+
+However, under the high school rule, which often uses the 'last defender,' Defender number one is the one being compared to. In this case, number seven is not closer to the goal than defender number one. So, he is not offside. The goal would stand.
+
+This is a perfect example of how the same situation can have two completely different outcomes based on which rulebook is being used.

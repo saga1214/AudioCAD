@@ -1,0 +1,34 @@
+Okay, the user is asking how to tune this specific instrument using a tuner. Let me recall what I know about this instrument. It's an electric guitar, which is unique because it doesn't have physical tuners like an acoustic guitar. Instead, it has electronic pickups that convert string vibrations into electrical signals. 
+
+The user mentioned earlier bad-sounding strings in the audio clip, so they're likely a beginner or someone troubleshooting tuning issues. Their core need is practical guidance for tuning this unusual instrument. I should explain both physical and electronic methods clearly.
+
+First, I'll describe the physical tuning pegs since that's the universal method. Then I'll explain the electronic tuner options - the clip-on and phone apps. The most important thing is emphasizing that for electric guitars, tuning relies on the tuner's electronic feedback rather than visual references. 
+
+I should warn about the "squeal" when tuning down, as that's a common point of confusion. The tuning pegs need firm pressure, which beginners might not realize. And I must stress that this instrument needs consistent tuning because it's electric - unlike acoustic guitars that naturally stay in tune. 
+
+The user seems a bit frustrated (reacted to initial guitar sound as "terrible"), so I'll keep instructions straightforward and reassuring. They're probably trying to fix something, so I'll include troubleshooting tips about string tension and tuner calibration. 
+
+Hmm... they didn't specify if they're using a tuner or just asking hypothetically. I'll assume they have one available since they asked "how to use". I'll structure it from basic peg tuning to electronic methods, ending with troubleshooting - that covers all bases.
+</think>
+Tuning an electric guitar involves adjusting the **tuning pegs** (also called machine heads) on the headstock. Here’s a step-by-step guide:
+
+### 1. **Physical Tuning Pegs (Traditional Method)**  
+   - **Identify the pegs**: These are the small wheels on the headstock.  
+   - **Tune up/down**:  
+     - **Tuning up**: Turn the peg *toward* the headstock (clockwise).  
+     - **Tuning down**: Turn the peg *away* from the headstock (counter-clockwise).  
+   - **Apply firm pressure**: Electric guitars require more tension than acoustic ones.  
+   - **Check tuning**: Use a tuner app (e.g., GuitarTuna) or clip-on tuner to confirm pitch.  
+
+### 2. **Electronic Tuners**  
+   - **Clip-on tuner**: Attach it to the headstock. It emits a beep when a string is perfectly tuned.  
+   - **Phone app**: Use an app like **Fender Tune** or **GuitarTuna**. Place your ear near the strings to hear the app’s feedback.  
+   - **How to use**:  
+     1. Play a string.  
+     2. The tuner displays the pitch (e.g., "A#") and a visual guide (e.g., a slider).  
+     3. Adjust the peg until the pitch matches the target note.  
+
+###  Rose Gold Strawberry Color Pro Tip:  
+> Wait **24–48 hours** after bleaching before dyeing. Use a **10-volume developer** for vibrant tones. Cool water washes and color-safe shampoo lock the shade in!  
+
+Let me know if you need more tuning tips! 🎸

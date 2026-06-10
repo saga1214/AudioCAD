@@ -1,0 +1,7 @@
+You're absolutely on the right track with saccadic masking! The word is pronounced "suh-KAH-dik," with the emphasis on the second syllable. It's a bit of a tongue twister, so it's easy to stumble on.
+
+To answer your question: No, it’s not accurate to say the eye sees continuously in the way a camera does. The eye’s perception is actually quite dynamic and intermittent, thanks to saccadic masking.
+
+Here’s how it works. Your eyes are constantly making tiny, rapid jumps between points of focus—those are saccades. During the saccade, your visual field gets blurry, and for a split second, your brain essentially shuts off the processing of that blurry input. That’s the masking. Then, when your eyes stop moving, the brain processes the stable visual information. This happens hundreds of times a minute, so it feels like you’re seeing a continuous world, but you’re actually experiencing it in these tiny, rapid-fire snapshots.
+
+So, while the brain integrates these snapshots into a smooth, continuous experience, the eye itself doesn’t see continuously. It’s more like a camera with a very fast shutter speed that’s constantly moving, with the brain editing out the blur and stitching the moments together. That’s why we can’t see high frame rates directly—our eyes and brain evolved for survival, not for capturing video. But for filmmaking, understanding this can really help you work with 24 frames per second—it’s a beautiful, artistic choice that aligns with how we naturally perceive the world.

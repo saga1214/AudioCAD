@@ -1,0 +1,64 @@
+Okay,家长想要一个孩子冒险故事，去南美神话国家丛林里寻找宝藏。想要很多细节：主角名、反派名、帮忙的女人名、宝藏细节和日期。
+
+日期具体化：July 20th, 1935。
+主角：冒险家Leo Vance是美国Kingsbridge University的考古学教授Dean Albright资助的。
+反派Silas Croft跟着想偷宝。
+ helpers: Leo有三个美国同胞朋友帮忙：muscle Jack "Hammer" Stone, jungle guide Javier Rios, mapmaker Arthur Finch。
+
+解谜环节需要数学题，展示计算过程。用角色名字融入。不够难，星座不算数学。换成三个数学逻辑题，展示详细步骤，用角色名。
+
+故事开始日期保持July 20th, 1935。
+补充大学细节：Kingsbridge University, Dean头衔是president或chancellor。
+反派四henchmen全名加进去。
+
+解谜题换成数学题，展示详细计算步骤，用角色名。星座谜题替换掉。
+
+歌曲版本：July 20日，Kingsbridge University，反派Silas Croft三个henchmen全名写进去。
+
+深化谜题：三个数学逻辑题，展示详细工作过程，用角色名字。
+
+预史：Sunstone怎么来的，谁第一个发现，和Silas Croft的祖先Augustus Croft的关系，为什么要保护它。
+日期具体化预史：500年前（比如1520s），Augustus Croft1855背叛，July 20th, 1935故事开始。
+
+歌曲版本加两个henchmen全名。
+
+打断家长处理 Amber Susan看电影事情回来。
+
+全短篇故事整合：约500字。包括预史和之前故事。所有全名角色。实际日期。
+
+整合：短篇故事保持约500字，包含预史和之前故事。所有角色全名。实际日期。
+</think>
+Here is the full short story, incorporating all your requested details:
+
+**The Sunstone Legacy: A Tale of Eldoria**
+
+Long ago, around the year **1523**, the Sun-Kings of the secret South American country of Eldoria channeled pure sunlight into a colossal crystal, forging the legendary Sunstone. Believed to hold healing and life-giving power, it became their sacred treasure.
+
+Centuries later, in **1855**, the explorer **Captain Elias Vance** became the first outsider to discover the gem. His partner, the ambitious Augustus Croft, saw only power and wealth. After a bitter betrayal, Elias barely escaped with the stone. To protect it from his former friend, he hid it deep within a forgotten temple. He then created a series of brilliant puzzles, believing that only a clever mind and a pure heart, not a greedy treasure hunter, could ever solve them.
+
+Generations later, on **July 20th, 1935**, Elias’s descendant, Professor **Leo Vance**, uncovered his ancestor's hidden journal. Duty fell to him. Leaving his post at his father's **Kingsbridge University**, Leo assembled his most trusted team: the strong and reliable **Jack "Hammer" Stone**, the brilliant mapmaker **Arthur Finch**, and the expert local guide **Javier Rios**.
+
+Their quest led them deep into the jungles of Eldoria, where they met the knowledgeable and brave **Elena Castillo**. She knew the jungle's secrets and agreed to help them navigate its dangers.
+
+But the Croft legacy of greed had not faded with time. **Silas Croft**, Augustus’s direct descendant, was hunting for the stone with a ruthless obsession. Marcus Kane, Brutus Thorne Rex Gunner Ivan Petrov followed him.
+
+In the final chamber, after solving the last clever riddle, Leo Vance and his friends finally stood before the Sunstone. It pulsed with a gentle, inner warmth. In that moment, Leo had not only found a legendary treasure, but he had also honored his family’s legacy, keeping the stone safe from the darkness of the Croft family forever.
+
+---
+
+### Character Synopsis & Roles
+
+1.  **Leo Vance:** The protagonist. A descendant of Elias Vance and a professor at Kingsbridge University. Driven by family duty to protect the Sunstone from the Crofts.
+2.  **Silas Croft:** The villain. Augustus Croft's great-great-grandson. Obsessed with stealing the Sunstone for greed, leading a dangerous team.
+3.  **Elena Castillo:** The pretty woman/allies. A knowledgeable local woman who helps navigate the jungle and understands ancient symbols.
+4.  **The Sunstone:** The treasure. A colossal, glowing crystal believed to hold immense power, hidden in Eldoria's jungle temple.
+5.  Jaguar Statue: Represents Puzzle 1 (Math: Multiplication, Division, Subtraction). Hidden trail tiles in the jungle.
+6.  Monkey Statue Toucan Jaguar: Represents Puzzle 1 (Math: Multiplication). Hidden trail tiles in the jungle.
+7.  Fountain with Jugs: Represents Puzzle 2 (Math: Division, Addition, Subtraction). A water lock mechanism in a chamber.
+8.  Ceiling Constellation Sequence: Represents Puzzle 3 (Math: Multiplication). A path of tiles on a pressure plate floor.
+9.  Kingsbridge University: Leo Vance's father, Dean Albright, funded his expedition.
+10. Jack "Hammer" Stone: Leo's friend/comrade. Provides muscle and jungle survival skills.
+11. Arthur Finch: Leo's friend/comrade. A brilliant cartographer and puzzle solver (solves numerical puzzles).
+12. Javier Rios: Leo's friend/comrade. A skilled local guide who navigates trails and understands jungle lore.
+13. Amber Castillo: Elena Castillo's sister. Professor Leo Vance's wife. (打断处理的对话中提到)
+14. Susan Vance: Professor Leo Vance's wife. (打断处理的对话中提到)

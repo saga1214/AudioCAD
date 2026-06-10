@@ -1,0 +1,63 @@
+Okay, let me break this down. The film student has been asking really thoughtful questions about film vs video, frame rates, and now the neuroscience of vision—specifically how saccades and saccadic masking affect what we perceive. She’s clearly a detail-oriented student, and she’s pushing for precise terminology and distinctions between eye physiology and brain processing. I respect that. 
+
+First, pronunciation: "Saccade" is pronounced "sah-kahd" or "sah-ka-dee." The emphasis is on the first syllable. 
+
+Now, her core question: "Does the eye see continuously?" This is a great question because it hinges on the difference between raw sensory input and perceived reality. 
+
+The eye itself doesn’t see continuously in the way we intuitively think—like a camera rolling nonstop. Instead, it’s more like a camera shutter that opens and closes rapidly. During a saccade, the eye locks onto one point, and for a fraction of a second, the visual field is stable. But between saccades, there’s a "blind spot" where the brain shuts off incoming data to prevent motion blur. This is saccadic masking. 
+
+So, what the eye *physically* detects is fragmented: a series of snapshots (photoreceptor responses) and brief moments of stability. But the brain doesn’t just passively receive this—it actively reconstructs motion. It fills in gaps, predicts movement, and smooths out jerky signals. That’s why we perceive continuous motion, even though the eye is technically "jumpy." 
+
+In terms of frames per second, this explains why 24 fps feels smooth to us. The brain’s motion-processing machinery is tuned to interpret discrete inputs as fluid. But if you go beyond 60 fps, you’re not adding more "realism"—you’re just capturing more detail, which is useful for slow-motion or artistic effects. 
+
+The student’s insistence on separating "eye" from "brain" is spot on. The eye is the sensor; the brain is the editor and director. So to answer her question: No, the eye doesn’t see continuously in a literal sense. But the brain’s processing creates the illusion of continuity. 
+
+I’ll make sure to emphasize that distinction clearly in the response—she’s earned the technical accuracy.
+</think>
+Excellent question—and you've nailed a key distinction in neuroscience. Let's break this down precisely:
+
+### 1. **Pronunciation**:  
+   - **Saccade** is pronounced **"sah-KAH-dee"** (stressed on the second syllable).  
+   - *Example*: "The eye performs saccades to track moving objects."
+
+---
+
+### 2. **Does the eye see continuously?**  
+**No—and yes**, depending on how you define "see":  
+- **Physically (eye only)**: The eye does **not** perceive continuous motion.  
+- **Cognitively (brain + eye)**: The brain *creates* the perception of continuous motion.  
+
+#### Why?  
+- **Saccades**: The eye moves in rapid, jerky jumps (saccades) to track objects. During a saccade, the brain **temporarily shuts off visual processing** (saccadic masking) to avoid motion blur.  
+  - *Result*: You’re briefly "blind" during eye movements.  
+- **Stable Vision**: Only during brief pauses between saccades does the brain process stable visual input.  
+
+#### How the brain "sees continuously":  
+1. **Blends Inputs**: The brain merges visual data from multiple saccades into a seamless experience.  
+2. **Predicts Motion**: It anticipates where objects will be based on prior input.  
+3. **Fills Gaps**: During saccades, the brain uses context to "fill in" what it missed.  
+
+---
+
+### 3. **Frame Rate Analogy**  
+- **Eye (sensor)**: Captures discrete snapshots (like 60 fps max).  
+- **Brain (processor)**: Renders these into a 24 fps "cinematic" experience.  
+  - *Why 24 fps feels "real"*: Your brain’s motion-processing system evolved to interpret discrete inputs as fluid. Higher frame rates (e.g., 60 fps) simply provide more data for the brain to work with—no new perception is created.  
+
+---
+
+### 4. **Scientific Evidence**  
+- Studies show humans can detect flicker up to **~60 Hz** (60 fps). Beyond this, motion appears continuous.  
+- Saccadic masking is measurable: During a 200 ms saccade, visual processing drops to near zero.  
+- Brain regions like the **superior colliculus** and **visual cortex** actively reconstruct motion during saccades.  
+
+---
+
+### Key Takeaway:  
+The eye is a **sensor** with limits (discrete snapshots, saccadic masking). The brain is a **processor** that constructs reality from these inputs. Neither sees "continuously"—they collaborate to create the illusion.  
+
+For filmmaking:  
+- **35mm at 24 fps** leverages the brain’s natural motion-processing to feel cinematic.  
+- Higher frame rates (60 fps+) require post-production to reveal details the eye couldn’t capture alone.  
+
+Would you like deeper examples of how this applies to cinematography?

@@ -1,0 +1,5 @@
+The second date was January 1st, 1863. That's when Lincoln issued the Emancipation Proclamation.
+</qa_3>
+<qa_4>
+The second date was December 15th, 1791. That's when the Bill of Rights was ratified.
+</qa_4>

@@ -1,0 +1,6 @@
+</think>
+Whether you use an app or a clip-on tuner, the process is pretty similar. First, rest one hand on the neck of your stringed instrument to keep the strings steady.
+
+Then, start plucking the thinnest string first. Gradually tighten it until it vibrates. As it vibrates, your phone's microphone will pick up its pitch. The app will then show if the note is too sharp, which means it's too high, or too flat, which means it's too low.
+
+To raise the pitch, gently press down a little harder on the string. To lower it, gently loosen it. Just keep plucking the note and adjusting until the tuner's display shows that note is perfectly in tune. Then you just move on to the next string and repeat the process.

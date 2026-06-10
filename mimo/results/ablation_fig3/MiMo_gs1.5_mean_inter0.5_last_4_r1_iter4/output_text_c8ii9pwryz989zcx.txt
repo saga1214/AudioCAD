@@ -1,0 +1,37 @@
+Alright, let's tackle this step by step. The user has a 10-foot corner-to-corner room with specific walls labeled A, B, C, and D, corresponding to North, East, South, and West respectively. The door is on Wall A (North), windows on Wall B (East), and there's a poster that needs to be hung on one of the walls without the dresser blocking it. The altar is 2x1 feet, the bed is 6x3 feet, and the dresser is 3x1 feet. Also, the foot of the bed can't point towards the altar, and no furniture against the window wall (Wall B).
+
+First, the user mentioned the altar. Since the foot of the bed can't point at it, the altar should be placed such that the bed's foot is away from it. If the bed is against Wall D (West), its foot would point towards Wall C (South). So, placing the altar against Wall C would make the bed's foot point towards the altar, which violates the rule. Therefore, the altar should be against Wall A (North), opposite the door, to avoid the bed's foot pointing at it. That makes sense because if the bed is against Wall D, its foot is towards the south, away from Wall A.
+
+Next, the bed is 6x3 feet. Placing it against Wall D (West) would use up most of that wall. The bed's foot would be towards the south, which is Wall C. Since we're putting the altar on Wall A, that's fine. Now, the dresser is 3x1 feet. The user said it can't be against the window wall (Wall B), and it can't cover the poster. The poster is supposed to be on one wall, so the dresser can't be on Wall D because the bed is there. Wall A has the door, so putting the altar there is better. Wall B is the window wall, which the user said no furniture against. Wall C is opposite the door. If we put the altar on Wall A, then Wall C is free for the dresser. But the altar is on Wall A, so Wall C is available. The dresser can go against Wall C, which is 3 feet long. That fits perfectly since Wall C is 10 feet, and the dresser is 3 feet. That leaves space for the end table and lamp on Wall D, next to the bed.
+
+Now, the poster. The user said the dresser can't cover it. If the dresser is against Wall C, that's fine. The poster can be on Wall D, the one the bed is against. The bed is 6 feet, so Wall D is 10 feet. The bed would take up 6 feet, leaving 4 feet. The poster can be placed in that 4-foot space on Wall D. That way, the dresser on Wall C doesn't cover it. Also, the user has a small end table that needs to be next to the bed. Since the bed is against Wall D, the end table can be placed on the floor in front of the bed, between the bed and the wall. That gives the user access to reach it.
+
+For the floor lamp, it can go on the same side as the end table. Since the bed is against Wall D, the end table and lamp can be on the floor in front of the bed. That way, the lamp is functional and doesn't interfere with the bed or the altar. 
+
+Let me double-check the constraints. The door is on Wall A, no furniture against Wall B (the windows), the foot of the bed isn't pointing at the altar because the altar is on Wall A and the bed's foot is towards Wall C. The poster is on Wall D, the dresser is on Wall C, so the dresser isn't covering the poster. The end table is next to the bed, and the lamp is in the same spot. All pieces of furniture are accounted for, and the room should flow nicely. This should work.
+</think>
+Based on your constraints and the need to accommodate the poster, here's a clear, practical layout:
+
+1.  **Wall B (East - Windows):** **No furniture.** As per your instructions, nothing against this wall.
+2.  **Wall A (North - Door):** **Altar.** Place the 2'x1' altar against this wall. This keeps the bed's foot pointing away from it (towards Wall C) and avoids blocking the door.
+3.  **Wall D (West):** **Bed.** Place the 6'x3' bed against this wall, centered or near the center. This leaves space on the adjacent floor.
+4.  **Wall C (South):** **Dresser.** Place the 3'x1' dresser against this wall. This wall is opposite Wall A (Door), and placing the dresser here keeps it away from the window wall (B), away from the altar wall (A), and crucially, **away from the poster wall (D)**.
+5.  **Wall D (West):** **Poster & End Table/Lamp.** On the floor in front of the bed (between the bed and Wall D), place your small end table. Position your floor lamp next to the end table. This gives you easy access to the bed and the lamp, and creates a functional zone. The poster can be hung on the remaining wall space on Wall D (the space between the foot of the bed and the wall itself). It will be visible and not blocked by the dresser on Wall C.
+
+**Summary of Placement:**
+
+*   **Wall A (North - Door):** Altar (2'x1')
+*   **Wall B (East - Windows):** Empty
+*   **Wall C (South):** Dresser (3'x1')
+*   **Wall D (West):** Bed (6'x3') + Floor Space (for End Table/Lamp)
+*   **Floor (in front of Bed, on Wall D):** End Table + Floor Lamp
+
+**Why this works:**
+
+*   **No Furniture on Window Wall (B):** Honored.
+*   **Altar not pointed at by Bed Foot:** Altar on Wall A, bed foot points towards Wall C.
+*   **Dressing Room Wall (C) Clear:** Dresser is on Wall C.
+*   **No Dresser Covering Poster:** Dresser is on Wall C, poster is on Wall D.
+*   **Access to Altar & Dresser:** Walls are clear on either side of Wall A and Wall C, allowing easy access to both the altar (on A) and the dresser (on C).
+*   **Bed & Lamp Accessible:** End table/lamp are placed directly in front of the bed on the floor.
+*   **Flow:** Creates logical zones: Door/Altar zone (Wall A), Bed/Rest zone (Wall D), Dressing zone (Wall C).

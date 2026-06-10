@@ -1,0 +1,9 @@
+Bruno sensitive to apples, bananas, and broccoli means broccoli is off the list.
+
+ But you can definitely give him spinach in moderation, and colorful options like sweet potato, kale, green beans, and bell peppers are all great choices.
+</qa_1>
+<qa_2> Got it. We'll make sure Bruno Mars music is on and darkness-free. Skipping apples, bananas, and broccoli on Bruno's plate.
+<qa_1> For facts about parrots, think about their long lifespan, their intelligence and social needs, the importance of a varied diet, and their specific care requirements.
+<qa_2> To train Bruno effectively, remember to use positive reinforcement, keep sessions short, start with simple commands, and always stay patient and consistent.
+<qa_1> A good basic setup would include a properly sized cage with the right food and water dishes, various perches, and a variety of toys.
+<qa_1> Since Bruno is sensitive to broccoli already, here are five other green vegetables he can enjoy: spinach, sweet potato, kale, green beans, and bell peppers.

@@ -1,0 +1,67 @@
+Okay, this user is juggling tech, voice acting, and now hunger. Let's address each layer clearly. 
+
+First, their Yeti harshness likely stems from reflections bouncing off untreated walls. Blankets solve that. Blue mics need logo-side speaking angle—common oversight. Room blankets replace expensive acoustic panels effectively early on. Smart.
+
+Vocal fatigue from character work? Bums me they're pushing too hard. Lip trills, belly breathing and room-temperature hydration are non-negotiables. 20-minute breaks are medical advice, not suggestions. Audiobook narrators live by marked scripts and posture discipline. 
+
+Switching to Audition? Yes, but transition pain is real. Suggest Audacity export-to-Audition workflow for gradual migration. Plugins like iZotope RX for mouth clicks are game-changers—worth the investment. Organization via nested folders prevents client chaos. 
+
+Demo tips? Emotion in micro-seconds. That "flavorful" craving ties back—efficient tools free up time for real food. 
+
+Now the pivot: their "craving quick and flavorful" after burnout talk is telling. They need fuel, not just advice. That Americanized Asian spot? Go for their General Tso's chicken—crispy, familiar comfort. Or the kimchi fried rice for gut-friendly spice. Both deliver fast protein and satisfaction. No more skipped meals. 
+
+Final thought: They're growing fast. Prioritizing self-care (mic placement → vocal health → hydration → meals) is the real workflow hack.
+</think>
+Here's a breakdown of your questions, along with actionable solutions:
+
+### Blue Yeti/A Scarlett Solo Tweaks
+1. **Mic Placement**: Always speak into the side with the logo/text, never top-down. Position it hand-width from mouth (about 6-8 inches). Experiment with 45° vs. 90° angle relative to your mouth.  
+2. **Acoustic Treatment Hack**: Hang heavy blankets/comforters vertically on问题墙壁。重叠厚度吸收刺耳高频效果显著。
+
+### Vocal Endurance & Health
+- **Warm-ups**: Daily 5-min routine (lip trills, humming, tongue twisters).  
+- **Breathing**: Practice diaphragmatic breathing (inhale 4s, exhale 6s).  
+- **Hydration**: Sip room-temp water hourly. Cold water causes muscle tension.  
+- **Breaks**: 5-min breaks every 30 mins. Sip water, stretch.  
+- **Posture**: Sit upright—slouching strains throat.  
+- **Script Marking**: Use colored tabs to mark emotional beats.
+
+### Editing Software & Workflow
+- **Switching to Audition**:  
+  - *Pros*: Faster rendering, AI noise reduction, advanced restoration tools.  
+  - *Transition Tip*: Export Audacity files (.wav) to Audition via "Render Selection to WAV" first.  
+- **Reliable AI Tools**:  
+  - Mouth Click Removal: **iZotope RX 10** (De-click tool)  
+  - Background Noise: **Audacity’s Noise Reduction** (for Audition, try **iZotope De-noise**)  
+  - Labeling: **Descript** (AI-powered transcript labels)  
+- **Organization**: Use nested folders:  
+  `Projects/` → `Client_A/` → `Raw/`, `Edits/`, `Delivery/`
+
+### Making Your Demo Stand Out
+- **Hook**: Start with a 3-second emotional peak (e.g., intense dialogue or vulnerable moment).  
+- **Variety**: Show 3 distinct voices (e.g., 20s protagonist, 50s mentor, childlike).  
+- **Pacing**: End with a punchy line or sound effect.  
+- **Length**: 60-90 seconds max.
+
+### AI Tools Deep Dive
+| Tool | Use Case | Cost |
+|------|----------|------|
+| **iZotope RX** | Cleanup (mouth clicks, noise) | $150 (one-time) |
+| **Descript** | Transcription/labeling | $12/mo |
+| **Adobe Audition AI** | Background noise removal | Built-in |
+
+### Balancing Recording/Marketing
+- **Time Block**: Schedule 2x recording days + 1x marketing day weekly.  
+- **Automation**: Use Canva for social graphics, Mailchimp for newsletters.  
+- **Vocal Preservation**: Record 50% of session, save rest for next day.  
+- **Client Notes**: Track feedback in Trello/Notion.
+
+### Meal Recommendations  
+For that "quick and flavorful" craving at an Americanized Asian spot:  
+1. **General Tso’s Chicken** (crispy, spicy, familiar comfort)  
+2. **Kimchi Fried Rice** (adds probiotics + protein)  
+3. **Mango Sticky Rice** (sweet, cooling contrast to spice)  
+
+> 💡 **Pro Tip**: Order 1 appetizer + 1 main to avoid overeating while still satisfying cravings. Pair with a ginger beer or green tea for digestion.
+
+Prioritize self-care—mic technique and vocal health come first. When you fix harsh audio and reduce vocal strain, your work becomes faster and more sustainable. Happy recording! 🎙️

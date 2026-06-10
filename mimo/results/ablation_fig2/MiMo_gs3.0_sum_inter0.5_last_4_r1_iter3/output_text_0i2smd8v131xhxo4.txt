@@ -1,0 +1,26 @@
+Okay, let's see. The user has a Blue Yeti with Scarlett Solo and harsh audio. Mike placement into logo side, blankets for acoustics first. Voice endurance: belly breathing, breaks, room-temp water. Switching to Audition: learning curve but worth it, RX for noise. Organization: folders. Demo clip: strong emotion in short. Now they ask Audition transition tips, reliable AI tools, pros balancing work, and meal ideas. For Audition switch, suggest Audacity tutorials and test features. AI tools: Descript for trimming, Otter.ai for labeling. Pros balance with time blocking and marketing schedules. Meals: they want quick, flavorful from an Asian-style place. Suggesting Katsu Curry, Teriyaki Chicken Bowl, and Gyoza Plate. That covers tech, voice health, workflow, and a tasty solution.
+</think>
+Here’s a breakdown of your questions, along with actionable recommendations:
+
+### Switching to Adobe Audition  
+- **Transition Tips**: Start with Audition’s built-in tutorials (search "Adobe Audition for beginners"). Use Audacity for rough edits first, then export to Audition for final processing.  
+- **AI Tools**:  
+  - **Trimming Silence**: Use **Descript** (overdub editing + automatic silence removal) or **Adobe Audition’s "Noise Reduction"** with AI-enhanced presets.  
+  - **Labeling**: **Otter.ai** (integrates with DAWs) or **Descript’s "Searchable Transcripts"** auto-label clips.  
+- **Workflow**: Batch-process similar tasks (e.g., noise reduction for all files) and use presets for consistency.
+
+### Voice Actor Workflow Balance  
+- **Recording/Editing**: Use "time-blocking" (e.g., 90-minute recording sprints + 15-minute breaks).  
+- **Marketing**: Dedicate 30 minutes daily to outreach/social media. Tools like **Calendly** automate scheduling.  
+- **Burnout Prevention**: Hydrate (room-temp water avoids throat strain), meal prep, and set "no work" hours. Pros often record voice-only first, then layer effects.
+
+### Quick & Flavorful Meal Ideas  
+For an Americanized Asian restaurant near you:  
+1. **Katsu Curry**: Tender pork cutlet in rich curry sauce (served with rice & veggies).  
+2. **Teriyaki Chicken Bowl**: Grilled chicken, teriyaki glaze, mixed greens, edamame, and sesame seeds.  
+3. **Gyoza Plate**: Pan-fried dumplings with spicy mustard + sweet chili sauce.  
+4. **Miso-Glazed Salmon**: Rich umami broth over jasmine rice.  
+
+These are hearty, customizable, and ready in 10 minutes!  
+
+Would you like deeper dives on any topic?

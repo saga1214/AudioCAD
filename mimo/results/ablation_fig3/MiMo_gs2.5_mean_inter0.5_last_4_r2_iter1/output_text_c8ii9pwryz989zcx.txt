@@ -1,0 +1,65 @@
+Okay, let me tackle this furniture arrangement with all the new constraints. The user has windows on East wall B (no hanging allowed), door on North wall A, and we need altar placement carefully (bed's foot can't point at it). Furniture sizes: 6x3ft bed, 2x1ft altar, 3x1ft dresser. 
+
+Previous attempts had access issues on Wall C, and now there's a poster conflict - dresser can't cover it. Also new elements: end table by bed, floor lamp. User clearly values functional space more than wall-mounting decor. 
+
+Key priorities emerge:
+- Altar bed-foot avoidance is non-negotiable
+- Windows wall and adjacent areas must stay furniture-free
+- Access paths before wall attachment
+- Poster end table lamp need positioning
+
+Best approach seems to put bed headfirst toward windows for maximum floor space Wall D. Altar should go Wall A opposite door - this prevents foot-pointing naturally. For dresser, Wall C opposite door works unless it conflicts with the poster. 
+
+Ah, poster on dresser wall would be problematic. Solution: put poster on Wall B (windows) anyway, since user said NO hanging above, not NO furniture below. Dresser can go Wall C, placed away from poster's base. 
+
+End table must be bedside - say 2ft from wall to reach bed. Floor lamp can go opposite Wall A to avoid crowding. 
+
+Let me visualize dimensions: Room 40 square feet. Bed 18 takes Wall D. Altar 2 takes Wall A. Dresser 3 takes Wall C. That leaves 19 square feet for bedside table and lamp - plenty for 2ft table and 4ft lamp base. 
+
+Final checks: 
+- Windows wall B: Dresser on Wall C, no issue 
+- Altar: Wall A, bed foot toward B/windows - perfect 
+- Poster on B wall floor space 
+- All rules satisfied
+</think>
+Based on all your constraints (window wall clear, altar/bed-foot rule, poster location, and new items), here's a practical layout:
+
+1.  **Wall B (East - Windows): Clear**  
+    As instructed, no furniture or hanging against this wall.
+
+2.  **Wall A (North - Door):**  
+    *   **Altar:** Place against the *end* of this wall (away from the door). This ensures the bed's foot (towards the windows) does *not* point towards it.  
+    *   *(Optional Poster):* Place the poster on the *floor* along the *end* of this wall, opposite the altar (near the door). This avoids covering it with the dresser and keeps it off the wall above windows (Wall B).
+
+3.  **Wall D (South - Opposite Windows):**  
+    *   **Bed:** Place headboard against the wall. Center it for maximum floor space.  
+    *   **End Table:** Place one end of the small end table against the *end* of this wall, next to the bed. Ensure you can easily reach it from the bed (e.g., 2-3 feet from the wall).
+
+4.  **Wall C (West - Opposite Door):**  
+    *   **Dresser:** Place against the *end* of this wall (away from the center of the room). Center it.
+
+5.  **Floor Space:**  
+    *   Place the **floor lamp** in the remaining open space *between* Wall C (dresser) and Wall D (bed). Position it so you can easily reach the switch and it doesn't block walkways. Ideally, place it near the end table or slightly behind it for stability and reach.
+
+**Why this works:**
+
+*   **Window Wall Clear:** Furniture is only on Walls A, C, and D.
+*   **Altar Safe:** Foot of bed (towards windows) points away from altar on Wall A.
+*   **Poster Protected:** Poster is on the floor on Wall A, away from the dresser on Wall C.
+*   **Bed Access:** End table is easily reachable beside the bed on Wall D.
+*   **Dressing Access:** Dresser on Wall C is accessible.
+*   **Lamp Access:** Lamp is placed centrally in the open floor space between Wall C and Wall D.
+*   **Flow:** Creates clear pathways: Door -> Wall A -> Altar. Bed -> Wall D -> End Table. Wall C -> Dresser. Floor lamp in central zone.
+
+**Visual Summary:**
+
+```
+Wall B (Windows) | Clear
+------------------|------------------
+Wall A (Door)    | Altar (End) | Poster (Floor, End) |
+Wall C (West)    | Dresser (End) | Floor Lamp (Central) |
+------------------|------------------|
+Wall D (Opposite Windows) | Bed (Headboard) | End Table (Bedside) |
+```
+
+This arrangement prioritizes your access needs, avoids conflicts, and satisfies all rules.

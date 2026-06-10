@@ -1,0 +1,33 @@
+Okay, let's tackle this. The film student wants a precise distinction between what the eye can see and what the brain processes, specifically in light of saccadic masking. She's right to separate them and push for scientific correctness.
+
+First, pronunciation: "Saccade" is pronounced like "sah-kahd" or "sa-ka-dee." The stress is on the second syllable, "kah" or "ka." 
+
+Now, the core question: Does the eye see continuously?
+
+The answer is nuanced. The eye doesn't see continuously in the same way a camera records a steady stream of images. Instead, vision is a dynamic process. 
+
+Here’s how it works:
+1. **Eye Movement**: The eye is always moving. It doesn’t stay fixed on one point. It makes tiny, rapid adjustments called microsaccades to counteract tiny eye tremors. It also makes larger jumps between points, which are saccades. During these jumps, the brain masks blur so we don’t feel dizzy.
+2. **Photoreceptor Reactivity**: Rods and cones react best to *changes* in light and movement. They aren’t great at capturing a perfectly still, stable image. Instead, they detect motion and contrast, which the brain uses to construct a stable image.
+3. **Saccadic Masking**: When the eyes move, the brain actively suppresses blur. So even if the eye senses rapid details or motion, the brain edits that information before we’re consciously aware of it. This means the brain is smoothing and stabilizing the visual input.
+
+So, the eye isn’t capturing a continuous, stable frame. It’s more like a biological sensor that detects changes and rapid details. The brain then processes, smooths, and stabilizes that information to create the perception of continuous, stable vision.
+
+That’s why we don’t notice flickering beyond about 60 hertz—it’s the brain’s interpretation that makes motion feel fluid. Without that processing, you’d notice jitter during head or eye movements. The brain acts like a stabilizer, making sense of visual information so you perceive things as a continuous flow instead of discrete flashes.
+
+Does that help clarify the role each part plays? The eye senses, the brain interprets at a higher level.
+
+Pronunciation: "Saccade" is pronounced like "sah-kahd" or "sa-ka-dee." The stress is on the second syllable, "kah" or "ka."
+
+Now, the core question: Does the eye see continuously?
+
+The answer is nuanced. The eye doesn't see continuously in the same way a camera records a steady stream of images. Instead, vision is a dynamic process. 
+
+Here’s how it works:
+1. **Eye Movement**: The eye is always moving. It doesn’t stay fixed on one point. It makes tiny, rapid adjustments called microsaccades to counteract tiny eye tremors. It also makes larger jumps between points, which are saccades. During these jumps, the brain masks blur so we don’t feel dizzy.
+2. **Photoreceptor Reactivity**: Rods and cones react best to *changes* in light and movement. They aren’t great at capturing a perfectly still, stable image. Instead, they detect motion and contrast, which the brain uses to construct a stable image.
+3. **Saccadic Masking**: When the eyes move, the brain actively suppresses blur. So even if the eye senses rapid details or motion, the brain edits that information before we’re consciously aware of it. This means the brain is smoothing and stabilizing the visual input.
+
+So, the eye isn’t capturing a continuous, stable frame. It’s more like a biological sensor that detects changes and rapid details. The brain then processes, smooths, and stabilizes that information to create the perception of continuous, stable vision.
+
+That’s why we don’t notice flickering beyond about 60 hertz—it’s the brain’s interpretation that makes motion feel fluid. Without that processing, you’d notice jitter during head or eye movements. The brain acts like a stabilizer, making sense of visual information so you perceive things as a continuous flow instead of discrete flashes.

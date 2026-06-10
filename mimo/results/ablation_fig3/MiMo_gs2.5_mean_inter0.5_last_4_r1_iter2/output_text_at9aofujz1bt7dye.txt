@@ -1,0 +1,1 @@
+Okay, so at minus ten degrees Celsius, the friction might actually go up a little compared to the typical rink temperature. So the coefficient could be closer to 0.01 to 0.02, not dropping to something as low as 0.005. The exact number still depends on blade sharpness and pressure, but yeah, it's not going to be that low.

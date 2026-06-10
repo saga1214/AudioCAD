@@ -1,0 +1,38 @@
+Sure. Here's a scenario that highlights a key difference between **U.S. Soccer (US Soccer Federation)** and **FIFA (International)** offside rules:
+
+---
+
+**Scenario:**
+
+The **Red Team** is attacking the **Blue Team's** goal. Red player #10 passes the ball forward to Red player #9, who is in an offside position. At the moment the pass is made, Red #9 is ahead of the second-to-last defender (the last defender being the goalkeeper). However, **before Red #9 touches the ball, a Blue defender deliberately kicks the ball away** to clear the danger.
+
+Red #9 then runs onto the loose ball and scores.
+
+---
+
+**Under FIFA Rules:**
+
+This is **not** an offside offense.
+
+FIFA rules state that a player in an offside position is only penalized if they **interfere with play** (touch the ball), **interfere with an opponent**, or **gain an advantage** from being in that position.
+
+In this case, the Blue defender made a **deliberate play** on the ball. This resets the offside situation. Since Red #9 did not touch the ball until after the defender's deliberate touch, they are no longer considered to have committed an offside offense.
+
+---
+
+**Under U.S. Soccer Federation (USSF) Rules:**
+
+This **is** an offside offense.
+
+USSF rules are more restrictive. They state that a player in an offside position is penalized if they **interfere with play** or **interfere with an opponent**, but **do not require** that the player touch the ball to be penalized.
+
+In this scenario, Red #9 was in an offside position and **gained an advantage** by running onto the loose ball after the defender's deliberate touch. Because they were in an offside position and then benefited from the play, it is considered an offside offense.
+
+---
+
+**Key Difference:**
+
+- **FIFA**: A deliberate touch by a defender resets the offside situation. The attacker is no longer offside if they don’t touch the ball until after that touch.
+- **USSF**: A player in an offside position who gains an advantage from a defender’s deliberate touch is still penalized for offside.
+
+This is a subtle but important distinction that referees must be aware of when officiating in different rule sets.

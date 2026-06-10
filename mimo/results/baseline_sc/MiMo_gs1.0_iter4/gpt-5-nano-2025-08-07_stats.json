@@ -1,0 +1,21 @@
+{
+  "model": "gpt-5-nano-2025-08-07",
+  "axes": [
+    "SELF_COHERENCE"
+  ],
+  "inference_memory_subset": "semantic",
+  "overall": {
+    "total": 83,
+    "passed": 20,
+    "score": 24.096385542168676
+  },
+  "by_axis": {
+    "SELF_COHERENCE": {
+      "total": 83,
+      "passed": 20,
+      "score": 24.096385542168676
+    }
+  },
+  "inference_memory_breakdown": null,
+  "eval_file": "baseline_sc/MiMo_gs1.0_iter4/gpt-5-nano-2025-08-07_evaluation_results.jsonl"
+}

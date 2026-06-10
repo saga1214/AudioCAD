@@ -1,0 +1,7 @@
+You're very close! It's pronounced like 'suh-KAH-dee', with the stress on the second syllable. Now, to your question: No, it’s not correct to say the eye sees continuously in the way a camera does. It's more like a camera that’s constantly making very brief, rapid adjustments, and the brain fills in the gaps. 
+
+Let’s break it down. When you look around, your eyes make tiny, fast jumps from one spot to another. That’s a saccade. During a saccade, your brain actually turns off your visual perception for a split second to avoid motion blur. That’s saccadic masking. It’s like your brain is saying, "Okay, we’re jumping to this spot, so I’m not going to process the blur in between." Then, when your eyes stop, your brain snaps back to the new image and creates a smooth transition in your mind. 
+
+So, your eye is constantly sensing movement, but the brain is doing the heavy lifting to make it all feel seamless. If you were to film a scene at 24 frames per second, you’d see the flickery, jerky quality of the world. But your brain, with its amazing processing, makes you see it as smooth. That’s the difference between what the eye can technically see and what the brain makes you perceive. 
+
+So, to sum it up: The eye senses movement in quick bursts, and the brain makes it feel continuous. The eye sees, but the brain tells you what you see.

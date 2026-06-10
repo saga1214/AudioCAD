@@ -1,0 +1,13 @@
+You got it. Let's look at a scenario involving a corner kick to illustrate a key difference in how the defender's touch to the offside reset is applied.
+
+In this situation, the Red Team is attacking the Blue Team's goal. A Red Team attacker takes a corner kick. As they kick it, the second-to-last defender makes a deliberate, controlled play on the corner kick, intercepting it and clearing it away from the goal.
+
+Now, here's the crucial part: the ball deflects and rebounds off that same defender, landing right in front of Player number nine, who was in an offside position but not involved until then.
+
+This is where the rules differ. 
+
+According to college and high school rules, Player nine can no longer be called offside. Since the ball simply deflected or rebounded off the defender, not made a deliberate play, Player nine is still in an onside position and it's not an offense.
+
+However, in some versions of the Laws of the Game, like those used internationally, a deliberate defender's touch that results in a rebound can still reset the situation and make the attacker offside. 
+
+So, in our study help for certification, referees working college and high school games should call the goal, because the rebound doesn't count as a deliberate touch that resets the offside.

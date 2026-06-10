@@ -1,0 +1,25 @@
+Okay, let me think about this. The user is planning to use a friend's ramps on their own stairwell wall painting and car oil change. They seem very focused on the practicality and budget, rejecting safer options like an extension pole or ramp rental. The core issue is reach for the 10-foot wall and getting under the car. 
+
+For the wall, painting advice shifted from rollers/ramps to DIY builds after the hardware rental was dismissed. That tells me budget is a hard constraint, but safety concerns aren't their priority yet. The stairwell slope complicates things, but they dismissed that risk too. 
+
+Regarding the oil change, the slope issue became a major red flag. My initial warnings were ignored, which is dangerous. Now they're pivoting to using a friend's ramps on their own car because hers has the same specs. This is risky because: 
+- Ramps have load limits and aren't always adjustable for different cars 
+- Slope compatibility isn't guaranteed 
+- They're still trying to skip a level surface 
+
+The user seems determined to find the "cheapest solution" without considering secondary risks. Their friend's car being identical might make the process easier, but doesn't make the ramp-sharing safe. I should emphasize that ramps aren't universal and slope requirements don't disappear just because two cars are similar. 
+
+The tone suggests they're trying to avoid spending money while minimizing effort. But cutting corners on safety could cause serious injury. I need to reinforce that while same-spec cars simplify the job, the ramp/slope issue remains critical. Maybe suggest borrowing the ramp anyway—just as a temporary measure—but stress it's not a permanent solution. 
+
+Also, their dismissive attitude about the slope ("tiny bit," "barely visible") suggests they might underestimate the danger. I should phrase the warning more strongly this time. Safety isn't negotiable.
+</think>
+The steps for an oil change on a car draining from the top are the same as draining from the bottom, but the *method* matters. Since you're using ramps for your own car, here's a clear, safe process:
+
+1.  **Prepare the Ramps & Surface:** Ensure the driveway is **completely level**. Place the ramps securely on solid ground. *Never* use a slope – it's extremely dangerous.
+2.  **Lift Safely:** Use a jack to lift the car just enough so the front wheels clear the ramps. Do NOT rely solely on the jack for support – place jack stands under the vehicle's frame rails *immediately* for safety.
+3.  **Drain the Old Oil:** Place the oil pan under the engine. Remove the drain plug and let all the old oil drain out. Wipe the plug clean.
+4.  **Replace the Oil Filter:** Lubricate the new filter's rubber gasket with a little new oil. Screw it onto the engine's oil filter housing by hand until snug. You may need a wrench, but be careful not to overtighten.
+5.  **Add New Oil:** Pour the correct amount and type of new oil through the fill hole (usually on top of the engine) into the oil pan. Start with half the amount, then check the dipstick after a minute or two to ensure it's at the correct level.
+6.  **Lower & Dispose:** Carefully lower the car off the ramps using the jack and jack stands. Remove the drain plug. Collect the used oil in a sealed container for proper disposal at an auto parts store.
+
+**Critical Safety Note:** The level surface requirement (Step 1) is non-negotiable. A tiny slope can cause a car to roll, leading to serious injury or death. If the driveway slope is even slightly significant, do *not* use the ramps there.

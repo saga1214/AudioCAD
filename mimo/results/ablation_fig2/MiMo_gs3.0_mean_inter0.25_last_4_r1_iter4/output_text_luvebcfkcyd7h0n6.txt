@@ -1,0 +1,17 @@
+Absolutely. Let's just go through them one by one.
+
+Regular Bit? Uh, think of it as that light switch again—it's always either on or off.
+
+A Qubit, or superposition... that's the actor. They have potential states all at once, hero, background, whatever. Taking a measurement is when the switch flips and it's on or off.
+
+Take budget is decoherence time. It's how long qubits can maintain their states without outside noise messing them up. Measurement budget is taking the measurement.
+
+Editing is quantum error correction. It's how you find and fix mistakes, like noise from the environment.
+
+Quibsits... yeah, that's actors. Each qubit is an actor.
+
+The Final Cut is the measurement. It's when you collapse all those potential states down to a single, definite answer.
+
+Choosing another part... you can't go back to the *same* take, but you can reset the whole system and run it again. That's like re-executing the computation.
+
+And that cough on set? That's decoherence again. It's an external disturbance that collapses the state before measurement even happens.

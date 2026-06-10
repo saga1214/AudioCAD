@@ -1,0 +1,34 @@
+Alright, let's tackle this question. The student is asking about the difference between what the eye can see and what the brain processes, specifically in relation to saccadic masking. She wants scientific terminology but without talking down. First, I need to confirm her pronunciation of "saccade." The correct term is "saccade," pronounced "sah-KAH-deh." 
+
+Now, the core of her question: Can we say the eye sees continuously? The eye's role is as a biological sensor. It detects changes in light and movement through photoreceptors. During saccades, the eye moves rapidly between points, causing a brief interruption in vision. This is saccadic masking, where the brain suppresses blur during these movements. So, the eye isn't continuously capturing a stable image. Instead, it's sampling visual information in short bursts. 
+
+The brain then processes these samples, smoothing out the gaps and creating the illusion of continuous motion. Without this processing, we'd perceive jerky, unstable vision. Therefore, the eye doesn't see continuously; it's the brain's processing that creates the perception of continuity. The student's initial confusion between eye and brain functions is valid. Clarifying that the eye senses rapidly but discontinuously, while the brain interprets to create continuity, should address her question. 
+
+Also, her emphasis on separating eye and brain capabilities is crucial. They are distinct processes, not conflated. The brain's role in stabilizing and interpreting visual data is key here. Ensuring the explanation respects her film student background, using precise terms but clearly explaining the concepts, will make the response effective.
+</think>
+You're pronouncing "saccade" correctly as **sah-KAH-deh**.  
+
+To answer your question directly: **No, it is not correct to say the human eye sees continuously.** Here's a precise breakdown using scientific terminology:
+
+### 1. **Eye Function: Sensory Detection**
+   - The eye acts as a **biological sensor**. Photoreceptors (rods/cones) detect **changes in light and movement patterns** very quickly (up to ~60–75 Hz flicker fusion threshold).  
+   - During **saccades** (rapid eye movements between focal points), the eye detects intense blur and fragmented visual data.  
+   - **No continuous image capture**: The eye does not record a stable, uninterrupted stream of light like a camera. Instead, it samples visual information in discrete bursts during saccades.
+
+### 2. **Brain Function: Perception Construction**
+   - The visual cortex **processes and interprets** signals from the eye.  
+   - **Saccadic masking** is the brain’s active suppression of blur during saccades. It edits visual data to maintain the illusion of stability.  
+   - The brain **fills gaps** between eye samples, smoothing jerky motion and creating the perception of continuous, stable vision.  
+   - Without this processing, you would perceive rapid head/eye movements as jerky or unstable ("judder").
+
+### Key Difference
+| **Eye (Sensory)** | **Brain (Processing)** |
+|-------------------|------------------------|
+| Detects rapid changes (up to ~60–75 Hz) | Smooths discontinuous eye data |
+| Experiences saccadic blur during movement | Suppresses saccadic blur (saccadic masking) |
+| Provides raw, unstable visual samples | Creates the perception of continuous motion |
+
+### Conclusion
+The eye **detects** visual information discontinuously (via saccades and photoreceptor responses), while the brain **processes** it to create the perception of continuous motion. **Saccadic masking is the brain’s mechanism for making discontinuous eye data feel seamless.** Thus, the eye does not see continuously—it’s the brain’s interpretation that gives us the illusion of continuity.  
+
+This distinction is critical for filmmakers using 35mm: the 24 fps standard leverages the brain’s smoothing ability to mimic "reality," while higher fps (e.g., 60 fps) reveals more detail but can feel less cinematic without brain-level stabilization.

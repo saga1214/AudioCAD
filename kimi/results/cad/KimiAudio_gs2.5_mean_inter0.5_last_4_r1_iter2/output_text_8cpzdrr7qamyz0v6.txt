@@ -1,0 +1,9 @@
+If you bought a stock at $62.87 per share and you're aiming for a 10% gain, your target selling price would be $69.16 per share.
+
+On the downside, if you're okay losing up to 10%, your stop-loss price would be $56.58 per share.
+
+So that means:
+First, your target price to sell for the gain is $69.16.
+Second, your stop-loss price to limit your downside risk is $56.58.
+
+If the stock hits $69.16, you'd make a 10% gain. If it drops to $56.58, you'd lose 10%.

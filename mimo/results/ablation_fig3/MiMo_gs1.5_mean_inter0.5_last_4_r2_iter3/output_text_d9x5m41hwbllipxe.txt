@@ -1,0 +1,40 @@
+Okay, let me break this down. The user wants an itemized price list for their home security system, given their home has four doors, seven windows, and is about 1500 square feet. They've been concerned about break-ins in their neighborhood and are comparing self-installed versus professional systems.
+
+First, I need to estimate the costs. For a self-installed system, the upfront cost would be lower, around $300 for basic equipment. For a professional system, it's higher, maybe over $1000 due to installation and more advanced gear. The monthly fees vary too—self-monitored is cheaper at $10-$30, while professional monitoring is $20-$60.
+
+The user mentioned glass break sensors and indoor sirens. Glass break sensors add $30-$100 each, and indoor sirens are $30-$70. They also asked what makes a system professional, so I should highlight 24/7 monitoring and technician installation as key differentiators.
+
+Looking deeper, the user might be worried about cost versus coverage. They probably want to balance affordability with comprehensive protection. Their unspoken need could be reassurance that investing in professional monitoring is worth it for peace of mind. I'll make sure the breakdown is clear and addresses both price points they're considering.
+</think>
+Here's a detailed itemized cost breakdown based on your home's size (4 doors, 7 windows, ~1500 sq ft), covering both self-installed and professional systems:
+
+| **Component** | **Self-Installed Cost** | **Professional-Installed Cost** |
+|---------------|--------------------------|----------------------------------|
+| **Control Panel/Hub** | $100 - $400 | $200 - $800 |
+| **Door/Window Sensors** | $15 - $50 per sensor | $20 - $80 per sensor |
+| **Motion Detectors** | $30 - $80 per detector | $40 - $100 per detector |
+| **Glass Break Sensors** | $30 - $100 per sensor | $40 - $120 per sensor |
+| **Indoor Sirens** | $30 - $70 per siren | $40 - $90 per siren |
+| **Smart Locks** | $100 - $300 per lock | $150 - $500 per lock |
+| **Cameras** | $50 - $200 per camera | $70 - $250 per camera |
+| **Installation** | - | $200 - $1,500 |
+
+**Monthly Fees:**
+- **Self-Monitored:** $10 - $30/month
+- **Professional-Monitored:** $20 - $60/month
+
+**Estimated Total Upfront Costs:**
+- **Self-Installed Starter System:** $500 - $1,200
+- **Professional-Installed Starter System:** $1,000 - $3,000
+
+**Professional Monitoring Over 5 Years:**
+- **Self-Monitored:** $180 - $540 total ($6 - $18/month)
+- **Professional-Monitored:** $1,200 - $3,600 total ($24 - $72/month)
+
+**Key Recommendations:**
+1. **Prioritize sensors:** Add glass break sensors and indoor sirens for critical protection
+2. **Consider cameras:** Even basic indoor cameras add valuable deterrence
+3. **Professional installation** is worth the cost if you want guaranteed coverage and peace of mind
+4. **Bundle deals:** Many providers offer discounts for multi-device packages
+
+For your 1500 sq ft home, a professional system with 4 door/window sensors, 2 motion detectors, 1 glass break sensor, 1 indoor siren, and 1 camera would typically cost **$1,500-$2,500 upfront** plus monthly monitoring. Always request a site-specific quote from local security companies.

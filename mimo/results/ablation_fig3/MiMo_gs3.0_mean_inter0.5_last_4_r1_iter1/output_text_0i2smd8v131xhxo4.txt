@@ -1,0 +1,70 @@
+Okay, let me approach this systematically. The user presents a complex mix of technical audio setup issues, voice work habits, software considerations, and even a personal craving at the end. 
+
+First, addressing microphone harshness again - Blue Yours Yeti placement into logo side is critical, and blanket walls for treatment are practical alternatives to commercial acoustic panels. For vocal fatigue, belly breathing, room-temp hydration breaks, and blanket room treatment form a solid foundation. 
+
+Regarding software transition, while Adobe Audition offers superior processing, the learning curve is real. I'd recommend starting with Audacity for basic needs while gradually learning Audition's tools. For noise removal, iZotope RX remains the gold standard despite its cost. Organization through folder systems and AI tools like Descript for labeling could save significant time.
+
+The balance between recording/editing and marketing is key to avoiding burnout. Pros typically block dedicated marketing time daily and use simple templates for organization. 
+
+Finally, the user's hunger for quick flavorful food connects back to their soy restriction discovery at the start. An Americanized Asian restaurant menu would offer accessible protein-rich options that accommodate dietary changes. 
+
+The response should maintain this logical flow while keeping tone supportive and practical throughout.
+</think>
+Here's a structured approach to your questions, addressing harsh audio, workflow, vocal health, and your craving:
+
+### 1. Audio Setup Fixes
+- **Mic Placement**: Speak side-on (logo/text facing you), 6-12 inches away. Angle ~45 degrees downward.
+- **Acoustic Treatment**: Hang heavy blankets/moving blankets vertically. Place a soft rug under the mic stand to absorb reflections.
+- ** Scarlett Solo Settings**: Use Blue Yeti's cardioid mode (top-down). In Audacity (or Scarlett software), gently boost low-mids (100-300Hz) and cut harsh highs (4-8kHz).
+
+### 2. Vocal Endurance & Health
+- **Warm-ups**: 5-min routine: lip trills → humming → tongue twisters.
+- **Posture**: Sit upright, mic at eye level.
+- **Breathing**: Use diaphragmatic breathing (belly expands on inhale).
+- **Hydration**: Sip room-temperature water hourly. *Avoid cold water* – it constricts vocal cords.
+- **Breaks**: 1-min breaks every 20 mins. Singing bowls or humming resets your voice.
+
+### 3. Software & Workflow
+- **Adobe Audition vs. Audacity**:  
+  → *Switch if*: You need AI noise removal (Adobe's "DeNoise AI") or advanced multitrack editing.  
+  → *Stick with Audacity if*: Budget is tight or you need simplicity.  
+- **Reliable AI Tools**:  
+  - Mouth click removal: **iZotope RX** (paid) or **Descript** (free tier).  
+  - Background noise removal: **Adobe Audition** or **Audacity's Noise Reduction**.  
+- **Organization**:  
+  → Use **Dropbox/Google Drive** with client folders.  
+  → Label files with `YYYY-MM-DD_ClientName_ScriptName`.  
+  → Batch-edit similar takes to save time.
+
+### 4. Making Your Demo Stand Out
+- **Emotion First**: Show range in 10 seconds – e.g., switch from grief to humor.  
+- **Character Consistency**: Use subtle vocal texture (e.g., breathiness for intimacy, resonance for authority).  
+- **Pacing**: End with an unresolved hook (e.g., "But what happens when...?").
+
+### 5. AI Tools Deep Dive
+| Tool | Best For | Cost |
+|------|----------|------|
+| **iZotope RX** | Advanced noise removal, mouth clicks | $150 (one-time) |
+| **Descript** | Text-based editing, noise reduction | Free tier; $12/mo |
+| **Adobe Audition** | AI-powered noise reduction | Included w/ subscription |
+| **Audacity** | Basic noise reduction | Free |
+
+### 6. Avoiding Burnout
+- **Time Blocking**:  
+  - 9-11 AM: Recording  
+  - 11 AM-12 PM: Editing  
+  - 12-1 PM: Marketing (social/email)  
+- **Vocal Saver**: Set phone reminders to hydrate and stretch.  
+- **Marketing Efficiency**: Use Canva for social media templates; schedule posts with Buffer.
+
+### For Your Craving: Americanized Asian-Style Meal
+**Order this combo from your local spot:**  
+- **Protein**: Teriyaki salmon (soy-free, ask for ginger-scallion glaze)  
+- **Sides**: Garlicky broccoli + sesame noodles (request no soy sauce; use tamari)  
+- **Beverage**: Sparkling ginger lemonade  
+**Total Cost**: ~$12-15 (most chains have soy-free options now).
+
+### Pro Workflow Hack
+Use **Audition's "Waveform Stylus"** to visually scan for mouth clicks during editing. Combine with **Audacity's "Noise Print"** for consistent noise reduction.
+
+Let me know if you'd like specific Audition/Audacity tutorials for harsh-sound fixes!

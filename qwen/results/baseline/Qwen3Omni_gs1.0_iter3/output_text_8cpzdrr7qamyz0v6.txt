@@ -1,0 +1,71 @@
+Let’s break this down based on your earlier conditions:
+
+You're investing **$10,000** in a stock priced at **$62.87 per share**.
+
+### Step 1: How many shares can you buy?
+
+$$
+\frac{10,000}{62.87} \approx 159.13 \text{ shares}
+$$
+
+Since you can’t buy fractions of a share, you’d buy **159 shares**.
+
+$$
+\text{Total cost} = 159 \times 62.87 = 9,996.33
+$$
+
+So you’d have **$3.67 left over**.
+
+---
+
+### Step 2: Target prices based on 10% gain and 10% loss
+
+- **10% gain target price**:  
+  $$
+  62.87 \times 1.10 = 69.157 \approx \$69.16
+  $$
+
+- **10% loss stop-loss price**:  
+  $$
+  62.87 \times 0.90 = 56.583 \approx \$56.58
+  $$
+
+---
+
+### Step 3: Total gain or loss at those prices
+
+#### ✅ If the stock hits **$69.16** (10% gain):
+
+$$
+\text{Total value} = 159 \times 69.16 = 11,000.44
+$$
+
+$$
+\text{Gain} = 11,000.44 - 9,996.33 = \$1,004.11
+$$
+
+So you’d make about **$1,004.11**, or **10.04% return** on your $10,000.
+
+#### ❌ If the stock drops to **$56.58** (10% loss):
+
+$$
+\text{Total value} = 159 \times 56.58 = 8,996.22
+$$
+
+$$
+\text{Loss} = 9,996.33 - 8,996.22 = \$1,000.11
+$$
+
+So you’d lose about **$1,000.11**, or **10% loss** on your $10,000.
+
+---
+
+### Summary:
+
+- **Buy price**: $62.87 per share
+- **Shares bought**: 159
+- **Total investment**: $9,996.33
+- **Target sell price (10% gain)**: $69.16 → **$1,004.11 gain**
+- **Stop-loss price (10% loss)**: $56.58 → **$1,000.11 loss**
+
+This matches your goal of a 10% gain or loss on your $10,000 investment.

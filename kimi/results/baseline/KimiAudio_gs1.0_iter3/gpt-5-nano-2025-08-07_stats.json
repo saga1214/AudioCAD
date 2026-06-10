@@ -1,0 +1,38 @@
+{
+  "model": "gpt-5-nano-2025-08-07",
+  "axes": [
+    "INFERENCE_MEMORY",
+    "SELF_COHERENCE"
+  ],
+  "inference_memory_subset": "semantic",
+  "overall": {
+    "total": 173,
+    "passed": 27,
+    "score": 15.606936416184972
+  },
+  "by_axis": {
+    "INFERENCE_MEMORY": {
+      "total": 90,
+      "passed": 13,
+      "score": 14.444444444444443
+    },
+    "SELF_COHERENCE": {
+      "total": 83,
+      "passed": 14,
+      "score": 16.867469879518072
+    }
+  },
+  "inference_memory_breakdown": {
+    "audio_cue": {
+      "total": 0,
+      "passed": 0,
+      "score": 0.0
+    },
+    "semantic": {
+      "total": 90,
+      "passed": 13,
+      "score": 14.444444444444443
+    }
+  },
+  "eval_file": "baseline/KimiAudio_gs1.0_iter3/gpt-5-nano-2025-08-07_evaluation_results.jsonl"
+}

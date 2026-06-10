@@ -1,0 +1,72 @@
+Okay, this dinner party planning has taken quite a turn! Let me break it all down based on the latest updates. 
+
+First, the steps: You now need to book the florist for roses in both the dining and living rooms. You're hiring a chef who will handle all cooking and plating, which is fantastic. That means your main prep shifts to wine pairing, shopping for wine, food, drinks, and ingredients for the roses, plus house cleaning and table/de room decorating. Entertainment (playlist/Codenames) can still wait whenever convenient this week.
+
+For eight guests paired wines across courses plus chef ingredients, five or six bottles is still accurate.
+
+Now for a suggested shopping list, grouped by category:
+For the band: any specific equipment rentals they might need?
+For florist: roses, floral foam, vase filler, and water.
+For the chef: all your wine pairings, appetizer, main course, and dessert wines plus dessert ingredients if needed.
+Food and drinks: you'll need to finalize your full menu first, but this will cover appetizer ingredients, main course proteins and sides, dessert components, water/beer for guests, plus any appetizer/dessert drinks.
+Rose ingredients: you'll need to work with the florist on their specific list.
+
+House cleaning supplies can be general.
+
+I'd recommend starting now with confirming the menu and pairing the wines. Then you can make your comprehensive shopping list. House cleaning a day or two before works, and on Saturday your focus will be on florist pickup, decorating, chef coordination, and band setup before your guests arrive.
+
+This setup should give you way less stress now that the heavy cooking is outsourced! Let me know if you need any adjustments.
+</think>
+Based on your updates, here's the revised dinner party prep plan and shopping list:
+
+### Final Prep Timeline
+1. **Immediately**: Book the florist and hire the chef  
+2. **Now**: Finalize menu, pair courses with different wines, make shopping list  
+3. **2-3 days before**: Deep clean house  
+4. Saturday:  
+   - Morning: Pick up flowers, decorate house/dining room/table, coordinate with chef  
+   - Cooking shift ends at 4 PM when husband watches rugby  
+   - Husband free to help pre-cook together before 4 PM  
+
+### Shopping List by Category
+| Category | Items Needed | Notes |
+|----------|--------------|-------|
+| **Florist** | Roses (for dining/living rooms), floral foam, vase filler, water | Confirm with florist for exact quantities |
+| **Wine** (5-6 bottles total) | Appetizer wine ×2, Main course wine ×2, Dessert wine ×1 | Adjust if courses differ (e.g., cheese course = +1 bottle) |
+| **Food & Drinks** (menu-dependent) | All ingredients for: appetizer, main course, dessert, sides, drinks | *Example*: If appetizer is bruschetta → tomatoes, garlic, basil, bread |
+| **Rose Ingredients** | Vases, water, soil/packaging (confirm with florist) | |
+| **Supplies** | Cleaning supplies, decorations, chef equipment rental (if needed) | |
+
+### Critical Adjustments
+- **Cooking Shift**: You + husband collaborate until 4 PM → start key prep together (chopping, mise en place). Solo cooking begins at 4 PM.
+- **Chef Coordination**: Provide ingredient list 2-3 days prior; confirm delivery/pickup time.
+- **Entertainment**: Low-key options remain: playlist or Codenames game.
+- **Wine Estimate**:  
+  - **5 bottles**: Conservative (1.25 bottles/person)  
+  - **6 bottles**: Generous (1.5 bottles/person) + chef needs  
+
+### Final Checklist Flow
+```mermaid
+graph TD
+  A[Book band] --> B(Finalize menu + pair wines)
+  B --> C(Make shopping list)
+  C --> D[Shop for wine/food/drinks/flowers]
+  D --> E(Clean house)
+  E --> F[Decorate dining + table]
+  F --> Saturday
+  Saturday --> G[Decorate living room + pick flowers]
+  G --> H[Coordinate chef + band logistics]
+  H --> I[Prep together until 4 PM]
+  I --> J[Solo cook post rugby game]
+```
+
+### Pro Tips
+- **Wine Math**: For 8 people with paired wines:  
+  Appetizer (2 bottles): 2 × 1 bottle/2 people = 1 bottle  
+  Main (2 bottles): 2 × 1 bottle/2 people = 1 bottle  
+  Dessert (1 bottle): 1 bottle  
+  **Total**: 5 bottles (1.25/person) or 6 bottles (1.5/person)  
+- **Floral Timing**: Roses arrive Saturday morning → place in water immediately after pickup.  
+- **Chef Stress-Buster**: Pre-measure all wine pairings in bottles labeled "APPETIZER," "MAIN," etc., for the chef.
+
+You’ve got this! Outsourcing cooking and adding florals will make the party feel luxurious. Confirm chef/florist contacts today to avoid last-minute hiccups. 🌹🍷

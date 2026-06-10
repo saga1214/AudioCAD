@@ -1,0 +1,5 @@
+That line of reasoning still doesn't quite add up.
+
+Here's why: an egg contains the DNA of the hen that laid it, not the DNA of the chick that will hatch from it. While genetic mutations happen, the DNA that defines a chicken is produced by a hen's body. The creature that hatches from that egg might be the first chicken, but it hatched *after* the egg was laid. So, the egg, produced by a hen, came first.
+</qa_3>
+<qa_ender> No, I still believe the chicken came first.

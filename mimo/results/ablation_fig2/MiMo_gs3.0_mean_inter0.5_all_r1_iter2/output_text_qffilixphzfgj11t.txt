@@ -1,0 +1,16 @@
+Bruno avoids apples, bananas, broccoli, but here are some safe green vegetables he might enjoy:
+
+Kale is great for their diet and high in nutrients. 
+
+Spinach is also a good choice, just make sure to rinse it well to get rid of any grit.
+
+Cucumber is a nice, crunchy, and hydrating option.
+
+Asparagus can be a fun treat, just be sure to cut it into small, bite-sized pieces.
+
+And finally, bell peppers, whether red, green, or yellow, are a great source of vitamins.
+
+Just double-check to make sure he specifically avoids any of these, but these are generally great options for parrots.
+</qa_1>
+<qa_ fruit>
+You mentioned sensitivity to apples.

@@ -1,0 +1,9 @@
+Alright, let's compare those three materials based on your criteria: manufacturing cost, selling price, and market popularity, but with the popularity score being weighted zero.
+
+First, let's look at the scores. Piñatex comes out on top with a score of 90. Its manufacturing cost is a 70, selling price is a 90, and popularity is a 70. 
+
+Cactus leather is next with a score of 85. It has a lower manufacturing cost of 60, a selling price of 95, and a popularity score of 60.
+
+Mushroom leather, like Mylo, has the lowest score at 80. Its manufacturing cost is a 40, selling price is a 75, and its popularity score is a 30.
+
+So, to summarize, Piñatex is the best overall. Cactus leather is a strong contender, especially for premium pricing. Mushroom leather is the least popular of the three, but it is also the cheapest to make.

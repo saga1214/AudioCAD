@@ -1,0 +1,23 @@
+Of course. Let's just quickly recap everything. Regular Bit? It's on or off, like a light switch.
+
+A Qubit... uh, that's an actor who could be hero, background, or villain. That's superposition.
+
+Taking a measurement is when the director says "Action!", and the actor immediately picks just one role.
+
+Entanglement is having linked performances. Actor one becomes hero instantly means actor two becomes villain.
+
+Budget decays is the amount of time the actor can hold all those potential roles before noise breaks them.
+
+Error correction is the post-production editing process to find and fix mistakes.
+
+Quibits... those are the individual actors themselves.
+
+Measurement collapse is the moment of measurement, committing to a role.
+
+The final state is the answer you get after all the editing is done.
+
+Going back and choosing another part... that's like running a new computation to see one of the other possibilities.
+
+And decoherence is that random noise on set that ruins the potential before the measurement even happens. 
+
+I hope that makes it a bit clearer. Just let me know if you'd like to dive deeper into any of these.

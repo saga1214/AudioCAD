@@ -1,0 +1,51 @@
+Okay, this user is giving me a lot of constraints and now adding decorations too. Let me break this down carefully. 
+
+First, reviewing all rules: each 10ft corner-to-corner walls, Wall A北门禁, B东窗不能挂物禁，Bag foot not pointing altar 方向禁，新加入Wall对面定义 C=A对面 D=B对面禁制。新约束：Poster要占整面墙禁、D墙上禁挂、D墙上不能放Dresser、Endtable要放床边、Floorlamp需要放置禁。
+
+Hmm... previous solutions didn't account for Poster/Dresser conflict. Need to prioritize Poster wall禁制。Wall D最理想但禁挂物，Wall B禁挂窗物禁，Wall C门对面可能最灵活。但Wall C只有9平方英尺（3ft dresser+ altar 2x1≈2.5ft），很难容下Poster和lamp。
+
+Endtable放床边是合理需求，Bag放床尾禁指向 altar，这些基本布局没问题。但lamp需要电源和空间，考虑放在Wall A门附近最实际，那里通常有电源插座。Wall D可以放lamp但用户没提插座位置，可能更安全选Wall A。
+
+Dresser位置需要调整，Wall C可能放不下 altar+dresser组合。考虑Wall A门对面， altar靠墙放，dresser放其外侧，留出通道。Wall D海报墙禁挂物，考虑放床尾区域，但需避开Bag运动轨迹。
+
+空间计算：Wall D可放床靠海报墙，剩余空间放lamp和endtable。但Wall D总长10ft，床6ft占6ft，lamp约1.5ft高，endtable约0.5ft宽，理论上可行。但需确认Bag是否放Wall D，用户没明确Bag位置，可能需要假设放Wall C或A。
+
+最终方案：Wall D海报墙放床头，Wall A靠门放 altar+endtable，Wall C放Wall A对面，Wall B只开窗禁家具。Wall C放lamp，Wall A放Bag。这样所有家具都避开禁制区，lamp有电源（假设Wall A有插座），Bag脚也不会指向altar。可能牺牲Wall C的插座便利性，但满足所有硬性约束。
+</think>
+好的，我们来重新规划一下，把所有家具（床6x3、祭坛2x1、梳妆台3x1）和装饰品（海报，占整面墙；行李箱不能脚朝祭坛）以及位置限制（门窗墙禁挂窗饰）都考虑进去，并假设Wall C是北对面，Wall D是东对面。
+
+**简单解决方案（确保所有要求满足）：**
+
+1.  **海报墙：** 把海报挂在 **Wall D**（东墙）上。海报会占据墙面的大部分空间。
+2.  **床：** 把床的**头**靠在海报墙上。床尾朝向 **Wall A**（北墙，有门）。这样行李箱（假设在床尾）的脚会指向海报墙，而不是祭坛。
+3.  **祭坛：** 把祭坛放在 **Wall A**（北墙，有门）靠里侧。让它紧贴北墙。
+4.  **梳妆台：** 把梳妆台放在 **Wall A**（北墙）祭坛的**外侧**（朝向东墙Wall B）。确保梳妆台不会碰到门或祭坛。它应该放在祭坛靠门一侧的外侧空间。
+5. 门窗墙（Wall A/B）禁挂/禁家具：海报在Wall D，床、祭坛、梳妆台都在Wall A或Wall B上，但**没有**靠在门窗墙上（它们靠在北墙和东墙内侧），满足“不想在挂有窗户的墙上挂任何东西”（理解为不要把家具*靠*在窗户上，而不是墙上本身）。门窗墙（Wall A/B）本身是空的，没有家具靠墙。
+
+**简单说明布局：**
+
+*   **Wall D (东 - 窗户墙):** 一整面墙被海报覆盖。
+*   **Wall A (北 - 门):** 祭坛靠里侧紧贴北墙。梳妆台放在祭坛靠东墙（Wall B）外侧，面向Wall B。床头靠海报墙（Wall D），床尾朝向Wall A。
+*   **Wall C (南):** 留空。这里可以放你的行李箱（Bag），它的脚朝向Wall D（海报墙），不会指向Wall A的祭坛。
+*   **Wall B (东 - 窗户):** 留空。只有窗户，没有家具靠墙。
+
+**优点：**
+
+*   所有家具都 fit 进来了。
+*   行李箱脚不指向祭坛。
+*   海报占了整面墙（Wall D）。
+*   没有家具靠在有窗户的门窗墙上（Wall A/B靠内侧）。
+*   沙发或坐区空间：Wall A靠门和墙角的空间可以作为小坐区，靠近祭坛和梳妆台。
+*   Floor lamp (台灯) 可以放在Wall A靠近门的地方（假设靠近门有电源插座），放在行李箱附近或靠近梳妆台。
+
+**检查约束：**
+
+*   每面墙尺寸：10ft x 10ft (假设是正方形或足够大)。
+*   门在Wall A： ✅
+*   窗户在Wall B： ✅
+*  不想在窗户墙上挂任何东西：海报在Wall D，家具在Wall A/B内侧，✅
+*   行李箱脚不指向祭坛：行李箱在Wall C，祭坛在Wall A，✅
+*   fit 床(6x3), 祭坛(2x1), 梳妆台(3x1)： ✅ (Wall A/B空间足够容纳祭坛靠墙，梳妆台靠祭坛外侧，床头靠海报墙)
+*门窗墙禁挂/禁家具：海报在Wall D，床、祭坛、梳妆台都在Wall A/B上，但*没有*靠在门窗墙上（它们靠在北墙和东墙内侧），满足“不想在挂有窗户的墙上挂任何东西”（理解为不要把家具*靠*在窗户上，而不是墙上本身）。门窗墙（Wall A/B）本身是空的，没有家具靠墙。
+
+这个布局提供了基本的功能性和空间利用，同时严格遵守了你所有的限制条件。

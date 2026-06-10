@@ -1,0 +1,7 @@
+Let's look at a scenario involving a high school corner kick versus college. In the second half, Red Team is attacking College Team's goal. A corner kick is taken from the right side of the penalty area.
+
+In the high school scenario, if Red Team's attacker, number nine, is in an offside position when the corner is taken and directly receives the kicked ball, it's an offside offense. That aligns with the strict reading of the high school rules.
+
+Now, for the special exception in the college scenario. If Red Team's attacker, number nine, is in an offside position when the corner is taken, but the ball comes off the goalpost first, then deflects off a defender before reaching number nine, it is no longer an offside offense. Even though the player was initially in an offside position, the defender's subsequent controlled play on the ball resets the situation, just like deflecting or rebounding.
+
+So, the key difference is this: College soccer strictly applies direct receiving as the offside offense. High school soccer, on the other hand, uses the defender's touch to reset the situation only if it's a deliberate, controlled play; otherwise, deflects and rebounds still count as an offense.

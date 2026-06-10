@@ -1,0 +1,5 @@
+You're absolutely right. Giving public acceptance more weight really flips the script. Resistance is a huge cost and ethical challenge in vaccination campaigns, and sugar reduction campaigns tend to generate less polarization.
+
+Let's update the vaccination campaign's scores to reflect that. Its implementation difficulty would go up to account for resistance, so maybe a three. Its cost-efficiency would drop because you have to spend so much to counter misinformation. Most importantly, public acceptance drops significantly, to maybe a two. When you recalculate, the sugar reduction campaign now has a much higher total score.
+
+So, with more weight on public acceptance and resistance, the campaign to reduce sugar becomes the more sensible choice. It has clear medical benefits with fewer ethical debates and less public backlash, despite the slow implementation.

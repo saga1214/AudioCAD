@@ -1,0 +1,44 @@
+Okay, let's break this down. The user is clearly a home studio creator dealing with harsh audio, vocal fatigue, editing workflows, organization, and demo reels. They're asking for very specific advice on mic placement, acoustic treatment with blankets instead of panels—that's helpful. Harsh sound often comes from speaking too close to condenser mics like the Yeti, so reminding them hand's-width distance is good. Heavy blankets absorb mid frequencies that cause harshness effectively.
+
+Then they shift to character work causing vocal strain. Belly breathing and room-temperature hydration are non-negotiable for voice actors. Breaks every 20 minutes—maybe suggest Pomodoro technique? They mentioned not eating properly during long sessions. That's a red flag. Should emphasize hydration and scheduled breaks as survival tactics.
+
+Software question: Audacity vs. Adobe Audition. Learning curve is real, but multi-track editing and better noise reduction in Audition justify the switch. Maybe recommend starting with Audition's free trial? For mouth clicks, RX is gold standard, but iZotope's Vocal De-click could be a lighter alternative. Organization—nested folders per client with metadata tags is industry standard. Time-saving tip: batch similar tasks like editing all bloopers at once.
+
+Demo reel advice—emotional hooks in 3 seconds. Pro tip: record 10 variations of the same line. Which leads to their AI tools question. Most AI labelers are hit-or-miss, but Descript's auto-transcribe + highlight is surprisingly accurate. For trimming silence, Audition's adaptive noise reduction is faster than manual comping.
+
+Vocal burnout is the elephant in the room. They're skipping meals! Should stress hydration as vocal lubricant and suggest meal prep. For quick Asian food, Americanized spots usually mean fusion dishes. Teriyaki bowls with rice and edamame are filling. Kimchi fried rice is fast. Sushi rolls with avocado and cucumber—no cooking. Maybe mention checking sodium levels if they're dehydrated? 
+
+Wait, soy restriction earlier connects—check if dishes contain soy sauce alternatives needed. Overall, they need systems (organization), tools (Audition/RX), and self-care (hydration/breaks). The food rec is a tangible "quick win" after technical advice. Should structure response: 1) Switching software tips 2) Reliable AI tools 3) Vocal recovery meals with soy-safe notes. Keep it actionable.
+</think>
+Here's a breakdown of your questions:
+
+**Switching Software:**  
+To ease the transition to Adobe Audition, start with its free trial. Focus on learning one workflow at a time—like editing a single audio clip—before tackling complex projects. Use YouTube tutorials for Blue Yeti/Audition combos, and leverage Audition's "Compare" tool for quick edits. The learning curve is steep, but its batch processing and AI-powered noise reduction will save hours long-term.
+
+**AI Tools:**  
+For reliable AI trimming/labeling:  
+- **Descript** (transcription + automatic highlight)  
+- **iZotope RX** (advanced noise removal)  
+- **Adobe Podcast Enhance** (AI voice cleaning)  
+Avoid "one-click" tools—they often over-process. For labeling, Audition’s "Speech Recognition" tags are surprisingly accurate.
+
+**Vocal Balance:** Pros use:  
+- **Time blocking**: 30-min recording → 15-min breaks → 20-min editing  
+- **Automated scripts**: Descript’s "Edit in Studio" for fast edits  
+- **Client folders**: Color-coded subfolders (e.g., "Client A_2024") with metadata tags  
+- **Batch processing**: Export noise profiles once, reuse across clips
+
+**Vocal Recovery Meals:**  
+For quick, soy-free Asian-inspired meals:  
+1. **Teriyaki Rice Bowl** (soy sauce alternative: tamari or coconut aminos)  
+   - Sautéed chicken/veggies + brown rice + steamed edamame  
+2. **Kimchi Fried Rice** (use sesame oil instead of soy)  
+   - Pre-cooked shrimp + kimchi + scallions  
+3. **Sushi Roll** (ask for soy-free):  
+   - Avocado/cucumber rolls with brown rice  
+4. **Miso Soup Bowl** (soy-free: use coconut or mushroom broth)  
+   - Tofu + wakame + sesame seeds  
+
+**Pro Tip:** Hydrate with electrolyte water—dehydration worsens vocal strain. For demo reels, prioritize *emotional contrast* in 3 seconds (e.g., switch from panicked to calm).  
+
+Would you like a sample project structure template for Adobe Audition?

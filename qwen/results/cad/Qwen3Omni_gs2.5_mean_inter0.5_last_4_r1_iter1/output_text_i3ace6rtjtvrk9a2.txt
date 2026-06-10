@@ -1,0 +1,27 @@
+Thank you for the correction — you're absolutely right to ask! The word is **saccade**, pronounced:
+
+**/ˈsæk.əd/** (SAK-uhd)
+
+It comes from the French word *saccade*, meaning a sudden jerky movement — which is exactly what it is in vision.
+
+Now, about your question: **"Would it be correct to say that the eye sees continuously?"**
+
+Yes and no — it depends on what you mean by "sees."
+
+Let’s clarify:
+
+- **The eye does not see continuously** in the way a camera might. Instead, it takes in visual information in rapid snapshots — about 10–12 times per second — and sends those signals to the brain. These are called **fixations** (when the eye is still and focused) and **saccades** (the quick jumps between fixations).
+
+- During a saccade, the brain **suppresses visual input** — this is **saccadic masking** — so you don’t perceive the blur or motion of your own eye moving. That’s why you don’t see the world “jumping” when you move your eyes.
+
+- Between saccades, during fixations, the eye captures relatively stable visual information. The brain then **stitches together** these snapshots into a smooth, continuous perception of the world.
+
+So, while the **eye** is not capturing a continuous image, the **brain** creates the illusion of continuity by filling in gaps and smoothing transitions.
+
+Therefore, it’s more accurate to say:
+
+👉 **The brain perceives the world as continuous**, even though the eye captures it in discrete snapshots.
+
+This is why movies work: they show 24 still images per second, and your brain blends them into smooth motion.
+
+So, to answer your original question: **No, the eye does not see continuously.** But **yes, the brain creates the perception of continuous vision.**

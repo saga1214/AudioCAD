@@ -1,0 +1,38 @@
+Okay, let's break this down. The user is asking about switching from Audacity to Adobe Audition, reliable AI tools for editing, and how to avoid burnout. They also mentioned craving food from an Asian-style restaurant. 
+
+For the software switch, I'd recommend starting small—maybe just editing one track in Audition to compare workflows. The timeline and multi-track editing are huge advantages. As for AI tools, Adobe Audition's own tools like Auto-Refine and Neural Tune are pretty solid, but I should also mention iZotope RX's AI-powered tools as a reliable alternative. 
+
+For burnout, the key is setting boundaries—like scheduling breaks and meal times. Maybe suggest a quick lunch break to recharge. As for the food, since they mentioned craving something quick and flavorful from an Asian-style restaurant, I'll suggest a classic combo like teriyaki chicken with garlic noodles and a side of edamame. It's satisfying and easy to eat while working. 
+
+The harsh audio issue from earlier might come back if room blankets don't absorb reflections enough, so I'll sneak in a reminder about hanging thicker towels if blankets aren't enough. And for vocal fatigue, room-temperature water and hydration are non-negotiable—cold water can strain the throat. 
+
+Finally, for demo reels, I'll emphasize emotional range and character work—short clips can be powerful if they showcase versatility. The Yeti placement and acoustic fixes should still apply, so I’ll circle back to those if they persist.
+</think>
+Here's a structured approach to your questions, along with a tasty food suggestion:
+
+**Switching to Adobe Audition:**
+1.  **Start Small:** Import an Audacity project and try editing one track in Audition. Learn the timeline, multi-track workflow, and basic effects.
+2.  **Leverage Tutorials:** Adobe offers official tutorials. YouTube channels like "Adobe Audition Tutorials" and "The Audio Guy" are excellent resources.
+3.  **Key Advantages:** Focus on learning the timeline for precise edits, the multi-track setup for efficiency, and built-in AI tools like Auto-Refine for noise reduction. The learning curve is steeper, but the long-term efficiency gains are significant.
+
+**Reliable AI Editing Tools:**
+*   **Adobe Audition:** Its own **Auto-Refine** (for noise reduction) and **Neural Tune** (for pitch/timing correction) are powerful and integrated.
+*   **iZotope RX:** Industry-standard for advanced audio repair. Its **De-click**, **De-reverb**, and **Dynamics Processing** modules use AI effectively. (Paid, but often bundled with subscriptions).
+*   **Descript:** Great for transcription and editing via text (overdub editing). AI-powered transcription is reliable.
+*   **Avoid:** Many free AI tools (like "AI Voice Remover" sites) lack nuance and quality for professional work. Stick with established DAW plugins or dedicated tools like RX.
+
+**Balancing Recording, Editing & Marketing (Avoiding Burnout):**
+1.  **Schedule Rigorously:** Block dedicated recording, editing, admin/marketing, and *rest* times. Treat work like appointments.
+2.  **Batch Tasks:** Record multiple takes/session types in one block, then edit those blocks later. Do all client emails in one session.
+3.  **Set Boundaries:** Define clear start/end times. Use "Do Not Disturb" modes. Communicate availability to clients.
+4.  **Prioritize Self-Care:** **Hydrate** (room-temp water is best for voice), eat properly (see food suggestion!), take screen breaks, move your body. Vocal fatigue is real.
+5.  **Automate Admin:** Use tools like Calendly for scheduling, Zapier for workflows.
+
+**Food Suggestion (Americanized Asian-Style):**
+For a quick, flavorful, and satisfying meal perfect for fueling your work:
+*   **Order:** **Teriyaki Chicken Bowl**
+    *   *Why it works:* Chicken is easy to eat, the sauce is flavorful but not overpowering, the rice and veggies provide energy, and it's portable. Add extra sauce if you like it saucy!
+    *   *Add:* A side of **Edamame** (steamed soybeans in salted water) for protein and a bit of crunch.
+    *   *Avoid:* Heavy fried items or overly spicy dishes that might cause discomfort during a long session.
+
+**Acoustic Micding Reminder:** Revisit Blue Yeti side placement into logo and ensure heavy blankets/towels cover at least two walls initially. Hydration with room-temp water remains key for vocal health!

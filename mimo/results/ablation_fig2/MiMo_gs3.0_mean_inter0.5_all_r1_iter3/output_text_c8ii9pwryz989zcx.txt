@@ -1,0 +1,55 @@
+Okay, let me tackle this revised furniture layout problem step by step. The user has added new constraints about a poster and an end table, plus needs to incorporate a floor lamp. Let me recap all rules: each wall is 10ft corner-to-corner North on wall A (door), East on wall B (windows - furniture forbidden here), Across from A must assume is west/c wall, Across from B is south/d wall.
+
+Key constraints remain:
+- No hanging/items on window-walled B
+- Bag foot NOT toward altar location
+Poster must occupy "most of one wall" but cannot be covered by dresser
+End table must be bedside
+Floor lamp needs placement
+
+Previous layout had altar on wall A near door, bed on wall D facing poster area, dresser on wall C. But now poster needs wall space and dresser can't cover it. This creates conflict since dresser was planned for wall C adjacent altar/bed.
+
+Alternative approach needed. Consider making altar the anchor piece. Wall A (door) has most constraints resolved - bed head already there. Wall B is non-negotiable for windows. Wall D holds poster area. That leaves wall C as the only remaining option for altar and dresser.
+
+Revised plan:
+1. Wall A: Bed head remains central. Place end table at bed's left foot (assuming user's perspective) leaving right access path
+2. Wall C: Place altar flush against center. Dresser tucks beside altar on same wall - this satisfies "bed foot not toward altar" since bed foot points toward poster wall
+3. Wall D: Poster occupies full height near bed head. Floor lamp goes at wall's far corner opposite bed foot to avoid bag constraint
+4. Wall B remains empty per rules
+
+Double-checking: 
+- No furniture against window wall B ✓
+- Dresser on wall C doesn't cover poster ✓
+- Altar foot isn't toward bag's theoretical footpath ✓
+- Lamp at 10ft corner has clearance for bag ✓
+
+User mentioned "across from" assumption so this maintains wall relationships. The lamp placement at 10ft corner maximizes reach for the bed area. This should resolve all constraints while creating logical circulation paths.
+</think>
+Based on your updated constraints, here's a simple layout that fits everything while respecting all rules:
+
+1.  **Wall B (East - Windows):** **Leave completely empty**, as instructed. Do not hang the poster here.
+2.  **Wall D (Opposite Windows/South):**
+    *   Place the **6'W x 3'H BED** with its **HEAD** towards Wall C (West). Center it as best as possible.
+    *   Place the **FLOOR LAMP** at the **far corner** of Wall D, closest to Wall A (North). This gives the bed ample light and clear space for the foot of the bed/bag to point towards this wall instead of the altar.
+3.  **Wall A (North - Door):**
+    *   Place the **2'W x 1'H ALTAR** flush against the wall. Center it.
+4.  **Wall C (West - Assumed Across from A):**
+    *   Place the **3'W x 1'H DRESSER** flush against the wall, directly **beside the ALTAR on Wall A**. This ensures the foot of the bed (on Wall D) does *not* point towards it.
+    *   Hang the **POSTER** on Wall C, **above the ALTAR and DRESSER**. Since it occupies "most of one wall" and is above furniture, it won't cover anything important below. Center it above the altar/dresser pair.
+5.  **Space on Wall D (between Bed and Lamp):**
+    *   Place the **END TABLE** in the central space on Wall D, **beside the foot of the bed** (between the bed and the lamp). This gives easy access to the bedside area.
+
+**Summary:**
+
+*   **Wall A (N):** Altar (center), Poster (above, centered).
+*   **Wall B (E - Windows):** Empty.
+*   **Wall C (W):** Dresser (center, beside Altar), Poster (above both).
+*   **Wall D (S - Opposite Windows):** Bed (head center), Floor Lamp (far corner), End Table (beside foot of bed).
+
+This layout:
+*   Keeps furniture (and the poster) off the window wall (B).
+*   Prevents the foot of the bag from pointing at the altar (by placing the altar near the door and the bed facing the opposite wall).
+*   Places the dresser on Wall C beside the altar on Wall A.
+*   Places the poster on Wall C above the altar/dresser.
+*   Places the end table bedside on Wall D.
+*   Places the lamp at the far corner of Wall D for good reach.

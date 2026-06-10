@@ -1,0 +1,9 @@
+You got it! The word is "saccadic" or "saccade." Let me break it down for you. "Saccade" is pronounced "suh-kahd." So, like, suh-kahd.
+
+Now, to your question: No, it wouldn’t be correct to say the eye sees continuously in the way we think of a camera. The eye and brain work together, but they don’t see in a continuous, frame-by-frame way.
+
+Here’s how it works: Your eye is constantly making tiny, rapid movements called saccades to focus on different parts of the scene. During these saccades, your vision is actually quite blurry, and your brain actively suppresses that blur. So, you’re not seeing a continuous, seamless stream of images. Instead, you’re getting a series of very brief, stable snapshots that your brain stitches together to create the illusion of continuous vision.
+
+This is why a camera, which captures a series of discrete frames, can feel different from reality. A camera’s 24 frames per second is a deliberate, mechanical process. Your brain, on the other hand, is doing this complex, subconscious job of filling in gaps and smoothing motion. So, while a camera records in discrete frames, your brain *perceives* motion continuously.
+
+So, in short: The eye doesn’t see continuously. It sees in short bursts, and the brain fills in the gaps to create the illusion of continuous motion. It’s a bit of a trick, but a very effective one!

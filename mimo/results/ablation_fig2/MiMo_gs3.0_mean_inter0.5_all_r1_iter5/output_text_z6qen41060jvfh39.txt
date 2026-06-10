@@ -1,0 +1,11 @@
+Okay, got it. So now I need to re-rank all those items based on how they're generally seen as *fruits*, not just botanically. And the scale is a wider one-to-one hundred. Let me think...
+
+First, I'll just list out all the items we discussed: Apple, Orange, Banana, Guava, Kiwi. Oh, and Asparagus, Tomato, and Cucumber, but I'll have to treat them as fruits for this ranking, even though we know they're technically vegetables.
+
+Alright, let's go through them one by one. On a scale of 100, I'd put Guava and Kiwi at the top, they're both super high in C, so they'll be around 90 to 98. Then comes the Orange, which was an 8 out of 9 before, so that's probably around 85. The Banana was a 2 out of 9, so maybe a 40. And the Apple was a low 2, so that'd be around 20.
+
+Now for the ones that are technically vegetables but we eat as fruits... the Tomato is pretty common in salads, so I'll give it a 60. The Cucumber is more of a raw veggie, so maybe a 30. And Asparagus... well, that's probably the lowest, maybe a 10.
+
+So, if I put them all together in order, it would look something like this:
+
+Kiwi at 98, Guava at 97, Orange at 85, Banana at 40, Apple at 20, Tomato at 60, Cucumber at 30, and Asparagus at 10. That seems like a pretty fair ranking to me.

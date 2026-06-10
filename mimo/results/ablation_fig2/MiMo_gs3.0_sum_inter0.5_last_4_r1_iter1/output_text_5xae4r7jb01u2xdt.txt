@@ -1,0 +1,11 @@
+Got it. Let's look at a special exception using college and high school rules side-by-side.
+
+First, the college rule. Imagine this situation: The Red Team is attacking the Blue Team's goal. The Red forward, number nine, is in an offside position when their teammate, number ten, plays a back-pass to the second-to-last defender. The ball then deflects off that defender's foot before continuing to the number nine player, who controls it and scores.
+
+In college soccer, this deflecting rebound does reset the situation. So, the offside offense does not apply.
+
+Now, for the high school rule, let's use a very similar situation. This time, the Red forward, number nine, is in an offside position when their teammate, number ten, plays a pass forward directly to the second-to-last defender. That defender makes what the referee would see as a deliberate, controlled touch on the ball before the ball continues to the number nine player, who then scores.
+
+Under high school rules, this defender's deliberate play resets the offside situation. So, the high school referee would also call no offside offense in this case.
+
+So, what's the key difference you asked about? In this specific example of a defender's touch, the rules are actually identical between college and high school. The confusion often comes from other restart exceptions, like whether being received directly from a goal kick throws the attacker on or offside. But for a defender's touch resetting an offside call, they are the same.

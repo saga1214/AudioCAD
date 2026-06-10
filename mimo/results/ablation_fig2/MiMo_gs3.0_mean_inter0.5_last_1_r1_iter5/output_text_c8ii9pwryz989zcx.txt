@@ -1,0 +1,68 @@
+Okay, the user has a revised set of constraints that complicates things significantly. Let me re-examine everything carefully. 
+
+First, the window restrictions and no-furnitureAgainstB (east wall) remain absolute. Wall A (north with door), C (op A), and D (op B/east) are now potential furniture zones. The foot-altar prohibition still stands, but now there's also a poster conflict - it can't be obscured by the 3ft dresser. And we have to accommodate a nightstand by the bed plus a floor lamp somewhere. 
+
+Hmm... the previous Wall C solution for altar/dresser is invalidated because the user needs clear wall B access. That leaves Wall A/C as altar candidates. But if altar goes on Wall A, bed's foot points there - forbidden. So altar must go on Wall C. 
+
+For the bed, Wall D (op B/windows) still seems best to avoid pointing issues. Now the tricky part: dresser placement. Since it can't go above poster on B, and can't occupy space by altar (Wall C), it must go on either A or C. But Wall A is altar territory, and Wall C is altar's home... so dresser must go on Wall A opposite door? But that leaves foot pointing problem resurfacing. 
+
+*lightbulb moment* What if we flip the bed orientation? Put head of bed toward Wall C (opposite altar). Then altar on Wall C can be safely placed away from bed foot. The 6x3 bed facing Wall C fits diagonally if centered. Then Wall D (east) becomes nightstand space. Dresser could go on Wall A (north) beside door. 
+
+Poster placement... since B is windows-only, maybe Wall A? But door might block view. Wall C could work if altar is clear above it. User can hang poster above altar since altar is small (2x1) and likely movable. 
+
+Lamp goes naturally beside nightstand on Wall D floor. 
+
+This seems to satisfy:
+- Windows wall clean
+- Altar safety
+- Poster visibility
+- Nightstand access
+- Lamp placement
+
+*double-checks measurements* Wall is 10ft corner-to-corner. A centered 6ft bed on 10ft wall leaves 2ft per side for nightstand/lamp. Altar is tiny enough to not interfere with dresser on adjacent Wall A. 
+
+User seems detail-oriented - they caught contradictions in earlier suggestions. This solution should hold up to their scrutiny. Might add that altar/dresser on adjacent walls creates visual flow toward door.
+</think>
+Based on your updated constraints (poster visibility, nightstand, lamp), here's a **clear, functional layout** that fits all rules:
+
+### Furniture & Decor Placement:
+1. **Wall A (North Door):**  
+   - **Dresser** (3'x1') *against the wall*, flush with the door.  
+   - **Floor Lamp** (on floor, beside the dresser).  
+   - **Altar** (2'x1') *away from the foot of the bed*, centered on the wall.  
+
+2. **Wall B (East Windows - No Furniture):**  
+   - **POSTER ONLY** (on this wall, centered).  
+   - *No furniture* as requested.  
+
+3. **Wall C:**  
+   - **HEAD OF BED** (6'x3') *against this wall*, centered.  
+   - **NIGHTSTAND** (small table) *on floor, beside the bed’s headboard*.  
+
+4. **Wall D (Opposite Windows/Wall B):**  
+   - **FOOT OF BED** *against this wall*.  
+   - **FLOOR LAMP** (on floor, beside the bed’s footboard).  
+
+### Why This Works:
+- **Windows Protected:** No furniture on Wall B (only the poster).  
+- **Altar Rule Met:** Dresser foot (on Wall A) points sideways, **not** toward altar (on Wall C).  
+- **Poster Visibility:** dresser on Wall A leaves space for the poster on Wall B.  
+- **Flow:** Nightstand/lamp beside bed, lamp beside bed’s foot for reading.  
+- **Space Efficiency:** All pieces fit within 10ft walls with 1–2 ft clearance.  
+
+### Visual Summary:
+```
+Wall A (North - Door):  
+[ Dresser ] → [ Floor Lamp ]  
+
+Wall B (East - Windows):  
+[ POSTER ]  
+
+Wall C:  
+Altar  
+
+Wall D (South - Opposite Windows):  
+[ Head of Bed ] → [ Nightstand ] → [ Foot of Bed ] → [ Floor Lamp ]
+```
+
+This arrangement prioritizes safety rules, workflow (nightstand/lamp access), and decor visibility. Adjust nightstand/lamp positions slightly if needed!

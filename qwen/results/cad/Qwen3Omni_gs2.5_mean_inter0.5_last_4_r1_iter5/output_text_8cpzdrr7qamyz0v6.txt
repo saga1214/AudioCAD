@@ -1,0 +1,63 @@
+Great question! Let's break it down based on your investment of $10,000 in a stock priced at $62.87 per share.
+
+### Step 1: How many shares can you buy?
+You have $10,000 to invest.
+
+$$
+\text{Number of shares} = \frac{10,000}{62.87} \approx 159.13
+$$
+
+Since you can't buy a fraction of a share in most cases, you'd buy **159 shares**.
+
+$$
+\text{Total cost} = 159 \times 62.87 = 9,996.33
+$$
+
+So you’d spend $9,996.33 and have about $3.67 left over.
+
+---
+
+### Step 2: Your 10% gain target
+You want at least a 10% return within a month.
+
+$$
+\text{Target price per share} = 62.87 \times 1.10 = 69.157 \approx \$69.16
+$$
+
+$$
+\text{Total value at gain} = 159 \times 69.16 = 11,000.44
+$$
+
+$$
+\text{Total gain} = 11,000.44 - 9,996.33 = \$1,004.11
+$$
+
+So you’d make about **$1,004.11**, which is just over 10% of your $10,000 investment.
+
+---
+
+### Step 3: Your 10% loss limit
+You don’t want to lose more than 10%.
+
+$$
+\text{Stop-loss price per share} = 62.87 \times 0.90 = 56.583 \approx \$56.58
+$$
+
+$$
+\text{Total value at stop-loss} = 159 \times 56.58 = 8,996.22
+$$
+
+$$
+\text{Total loss} = 9,996.33 - 8,996.22 = \$1,000.11
+$$
+
+So you’d lose about **$1,000.11**, which is just under 10% of your $10,000 investment.
+
+---
+
+### Summary:
+- **Buy**: 159 shares at $62.87 → $9,996.33
+- **Target price for 10% gain**: $69.16 → Total value: ~$11,000.44 → Gain: ~$1,004
+- **Stop-loss price for 10% loss limit**: $56.58 → Total value: ~$8,996 → Loss: ~$1,000
+
+This matches your goals exactly: aiming for a 10% gain and limiting loss to 10%. Just remember, the market doesn’t guarantee this will happen in a month.

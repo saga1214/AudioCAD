@@ -1,0 +1,11 @@
+Got it. Here’s a scenario that highlights a really important exception for college-level certification because confusion over this rule leads to a lot of吹罚 mistakes in college soccer.
+
+So, imagine this: The Red Team is attacking. Player number nine is in an offside position, behind the second-to-last defender. At that moment, the Red Defender accidentally touches the ball with their foot. The ball bounces away and then directly rebounds off the stadium wall, landing perfectly for Player number nine to control and shoot on goal. Player nine scores.
+
+Now, here’s the key difference, which your certification exam might test. 
+
+According to the strict definition you studied earlier, Defender's deliberate control resets offside. A deflection or rebound does not. Logically, that would mean this is an offside offense against player nine.
+
+But, and this is the special restart exception you asked about earlier, for corner kicks, free kicks, and goals kicks, the rules are different. If a defender's touch is the *only* thing preventing the ball from going directly to an offside player, it is still considered an offside offense.
+
+So, in this goal-scoring scenario, it IS an offside offense. Even though the defender's touch was the only thing that helped the attacker get the ball, the special rule for a goal-scoring opportunity overrides the general defender-deflection rule.

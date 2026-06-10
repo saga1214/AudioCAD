@@ -1,0 +1,13 @@
+You're right to question that. "Saccadic masking" is pronounced roughly like "suh-KAH-dik masking." The 'suh' part is like the 's' in 'sun', and the 'KA-dik' is like 'cady' with a hard 'k'.
+
+To answer your question: No, the eye does not see continuously in the sense of a perfect, steady recording. It's more accurate to say that the eye detects changes in light and movement very rapidly, but it doesn’t process or perceive every single frame as a distinct event.
+
+Here’s why: The eye relies on a process called “motion integration.” It uses the difference between images seen over tiny time intervals to perceive motion. This is how we get a smooth perception of movement, even though the eye isn’t seeing a continuous stream of perfect images.
+
+During a saccade, the eye is actively moving, and the brain suppresses blur and other details to prevent motion sickness or visual confusion. So, while the eye might be sensing a lot of rapid visual information, the brain’s processing during a saccade essentially ignores or downplays it.
+
+So, if we break it down: The eye senses rapidly changing visual information, but the brain integrates and smooths it into a continuous perception. Saccadic masking shows that the brain actively filters out certain visual details during eye movements, so it’s not that the eye sees continuously, but that the brain *perceives* continuously.
+
+Think of it this way: The eye is like a camera with a very fast shutter speed, but the brain is the editor that compiles the footage into a continuous, stable film. Without the brain’s processing, the visual experience would be choppy and full of blur. 
+
+Does that distinction make sense?

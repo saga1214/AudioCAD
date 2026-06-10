@@ -1,0 +1,26 @@
+Okay, let me tackle this user's query. They want to know if they can still get four jumps in with an arrival at 10 AM and leaving by 3 PM. First, I need to recall the previous schedule. Earlier, we planned five jumps with a start at 9 AM, but now the arrival is later at 10 AM. 
+
+The user mentioned each jump takes an hour, plus time between jumps. So, four jumps would take 3 hours of actual jumping time. But there's also the briefing and safety time. At 10 AM, they can start the briefing and first jump around 10:30 AM. That's 30 minutes for the first jump. 
+
+Next jump at 11:30 AM, which is 60 minutes. Then another 60 minutes for the third jump at 12:30 PM. Lunch break is at noon, so they need to finish the third jump by 12 PM to have an hour for lunch. The fourth jump would start at 1 PM, taking 60 minutes until 2 PM. 
+
+Finishing at 2 PM means they can leave by 3 PM. So yes, four jumps fit within the timeframe. The user's constraint of 10 AM arrival and 3 PM departure allows four jumps. The earlier schedule with five jumps required a 9 AM start, but now with 10 AM, four jumps are feasible. The user's main need is to maximize jumps within their limited time, and the schedule meets that. They might also want efficiency without compromising safety, which the planned breaks ensure.
+</think>
+Based on your constraints of **arriving at 10 AM and leaving by 3 PM**, here's your schedule for **4 jumps**:
+
+1.  **10:00 AM - 10:30 AM:** Arrival, Briefing & Safety Check
+2.  **10:30 AM - 11:30 AM:** Jump #1
+3.  **11:30 AM - 12:30 PM:** Jump #2
+4.  **12:30 PM - 1:30 PM:** Lunch Break
+5.  **1:30 PM - 2:30 PM:** Jump #3
+6.  **2:30 PM - 3:30 PM:** Jump #4
+
+**Key Details:**
+
+*   **Total Jump Time:** 4 jumps x 1 hour each = 4 hours.
+*   **Total Activity Time:** 4 hours (Jumps) + 1 hour (Briefing/Safety) + 1 hour (Lunch) = 6 hours.
+*   **Arrival to Finish:** 10:00 AM to 3:30 PM = 5.5 hours, which fits the 6 hours of planned activity.
+*   **Lunch:** You have a full hour for lunch after Jump #2.
+*   **Finish Time:** You will be finished with your **final jump at 2:30 PM** and can depart by 3:30 PM.
+
+**Conclusion:** Yes, you can absolutely fit **4 jumps** into your 10 AM to 3 PM timeframe, including your required hour-long lunch break.

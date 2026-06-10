@@ -1,0 +1,89 @@
+Thanks for the additional details — that helps a lot! Let's go step by step to make sure everything fits well and meets your needs.
+
+### Your constraints:
+- Room is **10 ft × 10 ft** (square).
+- **Wall A**: North, has the **door**.
+- **Wall B**: East, has the **windows**.
+- **Wall C**: South.
+- **Wall D**: West.
+- You **don’t want to hang anything on Wall B** (the window wall).
+- **Bed**: 6 ft × 3 ft.
+- **Altar**: 2 ft × 1 ft.
+- **Dresser**: 3 ft × 1 ft.
+- **Poster**: Takes up most of one wall.
+- **In-table**: Needs to go **next to the bed**.
+- **Foot of the bed cannot point toward the altar**.
+
+---
+
+### Step 1: Place the bed
+You want the **in-table next to the bed**, so the bed needs to be placed where there's space for that.
+
+Let’s place the **head of the bed against Wall D (West)**. That gives you space on the **East side (Wall B)** for the **in-table**.
+
+So:
+- **Bed**: Head against Wall D (West), foot toward Wall B (East).
+- **In-table**: Place it on Wall B (East), next to the bed.
+
+This works well — the in-table is right beside the bed, and the foot of the bed is pointing **toward the windows**, which is fine.
+
+---
+
+### Step 2: Place the altar
+You said the **foot of the bed cannot point toward the altar**, so the altar **cannot be on Wall B (East)** — that’s where the foot of the bed is pointing.
+
+So the altar **cannot be on Wall B**.
+
+Also, you don’t want to hang anything on Wall B, so **poster cannot go on Wall B**.
+
+So Wall B is **off-limits** for both altar and poster.
+
+That leaves:
+- Wall A (North): has door
+- Wall C (South): no features mentioned
+- Wall D (West): has head of bed
+
+So **poster** can go on **Wall A or Wall C**.
+
+But Wall A has the **door**, so if you put the poster there, it might be partially blocked or awkward.
+
+So **Wall C (South)** is the best option for the **poster** — it's free, large, and won't interfere with door or bed.
+
+So:
+- **Poster**: Wall C (South)
+
+Now, **altar** can go on Wall A (North) or Wall D (West), but Wall D already has the head of the bed.
+
+If you put the altar on Wall D, it would be **next to the bed**, which might be okay, but you need to make sure the **foot of the bed isn't pointing at it**.
+
+Since the **head of the bed is on Wall D**, the **foot is pointing toward Wall B**, so the altar on Wall D would be **at the head of the bed**, not the foot — so that’s fine.
+
+But Wall D is already occupied by the head of the bed, so you can place the altar **on Wall D**, near the head of the bed, as long as it's not blocking access.
+
+Alternatively, Wall A (North) is free — it has the door, but you can place the altar **on the wall next to the door**, not blocking it.
+
+So two good options for altar:
+1. **Wall A (North)**, near the door
+2. **Wall D (West)**, near the head of the bed
+
+But if you put the altar on Wall D, it might be too close to the bed.
+
+So **Wall A (North)** is better — it's away from the bed, and you can place the altar **on the wall opposite the bed**, so it's not in the foot's line.
+
+So:
+- **Altar**: Wall A (North), near the door but not blocking it
+
+Now, **dresser**: 3 ft × 1 ft
+
+Where can it go?
+
+- Wall B: windows — can't go there (poster can't go there either, but we already decided poster is on Wall C)
+- Wall C: has poster — but the dresser is only 3 ft long, so it can go **under** the poster, or **next to it**, as long as it doesn't block the poster.
+
+But you said the **dresser would cover the poster** if placed where the poster is — so the dresser **cannot go on Wall C**.
+
+So dresser cannot go on Wall C.
+
+Wall D: has head of the bed — but you can place the dresser **on Wall D**, near the foot of the bed, as long as it doesn't block access.
+
+But Wall D is already occupied by the head of the bed — but there's

@@ -1,0 +1,3 @@
+</string tuning app will guide you really well. You strum a single string while the app listens. It will tell you if a note is sharp, which means you need to gently turn the tuning peg on the headstock to loosen the string, or if it's flat, and you'll need to do the opposite to tighten it.
+
+For acoustic guitar, standard tuning is E-A-D-G-B-E, from thickest to thinnest.

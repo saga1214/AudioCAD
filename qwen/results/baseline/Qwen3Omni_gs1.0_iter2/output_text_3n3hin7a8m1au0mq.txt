@@ -1,0 +1,53 @@
+Yes, you can still get four jumps in under those constraints.
+
+Here’s how it works:
+
+- **10:00 AM – Arrival & Safety Briefing**  
+  (Typically takes 30–45 minutes)
+
+- **10:45 AM – Jump 1**  
+  (1 hour duration)
+
+- **11:45 AM – Jump 2**  
+  (1 hour duration)
+
+- **12:45 PM – Lunch Break**  
+  (You can take a full hour, ending at 1:45 PM)
+
+- **1:45 PM – Jump 3**  
+  (1 hour duration)
+
+- **2:45 PM – Jump 4**  
+  (1 hour duration)
+
+✅ **Finish Time: 3:45 PM**
+
+Wait — that’s **15 minutes past** your 3:00 PM departure time.
+
+So, **you cannot fit four full jumps** if you must leave by 3:00 PM.
+
+Let’s adjust:
+
+### Option: **Three Jumps Total**
+
+- **10:00 AM – Arrival & Briefing**  
+  (45 minutes)
+
+- **10:45 AM – Jump 1**  
+  (1 hour)
+
+- **11:45 AM – Jump 2**  
+  (1 hour)
+
+- **12:45 PM – Lunch Break**  
+  (1 hour)
+
+- **1:45 PM – Jump 3**  
+  (1 hour)
+
+✅ **Finish Time: 2:45 PM** → You can leave by 3:00 PM with 15 minutes buffer.
+
+### Final Answer:
+With a 10:00 AM arrival and a 3:00 PM departure, and each jump taking 1 hour, you can do **three jumps**.
+
+You’ll finish at 2:45 PM, giving you time to pack up and leave by 3:00 PM.

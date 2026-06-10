@@ -1,0 +1,4 @@
+</</think>
+Of course, let's just quickly break it all down. So... a regular bit is that light switch—it's on or off. A quantum qubit is an actor who could be all things at once—that's superposition. Taking a measurement is when the director says "Action!" and the actor has to pick just one role.
+
+Entanglement is those linked actors whose roles define each other instantly. The budget of superposition is the time it takes for the actor to hold that potential role. Noise on set, decoherence, is the distraction that makes the actor break character. Editing, or error correction, is post-production where you fix those mistakes. Quibs are your individual actors. And the final cut... well, that's the solution you get after the whole thing is over. See? It helps to think of it that way.

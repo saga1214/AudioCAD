@@ -1,0 +1,5 @@
+Hmm, actually, even at really cold rink temperatures like minus ten degrees Celsius, the coefficient of friction between skate blades and ice is unlikely to drop that low—around 0.005 or 0.008. In fact, it’s more likely to be in the range of 0.02 to 0.05 under those conditions. The reason is that the science behind skating friction isn’t just about temperature—it’s also about pressure melting and the formation of a thin liquid layer on the ice surface.
+
+When a skater glides, the pressure from the blade lowers the melting point of ice locally, creating a thin film of water that acts as a lubricant. But at very low temperatures, this pressure-induced melting effect is less effective because the ice is harder and more stable. So while colder ice might seem like it should be slicker, it can actually be more resistant to sliding.
+
+So, to clarify: colder ice doesn’t necessarily mean lower friction. In fact, for figure skating, rinks are usually kept around minus five degrees Celsius—not colder—to balance glide smoothness and control.

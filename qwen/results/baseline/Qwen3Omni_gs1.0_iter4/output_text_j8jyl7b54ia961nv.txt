@@ -1,0 +1,7 @@
+Yes, if we give public resistance a higher weight—say, double the importance compared to other factors—the vaccination campaign's score drops significantly.
+
+Let's say we re-weight the factors: public acceptance gets a 40% share, long-term impact 25%, cost-efficiency 20%, and difficulty 15%. Now, the vaccination campaign's public resistance score of 3 becomes a major drag. Even with high impact and cost-efficiency, that low public acceptance drags down its overall score.
+
+Meanwhile, the sugar campaign, while harder to implement, has better public acceptance and a more gradual, less controversial rollout. So, under this new weighting, the sugar campaign might actually come out on top.
+
+It shows that in public health, especially in a democratic society, public trust and acceptance can be just as important as medical effectiveness.

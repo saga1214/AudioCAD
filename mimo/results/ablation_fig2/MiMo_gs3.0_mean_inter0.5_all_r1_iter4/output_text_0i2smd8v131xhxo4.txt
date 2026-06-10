@@ -1,0 +1,56 @@
+Okay, let's tackle this user's query. They mentioned can't have soy anymore, reworking home studio setup issues with harsh audio using a Blue Yeti and Scarlett Solo, warm-ups for vocal endurance, importance of room-temperature water, DAW switching advice, reliable AI tools, workflow balance, and finally craving soy-free meals. 
+
+First, harsh audio. Side address with hand's-width distance is key. Blankets for ac treatment instead of panels is practical advice already given. User seems new to studio setup, so simple fixes first.
+
+Vocal fatigue tips provided—lip trills, diaphragmatic breathing, hydration, breaks. Audiobook habits like marking scripts and posture are good. User does character work, so endurance is crucial. They might be new to voice work, leading to strain.
+
+Room-temp water question clarified. User might not know the science, so explaining tension and hydration helps. 
+
+DAW question: Audition vs. Audacity. Learning curve but long-term efficiency. Mentioning iZotope RX for noise cleanup. User is considering upgrading, showing growth mindset. Organizing projects with folders is basic but important. 
+
+AI tools reliability—maybe suggest specific tools like Descript for editing, but note that labeling AI isn't fully reliable yet. Pros balance by scheduling marketing time, not just recording. User's burnout signs (skipping meals) are red flags. 
+
+Finally, soy-free meals. They have a nearby Americanized Asian restaurant. Recommendations: teriyaki chicken (soy-free), sesame ginger beef, or edamame. Quick, flavorful options. 
+
+User's deeper needs: They're growing as a voice actor—tech setup, health, workflow efficiency. Harsh sound and fatigue suggest foundational issues. They might feel overwhelmed juggling recording, editing, and admin. The meal request shows they need practical, immediate solutions while working on bigger goals. 
+
+Balancing studio advice with health tips is key. Emphasize vocal rest and hydration. For DAW, suggest gradual transition with tutorials. AI tools can save time but need manual checks. Most importantly, prioritize vocal health to sustain their career. The meal suggestion is a small but tangible way to support their well-being during long sessions.
+</think>
+Here's a breakdown addressing your studio, workflow, and well-being concerns:
+
+**Home Studio Tips:**
+1. Yeti Mic: Always speak into the logo-facing side. Maintain ~6 inches distance for warmth.
+2. Acoustic Treatment: Heavy blankets吸收 reflections better than nothing initially. Place your mic 6-12 inches from your mouth.
+3. Harshness Fix: Enable the Yeti's "Heartbeat" mode for natural warmth and roll off harsh frequencies.
+
+**DAW Transition & Editing:**
+- Adobe Audition is worth switching for:  
+  ✓ Multi-track editing  
+  ✓ Superior noise reduction (Audition's AI noise reduction is industry-standard)  
+  ✓ Faster automation and batch processing
+- Plugins for mouth clicks/noise:  
+  • iZotope RX 10 (De-click, De-noise)  
+  • Waves Clarity Vx (for breath/mouth noise)
+- Workflow Tip: Use Audition's "Auto-Label" feature for basic track tagging. Start small—add Audition to your workflow gradually.
+
+**Vocal Health Essentials:**
+1. Warm-ups凉拌: 5-min routine (lip trills → scales → tongue twisters) before recording
+2. Hydration: Sip warm herbal tea between takes (avoid cold water)
+3. Breathing: Practice 4-7-8 breathing (inhale 4s, hold 7s, exhale 8s)
+4. Breaks: 5-min breaks every hour. Set a timer!
+5. Diet: Your requested soy-free meals:  
+   • Teriyaki Chicken Bowl (confirm soy-free sauce)  
+   • Sesame Ginger Beef (ask for no soy sauce)  
+   • Edamame ( Request tamari instead of soy sauce)  
+   • Veggie Stir-fry (specify no tofu/soy)
+
+**Pro Workflow Balance:**
+- Time Blocking凉拌: 30% recording, 40% editing, 30% marketing/admin
+- Organization: Use Audition's "Projects" folder with client-specific subfolders
+- AI Tools: Descript (transcription/editing), Otter.ai (note-taking)
+- Avoid Burnout:  
+  • Voice rest days every 2 weeks  
+  • "Recording only" mornings, marketing evenings  
+  • Hydrate with room-temp water (tense vocal cords in cold water)
+
+Harshness and fatigue usually stem from room reflections meeting improper mic technique. Prioritize blankets and breathing exercises first—these fix 80% of common new-voice-actor issues. For DAW transition, start with Audition's YouTube tutorials ("Audition for Beginners" by Audiomaxx). Your soy-free meal choice shows smart dietary awareness—opt for the edamame or stir-fry for protein-rich recovery!

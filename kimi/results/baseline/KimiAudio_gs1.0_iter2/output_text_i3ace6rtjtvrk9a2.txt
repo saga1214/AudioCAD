@@ -1,0 +1,13 @@
+You're right, it's "saccadic" (pronounced "sah-KAH-dik"). I apologize for any confusion.
+
+Now, regarding your question: Yes, it's accurate to say that the eye sees continuously, but with some caveats. The eye doesn't see continuously in the sense that it's always recording a perfect, unbroken image. Instead, it's more like a series of snapshots taken at rapid intervals.
+
+Here's how it works:
+
+1. **Foveal Vision**: The eye has a central point of focus called the fovea, which is where the highest concentration of photoreceptors (cones) are located. This is where we see the sharpest, most detailed vision.
+
+2. **Saccades**: As you move your eyes, they make quick, jerky movements called saccades. During these movements, the visual input is actually blocked or masked by the brain. This is saccadic masking.
+
+3. **Interpolation**: Between saccades, the brain fills in the gaps using the information from the previous and next fixations. This is why we perceive a continuous image even though our eyes are constantly moving.
+
+So, while the eye doesn't see continuously in the sense that it's always recording a perfect, unbroken image, the brain processes the visual information in such a way that we perceive a seamless, continuous view of the world. The eye and brain work together to create the illusion of continuous vision, even though there are brief moments of visual masking during rapid eye movements.

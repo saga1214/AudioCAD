@@ -1,0 +1,46 @@
+Got it, let's figure this out. Since the window wall is off-limits and you can't put the dresser over the poster, let's try this layout on Wall C.
+
+First, put the foot of your six-foot bed touching the window wall, on Wall D. This lets us put the headboard against Wall C.
+
+Next, place your altar against Wall A, next to the door.
+
+For the dresser, you can put it on Wall B, the east wall with the windows, but not against it. For example, you could place it in the corner where Wall B and Wall D meet, flush with Wall B.
+
+Then, for the floor lamp, put it next to your bed on Wall D, near the window.
+
+And for the poster, you can hang it on Wall C, above where your dresser is. That way, the dresser can be below it and not cover it up.
+
+This should give you plenty of room to move around.
+</think>
+Here’s a revised layout that accommodates the poster, end table, and floor lamp while adhering to all constraints:
+
+1. **Bed (6'x3')**: Place with **foot pointing toward Wall B (East/Windows)**. Position it flush with Wall D (10 ft corner-to-corner), so the **headboard is against Wall C**.  
+   - *Why*: Keeps foot from pointing at altar (on Wall A), avoids Windows wall, and leaves space for other furniture.
+
+2. **Altar (2'x1')**: Place against **Wall A (North/Door)**, near the door but not blocking it.  
+   - *Why*: Rules altar avoidance is satisfied; foot of bed now points East (toward Windows, acceptable).
+
+3. **Dresser (3'x1')**: Place flush with **Wall B (East/Windows)**, in the corner where Wall B and Wall D meet.  
+   - *Why*: Windows wall is not used for furniture *against* the Windows, but the front face faces inward. It fits the corner efficiently.
+
+4. **Poster**: Hang on **Wall C** (opposite Door), centered above the dresser.  
+   - *Why*: Wall C has space; dresser below poster avoids covering it. No hanging on Windows wall.
+
+5. **End Table**: Place next to the bed on **Wall D** (West/South), near the window.  
+   - *Why*: Easy access from bed; away from altar/drawer.
+
+6. **Floor Lamp**: Place on Wall D, opposite the end table, between the bed and window.  
+   - *Why*: Provides light without blocking pathways; near the window for natural light.
+
+### Final Layout Summary:
+- **Wall A (Door)**: Altar (against).  
+- **Wall B (Windows)**: Dresser (front-facing inward, not against wall).  
+- **Wall C**: Poster (above dresser).  
+- **Wall D (West)**: Bed (foot East), End Table (left), Floor Lamp (right).  
+
+### Key Benefits:
+- **Rules Met**: Windows wall has no hanging or furniture against it; bed’s foot points East (away from altar).  
+- **Flow**: Clear pathways from door to bed, and access to altar/drawer.  
+- **Efficiency**: All furniture fits within 10-ft walls; no wasted space.  
+
+If space is tight, adjust the end table/floor lamp slightly inward from the wall to maximize floor space. Let me know if you need tweaks!

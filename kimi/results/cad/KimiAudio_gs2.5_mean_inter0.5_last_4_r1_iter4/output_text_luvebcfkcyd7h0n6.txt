@@ -1,0 +1,13 @@
+Let's break it down:
+
+Regular Bit: Light Switch in Scene - Either On or Off.
+
+Qubit: Actor Who Could Be the Hero, Villain, Background Character All at Once (Superposition).
+
+"Action!": Measurement That Forces the Qubit to Commit to One Specific Role.
+
+Entanglement: Two Actors Whose Performances are Linked (One Becomes Hero, Other Instantly Becomes Villain).
+
+Budget: Amount of Time Actors Can Hold All Their Potential Roles at Once.
+
+Outside Noise/Distractions: Can Distract Actors and Make Them Break Character (Quant

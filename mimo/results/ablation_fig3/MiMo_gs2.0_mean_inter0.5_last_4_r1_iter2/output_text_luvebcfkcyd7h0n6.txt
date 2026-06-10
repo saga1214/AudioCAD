@@ -1,0 +1,9 @@
+Alright, let's break this down. 
+
+First, a regular bit is like a light switch on or off. A qubit is an actor who could be multiple roles at once—that's superposition. Taking a measurement is the director saying "Action!", and the actor has to pick one role.
+
+Decoherence is that random noise, like a phone ringing, that breaks the actor's potential before they've even performed. The budget is how long the actor can hold that potential.
+
+Entanglement is when two actors' performances are linked. If one becomes the hero, the other instantly becomes the villain. Error correction is like the post-production editing where you fix the mistakes. Quibits are the individual actors you have. And the final cut is the answer you get after the whole process is done. 
+
+Does that help clear things up a bit?

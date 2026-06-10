@@ -1,0 +1,15 @@
+Absolutely. Let's go through them again, one by one, to make sure it's super clear. 
+
+Alright, so first up is regular bits versus quantum bits. A regular bit is just a light switch, you know, on or off. That's like a scene in a movie where a character is either wearing a red coat or a blue coat. Super simple. But a quantum bit, a qubit, is an actor who could be wearing the red coat, the blue coat, or even a green coat, all at the exact same time. That's superposition. Then when the director yells "Action!", the actor instantly has to pick one coat to wear. That's taking a measurement. Entanglement is like having two actors whose roles are linked. The moment one is cast wearing the red coat, the other instantly puts on the villain's black coat, no matter where they are on the set. Simple as that.
+
+Then we talked about budgets. That's the time actors have to hold all their potential roles at once. Outside noise, like a phone ringing, distracts them and can break character. You have to finish shooting—that's taking your measurement—before that budget of focus runs out.
+
+Editing? That's quantum error correction. Even the best actor might make a small mistake during a take. Editing is that whole post-production process where you find and correct those errors. It's how you make sure the final answer you get is the right one.
+
+And qubits... those are just your actors. Each one can hold multiple roles. The more actors you have, the more complex the story you can tell all at once.
+
+The final cut... that's your solution. It's the finished movie you get after all the acting and editing. You measure the qubits, and that gives you a single, clear answer.
+
+And for your last question about resetting... once an actor commits to a role in a take, they can't go back and choose another part for that specific performance. But, you can always reset the whole scene and start a new take. In that new take, the actor might commit to a different role. It's like running the calculation again to see one of the other possible answers.
+
+And decoherence... that's just random noise on set. A phone rings, an actor coughs... that breaks the magic and ruins the scene before the director even starts. You have to reset and start over. See? Each concept has a really clear counterpart in this production world.

@@ -1,0 +1,11 @@
+Let's talk about high school and college offside rules. The main difference is how they define the defender used for the offside check. 
+
+In high school soccer, you use the very last defender. College uses the second-to-last defender.
+
+Here’s a scenario to illustrate that. Let's say Red Team is attacking Blue Team's goal. Red number 9 is behind Blue number 5, who is behind Blue number 2. Red number 10 plays a through ball. Red number 9 runs past both defenders and gets the ball to score.
+
+For the high school rulebook, you would look at the last defender on the field, which is number 2. Since Red number 9 is closer to the goal line than both ball and number 2 when the ball is played, that's an offside offense.
+
+However, for the college rulebook, you use the second-to-last defender, which is number 5. Since Red number 9 is ahead of number 5 and not closer to the goal line than both the ball and number 5, they were not in an offside position. Therefore, no offense. 
+
+So, the outcome of the play can completely change depending on which rulebook you're using.

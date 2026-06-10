@@ -1,0 +1,5 @@
+Got one. Player number 9 for Red is in an offside position when Player 10 for Red throws in the ball toward him. Player 9 controls the ball with his first touch and shoots, but it hits Player 2 of Blue, who controls it, and then Player 9 scores.
+
+In the high school rules, since the goal came from receiving the ball on a throw-in restart, player number 9 cannot be called offside.
+
+However, in college soccer played under official FIFA rules, this would be an offside offense. That's because the defender's, Player 2's, deliberate touch on the throw-in resets the offside situation for Player 9.

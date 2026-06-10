@@ -1,0 +1,61 @@
+You're absolutely right to ask for clarification — and thank you for being so precise.
+
+Let’s go step by step.
+
+### 1. Pronunciation of "saccadic masking"
+
+The correct word is **saccadic**, pronounced:
+
+**/səˈkæd.ɪk/**  
+(“suh-KAD-ik”)
+
+Breakdown:
+- **suh** — like the "a" in "sofa"
+- **KAD** — like "cad" as in "cadence"
+- **ik** — like "ic" in "magic"
+
+So: **suh-KAD-ik**
+
+And **saccadic masking** is the full term.
+
+It refers to the phenomenon where your brain suppresses visual input during rapid eye movements (saccades), so you don’t perceive the blur or motion.
+
+---
+
+### 2. Does the eye "see continuously"?
+
+This is a really important distinction.
+
+**No, the eye does not see continuously.**
+
+Here’s why:
+
+- Your eyes are constantly making tiny, rapid movements called **microsaccades** and larger ones called **saccades**.
+- During each saccade, your brain **temporarily suppresses visual input** — this is saccadic masking.
+- So, you’re not seeing a continuous stream of images. Instead, your brain stitches together snapshots from the moments between saccades.
+
+Think of it like this:  
+Imagine you’re watching a movie, but the projector flickers on and off every 1/20th of a second. But because your brain fills in the gaps, you don’t notice the flicker — you see a smooth image.
+
+Similarly, your brain takes the visual snapshots from the brief moments when your eyes are still, and fills in the motion between them. That’s how you perceive **continuous motion** — even though your eyes are actually capturing discrete moments.
+
+So, to answer your question:
+
+> **"Would it be correct to say that the eye sees continuously?"**
+
+**No — it would not be correct.**
+
+The eye captures visual information in discrete snapshots (like a camera), but the brain processes and integrates that information to create the **illusion of continuous vision**.
+
+That’s why we perceive the world as smooth and stable, even though our eyes are constantly jumping around and our brain is doing a lot of "filling in" behind the scenes.
+
+---
+
+### Summary:
+
+- **Saccadic masking**: Your brain blocks visual processing during rapid eye movements.
+- **Saccadic** is pronounced: **/səˈkæd.ɪk/** (suh-KAD-ik).
+- The eye does **not** see continuously — it captures snapshots.
+- The brain **creates the perception** of continuity by stitching those snapshots together.
+
+You're asking exactly the right questions — this is how perception actually works!

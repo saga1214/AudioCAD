@@ -1,0 +1,15 @@
+You're absolutely right to ask about "saccadic masking." The word is pronounced "suh-KAH-dee-kuh" or "suh-KAH-dee-see." I’ll break it down: the first syllable is like "suh," the second is "KAH," and the last two are "deed-kuh."
+
+So, to your question: No, the eye does not see continuously in the way a camera would, like a constant stream of frames. Instead, vision is a mix of what the eye sees and how the brain processes it.
+
+Here’s the breakdown:
+
+1.  **Eye Sensing:** Your eyes are always scanning, but they don't focus on everything at once. They move in those quick jumps, called saccades, to shift focus. When you do a saccade, your visual field blurs for a moment, and your brain actually suppresses that blur so you don’t feel dizzy.
+
+2.  **Brain Processing:** The brain takes all the visual information and pieces it together into a stable, continuous image. It fills in the gaps between the saccades and smooths out jerky movements. That’s why you perceive a continuous world, even though your eyes are jumping around.
+
+3.  **What We Perceive:** So, to answer your question, the eye isn’t seeing a constant, unbroken stream of frames. It’s more like a series of very fast snapshots with a smooth brain edit. That’s why at 24 frames per second, movies feel real—it’s close enough to how our brain naturally smooths things out.
+
+So, in filmmaking, shooting at 24 frames per second works because it’s close to how the brain naturally interprets motion. If you used 60 frames per second, it would look smoother but feel more video-like because it’s closer to real-time motion, which lacks that filmic quality.
+
+To sum it up: The eye senses in short bursts, and the brain stitches it all together. That’s why 24 frames per second feels like reality to most people.

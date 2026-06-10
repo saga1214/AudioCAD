@@ -1,0 +1,24 @@
+</</think>
+Absolutely. Let's just quickly go over them again.
+
+Regular Bit? Uh, that's the light switch I mentioned—it's either on or off.
+
+A single Qubit... that's one actor who could be all things at once.
+
+Taking a Measurement is when the director yells "Action!", and the actor has to immediately pick just one role.
+
+Entanglement is having those linked actors whose roles define each other instantly across the production set.
+
+Budget Decoherence... that's the noise on set that ruins the take *before* you even measure it.
+
+Quantum Error Correction is the post-production editing where you find and fix those mistakes.
+
+Quibsits, plural, are just your team of actors. The more you add, the more potential you have for parallel processing.
+
+Taking Measurement again, you collapse the whole state down to a single, definite answer—the Final Cut.
+
+Resetting the computation is like restarting a whole new take with fresh potential.
+
+Measurement again, you're collapsing the superposition into a definite state.
+
+And Decoherence again... that's the external noise that destroys the quantum state before you even measure it. It's a really key concept.

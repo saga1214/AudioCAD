@@ -1,0 +1,9 @@
+Here's a scenario comparing US Soccer High School rules with FIFA rules, using the Red and Blue teams.
+
+First, the scenario: The Red Team is defending their goal. A Red Defender, let's call him Red D-2, is the second-to-last defender. Just behind him, in an offside position, is a Blue Team player, Blue F. The Red Team Goalkeeper, Red GK, receives the ball from a goal kick and takes a few steps before passing the ball with his right foot to a Red Midfielder, Red M, who is in a safe, onside position. The Blue F player is still behind Red D-2 and closer to the goal than both the ball and the second-to-last defender.
+
+Now, let's apply the two rulebooks.
+
+First, according to US Soccer High School rules: Since the goalkeeper is considered a defender, Blue F is in an offside position when the goalkeeper plays the ball. Because he's in an offside position and plays an active part in the play by being there when the ball is played, it is an offside offense. The referee would blow the whistle, and a free kick would be awarded to the Red Team.
+
+Second, according to FIFA rules: The goalkeeper is an exception to the offside rule. Therefore, Blue F is in an offside position when the goalkeeper plays the ball, but it is not an offense. The referee would not blow the whistle, play would continue, and the pass to Red M is legal.

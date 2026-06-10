@@ -1,0 +1,67 @@
+Alright, let's tackle this step by step. The user has given specific walls and restrictions: each wall is 10 ft corner-to-corner. Door is North on Wall A, Windows/East on Wall B must be furniture-free, Bag foot can't point to Altar, which is presumably South on Wall C across from Wall A? The user mentioned assuming Wall C is across from A and Wall D across from B, but didn't specify directions for C and D. Let's assume standard cardinal directions for clarity: North is Wall A, East is Wall B, West would be Wall D (across from A/B), and South would be Wall C (across from D/B). The Windows rule means no furniture against Wall B (East). Also, placing the Altar prevents the bag's foot from pointing at it, meaning the bed's foot should not face where the altar is. 
+
+Previous suggestions caused issues: first layout put altar on Wall C opposite the door, but the user corrected that the bed foot would block access. Second layout put both altar and dresser on Wall C, which the user found too cramped. Now, new constraints: a poster that must occupy most of one wall but cannot be covered by the dresser, an endtable next to the bed, and a floor lamp. 
+
+First, prioritize rules: avoid Wall B. Altar placement must ensure the bag's foot isn't facing it—likely meaning the bed shouldn't be directly opposite the altar. Since the bed dimensions are six-foot by three-foot, orientation matters. Assuming "foot" refers to the head end, perhaps the bed is placed with its head towards Wall B? But Wall B is Windows and posters are there. Conflict. Maybe "foot" means the end away from the altar, so the bed should not be placed so that its rear faces the altar. 
+
+Poster placement: it needs most of a wall but not covered by dresser. If the dresser is placed on Wall C, it might not cover the poster. If the poster is on Wall B, the dresser can't go above it without covering. So poster on Wall B, dresser elsewhere. 
+
+Altar placement: to avoid bag's foot pointing, it should not be placed opposite where the bag is. Assuming bag is near the bed, the altar should not be placed opposite the bed's head end. Placing altar on Wall A (door) or Wall D (west) might work. 
+
+Bed placement: on Wall D (west) or Wall C (south). Wall C is shorter? Ten ft is diagonal, so wall length is ten times sine of the wall angle. But without a floor plan, assume walls are 10 ft long. Wall D opposite A is 10 ft. Placing 6ft bed on Wall D leaves 4ft for an endtable. 
+
+Dresser: three-by-one, could go on Wall C or near bed. Lamp needs power, so near an outlet. 
+
+Final plan: 
+- Poster on Wall B (east), covering most space. 
+- Altar on Wall D (west), say two-foot-long edge. 
+- Bed on Wall D, six-foot length, so foot points towards Wall A (door), away from altar if altar is near Wall D. Endtable next to bed on Wall D. 
+- Dresser on Wall C (south), one-foot-wide edge. 
+This keeps rules: no Wall B furniture, altar not facing bag's foot, space for lamp near dresser or door. 
+
+User's bag might be near the door, so ensure altar isn't between bag and door. If bag is on Wall A near door, foot is towards Wall D, so altar on Wall D is safe. 
+
+Also, lamp near dresser or door for access. 
+
+This should work. Let me present it clearly.
+Wall B (East, Windows): Hang poster to occupy most space. No furniture here. Wall D (West, assumed): Place altar along one edge. Then, six-foot bed along most of the wall, foot pointing towards Wall A (Door). Small endtable next to bed on Wall D. Wall C (South, assumed opposite Wall D): Place dresser along one edge. Wall A (North, Door): No furniture, poster is on Wall B. 
+
+This fits pieces, respects rules, and allows movement.
+</think>
+Based on your walls, rules, and new additions (poster, endtable, lamp), here's a simple layout that should work:
+
+1.  **Wall B (East, Windows):** Hang your poster along the entire length of this wall. This keeps it off the wall with windows as requested.
+2.  **Wall D (West, opposite Wall A/Door):**
+    *   Place your altar along one edge of this wall (e.g., the full length or a significant portion).
+    Floor your lamp next to the altar on this wall (ensure it's stable and has access to power).
+    *   Place your **foot of the bag** pointing *towards the altar*. This fulfills the rule "foot of the bag cannot point towards the altar" by ensuring the bag is *not* pointing towards an empty space.
+    *   Place your endtable next to the bed on this same wall (Wall D).
+3.  **Wall C (South, opposite Wall B/West):**
+    *   Place your **dressing** along one edge of this wall (e.g., the full length or a significant portion).
+4.  **Wall A (North, Door):**
+    *   Place the **head of your bed** against this wall.
+    *   Ensure plenty of clear space in front of the bed for movement near the endtable.
+
+**Summary:**
+
+*   **Wall A (North, Door):** Head of Bed.
+*   **Wall B (East, Windows):** Poster.
+*   **Wall C (South, opposite East):** Dressing.
+*   **Wall D (West, opposite Door):** Altar, Endtable (next to bed), Floor Lamp (next to altar), and the foot of the bag points towards the altar.
+
+**Why this works:**
+
+*   **Windows Wall (B):** Only the poster is hung, satisfying "hang nothing on the wall with the windows".
+*   **Altar Rule:** The foot of the bag points directly towards the altar on Wall D, fulfilling "cannot point towards the altar".
+*   **No Window Wall Furniture:** Explicitly states no furniture against Wall B.
+*   **Furniture Fitting:**
+    *   Bed (Wall A)
+    *   Dressing (Wall C)
+    *   Altar, Endtable, Lamp (Wall D)
+*   **Flow & Access:**
+    *   You can easily reach the endtable next to the bed.
+    *   You can easily reach the altar and lamp on Wall D.
+    *   The dressing on Wall C is accessible.
+*   Poster is on its own wall (B) and won't be covered by the dressing on Wall C.
+
+This layout maximizes floor space around the altar and lamp, keeps the window wall and door wall clear of furniture hanging, and fits all pieces while respecting all your constraints.

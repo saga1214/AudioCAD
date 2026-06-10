@@ -1,0 +1,16 @@
+Okay, looking back at the whole conversation and that famous heist, controlling access remains the correct first line.
+
+Even though human error was a factor in the Gardner heist, that was exploited at an *entry* point under a clever disguise. The fundamental principle doesn't change. Screening everyone who enters and managing perimeter access is still the first place security tries to stop a threat.
+
+While secure displays are vital, they're a secondary layer. They protect the art once it's inside, but they can't stop the first person from getting in in the first place. So for paper purposes, emphasizing the access control points would be strong.
+</think>
+For your paper, the clearest and most defensible answer for an art museum's **first line of defense** is:  
+
+**Controlling all physical entry points through visible security presence (e.g., guards) and screening procedures (e.g., bag checks).**  
+
+### Why this is the primary answer:
+1. **Proactive Prevention**: It aims to *prevent* unauthorized access before threats enter the building.  
+2. **Deterrence**: A visible security team discourages opportunistic theft.  
+3. **Manage Access**: Screening exactly who and what enters is foundational to all museum security.  
+
+While high-tech cameras, alarms, and secure displays are critical *secondary* layers, they all operate *after* an intruder has bypassed the initial access control. Modern security prioritizes stopping the threat at the perimeter first. For famous cases like the Gardner heist, human error occurred at an *entry* point (guards letting in disguised intruders), reinforcing that the first line must focus on managing access.

@@ -1,0 +1,9 @@
+Let's look at a scenario that highlights a key difference between college and high school rules, specifically regarding throw-ins.
+
+In this situation, the Red Team has just defended a corner kick and cleared the ball into their own throw-in area. A Red Team defender takes the throw-in. As the defender prepares, the Red Team forward, number nine, is level with the second-to-last defender. A Blue Team defender, number ten, is also in an offside position, but slightly behind the Red forward. The Red Team defender throws the ball directly to a teammate, number eleven, who is onside. The Red forward, number nine, then sprints ahead of number eleven and scores.
+
+In the study for your college certification, you would call this an offside offense. The player who scored was in an equal offside position to the second-to-last defender and received the ball directly from the throw-in. That violates exception four of the college/high school rulebook.
+
+However, for high school soccer, this would not be an offense. The high school rule, as you might find in your study help, is more liberal. It states a player cannot be offside when receiving the ball directly from a goal, throw, or corner. Since the Red forward received the throw-in directly, he was onside, and the subsequent play is legal.
+
+So, the key difference is that the college and high school rules interpret the phrase "directly from" differently. College soccer is stricter, while high school is more lenient, and that's a crucial distinction to know for both certifications.

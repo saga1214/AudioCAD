@@ -1,0 +1,9 @@
+Here's a scenario:
+
+Red team is attacking Blue team's goal. The Red team forward, number 11, is standing behind the second-last defender that is closer to the goal when a teammate, number 12, passes the ball forward. The ball travels past the defender to the Red forward, number 11. However, instead of taking the ball, number 11 kicks it back to number 12, who is still in an offside position. Number 12 then takes the ball and scores.
+
+In this scenario, the U.S. offside offense rule would not be called because the player who received the pass (number 11) did not gain an advantage from being in an offside position. They simply kicked the ball back to their teammate who was still offside.
+
+However, if this were a FIFA or IFAB (International Football Association Board) game, the offside offense would be called because the player who received the pass (number 11) was in an offside position when the ball was played forward. The fact that they kicked the ball back to their teammate who was still offside would not change the fact that the initial pass was made to a player in an offside position.
+
+This difference in interpretation highlights the distinction between the U.S. offside offense rule and the FIFA/IFAB rule. The U.S. rule focuses on whether the player who received the pass gained an advantage from being in an offside position, while the FIFA/IFAB rule focuses on whether the player who received the pass was in an offside position when the ball was played forward.

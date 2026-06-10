@@ -1,0 +1,9 @@
+You're very close. The word is pronounced "suh-KAH-dee," with the emphasis on the second syllable. Think of it as "suh-kah-dee."
+
+Now, to your question: Is the eye seeing continuously?
+
+Well, it depends on how you define "seeing." The eye itself is a biological sensor, so it's always processing incoming light, but it doesn't do this in a perfectly steady, unbroken way. The brain, however, is what creates the continuous perception of motion and the world around us.
+
+The key part is what you brought up: saccadic masking. During a saccade, your eye is moving rapidly between points of focus. For a very brief moment, the brain suppresses the visual input to prevent you from feeling dizzy or seeing blur. So, technically, there are tiny moments where the brain isn't fully processing visual information from the eye. But because of how the brain fills in the gaps, your conscious experience is continuous.
+
+So, to sum it up: The eye is constantly processing visual input, but the brain actively edits and interpolates that input to create the illusion of continuous, seamless vision. Without that brain processing, what you'd actually perceive is a series of static snapshots, which would be pretty disorienting!

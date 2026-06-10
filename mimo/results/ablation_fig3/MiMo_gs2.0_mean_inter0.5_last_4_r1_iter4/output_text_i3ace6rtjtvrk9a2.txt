@@ -1,0 +1,11 @@
+You’re very close, but there’s a subtle distinction. The eye does not see continuously in the way a camera sensor does. Instead, it sees in rapid, discrete bursts, which is what we call saccadic motion. 
+
+Let me spell that out for you: S-A-C-C-A-D-I-C. It's pronounced "suh-kah-dee" or "suh-kah-dike," depending on how you say it. The emphasis is on the second syllable.
+
+Now, to your question: The eye is constantly processing visual input, but it’s not like a steady stream of images. It’s more like a series of very fast snapshots, especially when you’re moving your eyes. This is called saccadic motion. 
+
+However, the brain is incredibly good at taking all those snapshots and blending them together to create a seamless, continuous experience. This is called perceptual continuity. So, from a perceptual standpoint, it *feels* like you’re seeing continuously, even though the underlying mechanism is a series of quick, discrete frames.
+
+So, to be precise: The eye sees in discrete, rapid bursts, but the brain processes it as a continuous stream. It’s a bit like how a film camera records discrete frames, but your brain fills in the gaps to make it feel like a smooth movie. 
+
+Does that make sense?

@@ -1,0 +1,11 @@
+You're very close. The word is "saccadic," which is an adjective meaning related to saccades. The noun is "saccade," pronounced roughly like "sa-KAH-deh." The full word is "saccadic masking."
+
+Now, to your question: Can the eye see continuously? 
+
+The answer is no, but it’s more nuanced. The eye doesn’t see in a continuous stream like a video camera. Instead, it uses saccades to shift focus between points, and during the saccade, the visual input is briefly suppressed. So, perception is more like a series of snapshots that the brain stitches together. 
+
+That’s why high frame rates in film, like 24 or 30 fps, work so well—they match the brain’s ability to fill in the gaps between the eye’s snapshots. Video at higher frame rates, say 60 fps, feels smoother because it’s closer to the eye’s rapid but not perfectly continuous sampling. 
+
+So, no, the eye doesn’t see continuously. It sees in rapid, patchy bursts that the brain cleverly connects to create the illusion of smooth motion. 
+
+Would you like to dive deeper into how filmmakers can use this in original projects?

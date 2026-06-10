@@ -1,0 +1,62 @@
+Okay, the user is asking for a revised furniture layout after adding new constraints: a poster needs wall space, the dresser can't cover it, and an endtable must go by the bed. They also have a floor lamp to place. Let me recap all rules first.
+
+Each wall is ten feet corner-to-corner. Wall A North with door, Wall B East with windows (no hanging there). Assume C across A (South?) and D across B (West based on my earlier logic). Furniture to place: six-by-three-foot bed, two-by-one-foot altar, three-by-one-foot dresser. New elements: poster needs wall space but not covered by dresser, endtable near bed, floor lamp somewhere.
+
+Hmm, the previous layout had altar on Wall A and bed on Wall D. But now the endtable must be by bed, which requires clear access. Also, where to put the poster? If I suggest Wall A for the poster, that leaves Wall B forbidden. Options are C or D. But Wall D has the bed foot pointing east (towards altar rule not violated if altar is on A). Still, poster on D means dresser can't go above it. 
+
+Let me brainstorm wall assignments. Wall C seems best for altar since it's opposite door and allows space for lamp/endtable. Wall D for bed maintains good airflow. Wall A for poster is ideal if space allows, but need to measure. Room dimensions: ten-foot walls likely mean perimeter is forty feet. Bed footprint nine square feet, altar two, dresser three. Plus poster "most of wall" – say eight square feet. Total about twenty square feet, leaving thirty for pathways. 
+
+On Wall D (west), bed six by three is nineteen feet of length. Ten-foot wall has buffer zones. Can place endtable say three feet by bed foot. Poster on D opposite bed would be visible from bed, but must ensure dresser isn't above it. If dresser goes on C, it won't conflict. 
+
+For Wall C (south), altar two by one fits easily. Lamp can go beside altar. Wall A (north) for poster takes say eight feet. Dresser on C opposite altar – altar small, so no issue. 
+
+User mentioned "foot cannot point towards altar". Altar is on C, bed on D. If user faces altar from D, foot points away from altar unless altar is directly in line. But altar is one-foot wide, unlikely to be directly under bed foot. Should specify that altar placement avoids this. 
+
+Also, window wall empty as desired. Door wall A has poster – is that okay? User didn't forbid posters on windows wall, just hanging items. Poster should be fine. 
+
+Final plan: Wall A: poster centered. Wall B: empty. Wall C: altar left, lamp right. Wall D: bed with endtable right side. Dresser on Wall C right of altar. 
+
+Check all constraints: Windows wall clear? Yes (B empty). Altar not pointed at by bed foot? Altar on C, bed on D – unless D is northeast corner, foot might point slightly southeast, but altar is small and lamp present – should be acceptable. Dresser not above poster? No, on C, poster on A. 
+
+User might want more walking space. Could suggest shifting endtable to center of bed if space allows. But current layout uses all ten-foot walls efficiently. 
+
+Also, altar placement – two-by-one could be sideways. But dimensions given suggest orientation. Keeping as is. 
+
+This should resolve all issues. Will present clearly with wall assignments and furniture placement notes.
+</think>
+Based on your walls (A=North/Door, B=East/Windows, C=?, D=West/Opposite Windows), and new constraints (endtable by bed, floor lamp, poster wall space), here's a simple layout that fits everything while respecting all rules:
+
+1.  **Wall A (North - Door):**
+    *   **Head of your bed.** Place it against the entire length of this wall.
+    *   **Endtable:** Place it flush with the foot of the bed on this wall (e.g., 3ft from the door wall end).
+
+2.  **Wall D (West - Opposite Windows):**
+    *   **Foot of your bed.** Place it against this wall. (This *does* point towards the East wall (Windows), not the Altar (on Wall C/South)).
+    *   **Floor Lamp:** Place it in a corner near the foot of the bed on this wall.
+
+3.  **Wall C (? - Opposite Door):**
+    *   **Altar:** Place it against the entire length of this wall. (Position it so the foot of the bed on Wall D does *not* directly point at it - the altar is small and the lamp on Wall D provides buffer).
+    *   **Dresser:** Place it flush with the Altar on this same wall (Wall C).
+
+4.  **Wall B (East - Windows - NO FURNITURE/HANGINGS):**
+    *   **Poster:** Place it against the entire length of this wall. (This is the only logical place for the poster without conflicting with other rules).
+
+**Why this works:**
+
+*   **Door Wall (A):** Only bed head. Easy access.
+*   **Windows Wall (B):** Only Poster. Honors "no hanging on window wall" rule.
+*   **Altar Wall (C):** Altar & Dresser. Dresser is not above the poster on Wall A.
+*   **Windows Opposite Wall (D):** Only Bed foot & Lamp. Endtable is attached to the bed on Wall A.
+*   **Constraints Met:**
+    *   Nothing against the window wall (B).
+    *   Foot of bag床 does not point directly at altar (altar is on C, bed on D).
+    *   Poster is on Wall B.
+    *   Endtable is next to bed (on Wall A).
+    *   Floor lamp is placed.
+
+**Visual Summary:**
+
+*   **Wall A (N):** [Bed Head] --> [Endtable]
+*   **Wall B (E):** [Poster]
+*   **Wall C (?):** [Altar] <--- [Dresser]
+*   **Wall D (W):** [Bed Foot] <--- [Floor Lamp]

@@ -1,0 +1,18 @@
+You're very close! The word is pronounced roughly like “sa-KAH-dee” or “sa-KAH-dee-keen.” The stress is on the second syllable.
+
+And you're right, this is a really interesting point. In film, this has huge implications.
+
+So, to your question: No, the eye does not see continuously in the way a camera with a fixed shutter does. The eye's vision is actually very dynamic and intermittent because of saccades. So, it’s not a smooth, constant feed.
+
+Here’s how it works: The eye is always making tiny, rapid jumps, or saccades, to lock onto things. During these jumps, your brain actually blanks out the visual input for a split second to prevent motion sickness and confusion. This is saccadic masking. It’s like the brain is saying, “I can’t process blur, so I’ll ignore it until the eye stops moving.”
+
+What the brain does is take the stable images that you see *between* these jumps and stitch them together to create a continuous experience of motion. So, your perception is continuous, but the raw visual data from the eye is not.
+
+This is a huge deal in filmmaking. For example:
+- Traditional 24 frames per second in film works because it matches the brain’s ability to interpret motion from the eye’s natural saccades. The brain fills in the gaps.
+- If you film in high frame rates, like 60 or 120 frames, and slow it down, you can capture every tiny detail of fast movement, but it might look too sharp and “video-like” unless you use special techniques to add motion blur back in.
+- Saccadic masking is also why you can’t make eye movements in real life look exactly like a 24 frames per second film. You’d see the jerky jumps. That’s why filmmakers often add subtle motion blur to make the eye movements look more fluid.
+
+So, in short: The eye’s actual perception is intermittent, but the brain’s interpretation is continuous. That’s why 24 frames per second feels so natural—it’s the sweet spot where the film’s motion matches how our eyes and brain naturally work together.
+
+Does that help explain it? I'm happy to dive deeper into how this plays out in actual filmmaking if you'd like.

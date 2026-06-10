@@ -1,0 +1,68 @@
+Okay, let's see. The user is asking about several things here. They just can't have soy anymore, which is a downer, and they've reworked their home studio but the audio sounds harsh using a Blue Yeti with a Scarlett Solo interface. First, I should address mic placement—they need to speak into logo side, about hand-width away. Acoustically, just hang heavy blankets initially to absorb reflections.
+
+Vocal endurance is another issue due to character-heavy work. Warm-ups like lip trills, belly breathing, hydration with room-temp water, and short breaks every 20 minutes are key. Audiobook narrators pace themselves, use good posture, and mark scripts.
+
+They misunderstood room-temperature water, thinking cold is better. I need to clarify that cold can tense vocal cords.
+
+Now, editing workflow: still using Audacity, wondering about Adobe Audition's benefits. It's worth switching for speed and effects, but there's a learning curve. Plugins like iZotope RX for mouth clicks and noise are reliable. Organization-wise, a folder system per client/project helps.
+
+For a memorable demo clip, strong emotion and clear character in a short clip are what stand out.
+
+Switching to Audition: suggest starting with basic tasks, watching tutorials, and maybe using Audacity for a while as a transition. For reliable AI tools, Adobe Audition's auto-trim and iZotope RX are solid choices.
+
+Vocal professionals balance by scheduling dedicated recording, editing, and marketing time. They avoid multitasking and set boundaries.
+
+The user's vocal fatigue and skipping meals suggest burnout. For quick, flavorful meals, I'd recommend dishes like Teriyaki Chicken Bowls or Gyoza from an Americanized Asian place. These are soy-free, quick, and satisfying. Mentioning the soy-free aspect aligns with their initial bummer about giving up soy.
+</think>
+Here's a streamlined breakdown of your studio and workflow concerns, plus some practical solutions:
+
+### Home Studio Fixes for Harsh Audio
+1. **Yeti Mic Placement**  
+   - Always use Side mode (with logo facing you), 6-12 inches from mouth. Avoid Top mode unless for ASMR.
+   - Test by covering mic with hand – if high frequencies cut out, harshness is room-related.
+
+2. **Simplified Acoustic Treatment**  
+   - Hang thick towels/blankets around walls (especially first reflection points near monitor/door).
+   - Record in a "soft" room: Avoid hard surfaces (wood floors, glass windows).
+
+### Vocal Health Habits
+- **Warm-ups:** 5-min humming → lip trills → tongue twisters before recording
+- **Hydration:** Sip room-temp water hourly. Avoid cold drinks during sessions.
+- **Breathing:** Practice diaphragmatic breathing (place hand on belly to feel expansion).
+
+### Audio Editing Workflow
+| Tool | Benefit | Learning Curve | Soy-Free Plugin Tip |
+|------|---------|----------------|---------------------|
+| **Adobe Audition** | GPU acceleration, AI noise reduction | Moderate | Start with "Essential Tools" workspace |
+| **iZotope RX 10** | De-click, De-reverb, Dialogue Isolate | Steeper | Free trial available |
+
+**Switching Tip:** Use Audition's Audacity data import to test workflows before full transition.
+
+### AI Tools (Soy-Free & Reliable)
+1. **Adobe Audition's Auto-Trim** (cuts silent gaps)
+2. **iZotope Mask** (removes clicks/pop-ups)
+3. **Descript's Transcripts** (for labeling)
+
+### Organization System
+- Create folders: `Client_A/Recording`, `Client_A/Editing`, `Client_A/Mastering`
+- Use **Audacity's "Save As"** for each take instead of overwriting
+- **Daily ritual:** 10-min voice memo log of accomplishments
+
+### Demo Clip Strategy
+- **Hook in 3 seconds:** Start mid-emotion (e.g., character's frustrated whisper)
+- **Show range:** 10-second clip with 3 distinct vocal textures
+- **Soy-free bonus:** Mention dietary restrictions upfront in demo notes
+
+### Quick & Flavorful Meal Suggestions
+From Americanized Asian restaurants (soy-free options):
+1. **Teriyaki Chicken Bowls** (request tamari sauce instead)
+2. **Gyoza** (check for soy sauce → ask for vinegar dip)
+3. **Veggie Stir-fry** (specify no soy sauce, use coconut aminos)
+4. **Korean Fried Chicken** (soy-free batter available at most chains)
+
+### Pro Workflow Balance
+- **Time blocking:** 9-11am recording, 1-3pm editing, 4-6pm admin
+- **Non-negotiables:** Lunch breaks, 30-min post-session vocal rest
+- **Marketing tip:** Dedicate 15 mins/day to social media (use scheduling tools)
+
+> "The harsh frequency range (2-5kHz) lives in reflections off hard surfaces. Blankets solve this instantly. For vocal endurance, room-temperature water hydrates without throat tension – critical for soy-free diets."

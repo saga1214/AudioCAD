@@ -1,0 +1,11 @@
+Okay, let's take a look at the fruits we've discussed. We've got apple, orange, banana, guava, and kiwi. I'll assign them a rating from 1 to 100 based on their vitamin C content, just as you asked. 
+
+First, the apple, which I rated a 2, would now be a 30. 
+The orange, an 8, becomes an 80. 
+The banana, also a 2, stays at 30. 
+The guava, a 9, becomes a 90. 
+And the kiwi, the 14, becomes a 100.
+
+So, the final ranking from lowest to highest is: apple at 30, banana at 30, orange at 80, kiwi at 100, and guava at 90. 
+
+It's interesting to see how the guava and kiwi really stand out with their high vitamin C content. The orange is still very good, and the apple and banana are quite low in comparison. Hope this helps you make a more informed choice!

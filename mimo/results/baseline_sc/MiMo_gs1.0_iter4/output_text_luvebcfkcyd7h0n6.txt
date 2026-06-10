@@ -1,0 +1,17 @@
+Of course. Let's go through them one by one.
+
+First, the regular bit. Think of it as a light switch. It's either on or off. A '0' or a '1'. That's it. A single actor can only play one role at a time.
+
+Then, the quantum bit, the qubit. This is like an actor who can be the hero, the villain, or a background character, all at the same time. This is superposition. The actor is in all potential states at once.
+
+Next, measurement. This is the director yelling "Action!". The actor has to commit to one specific role. The superposition collapses, and the actor is now just the hero. You can only see one outcome.
+
+Entanglement is like having two actors whose roles are linked. If one is the hero, the other must be the villain, no matter how far apart they are. They're connected.
+
+A budget is the amount of time an actor can hold all those potential roles. They can only do this for a limited time before they have to commit to one. That's the time before the quantum state collapses.
+
+Editing, or error correction, is fixing mistakes. Sometimes an actor flubs a line. Editing is like going into post-production to find and fix those errors, so the final movie is correct.
+
+The final cut is the solution. It's the finished movie you get after all the takes and edits. It's the clear answer the quantum computer gives you.
+
+And finally, decoherence. This is the random noise on set, like a phone ringing, that breaks the actor's concentration. It's the reason the actor can't stay in that magical superposition state. It's the main challenge we have to overcome.

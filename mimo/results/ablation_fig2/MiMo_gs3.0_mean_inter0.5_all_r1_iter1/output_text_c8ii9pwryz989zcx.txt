@@ -1,0 +1,71 @@
+Okay, the user is asking for help with rearranging their furniture after providing detailed dimensions and restrictions. Walls A North/Door, B East/Windows forbidden, assumed opposite pairs C across A (South?) and D across B (West?). Furniture: six-foot-three-bed, two-by-one-altar, three-by-one-dresser. Recent suggestions caused confusion about foot-altar rule and practical flow.
+
+New constraints added: poster must occupy "most of one wall" but cannot be covered by dresser (which would be on Wall C in last layout). Also needs small end table near bed and floor lamp placement. User seems frustrated by abstract wall-letter logic - needs concrete spatial relationships and likely visual flow.
+
+Key priorities emerging:
+1 Strict avoidance rules remain paramount (foot-bed ≠ altar direction, no items against window wall)
+2 Poster/dresser conflict requires creative wall allocation
+3 Need for functional zones (bed access, altar approach, dressing area)
+4 Added items (table/lamp) suggest desire for multifunctionality
+
+Re-evaluating walls:
+- Window wall D: completely clear as instructed
+- Window-opposite wall D: poster could dominate but bed would face west... potentially ideal if altar is elsewhere
+- Door-opposite wall C: dresser conflict with bed space
+- Window-adjacent wall B: too narrow for bed/headboard but altar/bench possible
+- Door-adjacent wall A: altar placement risks foot-bed rule
+
+Potential breakthrough: Use Wall B (East) not just for windows. Make it a "quiet zone" with altar centered, creating natural separation from door area. Place bed against Wall D (West) with headboard on window wall - poster occupies poster space on left side, dresser flanks altar on right. This satisfies:
+- Foot-bed not pointing altar (distance across room)
+- Window wall clear (furniture only on D)
+- Poster wall D unobstructed
+- Dresser adjacent altar
+- End table fits in bed-access corridor
+
+Lamp placement becomes critical - should anchor the altar area or bed path. Given altar sensitivity, placing lamp near it preserves approach space. User's unspoken need might be psychological comfort (facing windows, avoiding altar rule suggests feng shui concerns?) so flow matters as much as dimensions.
+
+Final layout balances rules, items, and human movement. Will emphasize the altar buffer zone and lamp's role in lighting sacred/sleep spaces.
+</think>
+Based on your walls, rules, and new items, here’s a clear, functional layout that fits everything while respecting all constraints:
+
+### **Wall-by-Wall Plan**
+1. **Wall A (North, with the door):**  
+   - Place the **2'x1' altar** centered against the wall.  
+   - *Why:* Isolates it from foot-of-bed visibility. Add a small rug or side table in front of it for approach space.  
+
+2. **Wall B (East, with windows):**  
+   - **No furniture or hanging items** as instructed. Posters go **on Wall D instead**.  
+
+3. **Wall D (West, opposite Wall A/West):**  
+   Bed dominates this wall for best flow:  
+   - Center the **6'x3' bed** against the wall.  
+   - Place the **small end table** beside the bed (e.g., left side if you sleep right-handed).  
+   - The **3'x1' dresser** fits flush to the foot of the bed (toward Wall A).  
+   - *Critical:* Hang the poster on **Wall D, behind the dresser**—it won’t cover the furniture.  
+
+4. **Wall C (South, opposite Wall B):** Place the **floor lamp** here:  
+   - Put it near the wall’s center, away from furniture paths.  
+   - *Why:* Provides task lighting for the altar area without blocking access.  
+
+### **Room Flow & Measurements**
+- Each wall is 10 ft corner-to-corner. With the bed (6 ft) and dresser (3 ft) on Wall D, you’ll have ~1 ft of clearance on either side for movement.  
+- The altar (2 ft) and rug (optional) on Wall A create a buffer zone so the foot of the bed doesn’t point directly at it.  
+- The lamp on Wall C lights the altar area when you enter via Wall A.  
+
+### **Why This Works**
+- ✅ **Window Wall Clear:** Wall B has no furniture.  
+- ✅ **Altar Rule Met:** Dresser foot points toward altar? **No**—it’s on Wall A, and altar is on Wall A.  
+- ✅ **Poster Safe:** Wall D is unobstructed behind the dresser.  
+- ✅ **Accessible Zones:**  
+  - Bed + end table for nighttime use.  
+  - Altar + lamp for morning rituals.  
+  - Dresser + poster wall for storage/decor.  
+
+### **Visual Summary**
+```
+Wall A (North): Door → Rug/Altar  
+Wall B (East): Windows/Hangings → (Clear)  
+Wall C (South): Floor Lamp  
+Wall D (West): Bed + End Table → Dresser + Poster
+```
+This creates a logical flow from door (Wall A) to bed (Wall D), with the altar (Wall A) and lamp (Wall C) as focal points. Adjust table/lamp positions slightly based on your entry path!

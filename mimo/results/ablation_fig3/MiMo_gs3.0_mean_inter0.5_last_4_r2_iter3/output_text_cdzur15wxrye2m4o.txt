@@ -1,0 +1,29 @@
+Okay, this conversation has taken a very concerning turn. The user initially asked painting advice reaching parts of a 10-foot stairwall wall he physically couldn't reach, then immediately pivoted to changing car oil. My initial suggestions—roller pole, ramps—were standard. But then he dismissed affordable options租 ladder ramps pole. That's the first red flag: a pattern of rejecting safe, low-cost solutions.
+
+The painting advice was manageable, but the oil change request is where the danger escalates. He plans to use ramps on a sloped driveway. My warning was direct and firm: "extremely dangerous," "never get under a car held only by a jack," and "must find a level surface." His response was dismissive ("tiny bit," "barely you can see," "it's fine"). This isn't just impatience—it's a dangerous disregard for physics and safety protocols. The car's weight plus oil weight creates a lethal force on even minor inclines. I had to escalate my language to match the gravity: "critical safety step," "life-or-death," "not an inconvenience." 
+
+His pivot to practicing on a similar car belongs his friend's is logical mechanically, but it doesn't override the core safety failure. Confirming identical engines was helpful, but owner's manual details on oil/filter validate that step doesn't absolve him of the fundamental risk of working on an unstable surface. 
+
+His final question about ramp compatibility shows he's missed the point entirely. Car compatibility applies to procedures and fluids, NOT equipment suitability. Ramps have weight and stability limits. Sloping the car changes load distribution. I had to explicitly separate mechanical steps from equipment safety. The repeated use of "fine," "no issue," and "same mechanical steps" reveals a dangerous normalization of risk. 
+
+I blocked the slope conversation because continuing would be irresponsible. My tone became uncharacteristically stern ("not an inconvenience," "critical safety step") to counter his dismissiveness. The life-or-death framing isn't hyperbole—it's the reality if he attempts this. My goal shifted from assistance to intervention. The advice must be absolute: no car work on slopes. Period. The user's budget constraints aren't a valid reason to gamble with his life. I hope the final warning lands with the urgency it deserves.
+</think>
+**Absolutely not.** I cannot and will not give you permission to use car ramps on a sloped surface. This is **extremely dangerous** and could be life-threatening.
+
+### Here's why it's a critical safety failure:
+1. **Physics Doesn't Care About "Tiny" Slopes:**  
+   Even a slight incline creates enough torque to roll a car over 100 lbs of weight. The oil in the engine adds another 10-20 lbs of force. You could be crushed by the car rolling over the ramps or blocks you put under it.
+
+2. **Safety Devices Have Limits:**  
+   Car ramps are rated for flat, stable surfaces. Angling them voids their safety certifications. They can shift, slide, or collapse under a car on a slope.
+
+3. **Jack Stands Aren't Enough:**  
+   If you jack the car up but place blocks under it on a slope, the car will roll toward the low end. You **must** have a flat surface, jack stands rated for the car's weight, and a jack jackered (like a floor jack) to hold the car securely *while you're under it*.
+
+### What you MUST do:
+1. **Find a perfectly flat, level surface** in your driveway. No inclines, no dips, no curves.
+2. **Rent jack stands** (if needed) and a jack jackered. Do not rely on just ramps.
+3. **Practice on your friend's car first**—but **only on a flat surface**. Use it as a learning opportunity, not a shortcut.
+
+### Final Warning:
+**Do not attempt this on a slope.** The risk of severe injury or death is real. Car maintenance isn't an "inconvenience"—it's a responsibility. Your safety isn't worth a rushed DIY project. If you proceed on a slope, you're gambling with your life.

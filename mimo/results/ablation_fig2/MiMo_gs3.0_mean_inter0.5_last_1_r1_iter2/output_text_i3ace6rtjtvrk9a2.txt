@@ -1,0 +1,17 @@
+You're close! The word is actually "saccadic" — it's pronounced like this: suh-KAH-dik. So, "saccadic masking" would be suh-KAH-dik masking.
+
+To answer your film student question: No, the eye does not see continuously in the way a camera does. It's more like a high-speed recording device with a built-in editor.
+
+Here’s the breakdown:
+
+First, the eye has photoreceptors—rods for low light and cones for color. These respond to changes in light and movement. They can detect flicker up to around 60 hertz, but that doesn’t mean they’re seeing 60 separate images per second. It means they can respond to rapid changes.
+
+Second, your eye is constantly making tiny, involuntary movements called saccades—suh-KAH-dik movements. These are the little jerks that shift your focus from one point to another. During these saccades, the brain actually suppresses the visual input. This is called saccadic masking. You’re essentially blind to the blur between these jumps.
+
+Third, the brain fills in the gaps. It takes the information your eyes see between saccades and creates a continuous perception of motion. This is why you don’t see flicker when watching a movie at 24 frames per second—it’s the brain’s job to blend it all together.
+
+So, the eye is constantly capturing data, but the brain edits it to create the illusion of continuous, smooth vision. It’s not one continuous image; it’s a series of rapidly sampled moments that the brain stitches together seamlessly.
+
+This is super useful in filmmaking! If you shoot at a high frame rate and slow it down in post, you can reveal details in motion that your eye would normally miss, because the brain isn’t masking it with its usual saccadic editing process.
+
+So, in short: the eye senses discrete moments, but the brain processes and smooths them into a continuous experience. It's not a camera; it's a real-time, adaptive interpreter of the world.

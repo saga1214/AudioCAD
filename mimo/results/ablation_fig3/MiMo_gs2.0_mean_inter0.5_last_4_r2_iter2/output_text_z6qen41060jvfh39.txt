@@ -1,0 +1,37 @@
+Okay, got it. Since we're now focusing on how things are commonly perceived as fruits, here's a new ranking for everything we discussed, on a scale from 1 to 100, based on vitamin C content.
+
+Let's see... an apple and a banana, both stay at 2.
+An orange is an 8.
+The guava stays a 9.
+And the kiwi is a 14.
+
+Now, for asparagus and tomato, since we're classifying them as fruits botanically, I'll raise them a bit. Asparagus gets a 6, and the tomato gets an 8.
+
+Cucumber, however, stays at 1.
+
+So, to quickly summarize that full list for you:
+Apple and Banana are both 2.
+Orange is 8.
+Asparagus is 6.
+Tomato is 8.
+Kiwi is 14.
+And Cucumber is 1.
+</think>
+Based on the fruits and vegetables we discussed, here's a revised ranking from 1 to 100 for items commonly perceived as **fruits** (botanically and culinarily), based on vitamin C content:
+
+| **Item**       | **Rating (1–100)** | **Vitamin C Notes**                     |
+|----------------|-------------------|-----------------------------------------|
+| **Apple**      | 2                 | Mild source; ~4.6 mg per 100g          |
+| **Orange**     | 8                 | Very high; ~53.2 mg per 100g (highest common fruit) |
+| **Banana**     | 2                 | Very low; ~8.7 mg per 100g              |
+| **Guava**      | 90                | Extremely high; ~228 mg per 100g       |
+| **Kiwi**       | 95                | Very high; ~92.7 mg per 100g            |
+| **Tomato**     | 8                 | Moderate; ~14 mg per 100g (botanically a fruit) |
+| **Cucumber**   | 1                 | Negligible; < 0.5 mg per 100g           |
+
+### Key Clarifications:
+- **Botany vs. Culinary**: Tomatoes and cucumbers are botanically fruits but used as vegetables. For this list, I prioritized botanical classification (fruits) since you asked for "fruits" generally.  
+- **Scale Context**: Ratings reflect relative differences (e.g., guava/kwi are 10x higher than orange, which is 5x higher than apple/banana).  
+- **Asparagus Excluded**: It’s a vegetable, not a fruit.  
+
+Let me know if you'd like to adjust the criteria (e.g., focus purely on culinary fruits)!

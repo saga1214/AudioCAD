@@ -1,0 +1,32 @@
+Okay, the user is planning to meet a friend for dinner next week and wants restaurant recommendations at 6:30 PM daily. This follows a pattern of their previous scheduling questions—they're clearly time-conscious and value uninterrupted personal activities (classes earlier asked about lunch/gym timing). 
+
+Hmm, they didn't specify cuisine preferences or location, which makes this tricky. Since they're meeting a friend, ambiance might matter more than cost. I should ask for more details but keep it efficient—they seem to appreciate directness. 
+
+Looking back at the history: they're a student with tight class schedules, detail-oriented (corrected Thursday/Friday earlier), and health-conscious (heart rate question after gym request). Probably mid-20s based on class timings. Their tone is polite but slightly rushed—no small talk, straight to the point. 
+
+Best approach: Give a framework for choosing restaurants based on their priorities (cuisine, budget, etc.) while prompting for specifics. Offer to refine options once they share preferences. Should mention checking reservations since dinner spots fill up fast—especially around 6:30 PM. 
+
+...Wait, did they say "every day next week"? That's ambitious. Maybe they're planning multiple meetups? I'll assume yes since they said "every day" but won't assume frequency—just confirm. 
+
+Key points to cover: 
+- Need cuisine type 
+- Budget range 
+- Location preferences 
+- Any dietary restrictions? 
+- How many people? 
+Then offer to narrow down based on their answers. 
+
+Keep it warm but efficient—match their no-nonsense style. No fluff.
+</think>
+Hi again! I'd be happy to help recommend restaurants. To give you the best options, could you share a few more details? For example:  
+- **Cuisine type** (e.g., Italian, Asian, steakhouse, vegan-friendly)?  
+- **Budget range** (e.g., casual, mid-range, or fine dining)?  
+- **Location preferences** (e.g., downtown, near your friend’s hotel, etc.)?  
+- **Any dietary restrictions** (e.g., gluten-free, allergies)?  
+- **Group size** (how many people will be dining)?  
+
+Once you share these, I can suggest specific spots! In the meantime:  
+- **Always check reservations** (try OpenTable or Resy) since dinner slots at 6:30 PM fill quickly.  
+- **Consider ambiance**—some places have quieter areas for conversation.  
+
+Let me know your preferences, and I’ll refine the list! 😊

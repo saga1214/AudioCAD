@@ -1,0 +1,17 @@
+Absolutely, let's just quickly go over them again. Regular Bit? Uh, it's that light switch—on or off.
+
+A Qubit is an actor who could be all three at once, the potential superposition. Taking a measurement is when the director says "Action!", and the actor has to pick just one.
+
+And entangled actors are linked across the whole production; casting hero instantly makes another entangled partner the villain.
+
+The budget is the qubit coherence time, basically how long it can hold onto its potential without getting disrupted.
+
+Error correction is like your post-production editing, where you find and fix mistakes.
+
+Quibits are the individual actors.
+
+Taking many quibits together gives you that exponential power.
+
+And measuring is getting that final, single answer from the scene.
+
+The key takeaway here is that quantum computing is like orchestrating potential realities all at once, but you have to be really careful to protect that potential from getting ruined before you get the final answer.

@@ -1,0 +1,3 @@
+To tune your strings, you'll either clip the tuner on or open the app and turn on the microphone. Then, just pluck a string.
+
+As you play each string, the tuner will show you the note. You want to get it to show exactly the target note for that string, usually with a green arrow when it's right. If the note is too low, you'll gently tighten the string to raise the pitch. If it's too high, you'll loosen the string to lower the pitch. Just repeat that for each string, going one at a time until they all sound right.

@@ -1,0 +1,18 @@
+</</think>
+No problem. Let's just quickly recap.
+
+Regular Bit... uh, that's a light switch on or off.
+
+A Quantum Qubit... that's an actor who could be the hero, the villain, background—all at once—that's superposition.
+
+Taking a Measurement... that's when the director says "Action!", and the actor instantly commits to just one role.
+
+Entanglement... that's having two linked actors. Cast hero here, villain instantly for the other no matter where they are.
+
+Budget... that's the time quantum window. How long they can hold all those potential states.
+
+Error Correction... that's editing in post-production. Finding and fixing mistakes.
+
+Qubits... those are the actors themselves.
+
+And the Final Solution... that's the final cut, the answer you get after the calculation is done.

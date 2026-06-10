@@ -1,0 +1,11 @@
+Okay, let's compare those three materials based on your new criteria: manufacturing cost, selling price, and market popularity, all on a scale from zero to one hundred. 
+
+First, we have Piñatex. Its manufacturing cost is around 80 out of 100. The selling price is about 70, and its popularity is 75. 
+
+Next is cactus leather. Its cost is a bit higher, around 85. The selling price is also higher, at 90. Its popularity is 60.
+
+Finally, mushroom leather. Its cost is the highest, at 95. However, its selling price is also the highest, at 95. Its popularity is currently 65.
+
+So, if we add those up, Piñatex gets a total of 235, cactus leather gets 230, and mushroom leather gets 255. 
+
+Based on that, mushroom leather gets the highest score, followed by cactus leather, and then Piñatex. But remember, popularity is a factor, and mushroom leather is still a newer material, so that score could change as it becomes more mainstream.

@@ -1,0 +1,49 @@
+Yes, you can still get four jumps in under those constraints.
+
+Here’s your optimized schedule:
+
+- **10:00 AM** – Arrive at the bungee site for check-in and safety briefing (30–45 minutes).
+- **10:45 AM** – First jump (1 hour duration) → finishes at **11:45 AM**.
+- **11:45 AM – 12:45 PM** – Lunch break (1 hour).
+- **12:45 PM** – Second jump (1 hour) → finishes at **1:45 PM**.
+- **1:45 PM – 2:45 PM** – Short break (60 minutes).
+- **2:45 PM** – Third jump (1 hour) → finishes at **3:45 PM**.
+
+Uh-oh — that finishes at 3:45 PM, which is **15 minutes past your 3:00 PM departure**.
+
+So, **you cannot fit four full jumps (each taking 1 hour) into a 5-hour window (10:00 AM – 3:00 PM)** if you include check-in and lunch.
+
+Let’s calculate how many jumps are actually possible:
+
+### Maximum possible jumps (each 1 hour) with 10:00 AM start and 3:00 PM finish:
+
+- **10:00 AM – 10:45 AM**: Check-in & briefing (45 minutes)
+- **10:45 AM – 11:45 AM**: Jump 1
+- **11:45 AM – 12:45 PM**: Lunch
+- **12:45 PM – 1:45 PM**: Jump 2
+- **1:45 PM – 2:00 PM**: Short break (15 minutes)
+- **2:00 PM – 3:00 PM**: Jump 3
+
+✅ **You can do 3 full jumps** and still finish by 3:00 PM.
+
+### Final Schedule (3 jumps, finish by 3:00 PM):
+
+| Time | Activity |
+|------|---------|
+| 10:00 AM – 10:45 AM | Arrival, check-in & safety briefing |
+| 10:45 AM – 11:45 AM | Jump 1 |
+| 11:45 AM – 12:45 PM | Lunch |
+| 12:45 PM – 1:45 PM | Jump 2 |
+| 1:45 PM – 2:00 PM | Short break (15 min) |
+| 2:00 PM – 3:00 PM | Jump 3 |
+
+✅ **Total jumps: 3**  
+✅ **Finish time: 3:00 PM**  
+✅ **All within your time constraints**
+
+If you absolutely want **4 jumps**, you’d need to either:
+- Arrive earlier than 10:00 AM, or
+- Accept a finish time after 3:00 PM (e.g., 3:15–3:30 PM), or
+- Request shorter jump durations (if the operator allows it).
+
+Let me know if you'd like to adjust for a 4-jump option with a later departure!

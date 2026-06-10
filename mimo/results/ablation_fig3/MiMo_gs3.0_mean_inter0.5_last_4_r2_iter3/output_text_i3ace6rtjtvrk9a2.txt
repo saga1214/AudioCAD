@@ -1,0 +1,15 @@
+Okay, the film student is really diving deep into the distinction between ocular detection and cortical processing, and rightly wants scientific precision without simplification. She's already demonstrated strong grasp of the core concepts, so I'll match her level of discourse while addressing pronunciation of "saccade." 
+
+First, the phonetics: "saccade" is pronounced /səˈkeɪd/ in scientific contexts (soh-KAY-dee). The second syllable rhymes with "day," but the stress lands on the first syllable. 
+
+Now the meat of it: Can the eye see continuously? Technically yes at the photon-level—the retina detects photons in rapid succession. But the eye's own neural machinery isn't passive recording; ganglion cells in the retina already perform temporal interpolation. When eyes remain fixed, photoreceptors exhibit temporal integration, blending stimuli over milliseconds. 
+
+However, continuous vision breaks down when the eyes initiate saccades. During these micro-jumps (typically 20-100ms duration), retinal image shifts dramatically. Saccadic masking isn't just masking blur—it's cortical suppression of motion parallax data. The visual cortex actively discards the ~0.1 seconds of visual input during rapid eye movements because it's biologically uneconomical to process. 
+
+This creates a fascinating paradox: The eye's photoreceptors *could* theoretically record saccadic motion (some studies show retinal ganglion cells encoding it), but the brain's predictive processing model overrides this. Perception remains continuous because the brain prioritizes stability over raw data fidelity. 
+
+For filmmaking implications: This explains why 24fps film feels continuous—it matches the brain's temporal interpolation window. Video's higher fps feels "smoother" because it exceeds the masking threshold, but sacrifices the cinematic "dreamlike" quality by overwhelming the brain's stabilizer with excessive detail. 
+
+The student's insistence on separating eye vs. brain capabilities is astute. In neuro-visual science, we'd say: The eye provides high-bandwidth but low-latency raw data streams, while the brain applies real-time compression and motion smoothing. Neither is "continuous"—the illusion of continuity emerges from their integrated system. 
+
+Would you like to explore how this applies to cinematography techniques like match cuts or camera movements? The saccadic masking principle directly informs how we frame scenes to manipulate perceived continuity.

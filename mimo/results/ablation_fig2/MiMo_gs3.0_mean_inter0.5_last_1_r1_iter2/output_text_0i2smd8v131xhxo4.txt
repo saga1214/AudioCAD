@@ -1,0 +1,40 @@
+Okay, let's break this down. The user is asking a lot of questions, so I'll need to address each one systematically. They're reworking their home studio setup with a Blue Yeti and Scarlett Solo interface but are unhappy with harsh audio sounds. Mike placement—speaking into logos side not top—and hanging heavy blankets for acoustic treatment should help reflections.
+
+Now they're concerned about vocal fatigue during character-heavy work. Essential practices include belly breathing warm-ups like lip trills, regular hydration with room-temp water, and taking 20-minute breaks. Professional narrators maintain consistency through pacing, good posture, and script marking.
+
+Regarding software, they're using Audacity but wondering if Adobe Audition is worth switching for faster processing. While Audition has a steep learning curve, its long-term time savings and superior noise reduction make it worthwhile. Plugins like iZotope RX are excellent for mouth clicks and background noise.
+
+For organization, a simple folder system per client/project helps. AI tools like Descript's AI editing and Adobe's Auto-Transcription can automate trimming and labeling. Pros balance recording, editing, and marketing through time blocking and automation systems.
+
+Finally, their immediate need is quick, flavorful meals from an Americanized Asian restaurant. Based on their soy restriction earlier, they should check menu items. Good options would be Teriyaki Salmon Bowls for protein and veggies, or General Tso's Chicken which is soy-glazed but usually soy-free. Korean Fried Chicken is another soy-free choice. They should always double-check soy in sauces and marinades.
+
+The harsh sound was addressed earlier about mic placement and room blankets. Room-temperature water was explained to prevent vocal tension. Switching to Adobe Audition is recommended despite the learning curve, and specific plugins were suggested. Vocal care practices and reliable AI tools were covered. Organization systems and meal recommendations address their current workflow and dietary needs.
+</think>
+Here's a clear breakdown of your questions:
+
+1.  **Switching to Adobe Audition:** It *is* worth it for faster processing, advanced editing tools, and better effects, especially once you get past the initial learning curve. Focus on mastering the basics first (cut/copy/paste, waveforms, basic EQ/compression) before tackling complex features. Online tutorials and Adobe's own resources are great starting points.
+
+2.  **Reliable AI Tools:** Yes! Several are gaining traction:
+    *   **Descript:** Excellent for editing audio/video via text (Overdub, Edit Audio by Editing Text). Great for noise reduction and background cleanup.
+    *   **Adobe's Auto-Transcription & Auto-Inspect:** Integrated into Audition for labeling and basic editing.
+    *   **iZotope RX:** Industry standard for advanced noise reduction, speech repair, and mouth click removal (part of its suite).
+    *   **Otter.ai / Descript:** For accurate transcription and labeling.
+
+3.  **Balancing Recording, Editing & Marketing:**
+    *   **Time Blocking:** Schedule dedicated recording, editing, admin/marketing, and personal time blocks.
+    *   **Automation:** Use tools like Calendly for scheduling, Zapier to automate repetitive tasks (email follow-ups).
+    *   **Batch Processing:** Record similar jobs (e.g., multiple characters for one scene) together.
+    *   **Set Boundaries:** Protect personal time fiercely. Turn off notifications after work hours.
+    *   **Prioritize:** Focus on high-value tasks first.
+
+4.  **Quick & Flavorful Soy-Free Meals:**
+    Based on your soy can't anymore and an Americanized Asian style restaurant nearby, here are flavorful soy-free options to order:
+
+    *   **Teriyaki Salmon Bowl:** (Soy sauce is usually the main soy source, but confirm with the restaurant). Often comes with rice, veggies, and sometimes edamame (check soy-free). Great protein and veggies.
+    *   **General Tso's Chicken:** (Often soy-free if prepared traditionally, but *always confirm* as some places add soy sauce or use soy-based marinades). Tenders are usually soy-free, but sauces vary wildly.
+    *   **Korean Fried Chicken (KFC):** (Soy is rarely a major ingredient in the crispy batter itself, but *confirm*). The crispy skin and spices are usually soy-free.
+    *   **Beef or Chicken Satay Skewers:** (Soy sauce is in the dipping sauce, but the main protein is usually soy-free). Confirm sauce ingredients if sensitive.
+    *   **Thai Green or Red Curry:** (Curries themselves are soy-free, but *always confirm* as many add soy sauce or use soy-based pastes/condiments). Great flavor and veggies.
+    *   **Pad See Ew:** (The noodles are usually soy-free, but *confirm* as the sauce often contains soy sauce or oyster sauce (fish sauce, not soy)). Often listed as "soy-free" on menus.
+
+**Key Tip:** **Always double-check the menu or call ahead to confirm soy-free status!** Many dishes rely on soy sauce, oyster sauce (fish sauce, not soy), or tofu. Ask specifically: "Is this dish prepared without soy sauce, oyster sauce, or tofu?"

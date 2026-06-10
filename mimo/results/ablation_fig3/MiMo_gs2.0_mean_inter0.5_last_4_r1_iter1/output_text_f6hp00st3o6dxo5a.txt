@@ -1,0 +1,3 @@
+That line of reasoning is interesting, but it still leads to the chicken coming first.
+
+Here's why: for that specific egg to contain the chicken's DNA, the egg had to be produced by a chicken. The DNA wasn't created *inside* the egg; it was passed down from the hen that laid it. So, the chicken had to exist to produce the egg that contained its DNA. The DNA was a result of the chicken, not the cause.

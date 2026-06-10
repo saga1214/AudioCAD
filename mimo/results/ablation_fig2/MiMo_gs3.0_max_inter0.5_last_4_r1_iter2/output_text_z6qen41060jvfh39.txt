@@ -1,0 +1,20 @@
+Okay, got it. So you want a ranking of *all* the things we've discussed, but this time on a bigger scale, from 1 to 100, and based on how most people would classify them as fruits. Let me think... So, an apple and a banana... those would probably be low on the vitamin C scale, maybe around a 20. An orange, guava, and kiwi, those are the super high ones, so they'd be way up there, like, 90, 95, and 98. Asparagus and cucumber... yeah, people don't really think of those as fruits, so they'd be at the very bottom, like a 1 or a 5. And tomatoes, well, even though they're botanically fruits, most people see them as vegetables, so I'd put them somewhere in the middle, maybe around 40. This should give you a pretty good picture of how their vitamin C content ranks relative to how we all think about them.
+</think>
+Here's a ranking of the items based on their vitamin C content, on a scale from 1 to 100, reflecting how they are generally perceived as fruits by the general population:
+
+- **Apple**: 20  
+- **Orange**: 90  
+- **Banana**: 15  
+- **Kiwwi**: 98  
+- **Asparagus**: 1  
+- **Tomato**: 40  
+- **Cucumber**: 5  
+
+### Key Observations:
+- **Guava** (rated 95 in a previous 9-point scale) is the highest, with ~228 mg per 100g.  
+- **Kiwwi** (rated 14 in a 15-point scale) follows closely, with ~91 mg per 100g.  
+- **Orange** (8/9) and **tomato** (4/15) are moderately high.  
+- **Apple** and **banana** are low (2/9 and 2/15), with ~4-5 mg per 100g.  
+- **Asparagus** and **cucumber** are extremely low (1/100 and 5/100) due to their non-fruit classification in common usage.  
+
+This ranking prioritizes both vitamin C content *and* general perception as fruits. Let me know if you'd like adjustments! 😊

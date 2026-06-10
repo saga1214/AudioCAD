@@ -1,0 +1,11 @@
+Okay, let's tackle this. The film student is asking for a clear distinction between what the eye can see versus what the brain processes, specifically in light of something called a "saccade"—she's asking for scientific terminology assuming she can keep up. She originally wanted to know standard film versus video frames per second and what the human eye sees regarding FPS.
+
+First, I need to define "saccade." It's pronounced "suh-KAH-dee," with the stress on the first syllable. It refers to the rapid, jerky eye movements we make when we shift focus from one object to another, like scanning a room. During these saccades, something interesting happens: the brain temporarily suppresses visual input. This phenomenon is called saccadic masking.
+
+The eye acts as the initial sensor. Photoreceptors (rods and cones) react to changes in light and movement patterns very swiftly. Technically, the flicker fusion threshold—which is the speed at which individual flashes merge into continuous light—is typically around 60 hertz for many people, sometimes reaching 75 hertz in bright conditions.
+
+However, perception isn't a one-to-one recording. The brain's visual cortex steps in to interpret this data. It smooths jerky information and fills gaps, ensuring motion appears fluid. Without this processing, you'd consciously notice blur during rapid head or eye movements. Saccadic masking specifically means that during these fast jumps between focal points, the brain edits information before becoming consciously aware of it.
+
+So, to answer the core question: would it be correct to say the eye sees continuously? The answer is no. The eye senses visually, but the brain’s interpretation—smoothing and stabilizing—is what creates the perception of continuous motion. The eye doesn’t see continuously; the brain processes the eye’s input to create a continuous experience. 
+
+The student wants precision without talking-down, so I’ll stick to specific terms and clarify pronunciation. Saccade: "suh-KAH-dee." The difference is key: eye senses, brain interprets at a higher level, making perception fluid. Does that breakdown work for her?

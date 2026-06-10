@@ -1,0 +1,13 @@
+Alright, let's put it all together in a clear structure you can follow. 
+
+First is your name in 14 or larger-point font, centered or aligned to the left. To the right, aligned to the left, you have your email icon in nine-point font, followed by your phone, city, icons, icons in nine-point font, followed by your phone, city, your phone, city, and icons. This order is perfectly fine, but putting contact info directly below your name flows better. Removing icons is wise due to ATS potential issues.
+
+Next, a strong Professional Summary is key, especially to explain a career shift and highlight your most relevant skills from past roles.
+
+Then, the main Experience section. Your primary, most relevant roles go first with full details, including dates. Roles from 15 years ago still count, especially if they are directly relevant to the jobs you want now. After that, you can have a smaller "Additional Work History" section listing only job titles, companies, and dates for less relevant roles.
+
+For Education, list all degrees from the same school, including expected graduation dates for ongoing degrees. Scholarships and honors should be listed right under the specific degree where you received them.
+
+Finally, a Skills section is highly recommended. List your most relevant technical and soft skills. Tailor this list to the job description.
+
+So, the final order would be: Name, then Contact Info Below, then Professional Summary, then Experience, then Education, then a smaller Additional Work History section, and then Skills. This gives you a professional, focused resume that shows your full career path.

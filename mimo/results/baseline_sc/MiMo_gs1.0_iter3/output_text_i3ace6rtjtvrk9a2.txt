@@ -1,0 +1,11 @@
+You're asking a really great question, and I appreciate you wanting to get the terminology right. The word is spelled s-a-c-c-a-d-i-c, and it's pronounced "suh-KAH-dee." So, like "suck," "ah," and then "dee."
+
+So, to your question: in the context of saccadic masking, would it be correct to say the eye sees continuously? 
+
+The short answer is no. The eye does not see continuously in the way a camera might. Saccadic masking reveals that the visual system isn’t a passive, constant recording device. Instead, it’s a dynamic system that actively edits visual input based on where the eyes are looking. 
+
+When your eyes move in a saccade, the brain suppresses the visual input during the movement. This means your conscious perception of what you’re seeing is actually intermittent, even though your eyes are physically scanning everything. So, in a sense, the brain creates the *illusion* of continuous vision by blending the information between saccades.
+
+This is why high frame rates in video can feel more "real" than 24 frames per second. A 60 fps video can capture enough detail between your eye movements to feel smooth, whereas 24 fps has more gaps that your brain has to fill in, which is why it feels more stylized. 
+
+So, to sum it up: The eye’s vision is actually intermittent due to saccades, but your brain works to create a continuous perception of reality. It’s a bit of an illusion, really. Does that make sense?

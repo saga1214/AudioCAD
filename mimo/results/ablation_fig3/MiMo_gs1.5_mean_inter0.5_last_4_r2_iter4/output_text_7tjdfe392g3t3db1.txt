@@ -1,0 +1,32 @@
+Okay, the user is asking how to tune strings while waiting for hair dye to process. They mentioned using either a tool or an app. Since they're multitasking, an app would be the most convenient solution. 
+
+The user seems to be a beginner or intermediate player since they're asking for basic tuning instructions. They might be feeling a bit impatient while waiting, so a quick and easy method would be ideal. 
+
+I should explain the app method clearly but briefly, since they're probably distracted. The steps should be simple: strum, listen to the app, adjust accordingly. I'll mention both E and A tuning since different instruments have different tuning requirements. 
+
+The tone should be encouraging and efficient - they're in a hurry! I'll keep it to just the essentials: strum, listen, adjust pitch, repeat. No need to overcomplicate it. 
+
+Hmm, I wonder what instrument they're tuning? Could be guitar or ukulele. I'll cover both common tuning systems just in case. The A major chord reference might help them identify the open strings. 
+
+Most importantly - make it actionable. They need to know exactly what to do right now while waiting. No fluff.
+</think>
+Using a tuner app is the easiest way to tune while waiting! Here's how to do it for common instruments:
+
+### For **Guitar**:
+1. **Strum an open string** (e.g., the 6th string).
+2. **Listen to the app** – it will show if the string is sharp (too high) or flat (too low).
+3. **Adjust**:
+   - If **flat** → Turn the tuning peg **clockwise** (tighten).
+   - If **sharp** → Turn the tuning peg **counterclockwise** (loosen).
+4. **Repeat** until the app shows the string is perfectly in tune (e.g., tuned to "E").
+
+### For **Ukulele**:
+1. **Strum the 4th string** (G string).
+2. **Follow the same steps** as above. Ukuleles typically tune to **G-C-E-A**.
+
+### Tips:
+- **Strum multiple strings** to tune all of them.
+- If the app is unclear, **play a simple chord** (like G major on guitar or A minor on ukulele). The app will detect all strings when you strum.
+- **Tuning takes practice** – don’t worry if it’s not perfect on the first try!
+
+**Bonus**: Apps like GuitarTuna or Fender Tune are free and accurate. Just remember: **strum → listen → adjust**! 🎸

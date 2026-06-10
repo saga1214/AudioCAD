@@ -1,0 +1,7 @@
+You're right to question that. Saccadic masking means the eye is constantly jumping between points, and the brain is suppressing the blur in between. So, the eye isn't seeing continuous, stable images. Instead, it's capturing snapshots of focus, and the brain is stitching them together to create the illusion of continuous vision.
+
+So, no, the eye isn’t seeing continuously in the way a camera might. It’s more like a series of very rapid, brief snapshots, and the brain fills in the gaps to create a seamless experience. That’s why when you move your head quickly, you might see blur or motion, but your brain’s perception remains smooth. 
+
+For film, this is really interesting. Traditional 24 frames per second works because it mimics the brain’s way of filling in gaps. Video often runs higher, but both formats are trying to approximate how the brain perceives motion, not how the eye sees it in real time. 
+
+As for pronunciation, it’s pronounced “suh-KAH-dee”。The stress is on the second syllable. Hope that helps!

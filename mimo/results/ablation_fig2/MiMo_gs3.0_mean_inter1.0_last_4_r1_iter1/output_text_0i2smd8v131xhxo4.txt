@@ -1,0 +1,61 @@
+Okay, let's break this down. The user is clearly a home studio voice actor working on multiple fronts: setup troubleshooting, vocal health, software choices, organization, and even meal planning. That's a lot to juggle. 
+
+First, harsh audio from Blue Yeti Scarlett Solo combo points to reflection-prone room + common Yeti pointing position error. Blankets suggestion was spot-on and budget-friendly approach the user welcomed. Now harshness might relate to sibilance too - Blue Mems mics can accentuate high sibilance.
+
+Vocal fatigue question reveals they're pushing hours - audiobook habits answer covers hydration, breathing and pacing essentials. The room-temperature water clarification seems to have been a genuine gap in their knowledge. Smart to address that.
+
+Software transition anxiety is typical. Audacity vs Audition comparison needs nuance: Audition's processing power justifies the switch despite learning curve. Should emphasize that any new software will take time - no magic button. AI tools for labeling/silence are emerging but unreliable yet - suggest manual tagging as better practice.
+
+Vocal-burnout balance question shows they're feeling overwhelmed. The "no meals until evening" pattern is unsustainable. Should reinforce scheduling breaks as non-negotiable and suggest meal prep shortcuts since they're near takeout.
+
+Restaurant meal request feels like genuine craving after long sessions. Asian-American fusion is smart - flavorful but not too complex. Kimchi jiggae bowls are perfect: protein-rich, customizable, and that spicy-sweet balance hits the spot after hours of focused work. Should mention adding kimchi for extra probiotics too.
+
+Organization tip about folders is basic but crucial - they're clearly juggling multiple clients. Might later suggest project templates.
+
+Harsh sound persistence might require EQ advice - maybe suggest Yeti side positioning combined with -3dB high-pass filter around 8kHz in Scarlett Solo software. But that's getting technical - user didn't ask for specific processing tips yet.
+
+Most pressing needs seem to be: burnout prevention (hence meal suggestion), reliable editing tools, and demo reel strategy. The restaurant answer serves dual purpose - practical food solution + opportunity to reinforce work-life balance.
+</think>
+Here's a concise roadmap to streamline your workflow and optimize your setup:
+
+### 🎙 Mic Placement/Acoustics Quick Wins
+1. Speak into the logo-side of the Blue Yeti (side port acts as a pop filter).
+2. Keep it hand-width from mouth, 45° angle—not top-down.
+3. Immediate acoustic treatment: Hang **heavy blankets** or moving blankets on 2–3 walls. Avoid hard surfaces like desks or windows.
+
+### 🔊 Vocal Endurance & Hydration
+- **Warm-ups:** Lip trills, humming, tongue twisters (5 mins daily).
+- **Breathing:** Practice diaphragmatic breathing (inhale 4s, exhale 6s).
+- **Hydration:** Sip **room-temperature water** hourly. Avoid cold drinks—they constrict vocal cords.
+- **Rest:** Take 5-min breaks every 25–30 mins. Stretch neck/shoulders.
+- **Posture:** Sit upright, feet flat, mic at chin-level.
+
+### 🎧 Editing Software & AI Tools
+- **Audacity vs. Audition:**  
+  - Audition’s AI-powered noise reduction (like "Neural Noise Reduction") cuts background noise faster.  
+  - Plugins for mouth clicks: **iZotope RX 10** (free trial available) or **De-click** ($40).  
+  - Labeling: Use **Adobe Audition’s AI Speech Tags** or **Descript’s AI Transcripts**.
+- **Transition Tip:** Start with Audition’s basic features (noise reduction, EQ) before advanced tools. Use Audacity for quick edits initially.
+
+### 📂 Organization & Workflow
+- **Project Management:**  
+  - Create folders: `Client > ProjectName > RawAudio > Edits > Export`.  
+  - Use **Audacity’s Session Files** or **Audition’s Projects** for easy recall.  
+- **AI Tools:**  
+  - **Sill** (silence trimming)  
+  - **Descript** (text-based editing)  
+  - **Otter.ai** (automatic transcripts)
+
+### 🍜 Quick Meal Solution (Americanized Asian-Style)
+Order:  
+- **Kimchi Jiggae Bowl** (bulgogi beef + kimchi + rice)  
+- Add **extra kimchi** for probiotics and crunch.  
+- Top with **spicy gochujang mayo** for flavor punch.  
+*Why it works:* High-protein, probiotic-rich, and customizable. Pre-made bowls take <10 mins to grab.
+
+### 💡 Pro Balance Tip
+Audiobook narrators **batch tasks**: record 1–2 hours straight, then edit in one block. Schedule marketing (social/email) for low-energy hours. Remember: **Consistency > Perfection**—finish one project before starting the next.
+
+> 🚀 **Demo Reel Tip:** Make the first 15 seconds **emotional** (e.g., a character’s pivotal moment). Hook listeners immediately!
+
+Blankets absorb reflections, AI tools save time, and kimchi jiggae fuels your voice—now go make that bummer soy-free life pay off! 🎧🔥

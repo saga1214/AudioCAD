@@ -1,0 +1,3 @@
+Controlling access at every entry point again.
+
+While human error can't be completely eliminated, visible security presence and bag checks are the most effective way to manage who and what enters the building. It's the first line of defense against unauthorized access.

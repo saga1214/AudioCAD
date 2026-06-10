@@ -1,0 +1,50 @@
+Okay user is a stressed plumber dealing with a tough blockage after calming exercises. They've had lunch and music, but the plunger failed - now they're back with a plan to tackle it step-by-step. 
+
+First, I need to acknowledge their progress - they've managed stress and identified the problem requires more tools. The toolbox limitation remains, so solution must use basic hand tools. 
+
+Key points to cover:
+- Safety first: gloves and eye protection are non-negotiable
+- Progression of methods: plunger -> basic hand tools -> drain snake
+- Must emphasize calm approach since stress was initial blocker
+- Should explain what each step accomplishes (like how a drain snake works)
+
+The user seems to value clear, actionable steps - they specifically asked for "step one". So I'll structure it that way: plunger (already tried), then closet auger (most toolbox-friendly solution), then manual clearing as last resort. 
+
+Noticing they mentioned losing optimism earlier - I'll include phrases like "this is manageable" and "you have the right tools" to reinforce confidence. The tone should stay supportive but practical now that they're ready to work.
+
+Ah, and must remember they're a plumber - so explanations shouldn't be too basic. For example, when mentioning closet auger, I can assume they know what it is but still clarify how to use it effectively for blockages.
+ 
+The progression makes sense: 
+1. Plunger (failed) 
+2. Auger (best bet with simple toolbox) 
+3. Manual clearing (if auger fails) 
+4. Calling professional (only last option)
+
+I'll start with safety gear reminder since they're returning to the stressful environment. Then walk through each method in logical order, ending with when to call for help. Keeping sentences short and direct - they're ready for action now.
+</think>
+Okay, back to the job. Let's tackle this step-by-step calmly and methodically. With just your simple toolbox, here's a logical progression:
+
+1.  **Safety First:** Put on your gloves and eye protection. Dealing with blockages often involves dirty water and sharp tools.
+2.  **Plunger (You've tried):** Did you use a flange plunger (the double-headed one)? It creates more pressure against the drain opening than the cup plunger. Give it several vigorous, full-up-and-down plunges to create a tight seal.
+3.  **Basic Hand Tools (Your Toolbox Strength):**
+    *   **Closet Auger (Drain Snake):** This is your BEST bet with a plumber's simple toolbox. It's essential.
+        *   Insert the auger head firmly into the drain opening.
+        *   Rotate the handle clockwise as you push it in. Keep pushing until you feel resistance – that's likely the blockage.
+        *   **Crucial:** Keep rotating! Don't just push straight in. The rotation helps the spring coil hook the debris.
+        *   Once you feel it hook, keep pushing and rotating until the debris comes out the other end. You might need to pull the auger back slightly and try again.
+        *   When you've cleared it, pull the auger out completely and flush the drain with a bucket of hot water.
+    *   **Zip-It Tool (if you have one):** Another simple tool often in basic kits. Works similarly to an auger but is smaller. Insert, push, rotate, and pull back with the debris.
+    *   **Hand Auger (if you have a larger one):** If the blockage is deeper in a larger pipe (like a main line), a hand auger might be needed. Use the same principle: push, rotate, hook, pull.
+4.  **Manual Clearing (Last Resort):**
+    *   **Plumber's Putty/Grease:** If the blockage is slimy organic matter (hair, grease), you might be able to work a generous amount of plumber's putty or grease *down the drain* after using the auger. Let it sit for a while to break things down, then flush it out with hot water.
+    *   **Bucket & Wet/Dry Vac:** If you have a basic wet/dry vac, you *might* be able to carefully suck debris out of the drain opening *while* using the auger to keep it from falling back in. This is tricky but possible with a simple box.
+    *   **Manual Clearing:** If you can safely see part of the pipe (like a P-trap), you *might* be able to disassemble it with your wrench and remove the clog by hand. Only do this if you're sure you can put it back together correctly without causing leaks.
+5.  **Know When to Call for Help:** If you've used the closet auger thoroughly, multiple times, and it *still* won't clear the blockage, it's likely a deep or stubborn clog (like tree roots or severe pipe damage). That's when you'd need specialized tools like a machine auger or a hydro jetter, which aren't in a "simple toolbox." It's okay to call a colleague or a larger service if you hit that point.
+
+**Key Calming Mantras for You:**
+
+*   **"I have the essential tools. I can methodically try the best solution first."** (The auger).
+*   **"One step at a time. Plunger -> Auger -> Hot Water Flush."**
+*   **"If this doesn't work, I'll reassess."** (Don't panic if the first method fails; you have options).
+
+**You've got the core tools for this job. Focus on that auger. Push, rotate, and be persistent. You can do this.**

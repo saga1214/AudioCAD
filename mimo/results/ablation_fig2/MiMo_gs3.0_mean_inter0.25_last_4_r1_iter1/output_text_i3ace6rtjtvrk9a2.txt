@@ -1,0 +1,13 @@
+You're asking a really sharp question. Let’s break this down.
+
+First, pronunciation. It's "saccade," like "sah-kahd." The emphasis is on the second syllable. It's a quick, jerky eye movement.
+
+Now, to your main question: Does the eye see continuously? It's a great question, but the answer is a bit nuanced.
+
+The eye is always processing visual information, but it’s not like a camera recording a constant stream. Instead, it’s more like a series of very rapid, short exposures. The saccade is a jump from one focal point to another. During that jump, the brain temporarily suppresses visual processing to prevent you from seeing blur, so there’s a tiny, almost imperceptible gap in the visual stream.
+
+However, the brain fills in this gap with visual memory and context. So, you don’t consciously notice the gap. This is what makes it feel like you’re seeing continuous motion.
+
+So, while the eye is technically processing in short bursts, the brain integrates that information so you perceive a continuous visual experience. It’s a bit like how a film camera records at 24 frames per second: each frame is separate, but your brain blends them into a smooth motion.
+
+So, in short, while the eye isn’t seeing in a continuous, unbroken stream, the brain’s processing makes it feel like it. It’s a combination of both. Does that make sense?

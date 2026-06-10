@@ -1,0 +1,19 @@
+You're very close to getting it! Let's refine that idea with scientific terminology and a pronunciation guide for "saccadic."
+
+Pronunciation: "Saccade" is pronounced like this: "suh-KAH-dee" or "suh-KAH-dee" (with a soft 'c' sound, like in the word "cat"). 
+
+Now, to answer your question: 
+
+No, it’s not entirely correct to say the human eye sees continuously, even with saccadic masking. 
+
+Here’s the distinction:
+
+The eye itself detects visual information in bursts. During a saccade, the eye moves rapidly to a new focal point, and the retina captures blur and rapid details. During saccadic masking, your brain suppresses this blur so you don’t feel motion sickness or get overwhelmed. But suppressing blur doesn’t mean the eye wasn’t seeing those rapid details—it means the brain is editing them before you’re consciously aware of them.
+
+So the eye is sensing rapidly changing light, but the brain is interpreting and smoothing that information. They’re two different functions. 
+
+If you were to film a fast head or eye movement, you might see blur or incomplete details. But because your brain masks that, your perception feels continuous. 
+
+Think of it this way: The eye is the sensor; the brain is the editor and stabilizer. The sensor captures data, but the editor makes sense of it. 
+
+Does that distinction help? The eye senses in bursts, and the brain masks those bursts to create a smooth perception.

@@ -1,0 +1,81 @@
+Okay, the user wants me to convert all previous Marvel character ratings from the 8-point scale to a 1-to-100 scale. That's a straightforward unit conversion task, but I should maintain consistency across all entries. 
+
+Looking back at Iron Man/Iron Man - I gave an 8 earlier, so 80% conversion makes sense (8/10=0.8). His high rating was intelligence/power balance, but converting to 100-scale compresses it. 
+
+Captain America also an 8 - same 80% logic. His moral weight gets scaled down proportionally. Thor was seven originally - that becomes 70% (7/10=0.7), though I wonder if the user expected higher since his cosmic powers. 
+
+For power-only Thor rating seven earlier, that converts to 70% directly. Smart to show the distinction between narrative power and raw power. Baron Zemo's power one becomes 10% - a tiny number but accurate for a non-powered villain. 
+
+Captain Marvel's ten-out-of-ten power rating becomes 100% - makes sense as she's near-invincible in comics. Interesting how the scale changes meaning: an 8/10 Marvel hero becomes 80/100, but a 10/10 Marvel villain becomes 100/100. 
+
+User seems systematically curious - first general ratings, then power-specific, then backstory requests. Probably compiling data or just enjoys structured Marvel analysis. The Zemo backstory request suggests deeper interest in anti-heroes/villains. 
+
+Should I add notes about scaling logic? No - user didn't ask for methodology, just conversion. Keeping it clean and numerical respects their request. Might add a brief percentage explanation though, since the scale shift could confuse some readers. 
+
+Final check: all conversions maintain original intent. Iron Man/Cap America stay top-tier, Thor moderate, Zemo low, Captain Marvel elite. Consistency achieved.
+</think>
+Here's the conversion of all Marvel character ratings from the original 1–8 scale to a **1–100 scale** (with explanations for clarity):
+
+---
+
+### Main Heroes (Narrative Rating → 1–8 → 1–100)
+1. **Iron Man**  
+   Original: 8/8  
+   Converted: **80/100**  
+   *Why?* Starting character and brilliance rated fully (8/10 = 80%).
+
+2. **Captain America**  
+   Original: 8/8  
+   Converted: **80/100**  
+   *Why?* Moral compass role retained at full narrative score.
+
+3. Villains by Power Level (Original: 1–10 → 1–100)
+   - **Thor**  
+     Narrative: 7/10 → **70/100**  
+     Power-Only: 7/10 → **70/100**  
+   - **Thanos (Infinity Gauntlet)**  
+     Original: 10/10  
+     Converted: **100/100**  
+     *Why?* Reality-warping power = maximum scale.
+   - **Dormammu**  
+     Original: 10/10  
+     Converted: **100/100**  
+     *Why?* Cosmic entity with reality manipulation.
+   - **Hela**  
+     Original: 9/10  
+     Converted: **90/100**  
+     *Why?* Goddess of Death with near-invincibility.
+
+---
+
+### Villains by Power Level (1–10 → 1–100)
+- **Baron Zemo**  
+  Original: 1/10 (No powers)  
+  Converted: **10/100**  
+  *Why?* Non-powered intellect only (10% of max scale).
+
+---
+
+### Backstory: Baron Zemo
+- **Role**: Sokovian colonel and master strategist.  
+- **Motivation**: Family killed by Avengers' collateral damage during the *Infinity War* battle.  
+- **Plot Impact**:  
+  - Framed Bucky Barnes (Winter Soldier) for a bombing, causing Civil War.  
+  - Revealed Bucky’s role in Tony Stark’s parents' death, destroying Avengers’ unity.  
+- **Key Storyline**: *Captain America: Civil War* (MCU) and *The Sokovia Accords*.  
+
+---
+
+### Summary Table
+| Character          | Original Rating | Converted (1–100) | Reasoning                     |
+|--------------------|-----------------|-------------------|-------------------------------|
+| Iron Man           | 8/8             | 80/100            | Narrative completeness        |
+| Captain America    | 8/8             | 80/100            | Narrative completeness        |
+| Thor (Narrative)   | 7/10            | 70/100            | Power + character growth     |
+| Hela               | 9/10            | 90/100            | Raw power + godly status     |
+| Thanos (Gauntlet)  | 10/10           | 100/100           | Reality control              |
+| Dormammu           | 10/10           | 100/100           | Cosmic entity power          |
+| Baron Zemo         | 1/10 (Power)    | 10/100            | Non-powered strategist       |
+| Captain Marvel     | 10/10 (Power)   | 100/100           | Planetary-level power        |
+
+> **Note**: The 1–100 scale is a linear extension of the original 1–8 scale (e.g., 8/10 = 80/100). Power-only ratings (e.g., Zemo at 1/10) directly scale to 10/100.
