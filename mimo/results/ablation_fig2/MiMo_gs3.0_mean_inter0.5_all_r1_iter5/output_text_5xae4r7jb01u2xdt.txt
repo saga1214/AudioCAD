@@ -1,0 +1,11 @@
+Of both college and high school offside rules share the same core principles, there is one key difference in how they define the defender used for the offside check. I'll use a scenario to explain this.
+
+Here’s the situation: The Red team is attacking the Blue team's goal. The Blue team's second-to-last defender is standing right at the penalty spot. The Red team's forward, number seven, is behind this defender, closer to the goal, when a Red teammate passes the ball directly to him. The ball is played just outside the penalty area.
+
+Now, here's the difference. 
+
+In the college and high school rulebooks, the offside check uses the *last defender*. In this case, that would be the defender at the penalty spot. Since the player is behind them, he's not offside. So, no call is made.
+
+However, the official Laws of the Game used in college soccer follow a slightly different interpretation. They use the *second-to-last defender*, regardless of where they are on the field. In this scenario, since the attacker is behind the second-to-last defender, he would be called for offside. 
+
+So, the key difference is the definition of the defender used for the check. College and high school rules use the "last defender," while the international Laws of the Game use the "second-to-last defender." This is the most common distinction you need to be aware of for certification.

@@ -1,0 +1,50 @@
+Okay, he's back at it and the plunger didn't work. It's a deep clog. I need to give him a clear, step-by-step plan using his simple toolbox. Let's see what tools he might have... probably pliers, a pipe wrench, a screwdriver, maybe a wire hanger or two, and some kind of drain snake or a flexible drain key. 
+
+First, he needs to confirm it's a deep clog. If water doesn't drain at all after plunging, that's the sign. 
+
+The first step is to disconnect the trap. That's usually a simple slip nut. He'll need pliers for that. 
+
+Then, he can try to pull the blockage out with a wire hanger or a drain snake. He should be careful not to scratch the pipe. 
+
+If that doesn't work, he can try to use a pipe wrench to loosen the drain pipe itself, which might shift the clog. 
+
+Finally, if all else fails, he should check the P-trap for any debris he can remove. 
+
+I'll walk him through each step calmly and methodically. He's a plumber, so he knows the basics, he just needs a clear guide right now. 
+
+Let's start with disconnecting the trap.
+</think>
+Alright, let's tackle this step by step with what you've got. Stay calm and methodical. Here's a plan using a simple toolbox for a deep plumbing blockage:
+
+### Step 1: Disconnect the Trap
+*   **Action:** Locate the U-shaped pipe (the trap) under the sink or fixture. It connects to the drain pipe below.
+*   **Tools Needed:** Pliers (needle-nose or regular).
+*   **How:** Use the pliers to grip the slip nut (the threaded fitting) on the trap. Turn it counter-clockwise (lefty-loosey) until it's loose. Carefully pull the trap assembly straight up and out of the drain opening. Place it aside.
+
+### Step 2: Inspect the Trap & Attempt Removal
+*   **Action:** Look *inside* the trap for any obvious debris (hair, soap scum, etc.). Use pliers to grab any large chunks.
+*   **Action:** Try to pull the blockage out with a wire hanger or a drain snake (if you have one).
+    *   Straighten the hanger so the hook points down.
+    *   Lower it into the drain opening, hooking into the blockage.
+    *   Pull firmly upwards. If it's deep, it might snag and come out partially or break apart. Be patient.
+
+### Step 3: Attempt to Loosen the Drain Pipe (If accessible)
+*   **Action:** If the drain pipe below the trap is accessible (like in a crawlspace or basement), locate where it connects to the wall or floor.
+*   **Tools Needed:** Pipe wrench.
+*   **How:** Place the pipe wrench securely around the drain pipe fitting. Turn it clockwise (righty-tighty) to tighten it, then counter-clockwise (lefty-loosey) to loosen it. Use a screwdriver to hold the nut steady if needed. Once loose, carefully pull the pipe out a few inches. Sometimes this motion shifts the clog. Reinsert it and see if water flows better.
+
+### Step 4: Check the P-Trap (If still connected)
+*   **Action:** If the trap is still connected (or you found it's the problem), carefully disconnect it using the same slip nut method as Step 1.
+*   **Action:** Use pliers to remove any debris stuck in the trap's U-bend.
+
+### Step 5: Final Check & Plunge (If possible)
+*   **Action:** If the blockage is gone, reconnect everything securely (use pliers for slip nuts).
+*   **Action:** If the blockage remains, try plunging *again* but *after* disconnecting the P-trap. This creates a better seal. Use a strong, steady push-pull motion.
+
+**Key Calming Tips While Working:**
+*   **Pace Yourself:** Work slowly. Rushing increases frustration.
+*   **Ventilate:** Ensure the area is well-ventilated, especially if you have to use chemicals later (though you said only toolbox).
+*   **Take Breaks:** If stuck for more than 10 minutes, step away for 5 minutes. Stretch, breathe, grab water.
+*   **Accept Imperfection:** Sometimes toolbox limits mean a partial fix is best. A partial drain is better than none.
+
+You've got the right tools to disassemble and inspect. Focus on one step at a time. You can do this.

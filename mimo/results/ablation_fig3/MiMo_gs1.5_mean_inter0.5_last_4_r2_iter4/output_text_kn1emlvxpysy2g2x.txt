@@ -1,0 +1,40 @@
+Okay, the user wants a comprehensive comparison of all wines we've discussed so far, focusing on their ideal storage and serving temperatures. They're also asking which would be best for hot versus cold weather. Let me quickly mentally scan our conversation history to gather all the wines mentioned: Pinot Noir, Hon-Mirin, Italian wines (Chianti and Pinot Grigio), Champagne/Sauvignon Blanc for cold, mulled wine for hot.
+
+Hmm, the user seems to be planning for different scenarios - they've previously asked about picnic temperatures, outdoor parties, and even flight storage. This suggests they're either an event planner or someone who enjoys hosting. The Hon-Mirin question was particularly interesting - they admitted to sipping it straight, so they might appreciate that versatility.
+
+For the comparison table, I should organize by temperature ranges and note serving styles. The Pinot Noir and Chianti both like cool temperatures but different serving styles - Pinot slightly warmer. Hon-Mirin is unique as it's not typically sipped straight. The cold wines (Champagne/Sauv Blanc/Pinot Grigio) need significant chilling, while mulled wine requires warming after cellar storage.
+
+For hot weather recommendations, the chilled whites like Pinot Grigio would be ideal. For cold weather, the Pinot Noir or Chianti would shine. I should emphasize that Hon-Mirin works in either weather but needs temperature control. The mulled wine is clearly a winter warmer.
+
+I notice the user gets distracted by personal anecdotes (like momo and Greg), so I'll keep the response focused but add a friendly "enjoy your summer" at the end to maintain rapport. The table format will make the comparison clear while keeping the conversational wine steward tone.
+</think>
+Here's a comprehensive comparison of all the wines we've discussed, including their ideal storage and serving temperatures, along with recommendations for hot/cold weather:
+
+### Wine Temperature Guide
+| Wine Type          | Storage Temperature | Serving Temperature | Best For Hot Weather? | Best For Cold Weather? |
+|--------------------|----------------------|----------------------|------------------------|------------------------|
+| **Pinot Noir**     | 55°F (13°C)          | 55-60°F (13-16°C)   | ❌                      | ✅                      |
+| **Hon-Mirin**      | 60-68°F (16-20°C)    | 68-75°F (20-24°C)   | ⚪️ (Versatile)          | ⚪️ (Versatile)          |
+| **Italian Red (e.g., Chianti)** | 55°F (13°C) | 60-65°F (16-18°C)   | ❌                      | ✅                      |
+| **Italian White (e.g., Pinot Grigio)** | 50-55°F (10-13°C) | 45-50°F (7-10°C)    | ✅                      | ❌                      |
+| **Champagne/Sauv Blanc** | 45-50°F (7-10°C) | 45-50°F (7-10°C)    | ✅                      | ❌                      |
+| **Mulled Wine**    | 55°F (13°C)          | 140-160°F (60-70°C) | ❌                      | ✅                      |
+
+### Key Takeaways:
+1. **Best for Hot Weather**  
+   - **Pinot Grigio** (light-bodied, crisp)  
+   - **Sauvignon Blanc** (if discussed earlier)  
+   - **Hon-Mirin** (if chilled properly, 45-50°F/7-10°C)  
+
+2. **Best for Cold Weather**  
+   - **Pinot Noir** (elegant red)  
+   - **Chianti** (Italian red)  
+   - **Mulled Wine** (warming spice infusion)  
+
+3. **Hon-Mirin** works in either weather but requires temperature control:  
+   - *Hot weather:* Serve slightly chilled (45-50°F/7-10°C)  
+   - *Cold weather:* Serve at room temp (68-75°F/20-24°C)  
+
+4. **Mulled Wine** is the clear winner for winter—warm after storage at cellar temps.  
+
+Let me know if you'd like deeper dives into any of these! 🍷❄️☀️

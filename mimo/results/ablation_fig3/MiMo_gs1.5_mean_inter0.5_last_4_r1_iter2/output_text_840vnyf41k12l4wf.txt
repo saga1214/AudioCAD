@@ -1,0 +1,11 @@
+Alright, let's compare the three materials using a scale from zero to one hundred, focusing on business aspects like cost and price potential, and leaving popularity out of the equation.
+
+First, let's look at PU Leather. Its manufacturing cost is very low, so I'd give it a 90. The selling price is moderate, so its price potential is a 60. Because it's a very common material, its uniqueness score is low, at 30.
+
+Next, Piñatex. Its cost is higher than PU, so I'll rate it a 60. But it can be sold for a much higher price, giving it a strong price potential of 85. It's more unique than PU, so its uniqueness score is 50.
+
+Finally, cactus leather. The cost is high, so its score is 40. The selling price is very high, making its price potential a 95. It's highly unique, so I'd give it a uniqueness score of 80.
+
+So, to summarize that on a scale of zero to one hundred: PU leather gets a 90 for cost, 60 for price potential, and 30 for uniqueness. Piñatex gets a 60 for cost, 85 for price potential, and 50 for uniqueness. And cactus leather gets a 40 for cost, 95 for price potential, and 80 for uniqueness. 
+
+Just so you know, these scores are based on general market trends. The actual numbers could change depending on your specific brand, location, and other factors.

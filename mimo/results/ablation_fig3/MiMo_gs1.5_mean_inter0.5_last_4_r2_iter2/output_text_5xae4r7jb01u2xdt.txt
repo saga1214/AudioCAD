@@ -1,0 +1,7 @@
+Let's look at a scenario involving a corner kick. The Red Team is attacking the Blue Team's goal. The Red Team player, number 9, takes a corner kick. A teammate, number 7, is positioned level with the ball, and another teammate, number 10, is behind number 7, closer to the goal.
+
+In the old U.S. high school rules, before 2008, a player was considered offside if they were level with the ball. So, number 7 would have been offside.
+
+However, the current high school rules, and the college rules, state that a player is only offside if they are behind the ball. Since number 7 is level with the ball and not behind it, they are not considered offside.
+
+So, if the ball is played to number 7 and they score, the goal would stand under current rules, but it would have been disallowed under the old rules because of the "level with the ball" exception that no longer exists.

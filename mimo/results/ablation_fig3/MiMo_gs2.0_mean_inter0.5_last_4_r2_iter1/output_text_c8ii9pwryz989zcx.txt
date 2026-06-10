@@ -1,0 +1,61 @@
+Okay, let me tackle this furniture layout puzzle step by step, incorporating all the constraints and new details. The room dimensions are ten feet corner-to-corner per wall, and we have clear cardinal directions for walls A-North, B-East (with windows), C across A (likely South), and D (likely East? Wait, no—B is East so D should be West). 
+
+First, rules to remember: No furniture against window wall B, altar foot can't face bed, need space in front of altar, can't cover poster with dresser, end table must be bedside, floor lamp needs placement. 
+
+Previous layouts failed due to cramped access, so flow is key. Also poster/dressing conflict adds complexity—dresser can't be on the same wall as poster. Since poster is wall-mounted, dresser must be elsewhere. 
+
+Brainstorming options: 
+- Bed on Wall D (opposite windows) frees Wall A/B for door/windows. But Wall A has door, so altar could go there without foot-facing bed issue. Wall C could hold dresser since it's opposite door, away from bed's foot direction. End table beside bed on Wall D floor. Floor lamp could go beside bed or in corner. Poster could go on Wall A (door wall) since Wall B is windows-only. 
+
+Check constraints: 
+1. No window wall furniture: Check, poster is on A. 
+2. Altar vs. bed foot: Altar on A, bed head on D, so foot points east/Wall B—perfect, no conflict. 
+3. Access space: Altar on A leaves clear floor access. Dresser on C is separate. 
+4. Poster/dressing: Poster on A, dresser on C—no overlap. 
+5. End table: Beside bed on Wall D floor. 
+6. Floor lamp: Corner of Wall A/B (door/window) or beside altar on Wall A. 
+
+Final layout proposal: 
+- Head of bed: Wall D (opposite windows) 
+- Altar: Wall A (same as door) 
+- Dresser: Wall C (opposite door) 
+- End table: Beside bed on Wall D floor 
+- Floor lamp: Corner of Wall A/B (door/window wall) 
+- Poster: Wall A, above door but below altar height 
+
+This should satisfy all rules while maximizing flow. Let me know if adjustments are needed!
+</think>
+Based on all your constraints—plus the poster/dressing conflict and need for end table/lamp access—here’s a practical layout that keeps everything functional and avoids conflicts:
+
+### Final Layout:
+1. **Head of your bed** → Against **Wall D** (10ft, opposite windows/Wall B).  
+   *(Foot of bed points toward Wall B/East windows—safe, as rules allow this.)*
+
+2. **Altar** → Against **Wall A** (10ft, same wall as door).  
+   *(No rule against altar placement here.)*
+
+3. **Dressing** → Against **Wall C** (10ft, opposite door).  
+   *(Avoids Window Wall B, altar, and poster conflict.)*
+
+4. **End table** → Beside your bed on the **floor of Wall D**.  
+   *(Reaches bed easily, near headboard.)*
+
+5. **Floor lamp** → In the **corner of Wall A/B** (door/window wall).  
+   *(Provides light near altar/bed without blocking pathways.)*
+
+6. **Poster** → On **Wall A**, above the door but below altar height.  
+   *(Visible but dressing on Wall C won’t cover it.)*
+
+### Why This Works:
+- **No Window Wall Furniture**: Walls B (windows) and D (windows opposite) are clear. Dressing is on Wall C.
+- **Altar Access**: Clear space in front of altar on Wall A.
+- **Bed Access**: End table beside bed on Wall D.
+- **Flow**: Pathway from door (Wall A) to altar (Wall A), then to dressing (Wall C), avoiding cramped corners.
+- **Poster/Dressing Conflict**: Poster on Wall A, dressing on Wall C—no overlap.
+
+### Measurements Check:
+- Bed (6x3 ft) + end table (~18-24") fits comfortably on Wall D.  
+- Altar (2x1 ft) + dressing (3x1 ft) on Wall A/C share the 10ft wall space.  
+- Lamp in corner of Wall A/B uses only 3-4 ft of width.
+
+This layout prioritizes access to all furniture and maintains feng shui rules while accommodating your poster. If you need tweaks (e.g., lamp near bed), let me know!

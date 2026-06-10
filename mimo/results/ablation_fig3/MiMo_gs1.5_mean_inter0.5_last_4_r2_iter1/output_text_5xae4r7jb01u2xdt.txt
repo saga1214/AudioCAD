@@ -1,0 +1,7 @@
+Let's look at a scenario where a high school referee might need to make a quick judgment call, which differs from the more detailed college rules. In this situation, Red Team number 10 is passing the ball forward to the Red Team's goal. The Red Team defender number 8 is behind the ball. Now, the Blue Team forward number 9 is in an offside position, but they are not actively chasing the ball. They are just jogging back toward their own defensive half to get back onside. The ball is then intercepted by the Blue Team midfielder number 7, who shoots and scores. 
+
+The key question is whether the Blue Team forward number 9 committed an offside offense.
+
+In the high school rules, a player is only penalized for being in an offside position if they get involved in the play. Since number 9 was just jogging back toward their own half and did not get involved, it is not an offense. The play would continue.
+
+However, in the college rules, the forward is considered to be 'playing on the ball' simply by being in an offside position and getting involved in the play, even if it's only by being in the way. In that case, the forward would be considered to have committed an offense, and the play would be stopped.

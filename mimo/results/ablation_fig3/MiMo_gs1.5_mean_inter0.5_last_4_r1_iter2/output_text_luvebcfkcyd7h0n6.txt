@@ -1,0 +1,5 @@
+Okay, let's break this down. You're using a movie production analogy to understand quantum computing. It's a great way to think about it. 
+
+So, a regular bit is like a light switch—on or off. A qubit is like an actor who can be all three at once—hero, villain, background. Taking a measurement is like the director saying "Action!" and the actor has to pick one role. Entanglement is like two actors whose roles are linked; if one is the hero, the other is instantly the villain, no matter where they are. The budget is the amount of time an actor can hold all those potential roles. Noise on set is decoherence, where something breaks the actor's concentration. Editing is quantum error correction, fixing mistakes. Quubits are the actors. And the final cut is the solution to your problem. 
+
+Let me know if any of that feels off.

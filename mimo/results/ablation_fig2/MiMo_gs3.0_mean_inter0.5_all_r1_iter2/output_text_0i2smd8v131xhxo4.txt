@@ -1,0 +1,48 @@
+Okay, this user has shared a lot of technical and professional challenges. Let me start by breaking down their main issues. First, soy restriction affecting setup reworking, harsh Blue Yeti/Scarlot Solo audio. Tips given: mic direction logo side, blankets for acoustics. Then moved to vocal fatigue, covered warm-ups, diaphragmatic breathing, hydration tip—specifically room-temp water. User was surprised cold was worse, so that's a key insight.
+
+Next, editing workflow: Audacity vs. Adobe Audition. Mentioned faster processing, plugins for mouth clicks/noise, organization. Demo tips for memorability. Room-temp water question addressed, but user seems to have missed that earlier advice. Should I reiterate? Maybe not, since it's a tangent. Focus on their current questions.
+
+Switching to Audition: Learning curve, plugins like RX, organization via folders. Demo needs strong emotion, clear character. Now user asks about switching to Audition easier, reliable AI tools, pros' work-life balance, and suddenly pivots to food cravings. 
+
+The abrupt shift to food is interesting. They're likely overwhelmed and seeking a quick break. The craving suggests burnout. Previous advice on breaks every 20 minutes is relevant here. They need practical, quick solutions without effort. 
+
+AI tools: Mention Descript for trimming, Adobe's tools. Emphasize reliability. Pros' balance: time-blocking, marketing automation, self-care. User's ignoring meals, so suggest meal prep or delivery. 
+
+Food recommendation: They want quick, flavorful from an Americanized Asian spot. Options: Teriyaki chicken bowls, sushi burritos, ramen. Highlight protein-rich, easy to eat. 
+
+Underlying needs: Burnout management, work-life balance, quick recovery. Need actionable, low-effort solutions. Connect vocal rest to meals. Reinforce breaks between recording. 
+
+Structure response: Prioritize their questions, address each, then food as a break strategy. Ensure clarity on Audition transition, reliable tools, and vocal care. Food suggestions should be fast and satisfying to recharge. Avoid markdown, keep it conversational.
+</think>
+Here’s a clear breakdown to help you move forward, plus a quick food suggestion to fuel your creative energy:
+
+### 🎙️ Home Studio Fixes
+1. **Harsh Audio**: Double-check Yeti side placement (讲话时始终面向带标的方向)，保持手宽距离。
+2. **Acoustic Treatment**: Heavy blankets absorb reflections effectively—no need for panels immediately.
+3. **Demo Memorability**: Focus on 1-2 seconds of **high-impact emotional delivery** (e.g., a shocked gasp, a villainous laugh).
+
+### 🛠️ Editing & Workflow
+- **Audition Transition**: Start with tutorials on basic workflows (editing, noise reduction). Use Audacity for simple tasks first.
+- **AI Tools**: 
+  - **Descript** (AI-powered transcript-to-editing)
+  - **Adobe Audition** (AI noise reduction, mouth click removal)
+- **Organization**: Create dedicated folders per client/project. Use metadata tagging for fast retrieval.
+
+### 💬 Voice Health & Balance
+- **Warm-ups**: 5-min daily lip trills/humming routines.
+- **Vocal Hydration**: Sip room-temperature water hourly—avoid cold (contracts vocal cords).
+- **Breathing**: Practice 4-7-8 breathing (inhale 4s, hold 7s, exhale 8s).
+- **Balance**: 
+  - Block 20-min recording/break cycles
+  - Automate social media with scheduling tools (e.g., Buffer)
+  - Dedicate 1 hour/day to marketing/admin
+
+### 🍜 Quick Meal Suggestion
+For your craving: **Teriyaki Chicken Bowl**  
+- *Why it works*: Protein-rich (replenishes voice), flavorful, ready in 5 mins.  
+- *Order tip*: Ask for extra ginger (soothes throat) and sesame oil (boosts flavor).
+
+### Pro Workflow Hack
+Audiobook narrators use **"energy mapping"**—marking scripts with emotion tags (e.g., 😠=angry, 😢=sad) to maintain consistency across long sessions.
+
+Stay consistent, and remember: every polished demo starts with one harsh-but-determined recording! 🎧✨

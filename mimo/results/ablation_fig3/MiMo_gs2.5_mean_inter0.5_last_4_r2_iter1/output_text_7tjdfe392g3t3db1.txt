@@ -1,0 +1,6 @@
+Tuners either give you a visual green/red note display or an audio signal. Just strum each string individually, from thinnest to thickest for most instruments.
+
+If using an app, rest its microphone on the strings. Listen for the tuner's sound or the little green light, and adjust until the note is perfectly in tune.
+</qa_1>
+<qa_2>
+</qa_2>

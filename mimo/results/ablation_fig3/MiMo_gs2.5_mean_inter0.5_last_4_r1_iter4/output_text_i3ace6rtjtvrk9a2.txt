@@ -1,0 +1,11 @@
+You're very close with the pronunciation! It's "sac-ca-dee". The stress is on the first syllable: sac-ca-dee.
+
+So, to your question: No, it wouldn’t be correct to say the eye sees continuously in the way a camera does. It’s more accurate to say that the brain constructs a continuous visual experience from the eye’s intermittent sampling.
+
+Here’s a simple way to think about it: The eye’s retinal cells respond to changes in light, not to a constant stream of images. They are more like sensors that pick up movement and contrast. The brain then fills in the gaps, creating the perception of continuous vision.
+
+During a saccade, the eye’s focus shifts rapidly, and the brain’s processing is temporarily suppressed to avoid motion blur. So, the eye’s sampling is intermittent, but the brain’s interpretation is what makes the experience feel seamless. 
+
+Think of it like this: The eye is a camera that takes quick snapshots, but the brain is the editor that splices them together to look like a smooth, continuous film. This is why motion blur happens—you’re seeing the eye’s snapshots before the brain has a chance to fill in the gaps. 
+
+So, no, the eye doesn’t see continuously like a camera. It samples, and the brain does the heavy lifting to make it all feel like one continuous, fluid experience.

@@ -1,0 +1,21 @@
+Okay, the user is repeatedly asking about top sedan brands but refining the criteria each time. First they just want top 3 sedan brands generally, then dig into reliability aspects, then compare maintenance costs between luxury and mainstream brands, then general sedan use cases, and finally rephrasing the core question with sedan familiarity. 
+
+Hmm, they seem to be researching sedan purchases - probably comparing brands across different priorities. The pattern shows they care about: 1) established sedan specialists 2) reliability metrics 3) cost implications of luxury brands 4) practical sedan use cases. 
+
+Noticing they latched onto my BMW-reliability comment earlier, so they're likely weighing performance vs practicality tradeoffs. Might be a first-time sedan buyer trying to understand brand reputations. Should maintain the Toyota/Honda/BMW core answer but emphasize how their strengths align with different user needs this time.
+
+Also detecting subtle frustration in their rephrasing - they want the same foundational info but packaged differently. Best to deliver the same core answer with clearer categorization this round: mainstream (Toyota/Honda) vs luxury (BMW) sedans. Should explicitly call out the reliability-cost-performance matrix they're clearly trying to map.
+</think>
+Based on sedan production and market presence, the **top three car brands known for sedans** are:
+
+1.  **Toyota:** A global leader, producing an exceptionally wide range of sedans across all segments (compact, midsize, luxury) known for reliability and practicality. (Camry, Corolla, Avalon, Lexus models).
+2.  **Honda:** Also a major producer with strong sedans across segments, emphasizing efficiency, driver focus, and reliability. (Accord, Civic, Odyssey).
+3.  **BMW:** A premier luxury brand where sedans (especially Gran Turbos and coupes) are a core part of its identity, renowned for performance, handling, and premium quality. (5 Series, 7 Series, 8 Series).
+
+**Key Considerations:**
+
+*   **Reliability & Cost:** Toyota and Honda consistently rank among the most reliable and cost-effective mainstream sedan brands. BMW, while reliable, generally has higher ownership costs (maintenance, repairs, insurance).
+*   **Fuel Efficiency & Practicality:** Toyota and Honda excel in fuel efficiency and practicality for daily commuting. BMW offers more performance/luxury at the cost of potentially lower efficiency and higher running costs.
+*   **Luxury/Sport Focus:** BMW is specifically known for its performance-oriented luxury sedans. Mercedes-Benz and Audi are also major luxury sedan brands (like the E-Class, S-Class, C-Class, A6, A8), often competing with BMW for the top spot in *luxury* sedans.
+
+**In summary:** Toyota and Honda are giants in the *overall sedan market*, especially for mainstream models. BMW is arguably the most famous brand *specifically for its luxury sedans*.

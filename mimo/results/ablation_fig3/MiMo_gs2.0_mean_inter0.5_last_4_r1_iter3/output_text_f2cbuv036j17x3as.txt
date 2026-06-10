@@ -1,0 +1,58 @@
+Okay, the camper van road trip planner is now shifting from family activities to diesel camper maintenance—smart move. Since they’re older vehicles tend to need more TLC, I should break this down clearly. First, brakes: you’d check for squealing or grinding noises during low-speed stops, which indicate pad wear. Also, look for dust or discoloration on the rotors—if they’re shiny or cracked, that’s a red flag. For spark plugs, diesel engines use high-pressure共轨 systems, so while DIY is possible, it’s risky unless you’re experienced. Better to consult a trusted mechanic pre-trip. I’ll emphasize that because DIY diesel repairs can be costly if done wrong. Safety first!
+</think>
+For a diesel camper van, pre-trip maintenance is crucial. Here's how to check brakes and spark plugs:
+
+### **Brake Inspection**
+1. **Visual Check**:  
+   - Inspect brake pads/shoes for thinness (less than 3mm requires replacement).  
+   - Look for dust, cracks, or warping on rotors/drums.  
+   - Check fluid levels in the master cylinder and brake fluid reservoir (should be clean and full).  
+
+2. **Test Drive**:  
+   - Listen for grinding, squealing, or vibration during stops.  
+   - Test emergency brakes—ensure they engage smoothly without jerking.  
+
+**Signs of Wear**:  
+- Squealing/grinding noises  
+- Vibration during braking  
+- Long stopping distances  
+- Fluid leaks near wheels  
+
+---
+
+### **Spark Plug Replacement (Diesel-Specific)**  
+Diesel engines use high-compression ignition, so spark plugs are less critical than in gasoline engines but still vital.  
+
+**Tools Needed**:  
+- Socket wrench (10mm or 13mm, depending on your van)  
+- Spark plug socket (with rubber tip)  
+- Wrench  
+- New spark plugs (check your van’s manual for part number)  
+- Dielectric grease (for boot sealing)  
+- Safety gloves/goggles  
+
+**Steps**:  
+1. **Disconnect battery** to prevent electrical hazards.  
+2. **Remove old plugs**:  
+   - Unscrew the plug by hand, then use a socket wrench (left-hand thread for most diesel plugs—turn *counter-clockwise*).  
+3. **Inspect**:  
+   - Clean the plug’s threads and check for corrosion.  
+4. **Install new plugs**:  
+   - Apply dielectric grease to the boot.  
+   - Hand-tighten, then use a wrench for 1–2 full turns (avoid over-tightening).  
+5. **Reconnect battery** and test drive.  
+
+**Note**: Diesel plugs are often **cooled plugs** (thicker insulation) and require specific torque specs—always follow your van’s manual. If unsure, consult a mechanic.  
+
+---
+
+### **Other Pre-Trip Checks**  
+- **Engine Oil**: Change oil and filter (diesel engines are oil-hungry).  
+- **Coolant**: Ensure reservoir is full and hoses are intact.  
+- **Tires**: Check pressure, tread depth, and spare tire.  
+- **Fluids**: Brake fluid, transmission fluid, power steering fluid.  
+- **Camping Systems**: Verify water tank, fridge, and solar battery function.  
+
+**Pro Tip**: Use a checklist from your van’s manufacturer and schedule a professional inspection 1–2 weeks before departure. A well-maintained diesel van can be a reliable workhorse for long trips!  
+
+Safe travels—may your camper purr and your kids stay screen-free! 🚐✨

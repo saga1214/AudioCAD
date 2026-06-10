@@ -1,0 +1,63 @@
+Okay, the user is asking about a specific stock scenario after discussing high-risk investments. They've repeatedly emphasized they're not afraid of losing money, so they're clearly prepared for volatility. 
+
+Hmm, they bought at $62.87 per share with a $10,000 investment. Their parameters are very clear: target 10% gain ($1,000 profit) or 10% loss ($1,000 loss) with stop-loss at $90. 
+
+Let me calculate this carefully. For the loss scenario: If the stock drops to $90, their loss per share is $62.87 - $90 = -$27.13. Multiplied by 160 shares (10,000 ÷ 62.87), total loss is -$4,343.36. That's way beyond their 10% loss tolerance - they'd actually lose 43.4% of their capital. 
+
+For the gain scenario: Target $110 per share would give them $1,600 profit (10,000 × 1.1), which hits their 10% gain target. 
+
+The math shows this is extremely risky. The stop-loss isn't just 10% - it's 30.4% below their entry price. And the upside potential is capped at 10% gain. The asymmetry is brutal - 30% risk for 10% reward. 
+
+I should emphasize this is gambling territory. Even though they said they're not afraid of losses, the scale here is dangerous. Maybe suggest a smaller position size? But they seem determined... I'll present the numbers coldly but add context about the risk-reward imbalance. 
+
+Noting they mentioned futures earlier - they're clearly exploring high-leverage instruments. This isn't a beginner investor. But the lack of position sizing discipline worries me. Should I mention paper trading first? No, they seem focused on execution. Stick to the math.
+</think>
+Based on your scenario (buying **1 stock at $62.87/share** with a **$10,000 investment** and a **stop-loss at $90**), here's the math and risk breakdown:
+
+### Key Details:
+- **Entry Price**: $62.87/share  
+- **Stop-Loss Price**: $90/share  
+- **Stop-Loss Loss per Share**:  
+  $90 - $62.87 = **$27.13**  
+- **Shares Purchased**:  
+  $10,000 ÷ $62.87 ≈ **160 shares**  
+- **Stop-Loss Loss Total**:  
+  160 shares × $27.13 = **$4,340.80**  
+- **Stop-Loss Loss %**:  
+  $4,340.80 ÷ $10,000 × 100 = **43.4%** of your capital  
+
+### Your Potential Outcomes:
+1. **Stop-Loss Triggers (Worst Case)**:  
+   - **Total Loss**: **$4,340.80**  
+   - **Remaining Capital**: $10,000 - $4,340.80 = **$5,659.20**  
+   - **Loss Relative to Target**:  
+     You lose **43.4%** of your money instead of the 10% you were willing to accept.  
+
+2. **Target Gain Achieved (Best Case)**:  
+   - **Exit Price for 10% Gain**: $62.87 × 1.10 = **$69.16/share**  
+   - **Profit per Share**: $69.16 - $62.87 = **$6.29**  
+   - **Total Profit**: 160 shares × $6.29 = **$1,006.40**  
+   - **Remaining Capital**: $10,000 - $1,006.40 = **$8,993.60**  
+   - **Gain Relative to Target**:  
+     You gain **10.1%** of your money (exceeding your 10% goal).  
+
+### Critical Risk Assessment:
+- **Stop-Loss Risk**:  
+  Your stop-loss is **30.4% below your entry price** ($90 - $62.87 ÷ $62.87 ≈ 30.4%).  
+  If the stock drops 30.4% from your entry, you lose **43.4%** of your capital.  
+  This is **not a 10% risk** – it’s a **43.4% risk**.  
+
+- **Position Size**:  
+  Buying a single stock with $10,000 is extremely concentrated. If this stock fails, your entire investment is at risk.  
+
+### Recommendation:
+1. **Never set a stop-loss at a fixed dollar amount** like $90. This ignores the stock’s price and is prone to triggering catastrophic losses.  
+2. **Use a percentage-based stop-loss** (e.g., 10% from your entry = $6.29 loss per share).  
+3. **Diversify**: Spread $10,000 across 5-10 stocks instead of one.  
+4. **Consider smaller positions**: Reduce your position size to better align with your risk tolerance.  
+
+### Bottom Line:
+- **Stop-Loss at $90**: **43.4% loss** (not 10%).  
+- **Target 10% Gain**: **10.1% gain** (exceeds your goal).  
+
+This strategy is **highly leveraged and speculative**. If the stock drops 30%+, your $10,000 could turn into **$5,659**. If it rises 10%, you gain **$8,994**. Always prioritize capital preservation.

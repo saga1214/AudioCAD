@@ -1,0 +1,67 @@
+Okay, the user is asking for a revised furniture layout that now includes additional constraints: a poster must occupy most of Wall B (east windows wall), the altar footline restriction still applies, and new items—a night table for the bed and a floor lamp—need placement. 
+
+Hmm, the window restrictions and altar-direction rules remain non-negotiable. The poster on Wall B complicates things since furniture isn't allowed against this wall anyway, but placing a poster here makes sense for decoration. The 6x3 bed dominates spatially; its placement will dictate other pieces. The 2x1 altar and 3x1 dresser are manageable, but the night table and lamp add practical needs (lighting/bedside access).
+
+Key constraints to honor: 
+- No furniture against Wall B (east windows) 
+- Foot of bed ≠ altar direction 
+- Poster on Wall B (likely above window, since dressing isn't allowed below) 
+- Night table beside bed 
+- Lamp must reach the altar/dressing area 
+
+Wall letters recap: A=north (door), B=east (windows), C=south? User assumed across-wall relationships: Wall C across A (south) and D=east? Wait—original description says each wall 10ft corner-to-corner. Standard cardinal mapping: A=north (door), B=east (windows), user says Wall C "across from Wall A" → west, Wall D "across B" → north? That can't be right. Standard is A=north, B=east, C=south, D=west. User likely mixed orientation. For consistency, I'll stick to: A=north (door), B=east (windows), C=south (user's "across A"), D=west (user's "across B"). 
+
+Brainstorming: 
+- Bed head on Wall C (south) leaves foot pointing toward Wall D (west). Place altar there to avoid rule violation. 
+- Poster on Wall B (east), likely upper section. 
+- Dresser on Wall A (north), adjacent to altar on Wall C. 
+- Night table beside bed on Wall C. 
+- Lamp near altar for visibility. 
+
+Potential issue: Wall B is narrow (10ft), so poster must fit within "most" of it—probably upper half to leave space for window clearance. Dresser on Wall A allows dressing access without window wall contact. Foot of bed to altar is blocked by Wall D/altar positioning. 
+
+User’s hidden needs: 
+- Flow between window and door areas (lamp/poster near window? No, since dressing not allowed below windows). 
+- Altar privacy/accessibility (lamp nearby). 
+- Lamp positioning avoids blocking path to altar/dressing. 
+
+Final plan: 
+1. Bed head on Wall C, foot toward Wall D (altar placed here). 
+2. Poster on Wall B (upper third). 
+3. Altar on Wall D, adjacent to dresser on Wall A. 
+4. Night table beside bed on Wall C. 
+5. Lamp near altar on Wall C/D junction. 
+
+This satisfies all rules while creating logical zones: sleeping (Wall C), dressing (Wall A), altar/lamp (Wall D), and window-decorated (Wall B). User gets functional + aesthetic balance.
+</think>
+Based on your walls, rules, and new additions (poster, night table, lamp), here's a clear layout that works:
+
+1.  **Wall B (East - Windows):**
+    *   **Poster:** Hang high on the *upper third* of this wall, well above the windows. This uses space you have for decoration while respecting the "hang nothing on the wall with the windows" likely meaning *don't place heavy furniture below*.
+    *   **Windows Area:** Keep completely clear of furniture. Ensure the foot of furniture isn't pointing directly *at* the altar (placed elsewhere).
+
+2.  **Wall A (North - Door):**
+    *   **Dresser:** Place flush against this wall, centered or near the door if possible. This uses wall space effectively and keeps furniture away from Wall B/East Windows.
+
+3.  **Wall C ("Across from Wall A" - West):**
+    *   **Bed:** Place the foot of your bed (6'x3") pointing **towards Wall C (West)**. The head will point towards Wall B (East).
+    *   **Night Table:** Place this directly beside your bed, aligned with the bed's edge on Wall C. Position it so you can easily reach it while sitting or lying in bed.
+
+4.  **Wall D ("Across from Wall B" - South):**
+    *   **Altar:** Place this flush against this wall, ideally near the center or close to the dresser on Wall A. This ensures the foot of the bag **cannot point towards it** as the bed is on the opposite wall (Wall C).
+   . **Floor Lamp:** Place this lamp **near the altar on Wall D**, ideally near the junction with Wall C. This provides excellent light for the altar area and allows you to reach the night table from Wall C.
+
+**Summary of Placement:**
+
+*   **Wall A (North):** Dresser
+*   **Wall B (East):** Poster (High Up)
+*   **Wall C (West):** Bed (Head out, Foot towards D) + Night Table (Beside bed)
+*   **Wall D (South):** Altar + Floor Lamp (Near Altar)
+
+**Why this works:**
+
+*   **Wall B (Windows):** Clear of furniture. Poster is hung high, not interfering with windows or dressing access.
+*   **Wall A (Door):** Furniture is against it (Dresser).
+*   **Wall C (West):** Bed foot points directly towards Wall D (South), away from Wall A (Door) or Wall B (Windows), satisfying the altar rule. Night table is accessible.
+*   **Wall D (South):** Altar is placed safely away from the bed's foot. Lamp provides necessary light for the altar area.
+*   **Flow:** Creates distinct zones: Sleeping (Wall C), Dressing/Entry (Wall A), Altar/Lamp (Wall D), and Decorated Windows (Wall B).

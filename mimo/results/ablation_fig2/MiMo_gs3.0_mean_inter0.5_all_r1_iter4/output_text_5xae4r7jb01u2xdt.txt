@@ -1,0 +1,5 @@
+Got it. Here’s a scenario for you. The Red Team and Blue Team are in a college game. The Red Team is defending their goal. A Red Defender deliberately headers the ball forward toward midfield. The ball then deflects or rebounds off that Red Defender's shoulder. It caroms backward into an onrushing Blue Team forward, who controls it and scores.
+
+The key principle here is how a defender's touch resets versus deflect/rebound contact. College and high school rules would agree that a deliberate, controlled play resets offside. So in our example, had the defender caught the ball with two hands or clearly chested it down, the Blue forward would not be considered offside.
+
+BUT, college and high school rules disagree on the rebound case. College rules state that an offside offense still applies if the ball simply deflects or rebounds off a defender. High school rules, on the other hand, often treat all non-controlled contact as a reset. So in our scenario, with the ball just bouncing off the defender, a referee吹ing college games would call an offside offense against the Blue forward. But in a high school game, the goal would likely stand as legal.

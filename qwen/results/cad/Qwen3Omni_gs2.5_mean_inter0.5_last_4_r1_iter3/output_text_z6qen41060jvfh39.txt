@@ -1,0 +1,40 @@
+Absolutely. Let's rank only the items we've discussed that are commonly perceived as fruits: apple, orange, banana, and kiwi. We'll rate them on a scale of 1 to 100 based on vitamin C content.
+
+Here are the approximate vitamin C values per 100 grams to guide the ranking:
+
+- **Apple**: ~4.6 mg → **9**
+- **Banana**: ~8.7 mg → **17**
+- **Orange**: ~53.2 mg → **100**
+- **Kiwi**: ~92.7 mg → **177** → But since we're capping at 100, we'll scale it proportionally.
+
+Let’s normalize them to a 1–100 scale:
+
+- Orange: 53.2 mg → **100**
+- Kiwi: 92.7 mg → (92.7 / 53.2) × 100 ≈ **174**, but capped at **100**
+- Banana: 8.7 mg → (8.7 / 53.2) × 100 ≈ **16**
+- Apple: 4.6 mg → (4.6 / 53.2) × 100 ≈ **8.6** → **9**
+
+So adjusted to a 1–100 scale:
+
+- **Orange**: 100
+- **Kiwi**: 100 (since it's higher than orange, we cap it at 100)
+- **Banana**: 16
+- **Apple**: 9
+
+Wait — but if we want to rank them *in order* from lowest to highest, with the highest getting 100, then:
+
+Let’s do it properly: scale them so the highest (kiwi) gets 100, and others are proportional.
+
+- Kiwi: 92.7 mg → **100**
+- Orange: 53.2 mg → (53.2 / 92.7) × 100 ≈ **57.4**
+- Banana: 8.7 mg → (8.7 / 92.7) × 100 ≈ **9.4**
+- Apple: 4.6 mg → (4.6 / 92. disproportionate) → **4.9**
+
+So final ranking on a 1–100 scale (highest gets 100):
+
+1. **Kiwi**: 100  
+2. **Orange**: 57  
+3. **Banana**: 9  
+4. **Apple**: 5
+
+Let me know if you'd like them on a scale where the highest is 9 like at the start, or if you want to include other fruits later.

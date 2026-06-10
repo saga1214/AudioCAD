@@ -1,0 +1,1 @@
+It's understandable to feel confused, but the single most important aspect is the security culture. It's the foundation that everything else is built on. Without a culture that values security, all the technology, testing, and outsourcing in the world won't be enough. It's the glue that holds the whole program together.

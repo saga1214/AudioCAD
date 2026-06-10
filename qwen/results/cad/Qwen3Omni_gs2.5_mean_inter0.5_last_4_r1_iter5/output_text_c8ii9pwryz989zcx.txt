@@ -1,0 +1,109 @@
+Thank you for the additional details — this helps refine the layout significantly.
+
+Let’s reorganize with all constraints clearly in mind:
+
+---
+
+### 🧭 Room Orientation Recap:
+
+Each wall = 10 ft corner to corner. Four walls:
+
+- **Wall A (North):** Door is here  
+- **Wall B (East):** Windows are here → ❌ **No hanging anything**
+- **Other walls:**
+  - Wall C (South)
+  - Wall D (West)
+
+Furniture dimensions:
+
+- **Bed:** 6 ft × 3 ft
+- **Altar:** 2 ft × 1 ft
+- **Dresser:** 3 ft × 1 ft
+- **End table:** Needs to go next to bed
+
+Constraints:
+
+1. ❌ No hanging on **Wall B (East)**.
+2. Foot of bag/bed ❌ cannot point toward altar.
+   - Assuming this refers to the **foot of the bed** (likely a typo).
+   - So: **Bed’s foot must not face the altar**.
+3. Need space to access dresser and sit in front of altar.
+4. A **poster** will take up most of one wall, and the **dresser would cover it** if placed below → So **dresser cannot be on the same wall as the poster**.
+
+Also, you want an **end table next to the bed**.
+
+---
+
+### ✅ Let’s solve this step by step.
+
+#### Step 1: Poster placement
+
+Since the **dresser would cover the poster**, the **poster cannot be on the same wall as the dresser**.
+
+So we need to **choose a wall for the poster that is NOT the dresser wall**.
+
+Also, **Wall B (East) has windows** and you don’t want to hang anything → So **poster cannot go on Wall B**.
+
+So possible poster walls: A (North), C (South), D (West)
+
+But Wall A has the **door** → hanging a poster on a door wall is possible, but may block access or look odd.
+
+Wall C (South) and Wall D (West) are both good candidates.
+
+Let’s suppose you want the **poster on Wall D (West)** → then **dresser cannot go on Wall D**.
+
+So dresser must go on Wall A or Wall C.
+
+But Wall A has the **door** → placing a 3 ft wide dresser there might block the door swing (especially if it swings inward), and you’ll have less space to access the bed.
+
+So best option: **poster on Wall D (West)** → **dresser on Wall C (South)**.
+
+That leaves Wall A and Wall C for bed and altar.
+
+---
+
+#### Step 2: Bed placement
+
+6 ft × 3 ft bed.
+
+We need space to place an **end table next to the bed**, so ideally the bed should be against a wall, not in the middle.
+
+Also, **bed foot must not point toward altar**.
+
+So altar must not be directly opposite the foot of the bed.
+
+Let’s try:
+
+- Place **bed with 6 ft side along Wall C (South)** → so it spans 6 ft of the south wall, centered or offset.
+- Then the **head of the bed is on Wall C**, and the **foot of the bed is toward the center of the room**.
+
+Then we can place the **altar facing the foot of the bed**, but **not pointing at it** — wait, constraint is: **foot of bed cannot point toward altar**.
+
+So if the **foot of the bed is facing the altar**, that violates the rule.
+
+So the **altar must not be in front of the foot of the bed**.
+
+So if the **foot of the bed is facing Wall C**, then altar cannot be on Wall C.
+
+But we just placed the bed against Wall C → so foot is toward center → altar can be on Wall A or Wall D.
+
+But Wall D has the poster → we don’t want to block it with altar.
+
+Wall A has the door → possible, but altar near door might be awkward.
+
+Alternatively, place the **bed along Wall C (South)**, so 6 ft along south wall, 3 ft into room.
+
+Then **foot of bed is toward North (Wall A)**.
+
+So if we place the altar on Wall A (North), it would be **facing the foot of the bed** → violates constraint.
+
+So altar **cannot** be on Wall A.
+
+So altar must be on Wall D (West) or Wall C (South).
+
+But Wall C has the bed → if altar is on Wall C, it must be placed **away from foot of bed**.
+
+Let’s try:
+
+- Place **bed along Wall C (South)**, 6 ft × 3 ft → so it takes up 6 ft of south wall, projects 3 ft into room.
+- Then **foot of bed is toward North (Wall A)** → so altar **must not be on Wall A

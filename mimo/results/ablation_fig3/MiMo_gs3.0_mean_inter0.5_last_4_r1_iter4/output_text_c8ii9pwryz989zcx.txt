@@ -1,0 +1,71 @@
+Okay, the user has given me a lot more details to consider now. Let me go through all the constraints and new items again carefully. Each wall is 10 feet corner-to-corner. Wall A north with the door, B east with windows (so nothing on B wall per the rules), assuming C across A and D across B.
+
+The furniture is still the six-foot-three-bed, two-by-one-altar, and three-by-one-dresser. The foot of the bag cannot point towards altar – wait, "bag"? I think they mean foot of the bed. Altar placement seems crucial here. Also no furniture against window wall B.
+
+New items: a poster that will cover if placed above it, a night table for beside the bed, and a floor lamp.
+
+Hmm, the term "foot of the bag" is confusing – probably a typo for "foot of the bed". And "hang anything on wall with windows" matches "don't want any furniture against...windows" from earlier. The altar restriction seems风水-related, so avoiding direct alignment is important.
+
+For the poster: it needs wall space but can't be covered by dresser. If I put dresser elsewhere, it could go over the poster. Maybe Wall A or C would work if posters there first.
+
+The night table must be beside the bed. Bed is likely six-foot-wide, so table needs about one foot clearance on each side. Altar needs space too – probably at least one foot behind it.
+
+Floor lamp needs vertical space, likely near a power outlet or wall corner.
+
+Let me sketch mentally:
+
+Option 1: Bed head on Wall D (away from windows). Altar on Wall A (door side). But foot of bed points toward B (east/windows wall) – that might violate "foot of bed not towards altar"? Wait, altar is on A, foot of bed points toward B, not A. So okay. But then where put dresser? Wall C or D, but D has bed foot pointing away from altar anyway.
+
+Problem: if altar on A, and bed head on D, foot points east toward B, away from altar on A. So safe. Then dresser could go on C or D. But D has bed foot free, so dresser could go on D near altar? But altar foot of bed isn't pointing at it because bed is on D wall.
+
+But the user said "foot of the bag cannot point towards the altar". If altar is on A, and bed is on D, the foot of bed is on D wall, not pointing toward altar on A. So that should be fine. The pointing is from bed foot to altar position, not the same wall.
+
+So dresser could go on Wall C, opposite door. Then poster could go on Wall A, away from door perhaps, so dresser doesn't cover it. Lamp could go on D wall, beside bed.
+
+But is Wall A ten feet long? Enough for poster plus space? Probably, since each wall is ten feet.
+
+Check dimensions: Bed is 6'x3', altar 2x1, dresser 3x1. Wall length ten feet, so plenty of room. poster size not given, but "take up most" suggests it's manageable.
+
+Flow: Poster on A, dresser on C, bed head on D, altar on A, lamp on D near night table.
+
+Altar on A, foot of bed on D, not pointing at altar. Dresser on C away from windows. No furniture on B wall. Access to altar and dresser seems okay. Lamp on D beside bed.
+
+But altar on A same wall as door? Might feel cramped, but no rule against it. User didn't mind door proximity earlier.
+
+Alternative: altar on D wall, bed head on C wall. Then altar on D, foot of bed on C, pointing toward D wall? But altar is on D, so foot of bed on same wall? That might be pointing toward altar if altar is close. Need space between.
+
+Better to keep altar on A, bed on D. As before.
+
+Final plan:
+
+- Wall A (North/Door): Place altar near the end. Hang poster near the other end so dresser on C doesn't cover it.
+
+- Wall C (Opposite Door): Place dresser flush to the wall.
+
+- Wall D (Away from Windows): Place bed with head towards A and foot towards B (east/windows). Put floor lamp beside the bed on this wall.
+
+This satisfies all rules. User can reach altar and dresser easily. Poster visible, lamp functional.
+</think>
+Based on your walls, furniture, new items (poster, night table, lamp), and all constraints, here's a simple layout optimized for flow, safety, and visibility:
+
+1.  **Wall A (North/Door):**
+    *   Place the **Altar** near one end (e.g., left third from the door).
+    *   Hang the **Poster** on the opposite end of this wall (e.g., right third). Ensure it covers most of the wall but leaves enough space for the dresser to be placed safely *below* it without covering it.
+
+2.  **Wall C (Opposite Wall A/South):**
+    *   Place the **Dresser** flush against this wall (e.g., left or right third). Since it's 3ft wide and the wall is 10ft, it fits easily.
+
+3.  **Wall D (Away from East/Windows):**
+    *   Place the **Head of the Bed** near one end (e.g., left third).
+    *   Place the **Floor Lamp** beside the bed on this wall (e.g., right of the bed head), near the night table position.
+    *   Place the **Foot of the Bed** towards Wall B (East/Windows), but ensure the altar is *not* on Wall A in a position the foot could point to it (see safety check below).
+    *   Place the **Night Table** beside the bed on this wall, on the side opposite the lamp (e.g., left of the bed head, if lamp is on the right).
+
+**Why this works:**
+
+*   **Windows Wall (B):** No furniture at all. Poster and altar are on Wall A.
+*   **Opposite Door Wall (A):** Altar placed safely away from the foot of the bed. Poster hung freely.
+*   **Opposite Opposite Wall (C):** Dresser fits perfectly flush against the wall.
+*   **Away from Windows Wall (D):** Bed, night table, and lamp fit comfortably. The foot of the bed points towards the east/east windows (Wall B), *not* towards the altar on Wall A. Plenty of space for reaching the night table and lamp.
+*   **Poster Safety:** Placed on Wall A, well away from the dresser on Wall C. The dresser won't cover it.
+*   **Flow:** Easy access to the bed, altar, dresser, night table, and lamp.

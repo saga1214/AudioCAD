@@ -1,0 +1,23 @@
+Okay, here’s a scenario that highlights a key difference between U.S. high school soccer rules and international soccer rules. Let's imagine a situation on the field.
+
+The Red Team is defending, and the Blue Team is attacking. The Blue Team's forward, number nine, is in an offside position when the Red Team goalkeeper kicks the ball out for a goal kick. The goalkeeper kicks the ball long downfield towards the Blue Team's own goal. The Blue Team's defender, number three, is in an onside position, but the Red Team's goalkeeper kicks the ball directly to the defender. The defender then controls the ball, turns, and passes it to an onside teammate, who then scores. 
+
+In this situation, the Blue Team defender is playing the ball directly from a goal kick. According to U.S. high school rules, a player is not offside when receiving the ball directly from a goal kick, throw-in, or corner kick. So, the defender was in an offside position but is not penalized because they received the ball directly from the goalkeeper. 
+
+However, under international soccer rules, a player is still considered offside when playing the ball directly from a goal kick, even if they are in an onside position. So, in this scenario, the Blue Team's defender would be offside and the goal would be disallowed under international rules, but it would stand under U.S. high school rules. This difference is one of the special exceptions for restarts that applies differently depending on which rulebook you're using.
+</think>
+Here's a scenario demonstrating a key difference in offside rules between U.S. high school rules and international soccer rules:
+
+**Scenario:**  
+The Red Team is defending. The Blue Team's goalkeeper kicks the ball out for a goal kick. The ball travels directly to Blue Team's forward, number 9, who is in an offside position. Player 9 controls the ball, turns, and shoots, scoring.  
+
+**Why It's an Offside Offense (US High School Rules):**  
+Player 9 was in an offside position when the ball was played by the goalkeeper. Since they received the ball directly from a goal kick (per exception #1), this is an offense. The goal is disallowed.  
+
+**How It Differs Under International Rules:**  
+Under FIFA rules, a player is **not** considered offside when receiving the ball directly from a goal kick. Player 9 would be legal, and the goal stands.  
+
+**Key Difference Explained:**  
+The US high school rules (and NCAA rules) include a stricter exception for goal kicks, treating them as a restart where players are *never* offside. International rules allow offside if a player is in an offside position when receiving the ball from a goalkeeper, even though they are directly receiving it.  
+
+This distinction affects officiating: in US high school soccer, a referee would call an offside offense here, but internationally, the goal would be valid.

@@ -1,0 +1,17 @@
+You're very close with your pronunciation of "saccadic." It's pronounced "sa-KAH-dik," with a soft 's' at the beginning. Think of it like "sac" in "saccharine."
+
+To answer your question: No, the eye does not see continuously in the way a camera does. It’s more like a series of very rapid snapshots.
+
+Here’s how it works:
+
+1.  **Fixation:** When you're looking at a single point, your eyes are still moving, but very slowly. Your brain is processing that information continuously.
+
+2.  **Saccades:** When you shift your focus, you do a quick jump to a new point. That’s a saccade. During the saccade, your brain actually suppresses the visual input to prevent motion sickness or sensory overload. You’re momentarily blind to detail during that jump.
+
+3.  **Pronunciation:** As I said, it's "sa-KAH-dik."
+
+So, the eye doesn’t see a continuous stream of frames like a 24 frames-per-second film. Instead, it’s a series of very fast jumps with brief moments of suppressed input. The brain then fills in the gaps to create the illusion of continuous perception.
+
+That’s why, for filmmaking, 24 frames per second feels so natural: it’s close to the rate at which our eyes and brain are sampling the world. Video often uses higher rates like 30 frames per second to feel smoother, but it loses some of that filmic texture.
+
+So, in film terms, 24 frames per second mimics the eye’s natural sampling rate, while video’s higher rates create a different, smoother motion.

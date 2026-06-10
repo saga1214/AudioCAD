@@ -1,0 +1,12 @@
+Okay, the user is asking for help with rearranging their furniture, and they've provided detailed dimensions and restrictions. Each wall is 10 foot corner-to-corner. Wall A North with the door, B East with the windows they won't hang on or put furniture against, which we'll assume is Wall D across from Wall A, and Wall C opposite Wall B across from Wall D. The pieces are a six-foot-by-three-foot bed, a two-foot-by-one-foot altar, and a three-foot-by-one-foot dresser.
+
+I already gave a few layouts, but the user pointed out issues. In the last one on Wall C, access to the altar and dresser was a problem. Now they've added more: a poster for Wall D that a dresser can't cover, a night table for next to the bed, and a floor lamp. This makes it more complex.
+
+First, I need to prioritize rules. Furniture off Wall B (Wall D with windows) is strict. Foot of bed can't point at altar. Wall C seems like a good spot for altar based on the last suggestion to avoid pointing issues. Night table needs to be near the bed for access, and the lamp needs a place.
+
+Wall D has the windows and the poster. Since furniture can't be against Wall B (Wall D), I can't put anything directly against it, but I can place things away from the wall and face the poster onto the wall. That might work.
+
+Let me sketch this out. Place the head of the bed against Wall D, away from the wall. That leaves space for the night table in front of the bed. For the altar, put it against Wall C. This keeps the rule, and since the bed is on Wall D, its foot points east toward the windows, not the altar on Wall C. For the dresser, I could put it on Wall A, South. That's clear from the rules. The lamp could go on the dresser or near it. The poster can then be hung on Wall D, facing away from the window wall, so it doesn't cover the dresser.
+
+This seems to cover everything: Wall A has door and dresser, Wall B/D has windows and poster on the wall, Wall C has altar, and Wall D has bed with night table and lamp. It should work and meet all the constraints.
+Wall C across from Wall B and Wall D is across from Wall A Oh

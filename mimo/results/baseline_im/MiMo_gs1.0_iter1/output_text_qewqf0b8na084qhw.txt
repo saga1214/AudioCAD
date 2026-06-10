@@ -1,0 +1,37 @@
+Okay, the user is planning a dinner with a friend next week and wants restaurant recommendations for 6:30 PM daily. Let me break this down. 
+
+First, I notice they didn't specify location or cuisine preferences, which makes this tricky. They might be in a rush or assume I know their area. I should gently prompt for more details without overwhelming them. 
+
+Hmm, they're clearly prioritizing social time with a friend - the repeated "every day" suggests they want to make it a week-long thing. That's sweet! But I wonder if they realize how exhausting weekly dinners can be. Maybe I should subtly suggest alternatives? 
+
+The tone feels casual and friendly, so my response should match that. Since they're asking for "recommendations," they probably want curated options rather than just a list. I'll structure it by cuisine type with brief selling points. 
+
+Important to remind them about reservations - nobody wants to stand outside a busy restaurant. And I should mention dietary needs since friends often have preferences. 
+
+...Wait, did they mean Monday to Friday? The phrasing "every day next week" is ambiguous. Better ask for clarification to avoid suggesting a weekend-only restaurant. 
+
+Key things to cover: location, cuisine, group size, budget, and dietary needs. I'll keep it light but thorough - maybe add emojis to keep it friendly since they seem to enjoy that (they used them in previous messages). 
+
+Oh! And I should end with an open question so they can guide the next steps. "What sounds good?" invites them to steer the conversation naturally.
+</think>
+That sounds like a fantastic plan! To help you find the perfect spot, I'll need a bit more info:
+
+1.  **Location:** Where are you meeting your friend? (e.g., Downtown, Near the beach, Suburb X, Airport area?)
+2.  **Cuisine Preference:** What kind of food are you both craving? (e.g., Italian, Mexican, Sushi, Steakhouse, Vegan/Vegetarian, Casual Bistro, Fine Dining?)
+3.  **Group Size:** How many people are going? (e.g., Just the two of you, or maybe a few others?)
+4.  **Budget:** Any general idea of spending? (e.g., Casual, Mid-range, Splurge-worthy?)
+5.  **Dietary Needs:** Any allergies, restrictions, or strong preferences? (e.g., Gluten-free, Dairy-free, Vegetarian, Omnivore?)
+
+**Once I know your location, I can give you specific recommendations!**
+
+**In the meantime, here are some popular dinner spots (general examples - location needed for specifics!):**
+
+*   **For Casual & Popular:** Local breweries, trendy gastropubs, or popular Italian/Mexican spots.
+*   **For Great Seafood:** Charming harborside cafes, seafood restaurants, or fish & chips spots.
+*   **For Romantic Ambiance:** Upscale steakhouses, candlelit French bistros, or cozy Japanese izakayas.
+*   **For Unique Experiences:** Food trucks with great reviews, themed restaurants, or local chef's tasting menus.
+*   **For Great Value:** Family-style Italian, hearty American comfort food, or vibrant Mexican fusions.
+
+**Important Tip:** For reservations at popular spots, especially for 6:30 PM, **book now!** Many restaurants fill up quickly.
+
+**What sounds good? Tell me your location, and I'll find some great options!** 😊

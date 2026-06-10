@@ -1,0 +1,7 @@
+You're asking a great question, and I appreciate you wanting to get the terminology right. The word is "saccadic," pronounced roughly as "sah-KAH-dik." You can also say "sa-KAH-dik," but the first one is more common.
+
+Now, to your question: Can we say the eye sees continuously? Not exactly. The eye's vision is more like a series of snapshots or a mosaic of moments, not a smooth, unbroken stream. That’s where saccadic masking comes in. During a saccade, your eyes are jumping from one point to another, and your brain actively suppresses the blur from that movement so you don’t feel dizzy. It’s like the brain is editing out the gaps between the snapshots.
+
+So, while the eye is constantly moving, the brain fills in the gaps to create a sense of continuous perception. Without that brain processing, you’d see a lot of blur and jitter. This is exactly why 24 frames per second works so well for film: it’s close to the brain’s way of processing visual information, making it feel natural. Higher frame rates give you more detail, but the brain still has to interpret that information.
+
+So, to sum up: The eye doesn't see continuously in the way a camera records frames. It's more like a series of quick snapshots, with the brain doing the hard work to make it all feel like a smooth, real-time experience.

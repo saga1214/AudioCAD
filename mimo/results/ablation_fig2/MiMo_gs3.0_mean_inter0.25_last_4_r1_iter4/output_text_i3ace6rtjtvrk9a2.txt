@@ -1,0 +1,11 @@
+You're very close! The word is pronounced like "suh-kah-dee" or "suh-kah-dee-see." The emphasis is on the first syllable.
+
+To answer your question: No, it wouldn’t be correct to say the eye sees continuously in the way we usually think of it, like a camera. 
+
+Here’s why: The eye doesn’t see continuously in the sense of capturing every single frame at a fixed rate. Instead, it sees in a series of rapid jumps, which are the saccades. During these saccades, there’s a brief moment of what we call saccadic masking, where the brain essentially blanks out the visual input to avoid motion blur. 
+
+So, what you’re actually experiencing is a continuous *perception* of the world because your brain is constantly stitching together these separate visual snapshots. This is the key difference between seeing and perceiving. The eye is a sensor, but the brain is the interpreter that creates the seamless experience of continuous motion.
+
+This is super relevant for filmmakers, like yourself as a film student using 35mm film at 24 frames per second. That frame rate is chosen because it closely mimics how your brain perceives real-world motion, which is why it feels natural and cinematic. Video often runs at higher frame rates, like 30 frames per second, which can feel a bit more like a direct recording of reality, less filmic.
+
+So, to sum up: The eye doesn’t see continuously in the literal sense. It’s the brain that creates the continuous perception of motion by processing the eye’s intermittent input. It’s a fascinating interplay between the two.

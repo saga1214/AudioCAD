@@ -1,0 +1,9 @@
+You got it. The word is pronounced roughly like "suh-KAH-dee." The 'c' is soft, like in 'cat', not hard like 'cup'.
+
+Now, to your question: no, the eye does not see continuously in the way a camera does. The eye is actually sampling visual information in short bursts, mostly during those saccades. During a saccade, the eye briefly rests on a single point, and then jumps to the next. It’s a sampling process, not a continuous one.
+
+But—and this is the key—the brain fills in the gaps. It uses motion cues and memory to create the illusion of a continuous stream of vision. This is called “persistence of vision,” where the brain blends images together. That’s why we perceive motion as fluid, even though the eye is technically taking snapshots.
+
+So, technically, the eye’s vision is intermittent. But the brain’s processing makes us perceive it as continuous. Filmmakers use this knowledge! A standard 24 frames per second is a deliberate choice. It’s slow enough to be cinematic and dreamy, but it still feels smooth because the brain is doing the hard work of blending those frames into a continuous story.
+
+So, to sum it up: the eye’s sampling is intermittent, but the brain’s processing creates the perception of continuous vision. Filmmaking plays with both of these aspects to create mood and style.

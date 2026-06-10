@@ -1,0 +1,20 @@
+</</think>
+Of course, let's go through them again, one by one.
+
+A regular bit... uhm, think of it like that light switch switch—it's either on or off.
+
+And a quantum bit, or a qubit, that's more like an actor who could be the hero, the villain, or a background character, all at the same time. This potential for multiple roles at once, that's your superposition.
+
+When the director says "Action!", the actor instantly commits to playing just one specific role. That's taking a measurement.
+
+Entanglement is like having two actors whose performances are linked. The moment one is cast as the hero, the other instantly becomes the villain, no matter where they are on the set.
+
+Right, budgets... In this analogy, the budget is the amount of time your actors can hold all their potential roles at once.
+
+What were you asking about next? Budgets, right. Outside noise, like a phone ringing on set, that can distract them and make them break character. You have to finish shooting the scene—take a measurement—before that budget of focus runs out.
+
+Entanglement again... Editing. Think of editing as quantum error correction. Even the best actor might make a small mistake during a take. Editing is how you find and correct those errors in post-production. It's your process for dealing with decoherence.
+
+Quibits... Each individual actor is a qubit. They can hold superposition during their performance. And about the final cut—that's the solution you get after taking a measurement.
+
+And your last question was about resetting. So, no, once an actor commits to a part for a take, they can't go back and choose another part *in that take*. But you can always reset the whole scene and start a new take. In that new take, the actor might commit to a different part. It's like running the whole calculation again to see one of the other possible answers.

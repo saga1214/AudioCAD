@@ -1,0 +1,17 @@
+Okay, let's break this down carefully.
+
+First, pronunciation. Saccade is pronounced roughly like “sah-kahd,” with the emphasis on the first syllable. The “c” is hard, not like a “k.” So, "sah-kahd."
+
+Now, to your core question: Can the eye see continuously?
+
+Well, the eye itself, as a biological sensor, doesn’t perceive visual information as a continuous stream. During saccades—those rapid jumps between focal points—the eye is constantly disrupting its view. Saccadic masking means your brain actively suppresses blur during these eye movements. So even if the eye senses rapid details or flashing lights up to around 60+ hz, the brain edits and interprets before conscious awareness happens.
+
+So, the brain’s role is crucial for creating the *perception* of continuous vision. Without this processing, you would notice jitter or blur during head or eye movements. The brain essentially acts like a stabilizer, making sense of visual information so you perceive things as a continuous flow instead of discrete flashes.
+
+So, to answer your question: The eye itself does not see continuously; it senses and responds to rapid visual stimuli pretty quickly—but the brain smooth, filters and interprets visual data. That’s why your brain's perception stays fluid.
+
+Without processing, you'd notice jitter or blur during fast head or eye movements. The brain essentially acts like a stabilizer, making things like a continuous flow instead of discrete flashes.
+
+Does that help clarify the role each part plays? The eye senses; the brain interprets at a higher level.
+
+So, considering saccadic masking, it’s more accurate to say that the brain *creates* the perception of continuous vision, rather than the eye itself doing it. The eye provides the raw data, but the brain constructs the smooth, continuous experience we're aware of.

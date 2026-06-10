@@ -1,0 +1,15 @@
+Okay, let's quickly recap the analogy. 
+
+A regular computer bit is like a light switch that's either on or off. A quantum bit, or qubit, is like an actor who can be the hero, villain, or extra all at once. When the director says "Action!", the actor picks just one role. That's measurement. 
+
+The budget is the time the actor can hold all those potential roles before they have to pick one. 
+
+Entanglement is when two actors are linked. If one becomes the hero, the other instantly becomes the villain, no matter where they are on set. 
+
+Editing is like quantum error correction, where you fix the mistakes you find in the final cut. 
+
+The final cut is the solution to the problem, the answer you get after the calculation is done. 
+
+And decoherence is like a random noise on set that breaks the actor's concentration before they can even start, ruining the take. 
+
+Does that help clear things up?

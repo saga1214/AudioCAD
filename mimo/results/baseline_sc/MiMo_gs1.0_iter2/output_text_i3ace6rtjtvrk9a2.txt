@@ -1,0 +1,7 @@
+You're close, but there's a slight nuance. Saccadic masking, pronounced roughly as “suh-kah-dee-mahsking,” is the brain’s way of minimizing blur during those rapid eye movements. 
+
+So, to answer your question: No, the eye doesn’t see continuously in the way a camera does, where every frame is captured. Instead, it samples visual information in quick bursts during saccades, and the brain fills in the gaps to create the illusion of a continuous, stable scene. 
+
+This is why motion blur is so noticeable in photos—it's like taking many snapshots at different points during a saccade. But for the brain, those snapshots are seamlessly stitched together. 
+
+So, to be precise, the eye’s vision is more like a series of very rapid, overlapping snapshots, not a continuous stream. The brain is the one that makes it feel like a continuous experience. Does that make sense?

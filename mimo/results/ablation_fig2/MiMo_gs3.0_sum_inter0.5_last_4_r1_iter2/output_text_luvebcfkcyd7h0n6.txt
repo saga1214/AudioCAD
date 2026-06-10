@@ -1,0 +1,21 @@
+Absolutely, let me just... walk you through it again, step-by-step.
+
+Okay, regular bit versus quantum qubit. The light switch... it's either on or off, super simple. The actor... they could be hero, villain, background—all at once. That potential for multiple roles is superposition.
+
+Measurement... director says "Action!", and the actor instantly commits to just one specific role. Taking a measurement is when the qubit has to pick its state.
+
+And entanglement... you've got two linked actors. Moment one becomes the hero, the other one instantly turns into the villain, anywhere on the set.
+
+Budgets... that's the coherence time. It's the amount of time the actor can *hold* all those potential roles at once.
+
+Errors... external noise, like that phone ringing on set. It distracts them and makes them break character. Quantum error correction is the post-production process for finding and fixing those mistakes.
+
+Quubits... those are the actors. Each one holds potential states.
+
+Taking measurements... that's the edit. You collapse their superposition into a single answer.
+
+The final answer... that's the final cut, the movie you get after all the work.
+
+Choosing a part... yeah, once you call "Action!", they commit. You can't go back and change that. But you *can* reset the whole scene and start a new take, and in that new take, the actor might commit to a different part. So you're running the whole thing again to see one of the other possibilities.
+
+And decoherence... that's just the random noise that ruins the take before it even starts.

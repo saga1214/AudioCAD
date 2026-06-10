@@ -1,0 +1,7 @@
+Got it. Let's look at a scenario that highlights the defender's deliberate touch resetting an situation, which can vary slightly in interpretation.
+
+The Red Team is attacking the Blue Team's goal. The Blue forward number 9 is level with the second-to-last defender when a teammate number 10 plays the ball. Suddenly, defender number 3 makes a deliberate, controlled block on the ball with their foot. The ball deflects off defender number 3 and bounces perfectly to the Blue forward number 9, who then scores.
+
+Now, here's the difference. According to the strict US certification exam interpretation, because defender number 3 made a deliberate, controlled play on the ball, the situation resets. This means the Blue forward, number 9, is no longer in an offside position when they receive the bounced ball. Therefore, there is no offside offense.
+
+However, some考官 or exam writers might focus only on whether the attacker 'benefited' from deflection versus making a 'controlled play'. If they argue that the ball just deflected or rebounded without a controlled play, they might incorrectly call an offside offense in this situation. But the official rule, as you learned earlier, is that a defender's deliberate touch resets offside, making the score valid.

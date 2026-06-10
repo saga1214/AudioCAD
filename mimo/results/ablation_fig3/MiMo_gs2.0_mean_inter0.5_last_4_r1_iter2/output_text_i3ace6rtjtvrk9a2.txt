@@ -1,0 +1,48 @@
+Okay, let me break this down carefully. The student is asking about saccadic masking and whether the eye truly sees continuously, which is a great question that gets to the heart of how vision works. 
+
+First, I should correct the pronunciation of "saccade" since she asked. It's pronounced "suh-KAH-dee" - the emphasis is on the second syllable. 
+
+Now about the core question: The eye doesn't actually see continuously in the way we normally think of it. It's more like a camera with a very fast shutter that's constantly opening and closing. During saccades (those rapid eye movements), the visual system actually suppresses what we see to prevent motion sickness. This means there are very brief moments (microseconds) when we're essentially blind between eye movements. 
+
+But here's the fascinating part: The brain fills in these gaps! It uses predictive processing and motion interpolation to create the illusion of continuous vision. This is why we don't notice the "gaps" in our visual field during normal activities. 
+
+For film production, this explains why 24fps feels so natural - it's close to our brain's "frame rate" for interpreting motion. Higher frame rates like 60fps feel more like reality because they better match the eye's actual sampling rate during saccades. 
+
+I should also mention that while we perceive continuous motion, our visual system is actually sampling discrete moments in time. This is why things like strobe lights or film cameras work - they exploit our visual system's sampling behavior. 
+
+The key distinction is between: 
+1) The eye's actual sampling behavior (discrete moments) 
+2) The brain's perception (continuous motion) 
+
+This is crucial for filmmakers working with 35mm who want to understand why certain frame rates feel more "cinematic" versus more "video-like."
+</think>
+You're very close! **Saccadic masking** is the brain's suppression of visual input during rapid eye movements (saccades). To clarify:
+
+### Pronunciation:  
+**Saccade** = *suh-KAH-dee*  
+*(Emphasis on the second syllable: "KAH")*
+
+### Eye vs. Brain Perception:  
+1. **Eye (Sensor):**  
+   - The eye detects light as *discrete packets* (photons) and motion changes.  
+   - It has a **flicker fusion threshold** (~50-60 Hz for most people). Above this, flickering light appears continuous.  
+   - **Saccadic masking** causes *brief moments of blindness* (microseconds) when the eyes jump between points.  
+
+2. **Brain (Processor):**  
+   - The visual cortex **fills gaps** between saccades using motion interpolation and predictive processing.  
+   - This creates the *illusion* of continuous motion, even though the eye only "sees" discrete moments.  
+
+### Key Difference:  
+- **Eye:** Samples motion in short bursts (like a camera shutter).  
+- **Brain:** Smooths these bursts into a seamless experience.  
+
+### Why 24 fps Feels "Real":  
+- 24 fps aligns with the brain’s temporal resolution. It’s close enough to our natural sampling rate to feel cinematic but not hyper-real.  
+- Higher frame rates (60 fps+) feel more "video-like" because they better match the eye’s actual sampling speed during saccades.  
+
+### Practical Take for Filmmaking:  
+- Use **24 fps** for artistic, dreamlike motion.  
+- Use **higher frame rates** (e.g., 60 fps) for extreme realism or slow-motion flexibility.  
+- Remember: The *brain* creates continuity; the *eye* captures discrete data.  
+
+This distinction explains why 35mm at 24 fps feels timeless—it taps into how our visual system *perceives* motion, not just how the eye *samples* it.

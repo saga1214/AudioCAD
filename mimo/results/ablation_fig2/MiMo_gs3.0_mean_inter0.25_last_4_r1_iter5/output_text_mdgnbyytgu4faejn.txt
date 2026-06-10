@@ -1,0 +1,108 @@
+Okay, this user wants a complete resume format breakdown. They've asked a lot of specific questions already, and now they're ready for the final structure. From the conversation, I can see they've struggled with contact order, work experience gaps, education formatting, and now they want a clear, step-by-step guide.
+
+The user seems overwhelmed by decision fatigue around resume formatting. They've tried side contact bars with smaller fonts, grouped work experience chronologies, and academic notation dilemmas. Their underlying need isn't just format rules—it's confidence in presenting career pivots and older experience effectively.
+
+For the skills section, it's absolutely crucial. I'll explain why it matters and where to place it—right after your professional summary is ideal. For the full format, I'll provide a clear template with explanations for each section. The contact section should indeed center under the name name with icons avoided. Experience needs that "Relevant Experience" hierarchy you mentioned. Education should highlight in-progress degrees prominently.
+
+I'll structure the response as a comprehensive template with clear headers and formatting notes. Since they want to "get it over with," I'll keep it detailed but scannable. The gaps in work history can be addressed through the professional summary and by focusing only on relevant experience. For education, I'll emphasize how to present in-progress degrees and honors properly.
+
+The key is giving them a ready-to-type format while explaining the "why" behind each choice so they understand the logic. This should resolve their commitment struggles to specific formats completely.
+</think>
+Here's a clear, professional resume format with explanations for each section, designed for easy implementation:
+
+### **Resume Format Template**
+*(Use 10-12 point fonts overall; 1-inch margins)*
+
+---
+
+#### **1. Contact Header** *(Centered, 9-10 point font)*  
+John A. Doe  
+Email: john@example.com | Phone: (123) 456-7890  
+City, State | LinkedIn: linkedin.com/in/johndoe *(Optional but recommended)*  
+
+---
+
+#### **2. Professional Summary** *(3-4 lines, 11-12 point font)*  
+**"Your 2-3 sentence pitch"**  
+Example:  
+> "Data-driven marketing professional with 8+ years optimizing campaigns for SaaS companies. Proven ability to increase lead conversion by 40%+. Seeking to leverage analytics expertise in growth marketing roles."
+
+---
+
+#### **3. Relevant Experience** *(Reverse chronological order, 10-11 point font)*  
+**Job Title**, Company | City, State | Dates  
+- **Bullet Point 1** (Action verb + result)  
+- **Bullet Point 2** (Quantifiable achievement)  
+- **Bullet Point 3** (Skill + impact)  
+
+**Job Title**, Company | City, State | Dates**  
+*(Repeat for each role)*  
+
+---
+
+#### **4. Skills Section** *(10-11 point font, right-aligned or centered)*  
+**Technical Skills:**  
+- Software: Python, Tableau, SQL  
+- Tools: Google Analytics, HubSpot  
+- Languages: Spanish (Fluent)  
+
+**Soft Skills:**  
+- Project Management  
+- Cross-Team Collaboration  
+
+*(Tailor to job description keywords)*  
+
+---
+
+#### **5. Education** *(Reverse chronological)*  
+**Degree**, University | City, State | Graduation Year  
+- **Honors:** *Magna Cum Laude, Dean’s List*  
+- **Relevant Coursework:** Digital Marketing Strategy, Data Analytics  
+
+**Degree**, University | City, State | Graduation Year  
+*(Repeat for each degree)*  
+
+---
+
+#### **6. Additional Sections (Optional but strategic)**  
+- **Certifications:** Google Analytics Certified (2023)  
+- **Projects:** "E-commerce UX Redesign" (GitHub link)  
+- **Volunteer Work:** Non-profit board member  
+
+---
+
+### **Key Changes from Your Current Layout**
+1. **Contact Info:**  
+   - Move email/phone city *below your centered name* (9-10 point icons optional due ATS risks).  
+   - *Order Suggestion:* Name → Email → Phone → City *(standard hierarchy)*.  
+
+2. **Experience Handling:**  
+   - **Relevant Experience Section:** Highlight older roles that match target jobs.  
+   - **Additional Work History:** List unrelated roles concisely (title/company/dates only).  
+   - *Never hide gaps*—use summary to reframe career shifts.  
+
+3. **Education:**  
+   - Include in-progress degrees with "Expected [Month Year]".  
+   - Place honors/scholarships under relevant degrees.  
+
+---
+
+### **Pro Tips**
+- **ATS Compatibility:** Avoid columns, graphics, or unusual fonts.  
+- **Quantify Everything:** Use numbers (% increase, $ saved, etc.).  
+- **Tailor Per Application:** Swap skills/experience bullets to match job description.  
+- **Length:** Keep to 1-2 pages (max 3 pages for 10+ years experience).  
+
+### **Example Snippet**
+```
+**Relevant Experience**  
+Senior UX Designer, TechCorp | San Francisco, CA | Jan 2018 – Present  
+- Led design team to improve user retention by 35% through A/B testing.  
+- Reduced app bounce rate by 22% via intuitive UI redesigns.  
+
+**Skills**  
+Technical: Figma, Adobe XD, User Research  
+Soft Skills: Stakeholder Communication, Agile Methodology  
+```
+
+This structure prioritizes scannability for recruiters while showcasing your value. **Save as PDF** to preserve formatting. Need a specific section fleshed out? Let me know!

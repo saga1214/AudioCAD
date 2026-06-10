@@ -1,0 +1,39 @@
+Okay, the user is asking if they can still get four jumps in if they arrive at 10 AM and leave by 3 PM. Let me recall the previous schedule adjustments. Earlier, with starting at 9 AM, four jumps were possible until 4 PM. Now the arrival time is later at 10 AM, so we need to shorten the schedule.
+
+First, check the timeline. Arriving at 10 AM, check-in and safety briefing would take about 30 minutes. That brings the first jump to 10:30 AM. Each jump takes an hour, so the first jump ends at 11:30 AM. Lunch break at noon is still an hour, so that's until 1 PM.
+
+After lunch, the next jump would be at 1 PM. Since each jump is an hour, the second jump ends at 2 PM. The third jump would start at 2 PM and end at 3 PM. That's three jumps. The user wanted four, but with the 3 PM departure, only three jumps fit. 
+
+Wait, the user mentioned needing to leave by 3 PM. The third jump ending at 3 PM means they can't start a fourth jump because they'd have to finish by 4 PM, which is after their departure. So, with the constraints of arriving at 10 AM and leaving by 3 PM, they can only do three jumps. 
+
+I should confirm if there's any buffer time. The check-in takes 30 minutes, each jump is an hour, and the breaks are included. Lunch is at noon for an hour, which fits. The third jump ends at 3 PM, which is the departure time. So yes, three jumps is the maximum. The user might have hoped for four, but the time constraints make it impossible. I need to communicate this clearly, explaining the timeline step by step to show why three jumps is the limit.
+</think>
+Based on your constraints (arriving at 10 AM, leaving by 3 PM), **you can only fit in 3 jumps**. Here's the optimized schedule:
+
+1. **10:00 AM - Arrival & Check-in**  
+   (Safety briefing, waivers, equipment prep)
+
+2. **10:30 AM - Jump 1**  
+   (Full process: harness up, fall, rebound, return)
+
+3. **11:30 AM - Lunch Break**  
+   (1 hour for refreshments/recovery)
+
+4. **12:30 PM - Jump 2**  
+   (Full process)
+
+5. **1:30 PM - Jump 3**  
+   (Full process)
+
+6. **2:30 PM - Final Debrief & Departure**  
+   (You'll be finished by 3:00 PM)
+
+### Why only 3 jumps?
+- **Time constraint**: Arriving at 10 AM means you lose the first 1 hour for check-in/safety prep that was possible with a 9 AM start.
+- **Fixed jump duration**: Each jump + return takes 1 hour, so 3 jumps = 3 hours of active time.
+- **Departure deadline**: Jump 3 must end by 2:30 PM to leave by 3:00 PM.
+
+### If you need 4 jumps:
+- You'd need to start **earlier** (e.g., 8:30 AM arrival) or **leave later** (e.g., 4:30 PM departure).  
+- Example 4-jump schedule:  
+  8:30 AM arrival → Jump 1 at 9:30 AM → Lunch at 10:30 AM → Jump 2 at 11:30 AM → Jump 3 at 12:30 PM → Jump 4 at 1:30 PM → Leave by 2:30 PM.

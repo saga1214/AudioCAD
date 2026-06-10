@@ -1,0 +1,23 @@
+Okay, let me get all the characters and their ratings straight. Iron Man was an 8 out of 8. Thor was a 7 out of 8. For villains, Thanos with the gauntlet was a 10 out of 10, Dormammu and Hela were both 10 out of 10, and Baron Zemo was a 1 out of 10. Then Captain Marvel was a 9 out of 10.
+
+Now, to convert that to a scale of 1 to 100. I'll just scale it up linearly. So, an 8 becomes 80, a 7 becomes 70, a 10 becomes 100, and a 9 becomes 90. That seems straightforward. Let me just quickly double-check the numbers... yep, that looks right. I'll present that list for you.
+</think>
+Here's the rating for the characters based on our previous discussion, converted to a 1–100 scale for clarity:
+
+| Character         | Original Rating | Converted Rating |
+|-------------------|-----------------|------------------|
+| **Iron Man**      | 8 out of 8      | 80               |
+| **Captain America** | 8 out of 8      | 80               |
+| **Thor**          | 7 out of 8      | 70               |
+| **Thanos (Infinity Gauntlet)** | 10 out of 10 | 100              |
+| **Dormammu**      | 10 out of 10    | 100              |
+| **Hela**          | 9 out of 10     | 90               |
+| **Baron Zemo**    | 1 out of 10     | 10               |
+| **Captain Marvel** | 9 out of 10     | 90               |
+
+### Key Insights:
+- **Power Tiers**:  
+  - **Tier 1 (90–100)**: Thanos (Gauntlet), Hela, Captain Marvel (near-invincibility, reality-altering feats).  
+  - **Tier 2 (70–80)**: Iron Man, Captain America, Thor (sustained cosmic-level threats).  
+  - **Tier 3 (10)**: Baron Zemo (no powers, relies on intellect).  
+- **Context**: Zemo’s "low" rating reflects his lack of powers, while the others dominate through raw ability or technological mastery. Captain Marvel’s 90–100 range underscores her role as one of Marvel’s most physically dominant characters.

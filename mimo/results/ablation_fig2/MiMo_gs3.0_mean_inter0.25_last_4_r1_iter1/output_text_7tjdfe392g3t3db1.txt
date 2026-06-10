@@ -1,0 +1,5 @@
+Getting tuned really simply. For almost any stringed instrument, apps like GuitarA, Fender Tune, or another one called Andromeda work great.
+
+Here’s how it works. First, just strum a full chord or go through and hit each string one by one. Place your phone's microphone near the strings so it can hear them.
+
+Then, watch the app's display. It will show each string and a little arrow that points up or down. You want to keep strumming until that arrow stays flat, either pointing to the left for a little flat or to the right for a little sharp. Once it's perfectly flat, your string is in tune! You just repeat that for all the strings.

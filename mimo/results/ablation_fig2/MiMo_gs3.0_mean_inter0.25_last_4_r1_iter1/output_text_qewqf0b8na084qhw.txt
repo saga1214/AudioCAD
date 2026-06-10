@@ -1,0 +1,32 @@
+Okay, the user is asking for restaurant recommendations for dinner with a friend next week, every evening at 6:30 PM. Let me start by recalling the context. Previously, we've been managing class schedules, lunch breaks, and gym sessions. The user seems organized and detail-oriented, so they'll likely appreciate specific, well-researched options.
+
+First, I need to know their location. Without that, I can only suggest popular chains or generic ideas. They might not realize how location affects recommendations. I should ask for the city or area to provide tailored suggestions. 
+
+Looking at their history, they value time efficiency—fitting lunch or gym sessions around classes. For dinners, they might prioritize convenience or ambiance. Since it's a friend visit, maybe a mix of casual and nice spots. They didn't mention dietary preferences or budget, so I'll keep it broad but offer to refine based on their input.
+
+Possible needs: They might want varied options—maybe different cuisines or atmospheres each night. Or perhaps a reliable place that's easy to find. Unspoken needs could include safety, proximity to their friend's accommodation, or places with good service. 
+
+I should list a few types of restaurants: Italian, steakhouse, Asian fusion, etc., and ask follow-up questions to narrow it down. Emphasize checking reservations since 6:30 is popular. Also, mention considering their friend's tastes to make it a pleasant experience. 
+
+Need to ensure the response is helpful without overstepping. Keep it friendly and open-ended, inviting them to share more details for better suggestions. Make sure to cover all bases: location, cuisine, budget, and reservation status.
+</think>
+That sounds like a great plan! To give you the best recommendations, I'll need to know **your city or general location** (e.g., New York, London, Tokyo, etc.). Restaurant options vary wildly by city.
+
+**Once you share your location, here’s what I can do:**
+
+1.  **Recommend Specific Restaurants:** I'll suggest popular, well-reviewed, and suitable restaurants near you.
+2.  **Consider Cuisine & Vibe:** Ask if you have a preferred cuisine (Italian, steakhouse, Asian fusion, casual pub, upscale, etc.) or ambiance.
+3.  **Check Availability:** I can help you look up reservation availability for popular spots at 6:30 PM next week (though you'll need to book directly on their site or a reservation app).
+4.  **Consider Budget:** Offer options across different price points if you have a preference.
+5.  **Ask About Your Friend:** Do they have any dietary preferences or restrictions?
+
+**In the meantime, here are some general types of restaurants that work well for friend dinners:**
+
+*   **Classic Italian:** Often a crowd-pleaser.
+*   **Steakhouse or Grill:** Great for a more substantial meal.
+*   **Local Fusion/Global Cuisine:** Offers something different.
+*   **Trendy Bistro or Gastropub:** Casual but with interesting food.
+*   **Cozy Casual:** A reliable neighborhood spot.
+*   **Upscale Dining:** For a special occasion feel.
+
+**Please tell me your city or general area, and I'll get you some specific, actionable recommendations!** Don't forget to check their reservation policies once I suggest a few.

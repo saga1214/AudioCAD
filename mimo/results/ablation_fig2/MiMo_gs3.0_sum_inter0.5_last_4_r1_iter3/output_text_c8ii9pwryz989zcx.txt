@@ -1,0 +1,16 @@
+Okay, the user has given me a lot more constraints to consider now. Let me carefully review all the rules and new additions. Each wall is 10 foot corner-to-corner North(A), East(B with windows-no hanging allowed), Across(A is South, D is West assuming standard compass).
+
+Key furniture sizes: Six-foot-by-three-foot bed, Two-foot-by-one-foot altar, Three-foot-by-one-foot dresser. New elements: Poster needing wall space but can't cover where dresser would go, end table must be near bed, floor lamp needs placement.
+
+The main restrictions still stand: Furniture absolutely off Wall B (Windows), foot of bed cannot point altar direction, now poster can't be above potential dresser spot on one wall.
+
+Hmm... Wall A (Door South) seems best for altar placement since rules avoid pointing rules. Wall C (Opposite Door South-Wall) could work for bed head if space allows. Wall B (Windows) is hardwall since no furniture allowed plus poster/dresser conflict. That leaves Wall D (West Opposite Windows) - but if putting bed head there occupies full width, end table lamp might get squeezed.
+
+Wait - 10ft walls mean plenty space. Bed head 6x3ft leaves 4ft per side. Could place altar near Wall A but not against it? Say 3ft from corner toward Wall A. Then dresser fits Wall C parallel to altar. End table under bed foot (now safe from altar rule), lamp beside table. Poster on Wall D above dresser but away from foot path.
+
+But... altar rule says foot can't point altar. If altar is near Wall A, and bed head on Wall D, foot naturally points toward Wall A, not altar. That should satisfy the rule. Poster on Wall D above dresser is fine since dresser isn't there. Lamp beside end table near bed completes the flow.
+
+Let me visualize: Wall D has bed head (6x3) with 3ft foot toward Wall A. Altar 2x1 placed 3ft from Wall A toward Wall C. Dresser 3x1 on Wall C next to altar. Poster on Wall D above altar but not foot path. Lamp beside end table near bed foot. All constraints met: no window wall contact, altar safe, access clear, poster visible.
+
+This should work better than previous attempts while incorporating all new elements. The only thing is measuring exact distances - but 10ft rooms have enough space for 3ft separations.
+Wall D head of bed 6ft toward Wall C. Foot 3ft toward Wall A. Altar 2ft on Wall C 3ft from Wall A. Dresser 3ft on Wall C next to altar. Poster on Wall D 3ft above altar. Lamp beside end table near bed foot.

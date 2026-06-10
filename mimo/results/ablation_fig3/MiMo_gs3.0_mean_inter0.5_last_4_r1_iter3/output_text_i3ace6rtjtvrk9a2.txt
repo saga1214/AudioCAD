@@ -1,0 +1,11 @@
+You're very close! The word is "saccadic" or "saccade." Let me give you a phonetic breakdown. It’s pronounced like "sa-KAH-dee" or "sa-KAH-ditch." The emphasis is on the second syllable.
+
+Now, to answer your film student question: 
+
+The eye doesn't see continuously in the way a camera does. Instead, it sees in these rapid, jerky jumps, or saccades. During a saccade, your visual field briefly blurs because the eye is moving so fast. But your brain fills in the gaps, so you don’t consciously notice the blurring. This is what creates the illusion of a continuous visual experience.
+
+So, technically, the eye is processing information in discrete bursts, but the brain synthesizes it into a continuous flow. That’s why 24 frames per second in film feels smooth to us—it mimics the brain’s own way of stitching together visual information.
+
+If you were to shoot at a very high frame rate, like 120 or 240 fps, and slow it down, you could capture the subtle blur of those eye movements, but that’s not something you’d normally notice in real life. The brain is very good at masking that blur for you.
+
+So, to sum it up: The eye doesn’t see continuously. It’s the brain that makes us perceive it that way. For filmmaking using 35mm, understanding this difference can really help you create more natural or stylized motion in your work.

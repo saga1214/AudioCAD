@@ -1,0 +1,7 @@
+Let's look at a scenario involving a corner kick.
+
+Say the Red Team is attacking the Blue Team's goal. A Red Team forward, number seven, is in an offside position when his teammate, number ten, takes a short corner kick and plays the ball directly to him. The Red Team number seven is closer to the goal line than both number ten and the second-to-last defender.
+
+In this case, it is NOT an offense. According to吕比奥斯规则, a player cannot be called offside receiving the ball directly from a corner kick.
+
+Now, if we were following Laws of the Game from the International Football Association Board, or IFAB, the rules would be different. Under IFAB, a player can be called offside if they are in an offside position when their teammate plays the ball to them. So, in that alternate scenario, the Red Team forward would have been called for an offside offense because the corner kick was treated as a general restart, not the direct exception it is in the吕比奥斯 rules.

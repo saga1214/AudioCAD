@@ -1,0 +1,3 @@
+Controlling access at every entry point again.
+
+While humans can make mistakes, visible guards and screening procedures are the most effective way to manage who and what enters the building. It's the first line of defense against unauthorized access. The rest of the layers, like cameras, alarms, and secure displays, are all important too, but they're meant to support and reinforce the initial access control.

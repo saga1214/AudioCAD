@@ -1,0 +1,13 @@
+Okay, let's break this down carefully. The film student is asking about the difference between what the eye can see versus what the brain processes, and she's specifically bringing up saccadic masking. First, I should clarify the pronunciation of "saccade." It's pronounced like "sah-KAH-dee." The stress is on the first syllable, and the "c" at the end is silent.
+
+Now, to address her main question: Does the eye see continuously? The answer is a bit nuanced. The eye is always gathering visual data, but the brain actively filters and interprets what the eye sends. So, it’s not a simple on-or-off thing.
+
+The eye itself is constantly processing light and motion. The photoreceptors in the retina are very fast, able to track rapid changes, but they can’t perfectly capture every single detail in a split second. The brain then fills in the gaps. For example, when you’re walking, your eyes move around, but your brain blends that into a smooth, continuous experience.
+
+Saccadic masking is key here. When your eyes jump between points, the brain temporarily suppresses visual input to avoid motion blur. So, the eye is seeing the world in a way that’s not always continuous. The brain then reconstructs this into a seamless view. 
+
+So, to put it simply: the eye senses the world in a way that’s somewhat fragmented, but the brain processes it to feel continuous. The brain is doing the heavy lifting of making the world appear stable and real. 
+
+This is super relevant for filmmaking. If you’re shooting in 24 frames per second, you’re creating a version of reality that the brain is used to seeing, even though it’s not perfectly continuous like real life. Higher frame rates might give more detail, but the brain will still smooth it out. 
+
+So, to answer the student: the eye doesn’t see continuously in a literal sense, but the brain makes it feel that way. It’s a team effort between the eye and the brain. Hope that clears it up!

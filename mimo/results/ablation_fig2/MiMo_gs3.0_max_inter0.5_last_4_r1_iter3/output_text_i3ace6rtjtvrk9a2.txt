@@ -1,0 +1,13 @@
+You're very close! The word is "saccadic" and the full term is "saccadic masking." I'll give you the pronunciation: It's pronounced "suh-KAH-dik." You can think of it like "suh" as in the start of the word "sud," and "KA-dik" like "ka" as in cat, followed by "dik" like in "mic." So, "suh-KAH-dik."
+
+Now, to your question about whether the eye sees continuously: No, not exactly. The eye's function is more like a series of snapshots, but the brain fills in the gaps to create the illusion of continuity.
+
+Here's how it works:
+
+First, the eye has what’s called a "fovea." That's the central part of the retina where vision is sharpest. But it’s very small, like a tiny pinprick. So, you can’t actually see everything at once. Instead, your brain relies on tiny eye movements called saccades to jump between different points of focus. During a saccade, the brain temporarily suppresses visual input to prevent motion blur, which is that "saccadic masking" we talked about.
+
+So, you're not seeing everything in one continuous frame. It's more like your eye is taking tiny snapshots, and your brain is stitching them together. That's why, in reality, you can't perceive every single frame in a 24 frames-per-second film as it's being shown. Your eye can pick up movement, but not the discrete frames themselves.
+
+What you perceive as a continuous visual experience is actually your brain blending these snapshots into a smooth, coherent motion. The brain is essentially doing the heavy lifting to make motion feel real and fluid.
+
+So, to sum it up: The eye captures visual data in a way that’s closer to discrete snapshots than a continuous stream, but your brain processes and integrates those snapshots to create the perception of a seamless, continuous visual experience.

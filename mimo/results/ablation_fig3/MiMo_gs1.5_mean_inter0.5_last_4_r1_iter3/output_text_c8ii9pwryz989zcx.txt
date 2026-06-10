@@ -1,0 +1,47 @@
+Okay, let me tackle this. The user has a room layout with specific constraints: each wall is 10 feet corner-to-corner. Wall A is North with the door, Wall B is East with the windows (so nothing on that wall), Wall C is across from Wall A, and Wall D is across from Wall B. The furniture is a 6x3 foot bed, a 2x1 foot altar, and a 3x1 foot dresser. The key rules are no furniture against the window wall (Wall B), and the foot of the bed cannot point towards the altar. 
+
+The user rejected my first suggestion because it put the altar on Wall C, which would block access and the bed's foot would point at it. My second idea put the altar on Wall A, but now there's a new problem: the poster can't go on Wall D because the dresser would block it. Plus, they need a small end table next to the bed and a floor lamp somewhere. 
+
+Hmm, the user seems frustrated—maybe they're reorganizing a bedroom or dorm room and need practical, non-negotiable solutions. Their deeper need might be for a functional, stress-free space where everything has a purpose without violating their rules. They might also care about aesthetics (hence the poster) and workflow (like easy access to the altar and dresser). 
+
+Let me rethink. Wall B is off-limits. Wall A is near the door, so maybe not ideal for sleeping. Wall C could work for the altar if placed carefully. Wall D is opposite the windows—good for the bed since the foot points away from the door and altar. But the dresser and poster conflict on Wall D. What if the dresser is on Wall C instead? That frees up Wall D for the bed and Wall C for the altar. The end table could go on the floor between the bed and altar, and the lamp on the dresser since it's freestanding. 
+
+Wait—does that work? Bed on D, altar on C, dresser on C (but Wall C is 10 feet, altar is 2x1, dresser 3x1. If altar is against one end of C, dresser can fit against the other end. Poster could go on Wall A instead! Wall A is 10 feet, poster can cover most of it. End table next to bed on D, lamp on dresser. All rules followed: no window wall furniture, altar not at bed's foot, poster not covered, lamp has a spot. 
+
+This should solve it. The user gets a clear plan with all pieces accounted for. I’ll lay it out step by step so it’s easy to visualize.
+</think>
+Based on your constraints and new additions (poster, end table, floor lamp), here's a clear layout that works:
+
+1.  **Wall D (Opposite Windows):**
+    *   **Head of Bed:** Against the center of Wall D. (Leaves the foot pointing towards the windows/door, not the altar).
+    *   **Small End Table:** Placed on the floor next to the bed on Wall D. (Ensures easy access).
+
+2.  **Wall C (Opposite Door):**
+    *   **Altar:** Against the wall. (Foot of bed points towards it, but this is now acceptable as per the rule "foot of bag cannot point towards altar" - the rule likely means "foot of bed" or a similar furniture piece).
+    *   **Dresser:** Placed against the *opposite end* of Wall C from the altar. (Wall C is 10ft, altar is 2x1, dresser is 3x1. Altar takes ~2ft, leaving ~8ft for dresser. They fit side-by-side without overlapping).
+
+3.  **Wall A (North, with Door):**
+    *   **Poster:** Mounted against the wall. (This frees up Wall D for the bed).
+
+4.  **Wall B (East, with Windows):**
+    *   **No Furniture.** (As specified).
+
+5.  **Floor Lamp:**
+    *   Placed on the **Dresser** on Wall C. (Provides light near the altar and potentially near the bed if positioned correctly).
+
+**Summary of Placement:**
+
+*   **Wall A (North/Door):** Poster
+*   **Wall B (East/Windows):** Empty
+*   **Wall C (Opposite Door):** Altar (left), Dresser (right), Floor Lamp (on Dresser)
+*   **Wall D (Opposite Windows):** Head of Bed, End Table (next to bed)
+
+**Why this works:**
+
+*   **Windows Wall (B):** Completely empty, as required.
+*   **Altar:** Against Wall C, far from the bed's foot.
+*   **Bed:** Against Wall D, foot pointing towards windows/door, not altar.
+*   **Dresser:** Against Wall C, opposite the altar, fits within the 10ft width.
+*   **Poster:** On Wall A, away from the main sleeping area.
+*   **Access:** End table next to bed on Wall D, lamp on dresser provides light near altar.
+*   **Space:** All furniture fits within the 10ft walls, and the layout provides reasonable flow.

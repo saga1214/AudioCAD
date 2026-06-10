@@ -1,0 +1,9 @@
+You're very close with the pronunciation. It's pronounced “suh-kah-dee” or “suh-ka-dee,” like “suck-a-dee” with a slightly longer first “a.” The “c” is pronounced like the “s” in “see.”
+
+Now, to your main question: in light of saccadic masking, can we say the eye sees continuously? 
+
+Not exactly. It’s more like the brain *perceives* movement continuously, but the eye itself doesn't capture it that way. During a saccade, the eye briefly stops processing visual information. So, if you were to record what your eyes were actually seeing frame by frame, it would be a series of still images. But the brain fills in the gaps to create the illusion of a smooth, continuous flow. 
+
+For filmmakers, this is super interesting! If you wanted to break the illusion of continuity, you could experiment with fast camera movements or editing in a way that mimics saccadic masking. It could create a jarring, documentary-like feel or a dreamy, surreal effect. But for traditional 24 frames per second film, the brain is already doing that job for you, blending the frames into a fluid motion. 
+
+So, to sum up: the eye senses in bursts, but the brain processes in a continuous way. The brain is the real “continuity editor” here!

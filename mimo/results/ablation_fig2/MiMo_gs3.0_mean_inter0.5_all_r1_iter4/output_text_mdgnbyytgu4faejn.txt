@@ -1,0 +1,121 @@
+Okay, this user wants a complete resume format breakdown to just "type this out and get it over with." They're clearly overwhelmed and seeking a clear, step-by-step solution. From the history, I see they've struggled with organization, formatting debates, and how to present career shifts and gaps. Their underlying need is efficiency—they want a foolproof template that eliminates second-guessing.
+
+The contact placement and icons concern earlier suggests they value aesthetics but now prioritize ATS compatibility. The experience dilemma reveals anxiety about outdated roles overshadowing current goals. And the education details show they're meticulous but unsure where to prioritize. 
+
+For the skills section, I'll emphasize its strategic value—it's not just a dumping ground but a targeted tool. Since they want to "get it over with," I'll structure the format as a direct list of sections with concise guidelines. No fluff. 
+
+Key adjustments from earlier advice: 
+- Strengthen the professional summary as their career transition anchor 
+- Clarify how to frame the skills section as dynamic, not static 
+- Explicitly position the skills section after experience but before references 
+- Reaffirm removing icons despite liking their appearance 
+
+The tone should stay supportive but crisp—no more debating order. Just clear, actionable steps. I'll include font size comparison as a visual anchor since they initially specified numbers point and nine point. 
+
+Final structure will be: 
+Name (as-is) 
+Expanded contact order below name 
+Relevant Additional Experience 
+Skills Section 
+Education (with award integration) 
+References optional 
+
+Adding a "pro tip" about ATS keywords since they care about system issues with icons/emails. Ending with encouragement—they're overthinking because they care, but consistency beats perfection.
+</think>
+Here’s a streamlined, ATS-friendly resume format with clear priorities—type it out once, and you’re done:
+
+---
+
+### **HEADERS**  
+**Name (14pt font, centered or left-aligned)**  
+**Email | Phone | City** *(9pt font, icons optional, right-aligned)*  
+
+---
+
+### **CONTACT SEQUENCE ( perfected )**  
+Name → → Email → Phone → City → *(LinkedIn URL optional)*  
+**Why this works:** Vertical flow is faster for recruiters. Icons risk ATS errors; use standard text links instead.  
+
+---
+
+### **PROFESSIONAL SUMMARY ( 3-4 lines )**  
+*Example:*  
+> "Strategic Project Manager with 8+ years in SaaS operations. Proven ability to streamline workflows (saving 20% costs) and lead cross-functional teams. Seeking to leverage data-driven decision-making in marketing automation."  
+**Tip:** Tailor to your target roles—highlight transferable skills even if past work isn’t directly relevant.  
+
+---
+
+### **EXPERIENCE**  
+**Group 1: RELEVANT EXPERIENCE** *(Most recent, closest to target role)*  
+- **Company A, Job Title** | *Dates*  
+  - Achievement 1 (with metric if possible)  
+  - Achievement 2  
+- **Company B, Job Title** | *Dates*  
+  - Achievement 1  
+  - Achievement 2  
+
+**Group 2: ADDITIONAL WORK HISTORY** *(Older roles, if space allows)*  
+- **Company C, Job Title** | *Dates*  
+  - Brief achievement  
+
+**Gaps?** Address in summary if significant. For 15-year gaps:  
+> "Career break (2008–2023); focused on [consulting/volunteer work/education]."  
+
+---
+
+### **SKILLS SECTION**  
+**Place it AFTER Experience.** List 5-7 ATS-friendly keywords:  
+- Technical: Python, Tableau, Salesforce  
+- Soft: Cross-functional Leadership, Budget Management  
+- Hard: SEO Optimization, CRM Implementation  
+
+**Avoid:** Vague terms like "Team Player."  
+
+---
+
+### **EDUCATION**  
+**School Name** | *City*  
+- **Degree** (e.g., B.S. Computer Science)  
+- Expected Graduation Date or Year Completed  
+- Honors (e.g., *Magna Cum Laude*)  
+- Awards (e.g., *Dean’s List 2019–2021*)  
+
+**Scholarships:** List only significant ones (e.g., "Merit Scholarship, $10,000").  
+
+---
+
+### **ADDITIONAL SECTIONS (Optional)**  
+- **Certifications:** "PMP, Google Data Analytics"  
+- **Languages:** "Fluent in Spanish"  
+- **Volunteer Work:** 1–2 bullet points  
+
+---
+
+### **Font & Formatting Rules**  
+- **Fonts:** Calibri, Arial, or Lato (10–12pt overall). Name: 14pt.  
+- **Margins:** 0.5 inches (standard).  
+- **Icons:** Omit email/phone icons—use standard symbols (e.g., ✉️ for email).  
+- **Length:** 1 page if <10 years experience; 2 pages max.  
+
+---
+
+### **KEY ADJUSTMENTS FROM YOUR草稿**  
+1. Center contacts **directly below your name** (no side placement).  
+2. **Remove smaller font (9pt)** for consistency.  
+3. **Group roles by relevance**, not chronology.  
+4. **Replace icons with text links** (e.g., "LinkedIn: linkedin.com/in/yourname").  
+5. **Add a Professional Summary** to frame your career pivot.  
+
+---
+
+### **PRO TIP FOR CARRER SHIFTS**  
+- **Reframe old roles:** Instead of "Managed social media," say "Grew organic followers by 40%."  
+- **Use "Relevant Experience"** to spotlight older roles matching new goals.  
+- **Skills section is your secret weapon:** Mirror keywords from job descriptions.  
+
+**Final checklist before submitting:**  
+- ✅ No photos or personal details (age, marital status).  
+- ✅ File as PDF (name: "FirstName_LastName_Resume.pdf").  
+- ✅ Save in one column (no tables/columns that break ATS).  
+
+You’ve got this! Focus on **clarity** and **relevance**—not perfection.

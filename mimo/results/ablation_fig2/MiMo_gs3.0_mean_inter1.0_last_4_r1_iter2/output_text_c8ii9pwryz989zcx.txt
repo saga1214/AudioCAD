@@ -1,0 +1,16 @@
+Okay, the user is asking for help rearranging furniture in their 10-foot corner-to-corner rooms, with specific rules: door north on wall A, windows east on wall B (no hanging there), bag's foot can't point altar's way, now also adding a poster needing wall space, an endtable by the bed, and a floor lamp somewhere. Previous layouts either violated rules or felt cramped. 
+
+Hmm, the real challenge is integrating all pieces while respecting constraints. Wall D (windows no-furniture), foot-of-bed-altar rule means altar must face away - likely opposite door on A/C. Bed 6x3 likely needs Wall D for space. Endtable by bed must be bedside of headboard. Floor lamp needs power/accessibility. Poster issue suggests Wall B is occupied by windows already, so it must go elsewhere. 
+
+User seems detail-oriented but frustrated - they caught my earlier Wall C suggestion blocked by bed access. Probably values both function and aesthetics (poster lamp coordination). Might need "walking paths" between zones. 
+
+Let's rebuild: Wall D (windows) free for bed headboard. Wall A door gets nothing per windows-wall rule. Altar must go Wall C opposite A to avoid foot-pointing. That leaves Wall B windows for poster - since rules only forbid hanging, not furniture. Dresser 3x1 fits Wall B beside windows as long as headboard faces away. 
+
+Endtable must be bedside of headboard - so either left of bed on Wall D or right of altar on Wall C. Floor lamp needs power, so likely bedside or near door. But Wall A is door and windows wall - no space. Wall C altar side is tight. Best bet: Wall D bedside area with lamp beside endtable. 
+
+Final check: Window wall has bed headboard (not touching) and dresser (not hanging), altar on C not facing bag foot, lamp accessible, poster on B. Bag placed bedside of altar if needed. Should work!
+Wall D: Bed headboard (left endtable + lamp) Wall B: Dresser + Poster Wall A/B/C clear per rules. Flow from door to bed is clear. User gets zones for sleep, storage, and altar.
+</think>
+Here's a simple layout that should work.
+
+Start by placing the head of your bed against the wall opposite the windows. For the altar, put it against the wall opposite the door. That way, the foot of your bed won't be pointing at it. Your dresser should then fit nicely either next to the altar, or on the same wall as the door

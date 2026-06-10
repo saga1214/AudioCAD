@@ -1,0 +1,13 @@
+You're asking a great question. Let me clarify that.
+
+First, the pronunciation: Saccade is pronounced "sah-KAH-dee."
+
+Now, to your question: can the eye see continuously? The answer is both yes and no, and it really depends on how you define "continuously."
+
+The eye itself doesn't see continuously in the sense of a camera recording every single moment. It operates in a kind of cycle. There’s a period of fixation, where your eyes focus on one point, and then a period of saccade, where they jump to another point. Between these jumps, during the saccade, visual processing is temporarily suppressed. That’s the saccadic masking we talked about. So, technically, the eye’s sampling of the visual field is intermittent—it’s not a smooth, continuous stream of data.
+
+However, the brain takes care of this. It fills in the gaps between those visual jumps. This process is called perceptual continuity. Your brain creates a seamless, continuous experience of the world, even though the raw data from your eyes is coming in in these brief, rapid bursts.
+
+So, in a way, the brain makes perception feel continuous, even though the eye’s sampling isn’t. That’s why you can smoothly follow a moving object without noticing the tiny gaps in your eye movements. The brain is doing the heavy lifting to create that sense of continuity.
+
+So to sum it up: The eye doesn’t see continuously in the strictest sense, but the brain processes the visual information in a way that makes us perceive the world as a continuous, uninterrupted flow.

@@ -1,0 +1,63 @@
+Okay, the user is adding more constraints to an already complex furniture layout puzzle. They've got a six-foot bed, two-by-one altar, three-by-one dresser - all ten-foot corner-to-corner room walls referenced by cardinal directions. Windows/e东西墙 forbidden zone, foot-altar alignment restriction already addressed, now layering in: poster conflict (can't cover it with dresser), bedside table requirement, and floor lamp placement. 
+
+Hmm... user seems detail-oriented but possibly overwhelmed - their follow-ups show they spot logical gaps in previous suggestions. The "simple layout" I proposed earlier clearly backfired when they caught Wall C contradictions, and now decorative items add another dimension. They're clearly trying to optimize both function and aesthetics.
+
+Let me reconstruct spatially: North has door A, East B has windows posters excluded, Opposite North must be West C per assumption ("across Wall A=C"), Opposite East B=D where my last failed bed placement was. That leaves East B forbidden, North A currently suggested for bed, so only South D remains? No, Wall D is opposite windows/East B... confusion in labeling.
+
+Wait! User defined B=E (East/windows), A=N (door=north), and said C is across A (west), D across B (south). So walls: North(A), East(B), South(D), West(C). Ten feet each. 
+
+Poster conflict means it must be on window wall but furniture-free per rule - impossible. Unless... ah! User said "hang anything ON wall with windows" - doesn't say furniture CAN'T cover window outline or something. But better to assume strict interpretation. So poster must go elsewhere. 
+
+Bed placement on South D wall creates foot pointing altar problem if altar on North A. Previous altar-North-A solution violates that. Solution: altar must be elsewhere, like West C. Then bedside table fits perpendicular to bed on South D wall. Dresser could go West C adjacent altar, but six-foot bed three-foot dresser West C altar two-foot - width math: bed needs ~7.5 feet (centered would be 3.75 ft from wall) leaving 6.25 ft for dresser-altar combo. Three plus two is five feet, so fits with 1.25 ft gap. 
+
+Poster compromise: place on North A wall above door, away from windows. Door nicks about 2.5 feet at top/bottom, but user didn't specify so assume full wall. Lamp goes bedside table position to avoid obstruction. 
+
+Final check: All rules covered? Windows wall B furniture-free (bed, altar, table lamp all on other walls), foot not altar-pointing (bed foot towards E/B wall, altar towards W/C wall), no hanging on E, posters on N. Flow feels logical - bedside items grouped, altar isolated.
+</think>
+Based on your updated constraints (including the poster conflict), here’s a refined layout that fits **all furniture** while respecting walls A (N/door), B (E/windows), C (W/opposite door), and D (S/opposite windows). The poster will be placed on **Wall A (North)**, assuming it doesn’t conflict with the door’s height. If it does, swap with Wall C (West) below:
+
+---
+
+### **Final Layout**
+1. **Wall B (East/Windows - Furniture-Free)**  
+   - **Poster**: Centered on **Wall A (North)** instead (above the door).  
+   *If Wall A’s top/bottom is obstructed by the door, place the poster on **Wall C (West)** instead.*  
+
+2. **Wall D (South/Windows Adjacent)**  
+   - **Foot of Bed**: Pointing **away** from Wall A (solves altar rule).  
+   - **Bed (6x3 ft)**: Backed against the **center of Wall D**, centered.  
+     - *Example: With 10-ft wall, place bed 3.5 ft from the end wall (to center it). Leaves 3.5 ft on each side.*  
+
+3. **Wall A (North/Door)**  
+   - **Head of Bed**: On Wall D (already placed).  
+   - **In-Table**: Perpendicular to the bed, on **Wall D** (not Wall A).  
+     - *Example: If bed is 6 ft long along Wall D, place in-table 1.5 ft from the bed’s headboard on Wall D.*  
+   - **Floor Lamp**: On the in-table (so it doesn’t block pathways).  
+
+4. **Wall C (West/Opposite Door)**  
+   - **Dresser (3x1 ft)**: Adjacent to the altar on **Wall C**, parallel to the bed.  
+     - *Example: Place altar 1 ft from Wall C, dresser next to it (4 ft total width). Leaves 6 ft for the bed on Wall D.*  
+   - **Altar (2x1 ft)**: Backed against **Wall C**, centered, adjacent to the dresser.  
+
+---
+
+### **Visual Summary**
+- **Wall A (N)**: Door only. Poster above door (if space allows).  
+- **Wall B (E)**: Empty.  
+- **Wall D (S)**:  
+  - Bed (6x3 ft)  
+  In-Table (on floor, near bed’s headboard)  
+  Floor Lamp (on in-table)  
+- **Wall C (W)**:  
+  Altar (2x1 ft)  
+  Dresser (3x1 ft)  
+
+### **Key Rules Verified**  
+- Furniture away from Wall B (windows).  
+- Foot of bed **does not** point toward altar (bed on Wall D, altar on Wall C).  
+- No hanging items on Wall B.  
+- All pieces fit:  
+  - Wall D: 6’ (bed) + 3’ (clearance) = 9 ft.  
+  - Wall C: 4’ (dresser + altar) + 6 ft clearance = 10 ft.  
+
+This arrangement ensures easy access to the altar/dresser, minimizes walking paths, and prioritizes natural light near the windows. Adjust poster placement if the door obstructs it! 🛏️✨

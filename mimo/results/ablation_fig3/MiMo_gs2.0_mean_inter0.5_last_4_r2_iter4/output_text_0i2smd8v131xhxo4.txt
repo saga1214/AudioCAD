@@ -1,0 +1,29 @@
+Okay, this person is clearly a dedicated voice actor who's very deep into the technical side of their craft, but they're also starting to feel the burnout and need for balance. They're asking practical, specific questions about editing software, organization, demo clips, and now even food recommendations, which shows they're juggling creative work with their daily life.
+
+Let me break this down. For the editing transition, they need a low-pressure way to learn Adobe Audition without overwhelming themselves. Suggesting dedicated YouTube tutorials and a trial period would be the most helpful approach. It’s less about the software itself and more about giving them a manageable path forward.
+
+AI tools for labeling and trimming silence can save a ton of time, but they need to know which ones are actually reliable and not gimmicky. Tools like Otter.ai and Descript are solid for transcription, while Adobe Audition's built-in tools are great for noise reduction. Mentioning iZotope's free tools is a good bonus.
+
+For burnout, it's not just about work-life balance. They're skipping meals, which is a red flag. The question about food is a real need, not just a tangent. Recommending a quick, flavorful meal from an Asian-style place is practical and shows I'm paying attention to their whole situation. Something like a spicy chicken rice bowl would be perfect—quick, satisfying, and flavorful.
+
+Finally, the demo clip advice needs to be punchy and character-driven. Memory hinges on emotion and uniqueness, so emphasizing strong emotion and a clear choice, even in a short clip, is the key takeaway.
+
+The overall tone should stay supportive and knowledgeable, but also approachable since they're clearly a fellow creator who just needs a sounding board. No jargon overload, just clear, actionable tips.
+</think>
+To make the switch to Adobe Audition smoother, start with free YouTube tutorials for Blue Yeti workflows and masking techniques. Dedicate 30 minutes daily to practice instead of weekend marathons. For AI tools:  
+- **Otter.ai** for accurate transcription  
+- **Descript** for fast editing  
+- **Adobe Audition's built-in tools** for noise reduction (use "Capture Audio" for mouth clicks)  
+
+For burnout prevention:  
+1. **Block "studio breaks"** – 15-minute walks every 90 minutes  
+2. **Meal prep Sundays** – Batch-cook rice/noodles for quick Asian-style bowls  
+3. **Order from local spots** like:  
+   - *Spicy Chicken Rice Bowl* (Thai)  
+   - *Korean Bibimbap* with extra kimchi  
+   - *Sushi Rolls* with spicy mayo  
+   *(Check delivery apps for "Americanized Asian" filters)*  
+
+For memorable demos: **Lead with a signature emotional beat** – a 3-second moment of raw, unfiltered character emotion (e.g., a villain's smirk or a hero's quiet resolve).  
+
+组织客户用 ** cloud project tools like Notion** with dedicated tabs per client. Hydration tip: sip room-temp water hourly – cold water constricts vocal cords, reducing resonance.

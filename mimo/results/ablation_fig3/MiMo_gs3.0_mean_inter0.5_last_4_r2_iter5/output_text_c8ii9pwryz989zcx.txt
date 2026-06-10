@@ -1,0 +1,73 @@
+Okay, the user needs a comprehensive furniture layout that now includes additional constraints: a poster can't cover it if the dresser is placed above it, and they need space for an end table by the bed and a floor lamp. 
+
+Looking back at our back-and-forth, it's clear the user values both functional access to altar/dresser and social flow in the room. They reject cramped solutions even if technically possible, indicating they prioritize livability over mere compliance. The poster detail suggests aesthetic considerations matter too.
+
+Wall A/dB constraints are still strict (no items against east wall, altar not pointed to by bed foot). Previous failed Wall C layouts tell me access space is their hidden priority. 
+
+New elements: End table by bed needs clear path access, floor lamp requires practical placement (likely near door/Wall A for lighting), and poster/dresser conflict means dress must flank rather than face the wall. 
+
+Best approach seems to be:
+- Bed head on Wall D (north) for natural flow
+- Altar on Wall A (door) freeing Wall C for dresser
+- End table tucks neatly beside bed foot
+- Dresser flanks Wall C like bookends, creating passageways
+- Poster on Wall B but NOT above dresser - wait, Wall B禁忌 so that's impossible. Must hang poster on Wall A instead, above altar but keeping it visible. 
+
+Floor lamp can anchor near Wall A doorframe for stability and reachability. This keeps rules intact while creating zones: sleep zone near bed, altar space with access, and dresser/dresser utility area. 
+
+User seems detail-oriented so I'll explicitly call out the poster solution and lamp placement rationale.
+</think>
+Based on all your constraints—window/no挂饰规则 (don't hang anything on wall with windows = Wall B east), bag foot **not** towards altar, plus now the poster/dresser/poster conflict and the end table—the following layout should work with good flow:
+
+1.  **Wall A (North - Door):**
+    *   **Dresser:** Place the 3 ft x 1 ft dresser **parallel to Wall A**, running its full 3 ft width *along* Wall A. (Think: lengthwise, not lengthwise *against* the wall).
+    *   **Altar:** Place the 2 ft x 1 ft altar **on the same wall as the door (Wall A)**, positioned **next to one end of the dresser** (e.g., flush with the end of the dresser).
+    *   **Poster:** Hang the poster **on Wall A, directly above the dresser/altar combination**. This uses the top half of Wall A and avoids covering the dresser below.
+
+2.  **Wall B (East - Windows - Off Limits):** *No furniture* (as specified). Windows poster-free.
+
+3.  **Wall C (Opposite North - Assumed Across A):**
+    *   **6 ft by 3 ft Bed:** Place the **head of the bed against Wall C**. Position it centrally or towards the center for good access.
+
+4.  **Wall D (Opposite East - Across Windows):**
+    *   **End Table:** Place the small end table **in front of the foot of the bed**, roughly centered on Wall D. This gives you easy access to the bed and lamp.
+    *   **(Optional Space):** This wall can have some negative space for circulation around the bed.
+
+**Floor Lamp Placement:**
+
+*   Place the **floor lamp** on the **end table** on Wall D, in front of the bed. This is the most logical spot, providing light for reading in bed and easy access.
+
+**Why this works:**
+
+*   **Rules Met:**
+    *   Furniture off Wall B (windows).
+    *   Altar foot end is towards Wall A/Door, not Bag direction (assuming Bag is placed normally in the room, its foot wouldn't point towards altar).
+    *   Poster is hung on Wall A, *above* the dresser, so it doesn't cover the dresser.
+    *   All three main pieces (Bed 6'x3', Altar 2'x1', Dresser 3'x1") are fitted.
+*   **Flow & Access:**
+    *   Clear path enters through Wall A door, passes Dresser/Altar combo on Wall A.
+    *   Clear path to bed around Wall C.
+    *   Clear path to altar/dresser combo on Wall A.
+    *   Clear path to end table/lamp in front of bed on Wall D.
+    *   No furniture pressed against Window Wall (B).
+*   **Poster Solution:** Wall A provides ample vertical space above the dresser for the poster without obstructing access to the dresser itself.
+
+**Visual Summary:**
+
+```
+Wall A (North - Door): Door Poster (above Dresser/Altar)
+|----------------- Dresser (3ft) -----------------| Altar (next to end)
+|                                                                 Poster Hanging Here
+
+Wall B (East - Windows - OFF LIMITS)
+|----------------------------------------------------|
+
+Wall C (Opposite Door): Head of Bed (6ft x 3ft) 
+|---------------- Bed Head ----------------|
+
+Wall D (Opposite Windows): End Table + Floor Lamp (in front of Bed)
+|----------------- End Table -----------------| Floor Lamp
+|                                                                 Bed Foot
+```
+
+This arrangement maximizes functionality while respecting all constraints, including the new poster/dresser conflict.

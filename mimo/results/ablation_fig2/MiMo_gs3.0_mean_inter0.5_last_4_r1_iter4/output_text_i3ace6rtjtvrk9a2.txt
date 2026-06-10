@@ -1,0 +1,9 @@
+You’re absolutely right to ask about saccadic masking—this is key to understanding why the eye and brain work together. First, the pronunciation: "saccade" is pronounced like "sah-kahd." You can think of it as "suh-kah-DEE" in a quick, staccato way.
+
+Now, to your main question: No, the eye does not see continuously in the way we usually think of it. It’s more accurate to say the brain *perceives* movement continuously, but the eye itself is doing a lot of rapid, jerky scanning. That’s the saccadic movement. During these saccades, the visual field briefly blurs, and the brain suppresses that blur to avoid motion sickness or confusion. 
+
+So, the eye is constantly moving—jumping around to track objects—but the brain is smoothing out that motion for us. This is why we don’t notice the eye’s constant movement. If you slow-mo a film at 60 frames per second, you’ll see the motion is smoother than at 24, but you’re still seeing discrete frames. The brain does the same thing—it blends the eye’s input into a continuous experience. 
+
+So, to sum up: The eye senses light and motion, but the brain *processes* it into a continuous, stable visual experience. Saccadic masking is just one example of how the brain edits what the eyes capture to make sense of it all. Film at 24 frames per second works because it matches our brain’s natural processing of motion, even though the eye is doing its own fast, jerky thing. 
+
+Does that make sense? I’m happy to dive deeper into any part of that if you’d like!

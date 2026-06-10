@@ -1,0 +1,15 @@
+You're very close! The word is "saccadic," pronounced roughly like "suh-KAH-dik." "Saccade" is pronounced "suh-KAH-deh."
+
+To answer your question: No, the eye doesn't see continuously in the way we might think of a film sensor. It’s more intermittent.
+
+Here’s how it works:
+
+1.  **Saccades:** Your eyes are constantly moving in tiny, rapid jumps called saccades, as we discussed. During these saccades, you’re actually briefly blind to the details of what you’re looking at. It’s a tiny, almost imperceptible blind spot.
+
+2.  **Pariocentric Vision:** For the brief moments when your eyes are *not* moving, you can see the details of the world around you. This is called paracentric vision.
+
+3.  **Perceptual Continuity:** Your brain takes the details you see during these paracentric moments and fills in the gaps between the saccades. It creates a seamless, continuous experience of the world, even though your eyes are technically jumping around a lot.
+
+So, it’s not that the eye sees continuously, but that the brain *perceives* things continuously by blending the visual information it receives during each tiny moment of stable focus.
+
+Does that make sense? Would you like me to elaborate on any part of that?

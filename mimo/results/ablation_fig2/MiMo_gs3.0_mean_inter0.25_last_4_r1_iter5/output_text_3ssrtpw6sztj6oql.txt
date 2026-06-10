@@ -1,0 +1,9 @@
+Okay, looking back at the whole conversation, controlling access remains the correct first line of defense.
+
+But your point about human error is a great insight. That's exactly why modern security layers technology on top of this first line. For example, now bag checks might be automated X-ray machines instead of just guards. And key card access for staff areas adds another layer of control.
+
+The first line of defense is fundamentally about managing flow and identity at entry points. The famous heist showed how easily human judgment can be manipulated. So while the first line concept stays the same, the implementation has to be designed to minimize those human vulnerabilities you pointed out.
+</think>
+You've highlighted the critical flaw from the Gardner heist! Given that human error is a major vulnerability, the *modern-day security* philosophy reinforces that the first line—controlling access—must incorporate technology to reduce that risk.
+
+So, while visible presence and screening manage who enters, it now includes **automated screening technology** (like X-ray machines for bags) and **biometric/RFID access systems** at all entry points. This layered initial control is designed to be less reliant on perfect human judgment.

@@ -1,0 +1,7 @@
+You're studying for college referee certification, which likely follows college soccer rules. In college, a player is in an offside position only if they are in the opponent's half AND positioned between the ball and the second-to-last defender. However, it only becomes an offense if they then get involved in the play.
+
+High school soccer, on the other hand, uses a different definition. For high school, a player is offside if they are in an offside position when their teammate plays the ball, regardless of deflections. This means a rebound off a defender resets the situation in college but not necessarily in high school.
+
+Let me give you an example using the teams you asked for. Imagine this situation: Red Team's forward, number nine, is in an offside position when their teammate, number ten, passes the ball. The ball is then deliberately controlled by Red Defender number four. Since the defender made a controlled play on the ball, under college rules, the attacker is no longer considered offside and can receive the ball. However, if Defender four only blocked the ball and it deflected off them into attacker number nine's path, under both college and high school rules, the offense still applies.
+
+So, the key difference is how a defender's touch affects the situation. College rules distinguish between a deliberate, controlled play, which resets the offside, and a deflection or rebound, where the offense still occurs. High school rules treat any contact with a defender as a reset.

@@ -1,0 +1,64 @@
+Okay, let me tackle this furniture arrangement puzzle step by step. The user has given very specific rules: each wall is 10 feet corner-to-corner North on Wall A (door), East on Wall B (windows - furniture forbidden here), Across from A must be assumed C, and Across from B must be D. 
+
+First, recalling previous constraints: no hanging above windows, bag foot can't point altar way, now adding poster, endtable and floorlamp. The user seems frustrated with vague wall numbering, so I'll strictly use A/B/C/D. 
+
+Hmm... the last layout had altar on A but user can't put dresser there because of poster. Maybe Wall D (windows) could work? But user said no furniture against window wall. Unless "hanging anything" means nails but furniture is floor-based? The wording is ambiguous. To be safe, I'll avoid Window Wall (B) entirely as per strict interpretation. 
+
+Priorities: 
+1) Door access (Wall A) 
+2) Altar positioning (must avoid bag-line) 
+3) Poster wall (needs space) 
+4) Endtable near bed 
+5) Floorlamp placement 
+
+Alternative idea: Put altar on Wall C (opposite door). Then Wall A becomes poster wall - since it's door-side, bed head won't block poster view. Endtable can go beside bed on Wall A. Dresser then fits on Wall C beside altar. Floorlamp could go in corner of Wall A near door. Poster gets center placement above endtable. 
+
+Check constraints: 
+- Window wall (B) clear of furniture ✅ 
+- Altar foot not facing bag? Assuming bag is near altar, this should work if altar not at Wall C edge 
+- Poster on Wall A, dresser on C, no overlap ✅ 
+
+User mentioned "across from Wall A/C" - if C is south (opposite North), this layout makes sense. Wall D (east) remains unused but that's okay. 
+
+Final tweaks: 
+- Ensure 3ft dresser fits beside 2x1 altar on 10ft wall 
+- 6x3 bed + 3ft endtable need 9ft length on Wall A 
+- 10ft > 9ft so fits with 1ft gap 
+- Floorlamp in corner won't block pathways 
+
+This should satisfy all rules while maximizing flow. User seems detail-oriented so measurements matter - I'll specify center placement for poster.
+</think>
+Based on your walls (A=north/door, B=east/windows, C=south/opposite door, D=west/opposite windows), here’s a clear, constraint-compliant layout:
+
+### Final Layout
+1. **Wall A (North/Door)**  
+   - **Bed**: Place headboard against the *center* of Wall A (6-ft bed).  
+   - **End Table**: On the *opposite side* of the bed from the door (e.g., right/left side).  
+   - **Floor Lamp**: In the corner near the door (e.g., southwest corner of Wall A).  
+   - **Poster**: Centered above the end table (maximizes visibility, avoids wall edges).  
+
+2. **Wall C (South/Opposite Door)**  
+   - **Altar**: Against the *center* of Wall C (2-ft × 1-ft).  
+   - **Dresser**: Immediately beside the altar (3-ft × 1-ft).  
+
+3. **Wall D (West/Opposite Windows)**  
+   - **No Furniture**: As instructed.海报可以挂在这里，但需确保不遮挡窗户或门。  
+
+4. **Wall B (East/Windows)**  
+   - **No Hanging Items or Furniture**:海报不可挂于此墙。  
+
+### Key Constraints Addressed:
+- **Windows Wall (B)**: No furniture or hanging items.  
+- **Altar Safety**: Dresser is on Wall C; altar foot points toward it, but this complies since constraints only prohibit the *foot of the bag* from facing it.  
+- **Space Efficiency**:  
+  - Bed + dresser + altar fit on Walls A and C (10-ft walls).  
+  - End table + lamp near bed for easy access.  
+  - 9-ft length (6-ft bed + 3-ft dresser) fits on 10-ft Wall C with 1-ft buffer.  
+
+### Measurements Check:
+- **Wall A/C**: 10-ft walls accommodate all furniture.  
+  - Bed: 6-ft × 3-ft (length along wall).  
+  - Dresser: 3-ft fits beside altar (2-ft).  
+  - Altar: 2-ft × 1-ft.  
+
+This layout ensures optimal flow, avoids conflicts, and keeps your room functional! 🛏️💡🪑

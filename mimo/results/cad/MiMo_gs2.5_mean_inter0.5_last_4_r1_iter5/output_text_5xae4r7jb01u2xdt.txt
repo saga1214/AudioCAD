@@ -1,0 +1,9 @@
+Of both college and high school rules, a key difference is in how they define the defender used for the offside check. In college and high school soccer, you use the second-to-last defender. However, in professional soccer, you use the last defender.
+
+Here’s a scenario to show you the difference. Let's say the Red Team is attacking the Blue Team's goal. The Blue Team has three defenders: number 15, number 14, and number 13, with number 13 being the deepest. The Red Team's forward, number 9, is behind number 13 and closer to the goal than both the ball and number 13 when their teammate number 10 passes the ball.
+
+In the college or high school rules, you would check if number 9 is closer to the goal than the second-to-last defender, who is number 14. Since number 9 is behind number 13 and closer to the goal line than number 14, they are in an offside position. The offense applies because they then get involved by scoring.
+
+However, under the professional rules, you would check if number 9 is closer to the goal than the last defender, who is number 13. Since number 9 is behind number 13 and closer to the goal line, they are *also* in an offside position in this case. So, the outcome is the same in this particular example.
+
+But this difference becomes critical in other situations. For instance, imagine a defender is pulled out of position very deep. In the professional rules, if the attacker is behind that one deep defender, they might not be offside. But in college or high school, because the check is against the second-to-last defender who might be much higher up the field, the attacker would likely be called offside. That's the main strategic difference in how the offside line is defined.

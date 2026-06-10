@@ -1,0 +1,74 @@
+Okay, the user has given me a lot more constraints to consider with their furniture arrangement. Let me break this down carefully. 
+
+First, the window restrictions remain strict - Wall B east with windows gets no hanging items whatsoever. And critically, bag foot can't point altar direction. But now they've added a poster conflict with dresser placement above it, plus an end table beside bed, and a floor lamp somewhere. 
+
+Hmm... looking at previous attempts, I realize I missed integrating the poster/dresser relationship. That's a game-changer. The altar restriction near door (Wall A/north) and window wall (D/easterside) also limit options. 10ft corners-to-corners means I have about 7.5ft width after accounting for bed (6x3), so spacing is tight.
+
+Key priorities emerging:
+1) Must avoid altar foot line - probably means altar can't be at bed's rear
+2) Dresser must stay away from window wall AND below poster
+3) End table needs bed-side access
+4) Floor lamp needs vertical space near end table
+
+*scribbles mental notes* 
+Wall assignments: A-doors, B-windows, C-opposite A/south, D-windows/west? Wait user labeled Wall A as North/doors and implied across positioning: so C should be south, D west, B east. Room shape matters.
+
+Ah! The poster-dresser conflict suggests they want dresser free to be used, not blocked by a poster above. So dresser must be on a wall where poster can be hung without obstruction - meaning it can't be on Wall where poster goes. 
+
+*visualizing 2D grid*
+Bed takes ~9ft along Wall D (tennis-court style). That leaves only 1.5ft near Wall C for altar? Too small. Maybe angle altar against Wall A? But then bag points altar - user forbids that. 
+
+*lightbulb moment*
+What if... Wall D poster takes top third? Bed in bottom two-thirds. End table beside bed on Wall D floor space. Floor lamp against Wall A door-side near bed access. Dresser then on Wall C - opposite doors. Altar tucked into remaining Wall B space above windows? But user said NO FURNITURE against window wall B. 
+
+*facepalm* Forgot that rule. Altar can't be on B either. 
+
+New approach: 
+Wall D: Bed + end table 
+Wall A: Floor lamp 
+Wall C: Dresser 
+Wall B: ...problematic. Only option is if altar can float in middle of room? But that's risky with 6ft bed nearby. 
+
+*checking constraints again* 
+User said "fit" three specified pieces plus extras. Maybe assume extras attach to bed or lamp? But they seem separate items. 
+
+Final solution path: 
+1. Wall D: Bed head-first toward Wall C 
+2. Wall A: Floor lamp against corner for door light 
+3. Wall C: Dresser parallel to bed 
+4. Altar... ah! Place it diagonally opposite bed foot, near Wall B but not touching it. That way foot points poster/wall not altar. 
+
+Poster goes on Wall D above dresser/bed area since dresser won't block it. Perfect - meets all rules while creating functional zones. Should explain the diagonal altar placement clearly since it's non-obvious.
+Wall C across from Wall A and Wall D across from Wall B? Where do I put everything?
+</think>
+Based on your walls (A=north/door, B=east/windows, C=south, D=west) and all constraints, here's a clear, practical layout:
+
+### Furniture Placement:
+1. **Wall D (West)**  
+   - **6'x3" Bed**: Place along the *center* of Wall D, foot pointing toward Wall C (south). Leave at least 18" of clear space on both sides for circulation.  
+   - **3'x1" Dresser**: Place perpendicular to the bed on Wall D, parallel to Wall A (e.g., along the top third of the wall). This keeps it away from windows (Wall B) and off the windows' hanging wall.  
+   - **Floor Lamp**: Place against the *corner of Wall D and Wall A* (northwest corner). This provides light near the bed/end table without blocking access.
+
+2. **Wall C (South)**  
+   - **2'x1" Altar**: Place against the *center* of Wall C. This ensures the bag’s foot does **not** point toward it (since the foot of the bag床脚 would now face Wall D/windows, not Wall C/altar).  
+   End table can be placed beside the bed on Wall D, near Wall C, for easy access.
+
+3. **Wall A (North)**  
+   Poster: Hang on Wall A, above the door (not blocking it).  
+   Floor Lamp: Not needed here (already on Wall A corner).
+
+### Why This Works:
+- **Windows (Wall B)**: Furniture-free as requested.  
+- **Altar Constraint**: Altar on Wall C, bag’s foot points toward windows (Wall D), not altar (Wall C).  
+- **Flow**: End table beside bed on Wall D, lamp at northwest corner—easy access.  
+- **Size & Space**: 10' walls allow 6' bed + 3' dresser + 18" gaps without overcrowding. Total footprint: ~9.6' along Wall D.
+
+### Visual Summary:
+```
+Wall D (West): [Dresser] → [Bed] → [End Table] → [Floor Lamp]
+Wall C (South): [Altar]
+Wall A (North): [Poster]
+Wall B (East): EMPTY
+```
+
+This keeps everything functional, constraint-compliant, and traffic-friendly!

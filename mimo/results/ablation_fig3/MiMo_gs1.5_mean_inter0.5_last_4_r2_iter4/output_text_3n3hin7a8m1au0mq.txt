@@ -1,0 +1,35 @@
+Okay, the user wants to confirm if they can still get four jumps in with an arrival time at 10 AM and a departure at 3 PM. Let me quickly verify the schedule feasibility.
+
+First, arrival at 10 AM means check-in and safety briefing can happen then. Lunch break at noon is fixed. From 10:30 AM to 12:30 PM, that's exactly one hour for the first jump. After lunch, the second jump at 1:30 PM would take until 2:30 PM. The third jump at 3:30 PM would finish at 4:30 PM, but the user needs to leave by 3 PM. 
+
+Ah, that's the conflict. With four jumps, the last one would end at 4:30 PM, which is after their 3 PM departure. So that won't work. 
+
+Alternative: if they do three jumps, the last one at 2:30 PM would finish at 3:30 PM. That fits perfectly within their timeframe. The first two jumps before noon, then the third after lunch until 2:30 PM. 
+
+User seems flexible but time-bound. They've been adjusting jumps multiple times, showing they really want to maximize jumps but need to respect the 3 PM limit. Probably an adrenaline seeker with a tight schedule. 
+
+Should also note that even with four jumps, the facility's one-hour per jump requirement makes it impossible to squeeze in earlier. No shortcuts there. 
+
+Final answer: three jumps is the max possible under their constraints. Will present this clearly while acknowledging their jump preference.
+</think>
+Based on your **10:00 AM arrival** and **3:00 PM departure**, here’s the optimal schedule for **3 jumps** (the maximum feasible with your timeframe):
+
+| **Time**         | **Activity**                          | **Duration** |
+|------------------|---------------------------------------|--------------|
+| 10:00 AM        | Arrival, check-in, safety briefing   | -            |
+| 10:30 AM        | **Jump 1**                            | 1 hour       |
+| 12:00 PM        | Lunch break                           | 1 hour       |
+| 1:30 PM         | **Jump 2**                            | 1 hour       |
+| 2:30 PM         | **Jump 3**                            | 1 hour       |
+| 3:30 PM         | Departure                            | -            |
+
+### Key Details:
+- **Total Jumps**: 3 (no more possible with your departure time).
+- **Why not 4 jumps?**  
+  Adding a fourth jump would require your last jump to finish by 3:30 PM, but even then, the total time would exceed your 3:00 PM departure. The facility’s 1-hour-per-jump protocol makes this impossible.
+
+### Recommendations:
+- **Maximize Thrill**: Stick to 3 jumps to ensure a full, high-energy experience.
+- **Timing Flexibility**: If you arrive early (e.g., 9:30 AM), you could potentially add a **pre-lunch jump** (e.g., 9:30 AM Jump 1 → 10:30 AM Lunch), but this would still limit you to 3 jumps total by 3:00 PM.
+
+Let me know if you’d like adjustments! 🧗‍♂️

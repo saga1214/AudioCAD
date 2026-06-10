@@ -1,0 +1,45 @@
+Okay, the user is asking for a refined furniture layout with additional constraints: a poster needs wall space (but not where the dresser would go), an end table must be beside the bed, and a floor lamp needs placement. The room measurements (10-foot corners per wall), cardinal wall assignments (A=north/door, B=east/windows禁止悬挂, C op A/south op door, D op B/south/west/windows), and restrictions remain unchanged. 
+
+Hmm, the user seems detail-oriented—they caught inconsistencies in previous wall-letter references and clarified physical access needs. Their follow-up about the poster/dresser conflict suggests they care about both function and aesthetics (not covering decor). The unspoken need might be creating a cohesive, lived-in space, not just fitting pieces. 
+
+Revisiting the walls: Wall B (east/windows) is fully off-limits. Wall D (west/windows poster candidate) is tricky since the 6’x3’ bed head there would make fitting the poster wall space challenging. Wall C (south/op door bed alternative) feels more flexible. 
+
+For the poster: Instead of competing with the bed on Wall D, place it on Wall C—away from the windows, accessible, and leaves Wall D purely for sleeping. The dresser can then occupy Wall A beside the altar床头， freeing Wall D for end table。 
+
+End table goes bedside on Wall D’s floating space (assuming ten-foot runs include corner-to-corner diagonals but bedside areas can be narrower). Floor lamp goes opposite the door (Wall C) for flow—away from sleeping zones. 
+
+User didn’t specify lighting needs, but placing the lamp near the altar/dresser combo suggests they value ambiance near focal points. No storage mentioned, so end table serves as makeshift storage. 
+
+Final check: Rules covered? Windows wall clear ✅ Foot pointing rules avoided ✅ Furniture dimensions accounted ✅ Poster not covered ✅ End table bedside ✅ Lamp accessible. Flow feels logical—door to altar to dresser, bed to poster wall. 
+
+…Should I suggest measuring actual door/window widths? Nah, user didn’t ask for precision, and diagonals vs. lengths might confuse. Keep it practical.
+</think>
+Based on your walls, restrictions, and additions (end table, floor lamp, poster), here's a simple layout that works:
+
+1.  **Place the foot of the bag/bed** against **Wall A (North/Door)**.
+    *   *Why:* Ensures the foot does *not* point towards Wall C where the altar will go. Uses a corner effectively.
+2.  Dresser: Place against **Wall C (Across from Wall A / South/Opp Door)**, next to the altar.
+3.  Altar: Place against **Wall C (South/Opp Door)**, next to the dresser.
+    *   *Why:* Creates a functional "sleeping/bathroom" zone on Wall A and a "study/rest" zone on Wall C. Foot of bed is away from altar.
+4.  Head of Bed: Place against **Wall D (Across from Wall B/East/West Windows)**.
+    *   *Why:* Frees up significant space beside the bed for the end table and lamp.
+5.  End Table: Place beside the **head of the bed** on **Wall D (West Windows)**.
+    *   *Why:* Easy access to the bed from Wall A/North. Clear path to door.
+6.  Floor Lamp: Place on the **end table** beside the head of the bed on Wall D.
+    *   *Why:* Provides light near the bed. Easy access.
+7.  Poster: Hang on **Wall C (South/Opp Door)**, ideally above the dresser or slightly below the altar/dresser combination.
+    *   *Why:* Wall C is clear of furniture restrictions. Placing it *above* the dresser avoids covering it. Wall D is occupied by the bed, end table, and lamp.
+
+**Summary:**
+
+*   **Wall A (North/Door):** Door. **Foot of Bed** against Wall.
+*   **Wall B (East/West Windows):** Empty (Windows only).
+*   **Wall C (South/Opp Door):** **Dresser** against the bottom, **Altar** against the top. **Poster** hung on this wall (above dresser).
+*   **Wall D (Across from Wall B/South):** **Head of Bed** against bottom, **End Table** beside head of bed, **Floor Lamp** on end table.
+
+This arrangement:
+*   Respects all furniture sizes and constraints.
+*   Places nothing on the window wall as requested.
+*   Ensures the foot of the bed does not point towards the altar.
+*   Provides easy access to the altar/dresser and the bed/end table/lamp.
+*   Allows the poster to be displayed clearly on Wall C without being covered by the dresser.

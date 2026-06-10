@@ -1,0 +1,11 @@
+You're very close! The word is "saccadic" (pronounced suh-KAH-dik), which refers to the movement itself. "Saccadic masking" is the phenomenon where the brain suppresses visual input during these eye movements.
+
+So, to answer your question: No, it wouldn’t be correct to say the eye sees continuously. Instead, the eye and brain work together in a very dynamic way.
+
+The eye itself doesn’t perceive motion as a continuous stream of data. It detects light and movement in small, rapidly changing patches. When your eye moves, like during a saccade, it briefly blocks incoming visual information to avoid sensory overload and motion blur. This is saccadic masking.
+
+The brain, however, takes this incomplete or fragmented information and reconstructs a smooth, continuous perception of movement. It fills in the gaps and blends the images from the moments in between saccades, creating the illusion of continuous motion.
+
+So, to put it simply: The eye senses movement in discrete, rapidly updating snapshots, while the brain processes and synthesizes these snapshots into the continuous, fluid motion we experience in real life. 
+
+Think of it like this: The eye is the sensor, and the brain is the editor. The eye captures fast, jerky data, but the brain makes it all look smooth.

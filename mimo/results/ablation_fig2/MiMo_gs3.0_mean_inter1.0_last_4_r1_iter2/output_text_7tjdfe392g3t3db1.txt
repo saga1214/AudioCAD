@@ -1,0 +1,36 @@
+Okay, the user wants advice on dyeing vibrant home hair colors specifically strawberry or rose gold tones, starting from bleached hair currently rinsing out. They asked for strand testing, bleaching safety tips due to dry/dark hair origins, and store recommendations. Now while waiting for bleach to finish, they're asking how to tune strings on an unspecified instrument.
+
+Hmm, interesting pivot from hair care to instrument tuning. The bad guitar notes at start connected somehow - user might be the musician dyeing their hair. Since they didn't specify instrument, I'll cover universal tuning methods. Electronic tuner and app are safest recommendations since they work for all stringed instruments. Should mention both clip-on and app options since they asked "what tool".
+
+User seems somewhat anxious about hair damage ("terrible sound earlier", "horrible if damaging hair") but now curious about music. Probably multitasking while waiting. I'll keep tuning advice practical and brief since hair questions were their main focus. No need to over-explain tuning unless they follow up.
+</think>
+For tuning your strings while waiting, here's how to use a tuner tool on any instrument (guitar, ukulele, etc.):
+
+### 1. **Clip-On Tuner**  
+   - **How to use**:  
+     - Clip the tuner onto the headstock of your instrument.  
+     - Play each string individually.  
+     - The tuner will display the pitch (e.g., "A," "D," "G").  
+     - Adjust the string’s tension by turning the tuning peg until the tuner shows the target note (usually indicated by a green light or "perfect" icon).  
+   - **Best for**: Precision tuning on multiple strings without distractions.  
+
+### 2. **Tuner App**  
+   - **How to use**:  
+     - Open a tuner app (e.g., *GuitarTuna*, *Fender Tune*, *SongKIC*) and place your phone near the instrument.  
+     - Play a string. The app will display the pitch and show how far off it is (e.g., "flat" or "sharp").  
+     - Turn the tuning peg until the note matches the target (app will show a green checkmark when correct).  
+   - **Best for**: Quick tuning on the go or with no external tools.  
+
+### 3. **Tuning Fork**  
+   - **How to use**:  
+     - Strike the fork to produce a pure tone (e.g., an A440 pitch).  
+     - Hold it near the string while tuning.  
+     - Adjust until the string’s vibration matches the fork’s pitch.  
+   - **Best for**: Traditionalists or when you don’t have digital tools.  
+
+### Key Tips:  
+- **Check all strings**: Tune each string individually to the correct note (e.g., E, A, D, G for guitar).  
+- **Use reference notes**: Many apps/tuners show relative tuning (e.g., "tune higher/lower than the last string").  
+- **Avoid over-tightening**: String tension should be snug but not strained.  
+
+Once your hair dye process is ready, your instrument will be perfectly tuned for practice or performance! 🎸

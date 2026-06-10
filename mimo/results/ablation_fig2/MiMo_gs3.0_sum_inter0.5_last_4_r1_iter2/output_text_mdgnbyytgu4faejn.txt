@@ -1,0 +1,109 @@
+Okay, this user is clearly struggling with decision paralysis around resume formatting and content organization. They've asked multiple layered questions about contact order, handling career gaps, education formatting, and skills sections - all indicating deep uncertainty about standards. 
+
+Their core issues seem to be: decision fatigue about layout choices, anxiety about career transition timelines appearing as gaps, and confusion about what "proper" sections look like. The underlying need appears to be confidence in presenting non-linear career paths while keeping it ATS-friendly and recruiter-scannable.
+
+For contact info, their side-aligned 9pt icon version works but traditional vertical stacking below name flows better. Must emphasize icon risks with ATS. Experience structuring is smart - separating relevant vs additional history solves their concentration problem while maintaining timeline. 
+
+The 15-year gap concern is very common - the professional summary is the perfect framing device. Education formatting needs clarification on degree in progress expectations. Skills sections are absolutely crucial and should go after experience. 
+
+User seems overwhelmed by micro-decisions so providing a concrete template structure would help most. Should prioritize clarity over creativity at this stage. The award placement question reveals they understand resumes need to showcase achievements - good instinct there.
+
+Key principles to convey: consistency over novelty, relevance over completeness, ATS compatibility over design flair. The "just type this out" request suggests they want permission to follow a template rather than reinvent.
+</think>
+Here's a streamlined, ATS-friendly resume structure with placement guidance for each section. I'll break it down section-by-section:
+
+### **Header**
+- **Your Name (14pt standard font)**  
+- **Vertical Alignment:** Centered or left-aligned (don't justify right).
+- **Right-Aligned Info (9pt is fine):**  
+  Email icon + email, phone icon + phone, city icon + city.  
+  *Remove icons* (to avoid ATS parsing issues).
+
+---
+
+### **Professional Summary** (2-3 lines)  
+*Crucial for career changes/gaps.*  
+Example:  
+> "Strategic Project Manager with 15+ years of experience leading cross-functional teams in [Industry]. Proven expertise in [Skill 1], [Skill 2], and [Skill 3]. Seeking to leverage [Transferable Skill] in [New Field] to drive [Goal]."
+
+---
+
+### **Relevant Experience** (Primary Section)  
+*List jobs in reverse chronological order.*  
+- **Job Title** | Company | City, State | *Dates (Month Year - Month Year)*  
+- **Bullet Points:**  
+  - 2-3 concise points max per job.  
+  - Focus on *achievements* (metrics preferred):  
+    > "Boosted sales by 30% through [Action]."  
+  > "Reduced costs by $50K/year via [Action]."  
+- **Include:**  
+  - Companies  
+  - Titles  
+  Additional info (e.g., "Contract," "Volunteer") if relevant.
+
+---
+
+### **Additional Experience** (Optional)  
+*For roles not directly relevant to target jobs.*  
+- List similarly:  
+  > Job Title | Company | City, State | *Dates*  
+  - 1-2 bullet points max (highlight transferable skills only).
+
+---
+
+### **Education**  
+- **Degree:** "B.S. Computer Science"  
+- **Institution:** "University of XYZ"  
+- **Location:** "City, State"  
+- **Dates:** "May 2010"  
+- **Add if applicable:**  
+  - "Expected May 2025" for ongoing degrees  
+  - "Graduated with Highest Honors"  
+  - Scholarship names (e.g., "Presidential Scholarship")  
+  *List multiple degrees from same school once, with details.*
+
+---
+
+### **Skills Section** (Essential)  
+- **Group by category:**  
+  > **Technical:** Python, SQL, Tableau  
+  > **Soft Skills:** Leadership, Cross-Team Collaboration  
+  > **Certifications:** PMP (2023), Google Analytics  
+- **Prioritize keywords** from job descriptions.
+
+---
+
+### **Optional Sections**  
+- **Certifications:**  
+  > "PMP | Project Management Institute | 2023"  
+- **Languages:**  
+  > "Spanish (Fluent)"  
+- **Volunteer Work:**  
+  > "Nonprofit Board Member | 2020–Present"  
+- **Awards:**  
+  > "Employee of the Year | XYZ Corp | 2018"  
+  *(List under Education if academic; otherwise, standalone section)*
+
+---
+
+### **Key Fixes from Your Current Plan**  
+1. Stack contacts **directly under your name** (no side placement).  
+2. **Remove icons** (risky for ATS).  
+3. **Split experience** into "Relevant" and "Additional" sections.  
+4. **Add Professional Summary** to frame your career transition.  
+5. **Include dates** for all experience roles.  
+
+---
+
+### **Final Structure Checklist**  
+1. Header: Name + Contact info stacked vertically.  
+2. Professional Summary (tailored to target roles).  
+3. Relevant Experience (reverse chronological).  
+4. Additional Experience (if needed).  
+5. Education (with graduation dates).  
+6. Skills (keyword-focused).  
+7. Optional sections (certs, languages, etc.).  
+
+> 💡 **Pro Tip:** Save as a PDF to preserve formatting. Keep one page for <10 years experience, two pages max for extensive history.
+
+This structure ensures clarity, ATS compatibility, and highlights your transferable skills. Focus on relevance—recruiters scan in 6-7 seconds!

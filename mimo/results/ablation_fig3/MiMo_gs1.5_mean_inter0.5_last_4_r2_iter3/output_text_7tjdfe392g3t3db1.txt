@@ -1,0 +1,5 @@
+To tune your strings, just start with the tuner app or clip-on tool. You'll see a display showing the pitch of each string.
+
+Then, you'll need to gently pluck each string. As you do, the tuner will show you if the note is too high, which looks like a red arrow pointing up, or if it's too low, which looks like a red arrow pointing down.
+
+To fix it, you just need to turn the tuning peg on the headstock. If the note is too high, turn it clockwise to lower the pitch. If it's too low, turn it counter-clockwise to raise the pitch. Just keep plucking and adjusting until the tuner shows a green arrow or a solid green note, and you'll be perfectly in tune!

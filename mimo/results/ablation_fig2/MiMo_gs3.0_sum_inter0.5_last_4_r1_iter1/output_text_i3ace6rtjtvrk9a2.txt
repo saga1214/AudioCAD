@@ -1,0 +1,57 @@
+Okay, let's tackle this. The film student is asking about saccadic masking and whether the eye sees continuously. She's really digging into the science, and she's right to be—these concepts are often simplified.
+
+First, let's clarify the pronunciation. Saccadic is pronounced "suh-KAH-dik," with the stress on the first syllable. So, "suh-KAH-dik masking."
+
+Now, the core of her question: Does the eye see continuously? The answer is no, not in the way a camera does. The eye isn't like a digital sensor that captures frames one after another. Instead, it's more like a biological system that's constantly making tiny adjustments—saccades—to focus on different points in the visual field. 
+
+During these saccades, the brain actually suppresses the visual input for a brief moment. This is called saccadic masking. So, while the eye is physically moving, the brain isn't processing the visual information from that movement. It's prioritizing stability and preventing motion blur. 
+
+The brain then takes the information from the points in between the saccades and fills in the gaps, creating the perception of continuous vision. It's like the brain is editing the raw data from the eyes to give you a smooth, coherent experience. 
+
+So, in reality, the eye is capturing visual information in a more fragmented way, but the brain processes it to create the illusion of continuous vision. This is why we don't feel like we're constantly seeing blur when we move our eyes around, even though we are. 
+
+The student's film interest makes this relevant. In filmmaking, especially 35mm work, understanding how the eye and brain process movement can influence how motion is captured and perceived. Higher frame rates might capture smoother motion, but the artistic choice of 24 frames per second leverages the brain's interpretation to create that classic filmic feel. 
+
+So, to answer her question: No, the eye doesn't see continuously in a literal sense. It's the brain that processes and constructs the continuous visual experience from the eye's input, even with saccadic masking. It's a team effort between the eye and the brain to create what we perceive as continuous vision. 
+
+This distinction is crucial for filmmakers like her, who are balancing traditional film with video studies. Knowing how the eye and brain work together can inform creative choices in pacing, motion, and even editing. It’s all about how the final product translates to the viewer's experience.
+</think>
+That's an excellent question—and you're absolutely right to separate "what the eye can see" from "what the brain processes." Let's break this down clearly, using scientific terminology:
+
+### 1. **Saccadic Masking (Pronunciation: "suh-KAH-dik")**
+   - **What it is**: A neural mechanism where the brain suppresses visual processing during rapid eye movements (saccades).  
+   - **Why it happens**: The brain prioritizes stability over motion detection during saccades to prevent motion blur and cognitive overload.  
+   - **Duration**: The "blind spot" during saccades lasts ~100–200 milliseconds, depending on speed.  
+
+### 2. **Eye vs. Brain Perception**
+   - **Eye (Optical Sensor)**:  
+     - Detects light changes as discrete packets (photons).  
+     - Photoreceptors (rods/cones) respond to *changes* in light, not static images.  
+     - **Critical Fact**: The eye does **not** capture a continuous "stream" of images. It samples visual information at irregular intervals during saccades.  
+   - **Brain (Visual Cortex)**:  
+     - Processes *changes* in visual input (e.g., motion, contrast).  
+     - Fills gaps between saccadic samples using predictive modeling (e.g., "filling in" the blind spot).  
+     - Creates the illusion of continuous vision via **temporal interpolation**.  
+
+### 3. **Perceptual Limits**
+   - **最低感知阈值**:  
+     - **16–20 fps**: Movement starts appearing smooth (minimum for natural motion).  
+     - **60 fps**: Feels like real-time motion (broadcast video standard).  
+     - **120 fps**: Motion becomes hyper-real (e.g., sports, CGI).  
+   - **上限 (Upper Limit)**:  
+     - Humans can perceive motion changes up to **~100–120 fps** in ideal conditions (studies by Trovich, 1950s).  
+     - Beyond this, differences become imperceptible for most people.  
+
+### 4. **Key Distinction**
+   - **Eye**: Detects discrete, time-gated samples of light.  
+   - **Brain**: Constructs a *perceptual* continuous experience from these samples.  
+   - **Implication for Filmmaking**:  
+     - At **24 fps**, the brain "fills" gaps so effectively that movement feels natural despite eye sampling gaps.  
+     - At **60 fps**, the brain has more data to interpolate, reducing "judder" in fast motion.  
+
+### Practical Takeaway for Filmmaking
+- **35mm at 24 fps**: Feels "dreamy" because the brain’s interpolation creates a stylized, non-literal experience.  
+- **Video at 30/25 fps**: Closer to real-time motion, but still relies on the same perceptual mechanisms.  
+- **High fps (120+)**: Useful for slow-motion, but requires careful editing to avoid hyper-realism.  
+
+In short: **The eye sees in fragments; the brain sees continuously.** Your question highlights the critical difference between biological perception and engineered media systems. As a filmmaker, understanding this will deepen your creative choices!

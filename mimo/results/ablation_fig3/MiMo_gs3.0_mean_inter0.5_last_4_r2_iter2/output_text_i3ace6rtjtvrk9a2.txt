@@ -1,0 +1,17 @@
+Sure, I can help with that.
+
+Let’s pronounce it first. Saccade is said like “sah-kah-dee” or “suh-kah-dee,” with the stress on the second syllable.
+
+Now, to your main question: with saccadic masking in mind, would it be correct to say the eye sees continuously?
+
+It really depends on how you define “sees.”
+
+If “sees” means the raw, unfiltered sensory input from the retina: then yes, in a way, the eye perceives visual changes very rapidly up to that flicker fusion threshold we just discussed. Rods and cones react to changes in light patterns quickly.
+
+But if “sees” means what you become consciously aware of after the brain’s smoothing and stabilization: then no, the eye does not deliver continuous perception. Saccadic masking and other higher-level visual processing edit the raw data sent from the eyes. So what you perceive is fluid and continuous, even though your eyes might be jumping around.
+
+So a more precise way to put it is: the eye senses rapidly changing visual stimuli, while the brain processes and presents that information in a continuous, stable way. 
+
+Saccadic masking is the brain’s way of minimizing blur during rapid eye or head movements. Without it, what you consciously saw during a quick jump of your eye would feel much more jumpy or stuttery. The brain ensures motion looks smooth.
+
+Does that distinction make sense? Eye senses, brain interprets at a higher level.

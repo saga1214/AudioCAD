@@ -1,0 +1,50 @@
+Okay, the user is clearly frustrated with previous furniture arrangements and has added new constraints about a poster and an end table. They're being very specific about spatial needs - access routes, visibility, and now visual hierarchy with the poster. 
+
+Hmm, this is getting complex. Let me unpack the new requirements: Wall A door, Wall B east/windows banned, Wall C opposite A, Wall D opposite B/windows banned per user's rules. Poster must dominate a wall but not be covered by dresser. End table needs bedside access. Floor lamp requires unobstructed reach. 
+
+*scribbles mentally* The real challenge is Wall D - 10ft square but needs bed (6x3) plus end table. That leaves 1ft per side. If we put altar on Wall A, dresser on C... but user wants open access to altar. And the poster can't go on C if dresser blocks it. 
+
+*lightbulb moment* What if we make Wall C the "active zone"? Put altar there, but place dresser perpendicular to it - say 12 inches from altar wall. That creates a passageway. Bed stays on Wall D with end table tucked behind footboard. Poster goes on Wall A above dresser but below door height. 
+
+*checks dimensions* Wall A has 10ft. Door probably eats 3ft, leaving 7ft for altar (2x1) and dresser (3x1) if placed 12" apart. Yes! And Wall C has bed clearance. This keeps: 
+- Windows wall empty 
+- No altar facing bed foot 
+- Poster visible 
+- Dresser accessible 
+- End table usable 
+
+User seems detail-oriented so I'll specify exact measurements. They'll appreciate the 12-inch buffer between altar and dresser. Should mention the 3ft door clearance too - shows thoroughness. 
+
+*double-checks* Did I miss anything? Lamp - can go on Wall A beside poster. All constraints addressed. Okay, this should work.
+</think>
+Based on all your constraints (window wall clear, no furniture there, altar not pointed at by bed foot, access needed), here's a optimized layout:
+
+1.  **Wall A (North, Door Wall):**
+    *   Place the **2' x 1' Altar** flush against the wall, centered.
+    *   Place the **3' x 1' Dresser** perpendicular to the altar, running the full width of the wall opposite the altar (so its foot points away from the altar). Leave a small gap (e.g., 12-18 inches) between the *end* of the dresser and the altar wall. *(This creates a clear path along Wall A between the altar and the door).*
+    *   Hang the poster on the wall *above* the dresser, covering most of Wall A but *not* overlapping the altar or the dresser itself. Ensure it doesn't block the door or window view.
+
+2.  **Wall D (Opposite Windows):**
+    *   Place the **6' x 3' Bed** flush against the wall, with its headboard against the wall.
+    *   Place the **small End Table** directly in front of the bed's footboard, centered.
+
+3.  **Wall C (Across from Wall A, Door's Opposite):**
+    *   Place the **3' x 1' Dresser** flush against this wall. *(Note: This is different from Wall A - it's the dresser on Wall C).*
+    *   Place the **floor lamp** on this wall, positioned *beside* the dresser on the side *away* from the bed. Ensure the lamp's reach doesn't block access to the bed or the altar.
+
+**Summary:**
+
+*   **Wall A (Door):** Altar + Dresser (perpendicular, creating path) + Poster (above).
+*   **Wall D (Windows):** Bed + End Table (in front of footboard).
+*   **Wall C:** Floor Lamp (beside Dresser, away from bed).
+*   **Wall B (Windows):** **EMPTY** (no furniture hanging or placed against the wall with windows).
+
+**Why this works:**
+
+*   **Windows Wall Clear:** As specified, no furniture against Wall B.
+*   **Altar Safety:** Foot of bed (on Wall D) points towards Wall D/windows, *not* towards the altar on Wall A.
+*   **Bed Fit:** Bed (6' x 3') fits flush on Wall D with end table (small) in front of its footboard.
+*   **Dresser Fit:** Dresser (3' x 1') fits on Wall A (perpendicular to altar) and Wall C.
+*   **Access:** Clear path along Wall A between altar and door. Clear access to bed and altar. Lamp beside dresser on Wall C doesn't block access to key areas.
+*   **Poster:** Hung on Wall A, above dresser, covering most of the wall without interfering with altar or door.
+*   **Flow:** Creates distinct zones: Bed/End Table zone (Wall D), Active Path/Altar/Lamp/Dresser zone (Walls A & C), Empty zone (Wall B).

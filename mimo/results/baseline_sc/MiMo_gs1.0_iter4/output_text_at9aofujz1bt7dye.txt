@@ -1,0 +1,11 @@
+Alright, let's break this down. The coefficient of friction for skate blades on ice is a really interesting topic because it's not a fixed number; it changes a lot depending on the temperature, the quality of the ice, and the pressure. So, to give a precise number for minus ten degrees Celsius, we have to think about what happens at that temperature. 
+
+First, at minus ten degrees, the ice is very cold and hard. This means there's less of that thin layer of water that normally forms on the surface, which is what actually helps reduce friction. Without that layer, the blade can actually dig into the ice a bit more, which increases the friction. So, compared to the ideal competition conditions at minus five to minus six degrees, the friction at minus ten degrees would be higher. 
+
+So, if we're estimating, at minus ten degrees, the coefficient of friction would probably be in the range of 0.005 to 0.008. That’s a bit higher than the ideal 0.01 to 0.02 at minus five to minus six degrees. 
+
+Now, thinking about the difference between competition ice and natural lake ice, it's pretty significant. Competition ice is kept at a very consistent temperature, usually around minus five to minus six degrees, and it's resurfaced regularly to keep it smooth and hard. That’s why the friction is so low, around 0.01 to 0.02. 
+
+But natural lake ice, like you'd find in the wild, is much rougher and less uniform. The temperature can fluctuate, and there are more imperfections, like cracks and bumps. This means the friction is higher, probably somewhere between 0.05 and 0.1. 
+
+So, to sum it up: at minus ten degrees, the friction is higher than at the ideal competition temperature. And natural lake ice has much higher friction than a well-maintained competition rink. It really shows how important temperature control and ice maintenance are for getting those super smooth, low-friction glides in figure skating.

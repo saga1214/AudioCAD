@@ -1,0 +1,7 @@
+Alright, let's break this down. At very cold rink temperatures, typically between minus five to minus ten degrees Celsius, the coefficient of friction between skate blades and ice is extremely low, ranging from 0.01 to 0.1 under normal conditions. For competition-level ice, maintained at around minus five to minus six degrees Celsius, it often falls closer to 0.01 to 0.02. 
+
+Now, if we consider even colder temperatures, say minus ten degrees Celsius, the coefficient of friction can actually increase slightly. This happens because the ice becomes harder, reducing the formation of a thin layer of water between the blade and the ice. The absence of this water layer increases resistance, leading to a higher coefficient of friction. 
+
+So, at minus ten degrees Celsius, the coefficient of friction might be around 0.005 to 0.008. This slight increase in friction could affect the skater's ability to glide smoothly, as the blade may not cut through the ice as effortlessly. The exact value, however, depends on factors like blade sharpness and pressure. 
+
+In summary, while the coefficient of friction is very low under typical skating conditions, it can rise slightly at extremely cold temperatures due to changes in the ice's physical properties. This understanding helps explain the science behind figure skating's fluid movements and the importance of precise ice maintenance at rinks.

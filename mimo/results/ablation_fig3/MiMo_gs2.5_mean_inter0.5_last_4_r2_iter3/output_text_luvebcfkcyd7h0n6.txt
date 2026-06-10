@@ -1,0 +1,18 @@
+Absolutely. Let's go through it again, more slowly.
+
+Okay, so regular bit versus a qubit. A regular bit is just on or off. A qubit, uh, it's like an actor who could be three things—hero, villain, background—at the same time. That potential for multiple things at once? That's superposition. When the director yells "Action!", poof, the actor has to pick just one. Measurement time.
+
+Budget... the time actors can hold all their potential roles before noise distracts them. Outside noise breaks character. You have to finish shooting—your calculation—before that budget of focus runs out.
+
+Entanglement is like two linked actors. Moment actor one becomes the hero, actor two instantly becomes the villain, no matter what. Performance's linked.
+
+Budget again, yeah... amount of time actors can hold their potential roles at once. Outside noise is a phone ringing on set, distracts them, breaks character. Finish shooting before the budget runs out.
+
+Quubits are your actors. Each one can hold multiple potential states at once. More actors mean exponentially more complexity.
+
+Final cut... that's your solution. The finished movie. The clear answer after all the calculation is done.
+
+Choosing a role... Action! means commitment. Once committed, you can't go back to the previous take. But you can reset the whole scene and start a new take. In that new take, the actor might pick a different part. Run the whole calculation again.
+
+Decoherence... that's the random noise on set. A phone ringing, a crew coughing. It breaks the actor's concentration *before* the director even says "Action!". They lose that superposition. The scene's ruined. You have to reset and start over.
+</>

@@ -1,0 +1,35 @@
+Okay, let's tackle this carefully. 
+
+The film student really wants a precise distinction between what the eye senses and what the brain processes, building on our earlier discussion. She specifically wants scientific, correct terminology assumed understandable, no talking-down. And saccades play a key role here.
+
+First, pronunciation: "Saccade" is pronounced like "sah-kahd" or sometimes "suh-kahd". The 'c' is like the 'c' in "cat", not "kay". 
+
+Now, the core question: With saccadic masking in mind, can we say the human eye sees continuously?
+
+The short answer is no. The eye does not see continuously in the way we normally perceive things. It operates in discrete sampling moments. 
+
+Here's the breakdown using proper terminology:
+
+1.  **Eye as Biological Sensor (Sampling):**
+    *   Photoreceptors (rods for low light/dark motion, cones for color/细节) respond primarily to *changes* in light intensity and luminance contrast.
+    *   Signals travel via the optic nerve.
+    *   While capable of rapid responses (potentially up to flicker fusions threshold ~60Hz+), vision from the eye is fundamentally based on discrete moments of sampling during fixation and rapid jumps (saccades).
+
+2.  **Saccadic Masking (Brain Editing):**
+    *   During a saccade, the brain actively suppresses the visual information it receives *during* the eye movement itself. This creates a brief period of "visual silence" or masking.
+    *   Your conscious visual awareness is primarily tied to the brief moments *after* a saccade when the eyes arrive at a new focal point.
+
+3.  **Brain as Processor & Interpreter:**
+    *   The visual cortex takes the signals from the eye.
+    *   It performs critical smoothing, temporal interpolation (filling gaps between saccadic points), and spatial interpolation (filling in details during saccades).
+    *   It integrates motion and stabilizes perception, making the visual world appear continuous and stable despite the eye's sampling pattern.
+
+**Conclusion on Continuous Seeing:**
+
+*   The **eye** does **not** see continuously. It samples visual information in discrete moments, primarily during fixation and between saccades. Saccadic masking proves that the eye's visual input during rapid movement is actively suppressed.
+*   The **brain** processes this information *as if* it were continuous. Through temporal and spatial interpolation, it constructs a seamless, stable perception of the visual world from the eye's discrete samples.
+*   Therefore, your **conscious perception** of continuous vision is a product of **brain processing** acting on the **eye's discrete sampling**.
+
+**Analogy:** Think of the eye as a camera with a mechanical shutter that only captures an image during a brief exposure (sampling moment). The brain is like sophisticated software that takes those few images, stitches them together, and adds motion blur and stabilization to create a smooth video stream. The camera (eye) captures discrete frames; the software (brain) creates the continuous video feed (perception).
+
+So, saccadic masking is key evidence: it shows the eye *does not* provide continuous data during saccades, and the brain must actively mask blur and interpolate to create the continuous perception we experience. The eye senses discretely; the brain processes continuously (for perception).

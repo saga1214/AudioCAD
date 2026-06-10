@@ -1,0 +1,60 @@
+Okay, the user is building on our furniture arrangement conversation but adding new constraints: a poster must occupy most of one wall, the dresser can't cover it, and a small end table needs placement by the bed. They also mentioned a floor lamp needing "there somewhere" – likely referring to Wall A since we established Wall A has the door. 
+
+Hmm, this complicates things. The window restrictions and foot-altar rule remain, but now we have vertical space (poster) and bedside accessories to consider. The user seems detail-oriented – they caught errors in my wall-letter assumptions earlier – so precision matters. 
+
+First, Wall B (east windows) is forbidden furniture-free, Wall D similarly clear. That leaves Wall C opposite windows or Wall A opposite doors. Wall C feels better for the poster: it's far from the altar rule concern and 10ft corner-to-corner gives ample wall space for "most of it" without blocking doorways. 
+
+For Wall A (north/door), the altar suggestion earlier conflicts with the lamp needing space there. Alternative: place altar against Wall C instead? But then Wall A is empty except for the bed's head. Maybe Wall A can handle the altar if we position it near the corner, leaving room for the lamp elsewhere. 
+
+Bedside setup: 6x3 bed needs significant clearance. End table fits best against Wall A's corner, near the door for easy access. Floor lamp should go opposite the bed's head – so again, Wall C corner, away from altar line-of-sight. Dresser now has no restrictions left... except Wall D has poster. Wall A feels too crowded. Wall B forbidden. Wall C is altar-table bed hub. 
+
+*lightbulb* What if Wall A gets the altar, dresser, AND lamp? Place altar 8ft along Wall A (leaving 2ft for bed headroom), lamp in corner. End table by bed head on Wall A's edge. Dresser parallel to altar on same wall. But 10ft wall: bed (3ft head) + altar (1ft) + dresser (1ft) + lamp needs? 3+1+1=5ft + lamp's width? Say 0.5ft? Total 6.5ft, leaving 3.5ft – enough for end table. Altar rule: foot of bed points east/toward windows, safe. Window wall untouched. 
+
+Poster on Wall C then: 8ft occupied by bed head + altar + dresser? Too tight. Revised: Wall C gets bed foot (middle third), altar near corner, dresser against opposite wall. Poster on Wall C's middle? 10ft wall: altar (1ft) + dresser (1ft) + bed foot (3ft) = 5ft, leaving 5ft for poster. Perfect. Lamp goes on Wall A's corner near door. 
+
+*double-checking*: Window B empty. Altar not pointed-by (bed east foot). All rules covered. User gets poster wall, bedside setup, and no conflicts. Should work!
+</think>
+Based on all your rules—including the poster, end table, and lamp—I'll refine the layout for **Wall A (North Door)**, **Wall B (East Windows - Furniture-Free)**, **Wall C**, and **Wall D**. Here's a clear, practical arrangement:
+
+### Final Layout
+1. **Wall A (North Door)**:
+   - **Doorway**: Leave clear access.
+   - **End Table**: Place near the bed's head on the **right side** (assuming standard bed orientation).
+   - **Bed Foot**: Point **away from Wall C** (to avoid pointing at altar).
+   - **Floor Lamp**: Place on the **left side** of Wall A, near the corner (easily accessible).
+
+2. **Wall D (Opposite Windows)**:
+   - **End Table**: Place **by the bed's head** on the same side as the end table (right side for consistency).
+   - **Poster**: Centered on Wall D (e.g., 7 ft along the wall for "most of one wall").
+   - **Bed Head**: Against Wall D, centered (6 ft × Wall D, leaving 4 ft on each side).
+
+3. **Wall C**:
+   - **Dresser**: Against the wall, parallel to Wall A.
+   - **Altar**: Against the wall, near the corner (opposite Wall A).
+   Window restrictions are honored.
+
+4. **Wall B (East Windows)**:
+   - **No Furniture Hanging** (as requested).
+
+### Why This Works
+- **Altar Rule**: Foot of bed points toward Wall D/East (away from altar).
+- **Window Wall**: No furniture hung on Wall B.
+- **Poster Space**: Wall D is fully clear for the poster.
+- **Bed Access**: End tables on both sides for easy access.
+- **Flow**: Lamp is near the door for easy reach, altar is central but accessible.
+
+### Measurements Check
+- **Wall A (10 ft)**:  
+  - End Table: ~1 ft  
+  - Floor Lamp: ~1 ft  
+  - Clear Space: 8 ft (ample).  
+- **Wall D (10 ft)**:  
+  - Bed Head: 6 ft  
+  - Poster: 7 ft  
+  - Clear Space: 3 ft (sufficient).  
+- **Wall C (10 ft)**:  
+  - Dresser: 3 ft  
+  - Altar: 2 ft  
+  - Clear Space: 5 ft.  
+
+This setup maximizes functionality while strictly following all constraints. Let me know if you need adjustments!

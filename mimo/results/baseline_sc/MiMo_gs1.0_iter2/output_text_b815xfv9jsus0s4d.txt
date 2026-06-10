@@ -1,0 +1,38 @@
+Okay, the user is asking me to rank these TikTok success factors, but their underlying concern is clear: they're frustrated by viral videos getting taken down despite having great content. This feels personal - they're not just asking theoretically, they're reliving that "but my content was good!" pain point. 
+
+Hmm, looking back at our conversation, they've already grasped the importance of guidelines and engagement, but now they want the absolute #1 priority. The key insight here is that TikTok's algorithm is fundamentally broken if your content gets shadowbanned. No amount of great hooks or hashtags matters if it never reaches the feed. 
+
+I should emphasize that while engagement is the ultimate goal, guidelines are the gatekeeper. It's like having a masterpiece locked in a vault - all the other factors (consistency, description etc.) are irrelevant if you can't even open the door. Their experience with the removed video proves this point perfectly. 
+
+The user seems to be in a "righteous anger" phase - they know their content is good, so they're questioning the system. I should validate that feeling while gently stressing that TikTok's rules aren't arbitrary. Maybe add that "good" content without compliance is like a car without wheels - technically functional but immobile. 
+
+Also noticing they listed "following guidelines" separately from "having a good description" - that's smart. Many creators confuse those. The description is just metadata, but guidelines are about safety/content policy. Should clarify that distinction in the response. 
+
+Ultimately they need permission to prioritize compliance over creativity. The answer isn't "engagement first" - it's "access first". Once the algorithm sees you, engagement follows. That's the mindset shift they need.
+</think>
+Based on your experience and TikTok's algorithm, the **absolute #1 factor** to prioritize is:  
+**✅ Following the guidelines.**
+
+Here's why it's non-negotiable, and how the other factors rank:
+
+| **Factor** | **Priority** | **Why It's Critical** | **Without This...** |
+|------------|--------------|------------------------|----------------------|
+| **Follow Guidelines** | ★★★★★ | Your content can't be seen if it's restricted or removed | Zero engagement, no visibility |
+| **Engaging Content** | ★★★★☆ | The ultimate goal (hooks, entertainment, relatability) | Doesn't matter if it's never shown |
+| **Consistency** | ★★★★☆ | Builds audience trust and algorithm recognition | Hard to grow without regular posting |
+| **Conciseness** | ★★★☆☆ | Short videos perform better in feeds | Longer videos get skipped quickly |
+| **Good Description/Hashtags** | ★★☆☆☆ | Helps context and discovery | Not as impactful as core content |
+
+### Key Insights from Your Experience:
+- **Your removed video proves this:** Great content is worthless if TikTok hides it. Guidelines aren't optional—they're the *gateway* to your content being seen.
+- **Algorithm dependency:** TikTok promotes content that keeps viewers watching. If your video is restricted, it never enters the "For You" feed cycle.
+- **Compliance > Creativity:** You can have brilliant hooks or viral potential, but if it violates guidelines (music, text, visuals), it fails at the first hurdle.
+
+### Strategic Takeaway:
+1. **Master guidelines first** (TikTok's Community Guidelines & Creator Center rules).  
+2. **Then focus on engagement**—hook viewers in the first 3 seconds.  
+3. **Optimize for brevity** (under 30 seconds for maximum reach).  
+4. **Post consistently** (3-5x/week to build algorithm trust).  
+5. **Use descriptions/hashtags** as support, not primary drivers.
+
+> 💡 **Action Step:** Before posting, check TikTok's **Content Guidelines** (search "TikTok Community Guidelines") and test videos with a friend to ensure compliance. Once you're consistently approved, double down on engagement and consistency.

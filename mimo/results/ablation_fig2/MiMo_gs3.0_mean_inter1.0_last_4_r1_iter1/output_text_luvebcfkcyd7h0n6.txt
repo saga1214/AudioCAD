@@ -1,0 +1,2 @@
+</</think>
+Absolutely. Let's just quickly walk through them again. Regular Bit... light switch, on or off. A Qubit... an actor with all those possibilities. Taking a measurement is when 'Action!' is called, and they commit to a single role. Budget decoherence is that on-set noise that ruins the potential. Quantum Error Correction is post-production editing. Quibsits are the actors themselves. And the Final Cut... well, that's the solution you get after everything's processed. Hope that helps a bit!

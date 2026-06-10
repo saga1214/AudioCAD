@@ -1,0 +1,25 @@
+Okay, the user wants restaurant recommendations for dinner with a friend next week, every night at 6:30 PM. Let's see... they mentioned "next week," but didn't specify a location. That's a problem. I'll need to ask for the city or area first. 
+
+Hmm, looking back at the conversation history, this user seems detail-oriented—they listed exact class schedules earlier. Probably appreciates clear, structured help. The gym session query also shows they value practical fitness advice. 
+
+Since they're planning multiple dinners, I should consider variety in recommendations. Maybe suggest different cuisines or vibes for each night? But first things first—location is essential. I'll ask politely without making them feel like they forgot something. 
+
+Also, 6:30 PM is early enough to get reservations but late enough for dinner. Good timing! I wonder if they want casual spots or something fancier. No clues yet, so I'll keep options broad. 
+
+...Should I mention reserving in advance? Yes, definitely. They seem organized, but it's good to remind them. 
+
+Alright, response ready: ask for location, suggest they share preferences if they have any, and emphasize reserving ahead. Friendly tone, helpful.
+</think>
+Great idea! I’d be happy to recommend restaurants. To give you tailored suggestions, I need to know:  
+**Where are you located?** (City or neighborhood)  
+
+Once I know the location, I can suggest places based on:  
+- Cuisine type (e.g., Italian, sushi, steakhouse)  
+- Ambiance (casual, romantic, lively)  
+- Budget  
+- Distance from your classes  
+
+For now, here’s a quick tip:  
+**Always reserve early**—popular spots fill up fast, especially at 6:30 PM. Use apps like OpenTable or Resy to book instantly.  
+
+Let me know your city, and I’ll share specific recommendations! 😊

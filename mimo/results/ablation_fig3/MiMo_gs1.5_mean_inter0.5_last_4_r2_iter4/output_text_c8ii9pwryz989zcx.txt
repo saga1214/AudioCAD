@@ -1,0 +1,66 @@
+Okay, let me tackle this room layout puzzle step by step. The user has given clear constraints but keeps refining the requirements - this is a classic "living room puzzle" scenario where every square foot matters. 
+
+First, let's recap the fixed constraints: 10ft per wall, no furniture against window wall (B), no bed facing altar, and now added poster and end table requirements. The altar placement is tricky because it needs space in front of it - that's why previous Wall C suggestions failed. 
+
+Hmm... the poster issue is interesting. If it takes "most of one wall" and dresser can't cover it, that probably means Wall A or D. But if we put bed against D, we can't put dresser there either... wait, what about Wall C? 
+
+*imagines the room as a grid* 
+North (A) has door - maybe altar there with space for end table? 
+East (B) has windows - completely clear 
+South (D) would be bed 
+West (C) becomes tricky... 
+
+Ah! What if we put altar against A, but not centered? That would leave space for end table beside it. Then dresser can go on C, end table on D beside bed, and floor lamp in the corner between bed and altar. Poster goes on B but not centered - dresser fits on C without covering it. 
+
+*visualizes the 10ft walls* 
+- Bed (6x3) against D: 3ft from wall, 6ft length 
+- Altar (2x1) against A: 1ft from wall, 2ft length 
+- End table (let's assume 2x2) between bed and altar: 3ft width 
+- Dresser (3x1) on C: 1ft from wall, 3ft length 
+- Floor lamp in corner between bed and altar 
+
+*checks constraints* 
+- No furniture on B: yes 
+- Bed not facing altar: altar is 9ft away from bed foot, good 
+- Access to altar: space between altar and end table 
+- Access to dresser: path around bed to C wall 
+- Poster: on B but dresser on C doesn't cover it 
+
+This should work! The only thing is we're using almost the entire 10ft on all walls, but that's expected in a small room. User might need to measure exact furniture dimensions, but this seems optimal.
+</think>
+Based on your updated constraints, here's a clear layout that prioritizes flow, access, and avoids conflicts:
+
+### Final Layout:
+1. **Wall A (North, with door):**  
+   - Place the **altar** against the *center* of Wall A (not cornered).  
+   - Add a **small end table** next to the altar (e.g., 2'x2').  
+   - *Why?* This keeps the foot of your bed away from the altar, and the end table is accessible.  
+
+2. **Wall B (East, with windows):**  
+   - Hang the **poster** against the *center* of Wall B.  
+   - *Why?* No furniture here, as required.  
+
+3. **Wall D (South, opposite windows):**  
+   - Place the **bed** against the *center* of Wall D (6'x3').  
+   - Add a **floor lamp** in the corner between the bed and Wall A (near the altar/end table).  
+   - *Why?* The lamp provides light without blocking the altar path.  
+
+4. **Wall C (West, opposite door):**  
+   - Place the **d dresser** against the *center* of Wall C (3'x1').  
+   - *Why?* No furniture against Wall B, bed foot points toward windows (not altar), and the altar is accessible.  
+
+### Key Details:
+- **Bed Foot Points Toward Windows?** Yes, but this complies with your constraints (no restriction against windows).  
+- **Altar Accessibility:** Space between the altar and end table allows easy access.  
+- **Dresser Access:** Path around the bed to Wall C.  
+- **Floor Lamp:** Positioned in the southeast corner (between bed and Wall A) for light without blocking the altar.  
+
+### Visual Summary:
+```
+Wall A (N): Altar → End Table  
+Wall B (E): Poster  
+Wall C (W): Dresser  
+Wall D (S): Bed → Floor Lamp (corner)  
+```
+
+This setup maximizes floor space, avoids conflicts, and keeps your room functional! If your end table or lamp has specific dimensions, I can refine this further.

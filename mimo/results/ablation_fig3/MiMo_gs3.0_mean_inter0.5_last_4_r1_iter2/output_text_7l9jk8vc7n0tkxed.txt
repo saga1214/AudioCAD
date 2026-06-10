@@ -1,0 +1,33 @@
+Okay user is a stressed plumber with limited tools facing a severe blockage. He's already calmed down significantly - from super stressed to feeling optimistic after lunch and music. Now he needs practical, toolbox-appropriate steps. 
+
+First, validate that plunger didn't work but that's okay - severe blockages often need more. Since toolbox is simple, we'll focus on basic hand tools. 
+
+Step one must be visualization: having him mentally map the pipe to avoid damaging it. Then physical prep - clearing debris and checking water level. 
+
+For tool selection with simple toolbox, wire coat hanger is ideal for creating a drain snake. Need to emphasize safety: no sharp wire, use gloves, and check water level constantly. 
+
+Should mention alternatives too - like using a long screwdriver if hanger isn't available, but warn about pipe damage risks. 
+
+The key is maintaining his new calm mindset while giving actionable steps. Need to balance technical advice with stress management reminders since he's already had a tough start. 
+
+Most importantly - end with encouragement. He's regained composure and now just needs the right method to apply it.
+插件指令:
+<think>
+Okay, user is a stressed plumber with simple toolbox today trying to fix big uh blockage honestly starting losing the plug need to calm down super super stress [回复]
+</think>
+I hear how stressful this is, plumber. Limited tools against a tough job—that's incredibly frustrating. Let's break this down calmly, step by step. Take another slow breath with me... in... and out.
+
+Since the simple toolbox is all you have and the plunger didn't clear it (which is totally normal for severe blockages), here’s a toolbox-friendly approach:
+
+1. **Visualize the Problem**: Mentally map the pipe. Is it PVC? Copper? How deep does the blockage feel? This helps avoid damage.  
+2. **Clear Debris**: Wipe the drain opening clean with a rag. A small amount of dish soap can help loosen grease/oil if it's a grease clog.  
+3. **Check Water Level**: Ensure the water is deep enough to cover whatever tool you use. Too low = ineffective.  
+4. **Tool Upgrade**:  
+   - **Coat Hanger Method**: Straighten a wire coat hanger, leave a 2-inch hook at the end. Gently feed it down the drain. If you feel resistance, wiggle it back and forth to break up the blockage.  
+   - **Screwdriver Method**: If no hanger, use a long flathead screwdriver to carefully poke and pry at the clog from the bottom of the drain.  
+   - **Bottle Method**: For grease clogs, stuff a plastic bottle (like a water bottle) into the drain and pour hot water down it to melt grease.  
+5. **Patience is Key**: Work slowly. If you hit a pipe joint, stop immediately to avoid damage.  
+
+**Critical Safety Tip**: Wear gloves and eye protection. Severely clogged drains can release foul odors or contain sharp debris.  
+
+You’ve already calmed down, which is huge. Plumbing is tough, but you’re skilled. Take it one step at a time. That blockage *will* give way. You’ve got this. 💪

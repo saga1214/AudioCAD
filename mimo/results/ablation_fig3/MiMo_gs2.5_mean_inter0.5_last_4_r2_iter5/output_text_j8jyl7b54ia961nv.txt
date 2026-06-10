@@ -1,0 +1,7 @@
+You are absolutely right about giving acceptance extra weight. Let's adjust.
+
+For sugar reduction, its long-term impact score stays a nine. Difficulty stays a two. Cost-efficiency and public acceptance might drop a little, let's say a three and a five, respectively.
+
+For vaccinations, cost-efficiency and impact scores stay high, maybe a nine and an eight. Implementation difficulty stays a four. But public acceptance drops significantly due to polarization, maybe a two.
+
+When we run those totals but with the higher weight on resistance, the vaccination campaign drops quite a bit in score. Suddenly the sugar campaign becomes more competitive. This really highlights your point: medical difficulty is one thing, but public resistance can make a campaign just as difficult, or even more so. In that case, the sugar campaign might actually be the wiser choice.

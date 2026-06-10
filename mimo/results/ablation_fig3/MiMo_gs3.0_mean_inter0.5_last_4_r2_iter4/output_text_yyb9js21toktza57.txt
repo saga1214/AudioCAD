@@ -1,0 +1,41 @@
+Okay, the user wants all Marvel characters we've discussed rated on a different scale now – 1 to 100 instead of 1 to8. That's a clear request shift, but manageable. 
+
+Hmm, looking back at the history: Iron Man/Captain America/Thor power-only was 8/8/7, Thanos/Dormammu/Hela power 10/10/9, Zemo Captain Marvel discussed, with Marvel rated ~9 power-wise implying ~90. Need to scale those up proportionally first. 
+
+User seems genuinely curious about Marvel power rankings – first general main characters, then power-only, now villains Marvel Zemo Thor Hela Captain Marvel discussed... pattern suggests interest in power hierarchies. Probably a casual fan exploring character strengths systematically. 
+
+Calculating conversions: 8/8/7 to 100 would be 80/80/70 (since 8→80 is ×10), 10/10/9→100→100/100/90. Zemo as 1 stays 10. Carol Danvers → 9→90→×1.12≈100.9 → 101 (rounding up since 100.9 is effectively 101). 
+
+Wait, should clarify this is purely for fun – no official Marvel math! Also Thor's 70 might feel low compared to Thanos' 100, but that's intentional since Thanos is cosmic-tier while Thor is Asgardian-tier. 
+
+User didn't specify heroes per conversation history, so compiling all discussed: Avengers mains + big three villains + Zemo + Carol. That's 10 characters. Formatting as a clean table makes it scannable. 
+
+...And done. Added notes about subjective nature since power scaling debates are Marvel's bread and butter. Hope they like the Thor vs Thanos comparison – that's the fun part.
+Possible next questions might be X-Men ratings or street-level heroes like Daredevil.
+</think>
+Based on our conversation, here's a rating summary for the Marvel characters we discussed, converted from the 1-10 scale to a **1-100 scale** for consistency:
+
+| Character         | Power/Skill Rating (1-8) | Power Rating Only (1-10) | 1-100 Scale (Calculated) |
+|-------------------|--------------------------|--------------------------|--------------------------|
+| Iron Man          | 8                        | 7                        | 80                       |
+| Captain America   | 8                        | —                        | 80                       |
+| Thor              | 7                        | 9                        | 70                       |
+| Thanos            | —                        | 10                       | 100                      |
+| Dormammu         | —                        | 10                       | 100                      |
+| Baron Zemo       | —                        | 1 (No powers)           | 10                       |
+| Hela             | —                        | 9                        | 90                       |
+| Captain Marvel   | —                        | ~9                       | ~90                      |
+
+### Key Notes:
+1. **Iron Man** and **Captain America** both scored 8 as mains (intellect/leadership) and 80 as mains on power scale.
+2. **Thor** scored 7 as a main character (character/growth) and 70 on power scale.
+3. **Thanos** and **Dormammu** were villains with max power (10/10), translating to 100.
+4. **Baron Zemo** has no powers, so his power rating is 10 (on a 100 scale).
+5. **Hela** and **Captain Marvel** scored highest for raw power (~90).
+
+### Why These Ratings?
+- **Thanos/Dormammu/Hela** dominate the top tier (100) due to cosmic-level threats and reality-warping abilities.
+- **Captain Marvel** rates ~90 due to solar energy manipulation enabling feats like flying through capital ships solo.
+- **Zemo** remains a "1" as he relies solely on intellect – no superhuman abilities.
+
+*Remember: These are subjective estimates! Marvel power scaling is intentionally debated (e.g., Thanos vs. Thor depends on context).* 😊

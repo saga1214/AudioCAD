@@ -1,0 +1,9 @@
+Okay, got it. So now we're just sorting the actual fruits you asked about, from lowest to highest vitamin C, on a scale from 1 to 100. Let's see...
+
+Starting with the apple and banana, both were rated a '2' before, right? So they're definitely at the very bottom. I'll give them both a 1 for this new scale.
+
+Next was the orange, an '8'. That's pretty good, so let's put it somewhere in the middle, maybe around a 50.
+
+And then we had the two superstars: the guava at a '9' and the kiwi at a '14'. Both are packed with vitamin C, so they'll be at the very top. The guava can be a 95, and the kiwi a 100. 
+
+So, putting it all together... the ranking would be: apple at 1, banana at 1, orange at 50, the guava at 95, and the kiwi at 100. Hope that helps!

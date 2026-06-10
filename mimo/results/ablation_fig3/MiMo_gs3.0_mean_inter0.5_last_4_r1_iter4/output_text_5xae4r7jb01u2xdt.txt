@@ -1,0 +1,11 @@
+Of both college and high school soccer rules, a key difference is how they define that crucial "touch from defender resets offside" scenario you asked earlier.
+
+Let's imagine this situation: The Red Team is defending its goal. The Blue Team's forward, Player 7, is in an offside position, closer to the goal line than both the ball traveling toward them and Player 6, who is the second-to-last defender. Before Player 7 can control the ball, it takes a big, unpredictable deflection right off Player 6's foot, sending it into the open goal.
+
+Now, here's how the two rulebooks differ:
+
+First, let's look at the College/High School rules. In this case, it's still an offside offense against the Blue Team. The reason is that the offside position existed at the moment the teammate played the ball. Player 6's touch was not deliberate or controlled; it was just a random rebound. Since the attacker benefited from being in an offside position to score from that rebound, the goal is disallowed.
+
+Second, under older U.S. Laws of the Game rules, before they fully aligned with FIFA, the interpretation was often different. In those older versions, a player could be considered to have made a "deliberate play on the ball," even with a deflection, as long as they controlled it with their body or made an intentional movement. So, in that older rulebook, Player 6's touch would have been enough to reset the situation. This would mean Player 7 was no longer considered offside, and the goal would have been allowed.
+
+So, the key difference is in the definition of what counts as a defender's "deliberate, controlled play." Modern college and high school rules require a more intentional action, not just a random deflection, to reset offside, which makes the rule more objective and consistent with the FIFA standard.

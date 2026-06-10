@@ -1,0 +1,11 @@
+That's a very sophisticated argument, but it still doesn't quite work. Let's break down why.
+
+First, a mutation in an egg doesn't mean the egg itself *contains* the new DNA. The mutation happens in the DNA of the egg *cell* that forms the embryo, and then that DNA is copied as the embryo develops. So the egg as an object existed before the DNA inside it was altered.
+
+Second, the egg that contained the first chicken's DNA was laid by an animal that was not quite a chicken yet. It was a proto-chicken, or a very close relative. So that egg was not a chicken egg, even though it contained a chicken.
+
+So, the first chicken emerged from the egg of a non-chicken ancestor. The chicken came first.
+
+Let me try to explain it another way. Imagine a timeline. Let's call the creature that laid the egg 'Proto-Chicken X'. Proto-Chicken X laid an egg. Inside that egg, a mutation occurred, and a new DNA sequence appeared that defined the first true chicken. The first chicken then hatched from that egg.
+
+So, the egg was laid by a non-chicken, the egg contained the DNA of a non-chicken, and the first chicken hatched from it. The chicken came first.

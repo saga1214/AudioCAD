@@ -1,0 +1,5 @@
+Got it. Here’s a scenario that highlights a really important exception. Imagine the Red Team is attacking the Blue Team's goal. The Red Team's forward, number nine, is in an offside position behind the second-to-last defender. Just as the ball travels past the defender toward number nine, the defender accidentally, and not deliberately, touches the ball. It then deflects or rebounds off that defender before Red number nine continues forward, controls the ball, and scores a goal.
+
+Now, here's the key difference based on which rulebook you're using. Under college or FIFA rules, player number nine is not offside. The offside offense is reset solely by the defender's touch, intentional or not. Nine is onside, and the goal stands.
+
+However, under the older US Soccer high school rules, an attacker cannot be reset by offside by a rebound or deflection; only a controlled play counts. So, in that case, number nine would still be considered offside, and the goal would be disallowed.

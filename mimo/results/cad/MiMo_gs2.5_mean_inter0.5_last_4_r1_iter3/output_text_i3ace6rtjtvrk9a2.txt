@@ -1,0 +1,15 @@
+You're on the right track! Saccadic masking is a great concept to bring up. Let’s break it down.
+
+First, the pronunciation: Saccade is pronounced like “suh-kahd” or “suh-kah-dee.” It’s a single syllable, and the emphasis is on the first part.
+
+So, to your question: Does the eye see continuously? The answer is no, but it’s a bit more nuanced.
+
+The eye doesn’t see in a perfectly continuous stream. It’s more like a camera that captures a few frames per second, but the brain fills in the gaps to create a seamless experience. During a saccade, the eye moves rapidly between points, and for a fraction of a second, your visual field is “blank” or masked. That’s the brain’s way of preventing motion sickness or confusion during these jumps.
+
+However, your brain is incredibly smart. It uses what it sees just before and after the saccade to fill in the gaps. This is called “persistence of vision.” It blends the images to create a continuous perception, even though the eye is technically taking quick jumps.
+
+So, the eye isn’t seeing continuously in the literal sense, but your brain does a fantastic job of making it feel like you are. That’s why 24 frames per second works so well in film—it mimics this brain’s ability to blend discrete moments into a continuous motion.
+
+So, in film, when we shoot at 24 frames per second, we’re essentially mimicking the eye’s natural way of perceiving motion. Higher frame rates give you more detail in slow-motion, but for standard viewing, 24 frames per second is the sweet spot for that continuous, cinematic feel.
+
+Does that help clarify things?

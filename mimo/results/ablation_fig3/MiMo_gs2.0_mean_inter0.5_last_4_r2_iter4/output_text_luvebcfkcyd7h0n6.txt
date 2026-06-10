@@ -1,0 +1,23 @@
+Of course. Let's walk through them one by one. 
+
+Superposition... that's the light switch versus an actor analogy. The bit is on or off. The qubit is an actor holding all potential roles at once.
+
+Taking a measurement is when the director says "Action!", and the actor has to commit to a single role.
+
+Budget, or decoherence, is how long an actor can hold all those potential roles before being distracted by outside noise on set.
+
+Entanglement is when two actors' roles are linked. The hero instantly means the other becomes the villain.
+
+Error correction is the editing process in post-production, where you fix mistakes to get the final, correct result.
+
+Budget for time is the amount of focus each actor has before their potential runs out.
+
+Quubits are your individual actors. More actors mean more possibilities, which is like a more powerful computer.
+
+The final answer is the final cut of the movie.
+
+Measurement collapse is when the actor commits to a role for the take, but you can reset the whole scene and get a new take, which is like re-running the calculation.
+
+And decoherence... that's when outside noise, like a phone ringing, ruins the superposition before the director even starts. You have to start the scene all over again. 
+
+I hope that helps clarify things. Just let me know if you need any more analogies.

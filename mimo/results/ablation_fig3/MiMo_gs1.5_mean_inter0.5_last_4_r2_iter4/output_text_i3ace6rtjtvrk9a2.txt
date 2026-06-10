@@ -1,0 +1,17 @@
+You’re right to ask about saccadic masking, and I appreciate you checking the pronunciation! It’s pronounced roughly like “sa-KAH-dik,” where the stress is on the second syllable. It comes from the Greek word for “to jump.”
+
+So, to your main question: is the eye seeing continuously?
+
+Not exactly. It’s a bit of both, depending on what you mean by “seeing.”
+
+The eye itself is always receiving light and processing it, but your conscious perception of continuous vision is largely thanks to the brain’s role.
+
+Here’s how it works: Your eyes are always moving. They make tiny, rapid jumps called saccades to focus on different points. During these jumps, your brain actually suppresses blur to prevent you from feeling motion sickness, like when you read or look around a room. That’s saccadic masking.
+
+However, your eyes also perceive motion as a continuous stream. The brain takes the signals from the eyes, which detect changes in light and movement, and stitches them together into a seamless experience. It fills in gaps and ignores the jerky parts so your perception feels smooth.
+
+So, the eye senses discrete flashes or rapid changes, but the brain processes them to create a continuous visual experience. It’s like the difference between a camera shooting at 24 frames per second and a high-speed camera shooting at 1000 frames per second. The camera captures discrete moments, but the brain or software can blend them to create the illusion of smooth motion.
+
+In short, the eye senses rapidly, but the brain’s processing makes you perceive it as continuous. So, the eye doesn’t see continuously in the strictest sense, but the brain’s interpretation does. 
+
+Would you like me to clarify any part of that further?

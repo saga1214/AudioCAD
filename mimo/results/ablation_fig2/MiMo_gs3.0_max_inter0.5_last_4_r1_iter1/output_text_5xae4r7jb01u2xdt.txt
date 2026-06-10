@@ -1,0 +1,9 @@
+Got it. Here’s a scenario that highlights a potential rulebook difference.
+
+The Red Team and Blue Team are playing in college. The Red Team is defending their goal. As the Blue Team is about to attack, a Red Team defender deliberately headers the ball backward toward their own goalkeeper. The goalkeeper comes off her line and makes a controlled play on the ball by catching it.
+
+Now, the Blue Team forward, who was in an offside position when the header happened, receives a rebound directly from the goalkeeper's catch and scores a goal.
+
+Here's the analysis: According to college rules, since the goalkeeper made a 'deliberate, controlled play' on the ball, the situation for the attacker is reset, and scoring from the rebound is perfectly legal.
+
+However, high school rules can sometimes be stricter. In high school soccer, a goal might be disallowed in a situation like this because they often interpret any touch by a goalkeeper playing from inside her own penalty area as not being a sufficient 'reset' to allow a rebound to be scored.

@@ -1,0 +1,11 @@
+Got it. Here’s a key distinction you’ll need to understand for certifications at both college and high school levels.
+
+Let's imagine a situation: The Red Team is attacking, and their forward, number nine, is in an offside position when their teammate, number ten, plays a long pass. The ball is intercepted by the Blue Team's second-to-last defender. That ball then deflects or rebounds directly off the defender.
+
+Now, how we referee this is different. 
+
+According to college and international soccer rules, this is not an offside offense. The reason is that the touch reset the situation. The attacker was no longer considered offside, even though they were in an illegal position when the ball was first played. 
+
+However, in high school soccer, this exact scenario is often called an offside offense. This is because high school rules typically do not recognize defender reset.
+
+So, the core difference is that defender reset is a recognized exception in the college and international rulebooks, but it is often not, in the high school rulebooks. Mastering this distinction is crucial.

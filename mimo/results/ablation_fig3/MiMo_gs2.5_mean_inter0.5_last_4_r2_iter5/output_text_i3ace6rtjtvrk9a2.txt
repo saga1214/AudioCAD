@@ -1,0 +1,65 @@
+Okay, the film student has really dug into the neuroscience of vision here, which is fascinating. She wants a precise distinction between retinal capability and cortical processing, specifically using saccadic masking as a filter. 
+
+First, let's tackle pronunciation: Saccade is pronounced "sah-KAD" – the emphasis is on the first syllable, like "car" but with an "s" sound. "Sah" rhymes with "shark," "KAD" rhymes with "dad." 
+
+Now, her core question: "Does saccadic masking mean the eye sees continuously?" This requires unpacking both components:
+- The eye's role: It does receive visual input continuously, but with limitations. Photoreceptors respond best to *changes* in light/motion, not static images. The threshold she identified (~60Hz flicker fusion) shows its sampling speed.
+- The brain's role: Saccadic masking reveals that during rapid eye movements, the brain actively suppresses blur and incomplete signals. This isn't the eye "seeing" continuously—it's the brain editing retinal data before conscious perception. 
+
+The critical distinction: The eye senses discrete events rapidly, but the brain constructs continuity. Saccadic masking demonstrates how the brain can override raw visual data (like motion blur during head turns) to maintain perceptual stability. 
+
+Her persistence in separating eye vs. brain functionality is scientifically sound. Many filmmakers misunderstand this—e.g., thinking 24fps feels "real" because it matches biological saccades, not because the eye processes frames discretely. 
+
+Phonetically, I'll spell out "sah-KAD" clearly since she requested transcription. The science part needs to emphasize that "continuous perception" is a brain construct, not an eye capability.
+</think>
+Absolutely, I'll clarify using precise terminology and address your pronunciation request.
+
+**Pronunciation:**  
+"Saccade" is pronounced **"sah-KAD"**.  
+- Break it down: **"sah"** (like "shark") + **"KAD"** (like "dad").  
+- Emphasis: Stress the **first syllable** (SAH-kad).
+
+---
+
+### Difference Between What the Human Eye "Sees" vs. What the Brain Processes  
+Let's separate these scientifically without conflating them:
+
+1. **The Eye (Retina as a Sensor):**  
+   - Acts as a biological camera capturing light and motion.  
+   - Photoreceptors (rods/cones) detect rapid changes in light and motion.  
+   - Can respond to visual stimuli up to **~60–75 Hz** (frames per second):  
+     - If flashes occur faster than ~60 Hz, many perceive a continuous light (flicker fusion threshold).  
+     - Rods detect fast motion (up to 100 Hz in low light), but cones process color/detail slower.  
+   - **Limitation:** The eye is not a perfect frame-by-frame recorder. During saccades (eye jumps), it captures **blur and rapid detail**, but the signals are incomplete.  
+
+2. **The Brain (Visual Cortex as Processor):**  
+   - Takes retinal signals and constructs **perception**.  
+   - Smooths jagged/blurred data and fills perceptual gaps.  
+   - **Saccadic masking** is key here:  
+     - During rapid eye movements (saccades), the brain **actively suppresses blur** and incomplete visual data.  
+     - This means the brain *ignores* the eye’s raw "noise" from movement, preventing dizziness or motion sickness.  
+   - **Perception of continuity:** The brain interprets the eye’s discrete data into a **continuous, stable flow of motion**. This is why you don’t consciously notice blur during head turns or saccades.  
+
+---
+
+### Answer to Your Core Question:  
+**No, the eye does NOT see continuously.**  
+- The eye captures discrete, rapidly changing data (up to ~60 Hz).  
+- **The brain processes this data into a continuous perception** using saccadic masking and other mechanisms.  
+
+**Why 60 fps feels "real"?**  
+- At ~60 fps, the brain’s processing matches the eye’s sampling speed. Motion appears smooth and lifelike.  
+- **Saccadic masking explains why 24 fps feels cinematic:**  
+  - At 24 fps, the brain *fills gaps* between frames to create continuity.  
+  - This is why film feels "dreamy" or stylized—it’s the brain’s interpretation, not the eye’s raw data.  
+
+---
+
+### Key Takeaway:  
+- **Eye = Sensor:** Detects rapid discrete events (up to ~60 Hz).  
+- **Brain = Editor:** Suppresses blur (saccadic masking), smooths gaps, and constructs continuity.  
+- **Perception = Brain’s output:** What you "see" is the brain’s processed version of the eye’s data—not a direct feed from reality.  
+
+This distinction is crucial for original filmmaking with 35mm! 24 fps leverages the brain’s natural motion-processing to create that timeless, artistic feel. Video’s higher frame rates (30/60 fps) feel more "real-time" because they align with the brain’s sampling speed.  
+
+Let me know if you'd like deeper dives into photoreceptors, flicker fusion, or perceptual psychology!

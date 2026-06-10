@@ -1,0 +1,126 @@
+Okay, this user wants a complete breakdown of resume format after we've already covered contact info ordering, experience sections, gaps in employment, degree formatting, and award placement. They're clearly looking for a structured template to follow rather than creative design advice anymore. 
+
+The key here is providing a clear, step-by-step framework they can adapt. They've expressed difficulty committing to formats before, so a predictable structure with explicit instructions will help. Since they mentioned long gaps and career changes, I should emphasize how to position that experience positively.
+
+For the skills section, I'll explain its importance and placement after experience but before references. The breakdown should include:
+- Header with optimized contact info vertically below name
+- Professional summary addressing career shift
+- Relevant experience section with concise bullet points
+- Additional work history for older roles
+- Education with degree details
+- Skills section tailored to job descriptions
+- Optional but recommended areas like certifications or projects
+
+I'll avoid design fluff since they want to "get it over with" and focus on ATS-friendly elements. Icon warnings and font sizes remain important considerations from earlier. The gap strategy using a summary and relevant experience grouping deserves emphasis. 
+
+Should also remind them to customize for each application - the template is a starting point. They seem ready to execute once they have the blueprint.
+</think>
+Here's a clear, ATS-friendly resume format with explanations for each section. Follow this structure and customize it for each job application:
+
+### **Modern Resume Format Template**
+*(Font: 10-12pt for body, 14pt only for your name)*
+
+---
+
+#### **1. Header (Vertical Alignment Recommended)**
+```
+Your Full Name (14pt)  
+│  
+├── Email: example@email.com  
+├── Phone: (123) 456-7890  
+└── City, State (9pt)  
+│  
+└── icons instead of bullets (emojis may cause ATS issues)
+```
+**Order:** Name first, then email, phone, city vertically aligned. Place directly below name.
+
+---
+
+#### **2. Professional Summary (2-3 Lines)**
+- Highlight your most relevant skills/experience from past work  
+- State your career goals (if transitioning fields)  
+- *Example:*  
+> "Results-driven marketing professional with 8+ years in digital campaigns and brand strategy. Seeking to leverage expertise in SEO/PPC to drive growth at [Company Name]."
+
+---
+
+#### **3. Relevant Experience**  
+*(Prioritize roles matching target jobs)*  
+**Format per Job:**  
+`Company Name | Location | Dates`  
+`- Achievement with metric (e.g., "Increased sales by 40%")`  
+`- Action + result`  
+`- Skill demonstrated`  
+
+**For career changes:**  
+- Group similar roles together  
+- Use a brief intro like:  
+> **"Marketing Experience (2010-2020): Focused on brand development and client acquisition"**  
+> *(List 3-5 key roles here)*  
+- List additional roles in **"Additional Work History"**  
+
+---
+
+#### **4. Additional Work History**  
+*(For roles not directly relevant to target jobs)*  
+`Company | Role | Dates`  
+`- Concise bullet point (no details)`  
+
+---
+
+#### **5. Education**  
+**Format:**  
+`Degree Name, [University] | Graduation Year`  
+`- Honors: Highest Honors, Summa Cum Laude`  
+`- Awards: Scholarship Name (Year)`  
+
+**For multiple degrees:**  
+List by date (oldest first)  
+`Bachelor of Science in Marketing, University X (2010)`  
+`Master of Business Administration, University Y (2015)`  
+
+---
+
+#### **6. Skills Section**  
+*(Tailor to job description keywords)*  
+**Hard Skills:**  
+`Python, Google Analytics, Project Management`  
+**Soft Skills:**  
+`Cross-functional Collaboration, Data-Driven Decision Making`  
+**Certifications:**  
+`Google Analytics Certified (2023)`  
+
+---
+
+#### **7. Optional Sections**  
+- **Projects:**  
+  `Project Name | Tools Used | Outcome`  
+  *(Great for career changers)*  
+- **Certifications:**  
+  `AWS Certified Solutions Architect | 2022`  
+- **Volunteer Work:**  
+  `Organization | Role | Dates`  
+
+---
+
+### **Key Changes You Should Make**
+1. **Move contact info below your name** (side placement looks cluttered)  
+2. **Remove icons** (replace with standard bullet points)  
+3. **Create "Relevant Experience" section** for career transitions  
+4. **Add Professional Summary** to frame your career shift  
+5. **Structure skills** as a dedicated section (not mixed in)  
+6. **Date all roles** even if gaps exist (show continuity)  
+
+---
+
+### **ATS Optimization Checklist**
+- No columns/tables (use standard left-aligned text)  
+- Standard headings (e.g., "Work Experience" not "My Jobs")  
+- Avoid graphics, photos, or unusual fonts  
+- Save as PDF (name: `FirstName_LastName_Resume.pdf`)  
+
+**Career Change Tip:** Use a **"Career Progression"** header for older roles if you want to emphasize continuity. Example:  
+> **"Career Progression (2010–Present):**  
+> - Marketing Manager → Digital Strategist → Brand Director"  
+
+This format keeps recruiters scanning time in <8 seconds while passing ATS filters. Customize each section for the specific job you're applying to!

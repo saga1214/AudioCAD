@@ -1,0 +1,64 @@
+Okay, the user is asking two very different things now - one about traffic rules and one about cooking. First, they're worried about accidentally making an illegal U-turn in BC and what penalties might apply. They seem anxious about getting it wrong, so I should reassure them while giving clear consequences. 
+
+For the U-turn question, I recall BC's rules are quite strict. The 150-meter visibility requirement is key, but many drivers estimate this wrong. I should emphasize that safety always trumps convenience. The penalty depends on the violation - it could be a small fine for an improper turn, but if it's at an intersection or causes danger, it's more serious. I'll mention the exact BC Traffic Code reference (230(2)) for accuracy.
+
+Then they completely switch to cooking! Spaghetti carbonara is a classic but tricky dish. They're asking for ingredients, which suggests they might be a beginner cook. I should list everything clearly while warning about common pitfalls - like overcooking eggs or forgetting to temper the cheese. The pancetta vs bacon note is important since they might not know the difference. 
+
+Hmm... they mentioned pork restrictions earlier but said this is separate (it's carbonara with eggs/cheese pancetta). No need to revisit that unless they ask. The tone feels casual and practical - they want straightforward answers. 
+
+For the recipe, I'll organize ingredients by category (pasta, sauce, toppings) and include measurements in both cups and grams where possible. The egg-cheese mixture is the most critical part - I'll stress not to add pasta water until after mixing. Should mention the optional black pepper note too since some purists argue about it. 
+
+...Wait, did they mean dry spaghetti or regular? I'll specify "dried spaghetti" to avoid confusion. Also should remind them to cook the pancetta first - that's step one!
+</think>
+Here's a clear breakdown of pork nutritional comparisons and kitchen safety, followed by answers to your new questions:
+
+### Nutritional Values & Comparisons of Meats
+| **Nutrient**       | **Pork per 100g** | **Chicken/Turkey (per 100g lean)** | **Beef per 100g** |
+|--------------------|-------------------|------------------------------------|-------------------|
+| **Protein**        | High              | Very High                          | High              |
+| **Fat (Total)**    | Medium-High       | **Low-Low**                        | Medium-High       |
+| **Saturated Fat**  | Medium            | Low                                | Medium            |
+| **B12 (Vitamin)**  | Very High         | High                               | Very High         |
+| **B6**             | High              | Medium                             | Medium            |
+| **Iron**           | Medium            | Low                                | **High**          |
+| **Zinc**           | High              | Medium                             | High              |
+
+*Cut preparation and cooking method dramatically alter values. Lean beef or chicken breast can match each other in protein/iron while being significantly lower in fat.*
+
+---
+
+### U-Turn Safety in British Columbia
+**Key Rules:**  
+1. **No Signal Required** if no signs/lines prohibit U-turns.  
+2. **Visibility Minimum:** Must see **150m** in both directions (roughly 1.5 football fields).  
+3. **Prohibited Areas:**  
+   - Near intersections, curves, hills, or driveways.  
+   - On highways (except designated turnarounds).  
+4. **Penalties:**  
+   - **$60-$300 fine** + 3 demerit points for illegal U-turns.  
+   - **More severe** if causing danger (e.g., near intersections).
+
+**Easy Safety Check:**  
+- **Stop fully** before turning.  
+- **Look left-right-left** (150m = ~10 seconds of clear visibility).  
+- **Use mirrors** to check blind spots.  
+- **Signal early** if legal.
+
+---
+
+### Spaghetti Carbonara Ingredients
+**For 4 servings:**  
+| **Category**       | **Ingredients**                                                                 |
+|--------------------|---------------------------------------------------------------------------------|
+| **Pasta**          | 400g dried spaghetti (or bucatini)                                              |
+| **Sauce Base**     | 3 large eggs + 3 egg yolks<br>150g grated **Pancetta** (or thick-cut bacon)    |
+| **Cheese**         | 150g grated **Pecorino Romano** (or Parmesan blend)                             |
+| **Seasoning**      | Freshly ground black pepper (optional)                                          |
+| **Extras**         | 1 tbsp olive oil (for pancetta)                                                 |
+
+**Key Notes:**  
+- Use **pancetta** (Italian cured pork belly) for authenticity.  
+- **Never add cream** – classic carbonara is egg-based.  
+- **Temper eggs** by slowly mixing in hot pasta water to avoid scrambling.  
+
+Let me know if you need the recipe steps!

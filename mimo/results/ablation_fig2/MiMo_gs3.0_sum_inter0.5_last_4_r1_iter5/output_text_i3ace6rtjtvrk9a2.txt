@@ -1,0 +1,46 @@
+Okay, the film student is diving deep into neuroscience now! They're really pushing to separate the eye's function from the brain's processing, which is smart. I need to nail the pronunciation of "saccadic masking" since they asked for it. Phonetically, it's roughly "suh-KAH-dik MAS-king."  
+
+The core question is whether the eye "sees continuously." The answer is no—but it's not as simple as "the eye sees, the brain smooths." It's more layered. The eye's photoreceptors (rods/cones) do respond to light changes, but the *perception* of continuous vision is entirely a brain job.  
+
+Key points to clarify:  
+1. **Saccadic masking** is the brain's blackout during eye jumps—no visual input is processed for ~200ms.  
+2. **Temporal resolution limits**: The eye can detect flicker up to ~60-75 Hz, but the brain *interprets* that as smooth motion.  
+3. **Perception ≠ Reality**: We experience continuous vision because the brain stitches saccades and fills gaps—like a film student shooting 24 fps!  
+
+She’s right to demand precision. Filmmakers manipulate this exact stuff! If she’s into original 35mm work, understanding how the brain creates continuity could influence her storytelling choices. Maybe slow-motion techniques or editing tricks to mimic natural motion blur.  
+
+Final thought: Her film student perspective is actually giving her the perfect lens to grasp this. She’s not just memorizing facts—she’s learning how to *manipulate perception*, which is the heart of original filmmaking with 35mm. That’s the takeaway.
+</think>
+That's an excellent question—and yes, **saccadic masking** (pronounced roughly: *suh-KAH-dik MAS-king*) fundamentally changes how we perceive continuity. Here’s a precise breakdown:
+
+### 1. **What the Eye *Can* See (Physically)**
+   - The eye’s retina detects light changes rapidly, but **not continuously**. Photoreceptors (rods/cones) respond to *changes* in light, not steady images.  
+   - The **flicker fusion threshold** (the point where discrete flashes merge into a continuous light) is typically **50–60 Hz** for humans. Beyond this, you perceive smoothness.  
+   - **Saccadic masking**: During rapid eye movements (saccades), the brain **deliberately suppresses visual input** for ~200ms to avoid motion blur. For 200ms, you’re functionally blind to detail during the jump.
+
+### 2. **What the Brain *Perceives* (Cognitively)**
+   - The brain doesn’t receive a "continuous feed" of vision. Instead, it **stitches together** visual data from:  
+     - **Sensory input** (retinal signals).  
+     - **Prior predictions** (memory, expectations).  
+     - **Contextual cues** (e.g., seeing a bird in flight).  
+   - This is called **perceptual continuity**. Your brain *creates* the illusion of fluid motion by:  
+     - Filling gaps in saccadic masking.  
+     - Using predictive coding (anticipating movement).  
+     - Leveraging visual scene structure (e.g., edges, motion parallax).
+
+### 3. **The Crucial Difference: Eye vs. Brain**
+   | **Eye (Sensor)** | **Brain (Processor)** |
+   |------------------|----------------------|
+   | Detects light changes (up to ~60 Hz). | Creates *perception* of continuity. |
+   | Experiences ~200ms "blind spots" during saccades. | Fills gaps during saccades. |
+   | No true "real-time" feed. | Predicts motion (e.g., anticipating where a ball will land). |
+
+### 4. **Why 24 fps "Feels Real" (Despite Saccadic Masking)**
+   - Filmmakers exploit this! Your brain **automatically interpolates** between frames during saccades, mimicking the eye’s natural motion blur.  
+   - At 24 fps, saccades occur *between* frames, so the brain perceives fluid motion. Higher frame rates (e.g., 60 fps) reduce saccadic gaps, making motion smoother but less "cinematic."  
+   - **Hyper-realism**: Modern digital video at 120+ fps captures *more* detail, but it lacks the brain’s "artistic smoothing." That’s why 24 fps feels poetic—your brain *chooses* to fill gaps creatively.
+
+### Key Takeaway
+The eye **does not see continuously**—it sees in bursts with blind spots. The brain **perceives continuity** by predicting, predicting, predicting. This is why 24 fps cinema works: it aligns with the brain’s natural "stitching" process. Saccadic masking isn’t a bug—it’s the foundation of how we experience motion as a seamless story.  
+
+For filmmaking: Use **motion blur** (common in 35mm) to mimic the brain’s smoothing. Avoid hyper-smooth high-frame-rate footage unless you want hyper-realism. Art thrives in the gap between eye and brain.

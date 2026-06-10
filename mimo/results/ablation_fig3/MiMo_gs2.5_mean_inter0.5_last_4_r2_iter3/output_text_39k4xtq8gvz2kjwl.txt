@@ -1,0 +1,66 @@
+Okay, the parent wants a full cast list summarizing every character's role based on our iterative story development. This requires meticulous attention to detail since we've added characters in layers over multiple requests. 
+
+First, I'll mentally walk through the entire conversation history: The protagonist started as a unnamed adventurer named Leo Vance, who became Professor Kingsbridge University after adding his academic background. Villain evolved from Silas Croft to Silas with four named henchmen. Helpers expanded from Elena Castillo to the team dynamic with Hammer, Rios, and Finch. The treasure's backstory got expanded with prehistory dates 1855 and 1935, plus Croft's connection to Elias Vance.
+
+The challenge is organizing this chronologically without repetition. I'll group them into categories: Protagonists/Questers, Antagonists/Henchmen, Helpers, and Supporting Characters. For the professor role, I should clarify it's Kingsbridge University since that detail was requested. 
+
+Noticing Amber/Susan interruption was personal, but since they movie invitation failed to influence the story, I'll exclude them from cast list. Ivan Petrov容易与Brutus Thorne混淆，需要明确狙击手身份。Dean Albright only appeared as university head in Prof. Vance's bio, so he's not story-active.
+
+Final check: All 11 characters from journal discovery onward are covered, dates included, and roles reflect their contributions to solving puzzles vs physical confrontation. The summary should mirror the full narrative's structure while being concise.
+</think>
+Here's a complete cast list with roles based on the final story and all previous details:
+
+### **Protagonists & Heroes**
+1. **Leo Vance**  
+   *Role*: The noble descendant of Captain Elias Vance. A Professor Kingsbridge University archaeology professor who assembles the team to protect the Sunstone from the Croft legacy. Honors his ancestor’s mission on July 20th, 1935.
+
+2. **Elena Castillo**  
+   *Role*: Knowledgeable jungle guide and helper. Knows Eldoria’s hidden trails and assists the team in navigating its dangers. Represents wisdom and local expertise.
+
+3. Jack "Hammer" Stone  
+   *Role*: Leo’s compatriot. Provides strength and physical resilience during jungle expeditions and temple confrontations.
+
+4. Javier Rios  
+   *Role*: Local compatriot and expert navigator. Helps traverse Eldoria’s treacherous terrain and interprets environmental clues.
+
+5. Arthur Finch  
+   *Role*: Leo’s brilliant mapmaker compatriot. Deciphers Elias Vance’s numerical puzzles and ancient sequences guarding the Sunstone.
+
+---
+
+### **Antagonists & Henchmen**
+6. **Silas Croft**  
+   *Role*: Augustus Croft’s direct descendant. Villain obsessed with stealing the Sunstone. Leads the chase with brute force and greed.
+
+7. Rex Gunner  
+   *Role*: Tracker/henchman. Silas Croft’s cold-blooded tracker who exploits stealth and knowledge of the jungle’s hidden paths.
+
+8. Brutus Thorne  
+   *Role*: Henchman brute. Marcus Kane’s physical enforcer, relying on strength to overcome puzzles or obstacles.
+
+9. Marcus Kane  
+   *Role*: Cunning henchman. Ivan Petrov’s strategist, planning attacks and exploiting weaknesses in the team.
+
+10 Ivan Petrov  
+    *Role*: Deadly sniper henchman. Ivan Petrov’s weapon specialist, providing long-range cover fire during confrontations.
+
+---
+
+### **Supporting Characters**
+11. Captain Elias Vance  
+    *Role*: Leo’s ancestor. The 1855 explorer who first discovered the Sunstone with treacherous Augustus Croft. Created the puzzles to protect the gem from greed.
+
+12. Augustus Croft  
+    *Role*: Silas Croft’s ancestor. Betrayed Elias Vance to steal the Sunstone, setting the stage for the Vance-Croft feud.
+
+13. Dean Albright  
+    *Role*: Head of Kingsbridge University. Funds Professor Leo Vance’s expedition into Eldoria on July 20th, 1935.
+
+---
+
+### **Key Dates**
+- Prehistory begins in **1855** (Elias Vance discovers the Sunstone).  
+- Quest starts on **July 20th, 1935** (Leo Vance assembles the team).  
+- Resolution occurs on that same date (Sunstone secured).  
+
+This list integrates all requested details: character names, specific roles, treasure lore, dates, and Silas Croft’s henchmen (Marcus Kane, Brutus Thorne, Rex Gunner, and Ivan Petrov).

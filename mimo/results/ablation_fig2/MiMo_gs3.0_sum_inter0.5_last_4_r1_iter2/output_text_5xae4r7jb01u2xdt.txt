@@ -1,0 +1,9 @@
+Got it. Let's look at an example of a special exception using college rules. 
+
+Here’s the situation: The Red Team is attacking, and a Red Team player makes contact with the goalkeeper during a clearance attempt, causing the ball to rebound off the player. The second-to-last defender then makes a deliberate touch on the ball. The rebound deflects off the defender and goes to another Red Team player, who controls it and scores.
+
+Now, according to college rules, this is not an offside offense because of the special exception you mentioned. Since a defender made a controlled play on the ball, the situation resets, and the attacker who scores is no longer considered offside.
+
+However, if we were following high school rules, this would likely be an offense. High school rules state that the offside situation only resets if the defender's touch is 'direct and intentional'. They tend to interpret a rebound or deflection as not being a direct, controlled touch, so the attacker would probably still be called offside. 
+
+So, that deliberate defender's touch you asked about is a key difference between the two rule sets.

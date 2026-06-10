@@ -1,0 +1,21 @@
+Okay, let's see. We've covered Iron Man, Captain America, Thor, Thanos, Hela, Baron Zemo, and Captain Marvel. The user wants to see them all on a scale of 1 to 100 now. This is a big list, so I need to be consistent. The original scale was 1 to 8 for heroes, 1 to 10 for villains. To scale up to 100, I'll just multiply the original scores by 12.5. That should keep the relative rankings the same while fitting into the new range. Let me check... for Iron Man, that was an 8, so 8 times 12.5 is 100. Perfect. Captain America was an 8, so he gets 100. Thor was a 7, which becomes 87.5. Thanos with the gauntlet was a 10, so he gets 125. Hela was a 9, making her 112.5. Zemo was a 1, so he's 12.5. And Captain Marvel was a 9, so she's 112.5. The user seems really into Marvel's power levels, so this should give them a clearer, more numerical way to compare everyone. I'll lay it all out clearly for them.
+</think>
+Based on our previous ratings (scaled 1–10 originally), here's the full list converted to a **1–100 scale** (multiplied by 12.5 to maintain relative rankings):
+
+| Character         | Original Rating | 1–100 Scale |
+|-------------------|-----------------|-------------|
+| **Iron Man**      | 8               | 100         |
+| **Captain America** | 8               | 100         |
+| **Thor**          | 7               | 87.5        |
+| **Thanos (Infinity Gauntlet)** | 10 | 125 |
+| **Hela**          | 9               | 112.5       |
+| **Baron Zemo**    | 1               | 12.5        |
+| **Captain Marvel** | 9               | 112.5       |
+
+### Key Insights:
+- **Top Tier (110+):** Thanos (125) and Hela/Captain Marvel (112.5) dominate due to reality-altering or cosmic-level power.  
+- **Hero Elite (100):** Iron Man and Captain America tie at 100, reflecting their iconic status and near-superhuman abilities.  
+- **Villain Contrast:** Zemo’s 12.5 emphasizes his reliance on intellect over physical power.  
+- **Power Scaling:** Thanos’ 125 is the highest because his gauntlet grants control over the universe’s fundamental forces.  
+
+Let me know if you’d like to adjust the scale or add more characters!

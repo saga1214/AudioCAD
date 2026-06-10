@@ -1,0 +1,26 @@
+Okay, let's see. The user wants all the characters we've discussed rated on a 1-to-100 scale. Let me go through the list. First, Iron Man... we rated him an 8 out of 10. So, I'll scale that up to 80. Then Captain America, also an 8 out of 10, so that's 80 for him too. Thor was a 7 out of 10, which becomes 70. The villains... Thanos with the gauntlet was a 10 out of 10, so 100. Dormammu was also a 10 out of 10, so 100. Hela was a 9 out of 10, so 90. And Baron Zemo, the power level one, that would be 10. Oh, and Captain Marvel, the 9 out of 10, so 90. Let me double-check that... yep, that looks right. I'll list them out clearly for the user.
+</think>
+Here are the character ratings scaled to a 1-to-100 point system based on our previous discussions:
+
+| Character         | Power Rating (1-100) |
+|-------------------|----------------------|
+| **Iron Man**      | 80                   |
+| **Captain America**| 80                   |
+| **Thor**          | 70                   |
+| **Thanos (Gauntlet)** | 100                 |
+| **Dormammu**      | 100                   |
+| **Hela**          | 90                   |
+| **Baron Zemo**    | 10                    |
+| **Captain Marvel** | 90                   |
+
+### Key Notes:
+- **Scale Conversion**: Original ratings (1-10) were linearly scaled:  
+  `Rating × 10` (e.g., 8/10 → 80).
+- **Power Focus**: All ratings reflect raw power only, as specified.
+- **Standouts**:  
+  - **Thanos (Gauntlet)** and **Dormammu** at 100 for reality-warping and cosmic mastery.  
+  - **Hela** at 90 for her godlike abilities and immortality.  
+  - **Baron Zemo** at 10 for his reliance on intellect and no powers.  
+  - **Captain Marvel** at 90 due to her stellar-lifting strength and energy absorption.  
+
+Let me know if you'd like adjustments or additional characters!

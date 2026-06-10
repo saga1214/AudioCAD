@@ -1,0 +1,5 @@
+Got it. Here’s a scenario. The Red Team is attacking the Blue Team’s goal. As the ball is about to be played for a goal kick, the Blue Team defender, number two, deliberately jumps and their head deflects the goal kick backward into Red Team player number ten, who controls it and scores. 
+
+This situation highlights the special exception for a defender's touch resetting an offside position, but it also shows a difference based on the rulebook version. In the Laws of the Game, the defender's controlled touch on the ball is what resets the situation, so the attacker is no longer considered offside. 
+
+However, in the high school rules, a defender's touch is only considered controlled if it was intentional and skillful. A deflection off the head might be interpreted differently, possibly still counting as a deliberate touch and resetting the situation. The key difference is how strictly the rules define a 'deliberate, controlled play' versus a 'deflection'.

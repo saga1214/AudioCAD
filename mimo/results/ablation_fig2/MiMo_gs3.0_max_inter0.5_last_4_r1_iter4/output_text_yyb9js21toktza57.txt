@@ -1,0 +1,37 @@
+Okay, the user wants me to convert all Marvel character ratings from the previous 1-8 scale to a 1-100 scale. This requires proportional scaling adjustment. 
+
+Looking back at Iron Man, Captain America, Thor from power-only ratings, Thanos, Zemo, and Captain Marvel - I need to map their scores consistently. Since the user specifically asked for villain power ratings first, I'll prioritize those conversions as baseline. 
+
+For Thanos, 10/10 becomes 100/100 since it's max power. Zemo's 1 is clearly 10/100. Captain Marvel's 9 becomes 90/100 - her power level is very high but not quite infinite like Thanos'. 
+
+Now back to main characters based on power-only ratings: Thor's seven becomes 70/100 (cosmic beings scale differently), Iron Man's seven becomes 70/100 (high-tech but finite power), Captain America's four from moral compass role becomes 40/100 (super-soldier is powerful but not cosmic-tier). 
+
+I should note that main character ratings blended traits before while villain ratings focused solely on power. This conversion requires different approaches - villains get strict power scaling while main characters now reflect their relative power from earlier power-specific discussion. The user seems to be systematically exploring Marvel power hierarchies, so consistency matters. 
+
+Final output will show clear progression from highest to lowest power levels discussed. Might add that Thanos and cosmic villains occupy the upper echelon while street-level heroes like Zemo stay at the lower end.
+</think>
+Here's the converted rating scale for the Marvel characters discussed, adjusted from 1-8 to **1-100** based on power/impact:
+
+### Main Characters (Iron Man, Captain America, Thor)
+| Character       | Main Role Rating ( blended traits) | Power-Only Rating | Converted to 1-100 (Power-Focused) |
+|-----------------|-------------------------------------|-------------------|-------------------------------------|
+| **Iron Man**    | 8                                    | 7                 | **70**                              |
+| **Captain America** | 8                                  | 4                 | **40**                              |
+| **Thor**        | 8                                    | 7                 | **70**                              |
+
+### Villains (Thanos, Zemo, Captain Marvel)
+| Character         | Villain Power Rating | Converted to 1-100 (Pure Power) |
+|-------------------|----------------------|----------------------------------|
+| **Thanos**        | 10 (Infinity Gauntlet) | **100**                          |
+| **Baron Zemo**    | 1 (No powers)        | **10**                           |
+| **Captain Marvel**| 9 (Power scaling)    | **90**                           |
+
+### Key Notes:
+1. **Thanos** is capped at **100** as he represents near-infinite power with the Infinity Stones.
+2. **Zemo** is rated **10** for his intellectual threat despite having **0 powers**.
+3. **Captain Marvel** scores **90** for her cosmic-tier abilities (flight, energy absorption, strength).
+4. Main characters reflect a **blend** of traits initially (morality/intellect), but the **1-100 scale prioritizes power/impact**:
+   - Iron Man/Thor: High-tech/cosmic power → **70s**  
+   - Captain America: Peak human → **40s**
+
+This system highlights **raw power** while acknowledging narrative roles (e.g., Zemo’s low power but high strategic threat).

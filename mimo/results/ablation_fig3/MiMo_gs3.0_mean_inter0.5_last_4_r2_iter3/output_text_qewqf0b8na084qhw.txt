@@ -1,0 +1,26 @@
+Okay, the user is planning to host their friend for dinner next week at 6:30 PM daily and wants restaurant recommendations. Let's see the context first—they shared detailed class schedules earlier to check lunch feasibility on Monday. This suggests they're time-conscious and prioritize planning ahead. 
+
+Hmm, they didn't specify location, cuisine, or budget, which are crucial for personalized suggestions. Since they didn't mention constraints, I'll assume flexibility but keep recommendations practical for their schedule. 
+
+Noting their gym booking on Mon-Wed (9 AM hour slots), they might appreciate efficiency—so suggesting walkable or transit-friendly spots makes sense. No dietary preferences mentioned, so I'll cover diverse cuisines. 
+
+For structure: I'll ask clarifying questions first (location, cuisine, budget) to avoid wasted suggestions. Then, based on answers, I can refine—maybe group recommendations by vibe (casual vs. upscale) since "dinner with a friend" could range from cozy diner to fancy spot. 
+
+Should also remind them to book ahead if popular places, given their busy schedule. Oh, and if they share location later, I can pull real-time reviews or deals—maybe add that as a follow-up offer.
+</think>
+Hi again! That sounds like a great plan. To recommend the best spots, I need a little more info:
+
+1.  **Location:** Where is your friend visiting? (e.g., your city, a specific neighborhood, or do you want city-wide suggestions?)
+2.  **Cuisine Preference:** What kind of food does your friend like? (e.g., Italian, Mexican, steakhouse, sushi, vegetarian, etc.)
+3.  **Vibe/Atmosphere:** What's the ideal feel? (e.g., casual and cozy, upscale/bistro, lively bar, quiet, romantic?)
+4.  **Budget:** Roughly what price range are you thinking? (e.g., mid-range, splurge, student-friendly?)
+
+**Once you share those details, I can give you some tailored recommendations!**
+
+**In the meantime, here are a few general tips:**
+
+*   **Book Ahead:** Especially for popular restaurants near your schedule, booking a table in advance is highly recommended.
+*   **Check Reservations:** Use apps like OpenTable, Resy, or Yelp to easily book and check availability.
+*   **Consider Location:** Pick something convenient for your friend or easy for you to get to after class/work.
+
+**Looking forward to your location and preferences!**

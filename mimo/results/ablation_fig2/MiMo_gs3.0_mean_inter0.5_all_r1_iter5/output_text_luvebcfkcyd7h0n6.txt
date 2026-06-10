@@ -1,0 +1,2 @@
+</</think>
+Oh, of course. Let me just quickly summarize what we covered. Uhm, regular bit versus a qubit... think light switch versus an actor with multiple potential roles at once superposition measurement takes commitment time-box is decoherence editing is quantum error correction quubits are the individual actors, entanglement links their performances, and the final cut is the answer you get. Hope that helps it click a little better.

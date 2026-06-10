@@ -1,0 +1,11 @@
+Let's consider a corner kick in the final two minutes of a college or high school game. The Red team is defending, and the Blue team is taking the corner kick against the Red team's goal.
+
+Here's the scenario: Player number nine from the Blue team takes a corner kick. As they kick the ball, Player number ten, a Red team defender, deliberately controls the ball with a firm touch right after it leaves the corner kick spot. The ball then deflects off Player number ten. Finally, Player number nine from the Blue team gets the rebound and scores a goal.
+
+Now, here's the key difference in how that's officiated:
+
+According to the college and high school rulebooks, an offside offense does NOT exist in this situation. That's because the Blue team's player was receiving the ball indirectly from a restart—a corner kick. The direct touch by the defender resets the situation, but critically, since the initial play was a restart exception, the offside rule doesn't apply at all. So, the goal would stand.
+
+However, if we were talking about the official Laws of the Game from FIFA, the outcome could be different. Under the FIFA rules, an offside offense would exist. This is because the FIFA rules state that a player is in an offside position and an offense occurs if they become involved in active play immediately after receiving the ball. So, even though the defender's touch reset Player number nine's offside status, under FIFA rules, the Blue player would still be considered offside because they received the ball from a corner kick while in an offside position and immediately scored.
+
+So, the core difference is that US college and high school rules have a more generous exception for restarts, while the FIFA rules are more strict about a player being involved in play from an offside position after a restart.

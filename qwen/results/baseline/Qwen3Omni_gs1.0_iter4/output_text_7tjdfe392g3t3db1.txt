@@ -1,0 +1,10 @@
+Great question! For a ukulele, you'll want to tune it to the standard GCEA tuning.
+
+Here's how to use a tuner:
+
+1. **Turn on your tuner app or device.**
+2. **Select the correct instrument.** If you're using a tuner app, choose "Ukulele" or "GCEA" tuning.
+3. **Play each string one at a time.** Start with the G string (the thickest string), then C, E, and A (the thinnest string).
+4. **Watch the tuner.** It will show you if the note is flat (too low), sharp (too high), or in tune. Adjust the tuning pegs until the tuner shows the note is in tune.
+
+You can also use a reference pitch from a piano or a tuning fork, but a tuner is the easiest way to get it just right.

@@ -1,0 +1,9 @@
+You're very close, but it's pronounced "suh-KAH-dee," like "sack-uh-dee." As in, "the saccadic masking effect."
+
+To answer your question: No, the eye does not see continuously in the way you might think. It’s more of a patchwork process.
+
+Here’s how it works: The retina detects light and motion, but the brain is constantly making adjustments. When your eyes move—during saccades—they briefly lose detailed vision. The brain is smart enough to fill in the gaps, which is why you don’t feel like you’re losing sight.
+
+So, what the eye *sees* is a series of snapshots, but the brain *perceives* continuous motion. This is why 24 frames per second works so well for film: it matches the brain’s natural way of blending discrete moments into a seamless story.
+
+So, to recap: The eye senses light and motion in quick bursts, but the brain’s processing creates the illusion of continuous, stable vision. It’s not one or the other—it’s both, working together.

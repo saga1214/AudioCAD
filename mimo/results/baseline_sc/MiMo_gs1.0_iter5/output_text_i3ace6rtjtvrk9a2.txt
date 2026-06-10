@@ -1,0 +1,47 @@
+Okay, the user is asking about saccadic masking and whether it means the eye sees continuously. They've been very persistent in clarifying the distinction between eye and brain functions throughout this conversation. 
+
+First, let's address the pronunciation - "saccade" is pronounced like "suh-KAH-dee". The user seems academically inclined, so I should maintain precise terminology while keeping explanations accessible. 
+
+The core question is whether saccadic masking means we don't see continuously. The answer is nuanced. The eye itself does capture continuous light, but the brain's processing creates discontinuity. During saccades, the visual field literally shifts and blurs, creating gaps in perception. This isn't like a camera's frame-by-frame capture; it's more like the brain editing out blur between snapshots. 
+
+I should emphasize three key points: 1) Eye sensors record light continuously 2) Brain processing introduces gaps during saccades 3) The resulting perception feels continuous due to neural interpolation. The user's film student background suggests they'd appreciate the cinematic analogy about how this affects motion perception in media. 
+
+The user's persistence shows deep curiosity, so I'll avoid oversimplifying. They've already demonstrated understanding of terms like "hyper-real" and "flicker fusion threshold." This is a sophisticated discussion about perception versus reality. 
+
+Perhaps most importantly, I should acknowledge how this biological quirk creates unique artistic effects in filmmaking - that might resonate with their creative perspective. The contrast between 24fps film (designed to work with saccades) versus higher frame rates (bypassing them) could be an interesting extension.
+</think>
+That's an excellent question—and the answer is **yes, but with important nuances**. Let's break this down using precise terminology:
+
+### 1. **Saccadic Masking & Perception**
+   - **Saccades**: Rapid eye movements (typically 100–600 ms) between fixation points.  
+   - **Saccadic Masking**: During saccades, the brain suppresses visual input to prevent motion blur. You experience a "blind spot" for ~200 ms as the eyes shift.  
+   - **Key Insight**: The *eye* (retina) detects continuous light, but the *brain* edits out blur during saccades. Your conscious perception remains continuous because the brain interpolates missing frames.
+
+### 2. **Eye vs. Brain Processing**
+   - **Eye (Retina)**:  
+     - Photoreceptors (rods/cones) detect light changes *instantly* (up to ~60 Hz).  
+     - In bright light, flicker fusion threshold ≈ 60–75 Hz (you perceive continuous light beyond this).  
+   - **Brain (Visual Cortex)**:  
+     - Processes signals *after* saccades, stitching together gaps.  
+     - Fills in motion "gaps" using predictive algorithms (e.g., "Where did that object go?").  
+     - **Result**: You perceive continuous motion, but it’s a *constructed* experience.
+
+### 3. **Implications for "Frames Per Second"**
+   - **24 FPS Film**:  
+     Matches the brain’s "preferred" frame rate for motion interpolation. Creates a dreamy, cinematic feel because it aligns with saccadic processing.  
+   - **60+ FPS Video**:  
+     Feels "hyper-real" because it captures motion too quickly for the brain to interpolate. Eliminates saccadic blur, making it feel like real-time observation.  
+   - **1000+ FPS**:  
+     Used for slow-motion (e.g., bullet impacts). Reveals details your eye *could* see but your brain *cannot* process smoothly.
+
+### 4. **Scientific Evidence**
+   - **Flicker Fusion Threshold**: Studies show humans fuse flicker at ~50–60 Hz in darkness, but this rises to 75–100 Hz in bright light.  
+   - **Saccadic Masking**: Neuroimaging confirms the visual cortex deactivates during saccades ([Fuchs & Keepers, 1990](https://doi.org/10.1016/0300-9488(90)90048-8)).  
+   - **Perception vs. Reality**: Your brain constructs ~30–60 "snapshots" per second to create the illusion of fluid motion.
+
+### Practical Takeaway
+- **"Continuous" perception is a brain illusion**, not an eye function.  
+- **Film at 24 fps feels natural** because it exploits saccadic masking.  
+- **Higher frame rates feel "real"** because they bypass this biological editing.
+
+This distinction is crucial for filmmakers: 24 fps creates artifice; 60+ fps creates realism. It’s not just about frames—it’s about *how the brain processes them*.

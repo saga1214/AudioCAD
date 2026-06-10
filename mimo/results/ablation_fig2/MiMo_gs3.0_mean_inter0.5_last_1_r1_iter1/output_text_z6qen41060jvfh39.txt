@@ -1,0 +1,7 @@
+Okay, so now I need to create a completely new ranking, from 1 to 100, just for the *perceived* fruits. This means I should probably give more weight to things like guava and kiwi, since most people definitely see them as fruits, and downplay things like tomatoes or cucumbers, which might be a bit more debatable.
+
+First, let's list out all the items we've discussed that are generally perceived as fruits. That's apple, orange, banana, guava, kiwi... and maybe tomatoes and cucumbers, even though they're botanically fruits, they're often used as vegetables. Asparagus isn't really a fruit, so I'll leave it out.
+
+Now, for the ranking... I'll start with the things that are less commonly thought of as fruits, like banana and cucumber. Banana would probably be a 30, since it's used more like a vegetable. Cucumber would be even lower, maybe a 20. Tomatoes would be around a 40. Apple and orange are classics, so they'd be high up... let's say 70 and 80. Kiwi and guava are the superstars, definitely 95 and 98. 
+
+Yeah, that feels like a pretty good spread. It reflects how people actually see these things in their daily lives, not just their scientific classification. I think that's a solid ranking.

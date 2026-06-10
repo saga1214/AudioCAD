@@ -1,0 +1,47 @@
+Okay, let me tackle this room layout puzzle step by step, considering all the constraints and new details. The room dimensions are ten-foot corner-to-corner for each wall, and we have clear directions: Wall A is North with the door, Wall B is East with the windows (where nothing hangs), Wall C across from A, and Wall D across from B.
+
+First, I need to accommodate the three main furniture pieces: the six-foot-by-three-foot bed, the two-foot-by-one-foot altar, and the three-foot-by-one-foot dresser. The foot of the bed cannot point towards the altar, meaning if head is at position X, altar can't be at foot position X minus the bed's length.
+
+Then there's the poster constraint: it occupies most of one wall, and the dresser cannot go above it, so the poster must be on a wall where the dresser isn't placed. Finally, a small end table belongs next to the bed for access, and a floor lamp needs placement too.
+
+I'll try to visualize the walls: Wall D (opposite windows) seems ideal for the bed since it's away from windows and allows floor space. Wall A (door side) could work for altar to avoid the "foot pointing" issue. Wall C could handle the dresser, but I need to ensure the poster wall fits elsewhere.
+
+After considering flow and access points, here's a layout that meets all requirements: Place the bed head against Wall D, altar against Wall A, and dresser against Wall C. This keeps the foot of the bed pointing toward the windows, not the altar. The end table goes beside the bed on Wall D's floor space, and the floor lamp fits in the corner near Wall A.
+
+For the poster, since Wall C has the dresser, I'll put the poster on Wall A instead—above the altar is fine since the altar is small. This avoids covering the poster and keeps the dresser free to go below it on Wall C.
+
+This arrangement gives clear access to altar and dresser, proper bed flow, and avoids window wall violations. I'll present this clearly with wall letters and measurements.
+</think>
+Here's a simple layout that fits all your requirements:
+
+1. **Place the head of your bed against Wall D** (opposite the windows).  
+   - *Why?* This keeps the foot of the bed pointing toward the windows, not the altar. Wall D is 10ft wide, so center the bed to leave 2ft of clear space on either side for movement.
+
+2. **Place the altar against Wall A** (same wall as the door).  
+   - *Why?* This avoids having the foot of the bed point at it. Wall A is 10ft wide, so position the altar near the door (e.g., 1ft from Wall A’s corner) to leave room for the end table.
+
+3. **Place the dresser against Wall C** (opposite the door).  
+   - *Why?* Since nothing goes on the window wall (B), and Wall C is empty, this fits perfectly. Wall C is 10ft wide, so center the dresser (3ft) with 3.5ft of clear space on each side.
+
+4. **Add the end table next to your bed** on Wall D.  
+   - *Why?* It needs to be accessible from the bed. Since Wall D has 6ft of bed space, place the table 1ft from the wall, leaving 5ft of floor space beside the bed for walking.
+
+5. **Place the floor lamp in the corner near Wall A**.  
+   - *Why?* It needs to be near the bed for light but won’t block the altar or window wall. Put it in the corner between Walls A and B (East), 1ft from the wall, so it’s out of the way but usable.
+
+6. **Hang the poster on Wall A**.  
+   - *Why?* Since the dresser can’t go above the poster, and Wall A has space near the altar, hang the poster above the altar (e.g., 2ft above it). This keeps the altar visible and accessible.
+
+**Summary of Placement**:  
+- **Wall A (North/Door)**: Altar + Poster (above altar).  
+- **Wall B (East/Windows)**: *No furniture* (as required).  
+- **Wall C (Opposite Door)**: Dresser.  
+- **Wall D (Opposite Windows)**: Bed head + End table (1ft from wall).  
+
+**Flow & Access**:  
+- You can easily walk around the bed to access the end table.  
+- The altar is on Wall A, so you can approach it freely.  
+- The dresser is on Wall C, and the poster is above it on Wall A.  
+- The floor lamp in the corner near Wall A won’t block the window wall or altar.  
+
+This keeps all rules followed: no furniture on the window wall, foot of bed not pointing at altar, and poster isn’t covered by the dresser. Total floor space used is about 9ft (bed + end table), leaving 1ft of buffer for movement.

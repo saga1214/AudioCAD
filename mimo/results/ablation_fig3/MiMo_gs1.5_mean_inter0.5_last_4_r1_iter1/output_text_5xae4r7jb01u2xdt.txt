@@ -1,0 +1,15 @@
+Alright, let's break down this offside scenario to show a key difference in rule interpretation. Here's a situation involving Red and Blue teams.
+
+First, the setup: Red Team has a defender, let's call him Red 2, positioned between the halfway line and the penalty box. The Blue Team has a player, Blue 10, who is level with Red 2 but slightly deeper, so closer to their own goal. Blue 10 is also in an offside position relative to Red 2, who is the second-to-last defender.
+
+Now, the play: The Blue Team's goalkeeper, Blue GK, kicks the ball directly to Blue 10, who is in an offside position. Blue 10 controls the ball and then shoots, scoring a goal.
+
+So, is this an offside offense?
+
+The key difference here comes from how the "second-to-last defender" is defined, especially in college and high school rules versus professional rules.
+
+In the professional soccer rulebook, the "second-to-last defender" is strictly the player who is last in the defensive line. In this case, that would be Red 2. Since Blue 10 is behind Red 2, they are in an offside position, and receiving the ball directly from a goal kick is an offside offense.
+
+However, in many college and high school rulebooks, the "second-to-last defender" is defined as the player who is the last to play the ball, not necessarily the last in line. In this scenario, the goalkeeper, Blue GK, is the last player to play the ball. Therefore, Blue 10 is not in an offside position when receiving the ball, and the play is legal.
+
+So, this scenario perfectly demonstrates how the definition of the "second-to-last defender" can differ between rulebooks and directly impact whether a goal is valid. In the professional sense, it's the last defender in the line. In the college or high school sense, it can be the last player to touch the ball.

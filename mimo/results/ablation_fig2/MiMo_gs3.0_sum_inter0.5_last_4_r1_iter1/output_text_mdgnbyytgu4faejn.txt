@@ -1,0 +1,90 @@
+Okay, this user wants a complete breakdown of resume formatting and structure—they're looking for a step-by-step guide to just "get it over with." From the history, I can see they've already gotten advice on contact order, experience formatting, education details, and gaps in employment. Now they're asking for the big picture: where to put everything. 
+
+Hmm, they seem frustrated with decision paralysis earlier, so I should give them a clear, no-nonsense framework. The key is balancing completeness with brevity—they don't want a novel, but they also don't want to miss critical sections. 
+
+First, I'll validate that having a skills section is important, but only for relevant, measurable skills tied to the job. Then I'll lay out the entire structure chronologically: header, summary, experience, skills, education, extras. For each part, I'll specify font sizes they mentioned originally (name at 14pt, contacts at 9pt icons removed) while adding refinements like LinkedIn links and gap mitigation. 
+
+The "extras" section is crucial here—they mentioned awards/scholarships. I'll emphasize putting academic honors under education and external awards in a separate section. Since they're changing career tracks, I'll subtly reinforce the relevant experience strategy from earlier chats. 
+
+Font consistency tip at the end might help their anxiety—they care about tiny details like point sizes. And I'll avoid jargon; they clearly prefer practical "how-tos" over theoretical advice. 
+
+...Wait, should I warn about ATS again about icons? Yes, briefly—it caused confusion before. But focus on solutions: LinkedIn > icons, dates always included. 
+
+Final thought: They want this "done," so I'll structure the response as a numbered list they can copy-paste, but I'll keep explanations minimal. No fluff.
+</think>
+Here’s a clear, ATS-friendly format with your font preferences included—designed for quick execution:
+
+### **Header (Top Section)**
+1. **Your Name**: Centered at 14pt (e.g., Arial, Calibri, or Helvetica).  
+2. Below immediately:  
+   - Email: 9pt (same font)  
+   - Phone: 9pt  
+   - City: 9pt (add state if in the US).  
+**Add an icon-free LinkedIn profile link** (e.g., `linkedin.com/in/yourname`). Icons may trigger ATS issues.  
+
+> *Order Suggestion*: Name → Email → Phone → City/LDn link is optimal scannability.
+
+---
+
+### **Summary (2-3 Lines)**  
+- **Professional Summary**:  
+  > "X years of [relevant skill] experience in [industry]. Seeking to leverage expertise in [key achievement] for [target role]."  
+- **Font**: 10-11pt (same as body text).  
+
+---
+
+### **Experience**  
+**Structure**:  
+- **Job Title**: 9pt  
+- **Company**: 9pt  
+- **Dates**: 9pt (e.g., "Jan 2018 – Present")  
+- **Bullet Points**: 9pt (3-4 concise bullets per role, using action verbs).  
+
+**For career changes**:  
+- Group roles by theme (e.g., "Marketing Experience").  
+- List older roles under **"Relevant Experience"** (dates included).  
+- List newer/less relevant roles under **"Additional Experience"** (minimal bullets).  
+
+---
+
+### **Skills Section**  
+- **Font**: 9pt  
+- **List only job-relevant skills**:  
+  > Technical: Python, Tableau  
+  > Soft: Project Management, Stakeholder Communication  
+- *Avoid generic skills* (e.g., "Team Player").  
+
+---
+
+### **Education**  
+- **Degree(s)**: 9pt (e.g., "B.S. Computer Science")  
+- **University**: 9pt  
+- **Dates**: 9pt (e.g., "May 2015 – May 2019")  
+- **Honors/Scholarships**: Add directly under degrees (e.g., "Graduated with Highest Honors").  
+- **Remove multiple degrees from one school**—list only the highest degree.  
+
+---
+
+### **Extras (Optional)**  
+- **Certifications**: 9pt (e.g., "PMP, 2023")  
+- **Projects**: 9pt (brief 1-line description)  
+- **Volunteer Work**: 9pt  
+
+---
+
+### **Font & Spacing Rules**  
+- **Consistency**: 9pt for all non-header text.  
+- **Margins**: 0.5" on all sides.  
+- **Length**: 1 page max (unless 10+ years of *relevant* experience).  
+
+### **Key Fixes from Your Draft**  
+1. Move contacts directly below your name (vertically, not to the right).  
+2. Remove contact icons.  
+3. Add a LinkedIn link.  
+4. Use "Relevant Experience" for older roles.  
+5. List all dates for jobs/education.  
+6. Place honors/scholarships under their respective education entries.  
+
+---
+
+**Final Tip**: Save as a PDF to preserve formatting. Use tools like [Canva](https://www.canva.com/resumes/templates/) or [Zety](https://www.zety.com/resume-generator) for quick templates if you need visual guidance.

@@ -1,0 +1,9 @@
+You’re asking a great question, and you’re right to be precise. The word is "saccadic" or "saccades." Let me give you the pronunciation: it’s like "sah-kah-dik" or "sah-kah-dee." Think of "sah" like in "saddle," "kah" like in "cat," and "dik" like in "tick."
+
+Now, to your point: No, it’s not correct to say the eye sees continuously in the way a camera does. The eye is always moving—making tiny saccades to shift focus, and it’s constantly adjusting for motion blur. Because of this, the brain has to fill in the gaps.
+
+But here’s the key part: The eye’s actual perception of motion isn’t frame-by-frame like a film. Instead, it uses motion parallax and predictive processing. It’s more like a continuous, blended perception of movement, not discrete snapshots. This is what allows us to perceive smooth motion, even though our eyes are constantly jumping around.
+
+So, while film at 24 frames per second creates the illusion of continuity, the human eye doesn’t work like that at all. It processes visual input as a continuous flow, not as a series of frames. The brain is doing the heavy lifting to make it all feel seamless.
+
+Would you like me to clarify any of that further?

@@ -1,0 +1,28 @@
+Okay, the user wants to reschedule a meeting with their VP from Tuesday afternoon to Wednesday at 12:30 PM. Let me check the existing schedule first. On Wednesday, the user has a meeting from 9 AM to 10 AM. So, 12:30 PM is within their afternoon availability, which is good. 
+
+The user mentioned they need three hours for the VP meeting. Wednesday afternoon is free until 3 PM, so 12:30 PM to 3:30 PM would be a three-hour slot. That should work. 
+
+I should confirm if the VP's availability aligns with this new time. The user said it works for everyone, so I'll assume that's covered. 
+
+Also, the user previously mentioned wanting to keep lunchtime private. Since the new meeting is at 12:30 PM, it's before their typical 12 PM to 1 PM lunch block. That's good because it won't disturb their private time. 
+
+The VP meeting is to go over slides, so the timing should be fine. No other conflicts mentioned. 
+
+I'll propose Wednesday at 12:30 PM to 3:30 PM as the new slot. The user seems to have a clear preference for timing, so this should meet their needs. 
+
+Just to be thorough, I'll make sure there aren't any other constraints. The user's own meeting on Wednesday ends at 10 AM, so 12:30 PM is well within their afternoon. The VP's availability isn't specified, but the user said it works for everyone, so I'll take that at face value. 
+
+Final confirmation: Wednesday, 12:30 PM to 3:30 PM. That's the adjusted meeting time.
+</think>
+Based on your schedule and availability, here's the proposed meeting time:
+
+**Meeting:** With your VP  
+**New Time:** Wednesday, 12:30 PM - 3:30 PM (3-hour slot)  
+**Duration:** 3 hours (aligns with your Wednesday afternoon availability)  
+
+### Key details:
+1. **Timing:** Starts at 12:30 PM (within your afternoon window after the 10 AM meeting).  
+2. **Duration:** 3 hours (as requested).  
+3. **Availability:** Confirmed to work for all parties (as noted by you).  
+
+This avoids your private lunch window (12 PM–1 PM) and fits neatly into your Wednesday afternoon. Let me know if you’d like me to block this in calendars or adjust further!

@@ -1,0 +1,7 @@
+Okay, let's break this down. The student is asking whether the eye sees continuously, considering saccadic masking. She also wants the word "saccadic" pronounced. 
+
+First, the pronunciation of "saccadic" is "sah-KAH-dik." It's pronounced with a soft 's' sound at the start, a long 'a' like in 'cat,' and a 'dik' ending. 
+
+Now, for the core question: Does the eye see continuously? The answer is yes and no. The eye's retina is constantly detecting light and movement, but the brain doesn't process it that way. The brain uses saccades—those quick eye movements—to scan the environment. During a saccade, the brain actually suppresses the visual input to prevent blur. So, while the eye is technically seeing continuously, the brain only processes the images between these saccades. It's like the brain is editing the visual data to create a smooth, continuous experience. 
+
+So, in a way, the eye is seeing continuously, but the brain is selectively processing that information. It’s a bit of a paradox, but that’s how vision works! Hope that clears things up.

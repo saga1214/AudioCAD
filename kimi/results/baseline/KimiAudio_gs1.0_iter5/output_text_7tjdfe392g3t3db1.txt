@@ -1,0 +1,3 @@
+For this instrument, you'll want to use the app's built-in tuner. It usually has a clip or a clip-on microphone that you can attach to the guitar. Once it's on, you'll need to play a note on the guitar and the app will tell you if it's in tune or not.
+
+If the note is too high, you'll need to tighten the string. If it's too low, you'll need to loosen it. Keep adjusting until the app says the note is in tune. Remember, you'll need to tune each string individually.

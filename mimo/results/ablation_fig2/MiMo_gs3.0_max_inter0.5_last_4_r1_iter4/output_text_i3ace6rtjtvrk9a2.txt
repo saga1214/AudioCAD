@@ -1,0 +1,11 @@
+You're very close! The word is pronounced 'suh-kah-dee'—think of it like 'suck-a-dee'. 
+
+Now, to your question: No, it's not correct to say the eye sees continuously in the way a camera does. It’s a bit of a misconception to think of vision as a single, uninterrupted stream of information. 
+
+Instead, the eye is constantly making tiny, rapid jumps to focus on different points in space. That’s the saccade. During these jumps, the brain briefly shuts off visual processing to avoid sensory overload and motion blur. So, there’s a tiny gap in the visual data, even if it’s so fast you don’t consciously notice it. 
+
+Then, the brain fills in the gaps by blending the images between these saccades. This is called “persistence of vision” or “visual interpolation.” That’s why we perceive continuous motion even though our eyes are actually stopping and starting very quickly. 
+
+So, to sum it up: The eye senses visual information in short, rapid bursts, not as a continuous stream. The brain then constructs a smooth, continuous experience from those bursts. It’s more like a video game rendering frames than a live camera feed. 
+
+Would you like me to go deeper into any part of that?

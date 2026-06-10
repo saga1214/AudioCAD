@@ -1,0 +1,9 @@
+Alright, let's break down a scenario that highlights a key difference in how offside is interpreted between U.S. college soccer and the Laws of the Game, like those in FIFA. This difference comes down to whether the defender is considered "attached" to the ball carrier.
+
+Here’s the scenario: The Red Team is defending. Defender number 14 is tightly marking the Blue Team's forward, number 9. Defender 14 is physically blocking forward 9's path to the ball, but forward 9 is still able to control it and is slightly behind the last defender. Player 10 on the Blue Team then passes the ball directly to forward 9, who is in an offside position. Defender 14 immediately makes a deliberate, controlled play on the ball, but it rebounds off them and forward 9 gets the ball and scores.
+
+Now, here's how the interpretation differs. According to the Laws of the Game, forward 9 is no longer considered offside because Defender 14 made a deliberate, controlled play on the ball. The situation is reset, and the goal stands. 
+
+However, under U.S. college rules, the situation is different. For Defender 14 to reset the offside, they must be "attached" to the ball carrier, number 9. Since Defender 14 is actively blocking number 9 and preventing them from playing the ball, they are considered "attached." Because of this attachment, the offside offense is nullified, and the situation is reset. This means that in this specific situation, under U.S. rules, the goal would likely be disallowed because the defender's touch didn't count as a reset.
+
+So, the key difference is the concept of a defender being "attached" to the player who is in an offside position. This concept is specific to U.S. rules and can lead to goals being disallowed under those rules that would otherwise stand under the Laws of the Game.

@@ -1,0 +1,24 @@
+The user is experiencing a moment of social confusion at a party. She told someone she was having a "great time," but returned friend asked if she's okay, making her question if something she said gave the wrong impression. Simultaneously, she's confused whether "Under Pressure" is a David Bowie or a Queen album. My task is to role-play as a smart, helpful music assistant while navigating her social uncertainty and music trivia.
+
+My response needs to address both parts of her query. First, for the social aspect, I should be tactful. I don't have audio from the user's conversation, so I can only speculate gently. I'll suggest a few neutral possibilities, like maybe she was just being a good friend checking in, or perhaps my focused interaction with her was noticeable. This avoids making assumptions but offers plausible explanations. Second, for the music fact, I need to give the correct information: that "Under Pressure" is a collaboration on *Hot Space*. Playing the song fulfills her request.
+
+I'll structure my reply to first tackle the social question with gentle, speculative suggestions, then clearly state the music fact and confirm I'm playing the track. This approach is helpful, non-intrusive, and keeps the focus on the music, which seems to be her primary activity at the party.
+</1>
+<think>
+Okay, the user is at a party and seems to be multitasking between social interaction and music discovery. She's experiencing a minor social awkwardness where her returned friend checked on her, making her question if something she said gave the wrong impression. Simultaneously, she's confused about whether David Bowie has "Under Pressure" or if it's on a Queen album. 
+
+As a music assistant, my role is to focus on the music aspect while tactfully addressing her social concern without overstepping. She wants the song played but also wants clarification on its origin. 
+
+For the social part, I should acknowledge her confusion neutrally. Possible reasons could be: her friend might have overheard something subtle she didn't realize was concerning, or the friend might just be being attentive. I'll offer these as gentle possibilities without diagnosing her friend's motives. 
+
+For the music trivia, I need to give the precise answer: it's a Queen collaboration on *Hot Space*. Then I'll confirm the song is playing to fulfill her request. 
+
+The tone should remain helpful and slightly detached, like a service-oriented assistant. I won't pry into her social situation, but I'll validate her curiosity about why her friend returned early. Keeping the response concise respects her multitasking state. 
+
+Playing the song now completes the interaction. This approach balances factual accuracy with social sensitivity without overcommitting to the interpersonal drama.
+</think>
+It's possible your friend noticed something subtle—maybe your tone shifted when talking to me, or you seemed distracted. Friends often pick up on small cues, even if you said you were having a great time.  
+
+As for "Under Pressure"—that's a classic collaboration between David Bowie and Queen, and it's on Queen's album ***Hot Space***. Playing it for you now.  
+
+Let me know if your friend shares more context! 🎶

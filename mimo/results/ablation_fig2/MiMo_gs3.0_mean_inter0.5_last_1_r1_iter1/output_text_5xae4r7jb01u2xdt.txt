@@ -1,0 +1,9 @@
+Let's look at a scenario involving a corner kick and a defender's touch to reset offside status. In the Red versus Blue game, Red Team is defending their goal. As the corner kick is being taken, Red defender number five deliberately controls the ball and clears it away from the goal.
+
+Now, here's the key part: the ball deflects and rebounds off Red defender number three. At that moment, Blue forward number seven is now in an offside position relative to Red defender number two and the ball.
+
+So, which offense applies?
+
+First, under older US Soccer rules, this wouldn't reset the situation. Player number seven would still be considered offside because of the deliberate play by defender number five. Defender number three's deflection or rebound would not reset the status. This means player number seven would still be offside, and the offense would apply if they received the rebound.
+
+However, under the current吕布 rules, a defender's *deliberate, controlled* play on the ball resets the situation entirely. Defender number five's clearance already did that. Therefore, when the ball rebounded off defender number three, player number seven was no longer in an offside position.

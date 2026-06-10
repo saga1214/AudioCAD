@@ -1,0 +1,52 @@
+Okay, let's break this down. The user has a Blue Yeti with Scarlett Solo, feeling harsh audio. Start placement logo side, hand-width distance. Harshness fixed with blankets hung walls. Lip trills, humming warm-ups. Breathe from belly. Belly breathing supports. Room-temp water hydrates without tension. Audition faster long-term. Adobe Audition learning curve. iZotope RX for mouth clicks. Folder system per client. Demo clip: strong emotion, clear choice, few seconds. Switching to Audition easier: start with basic functions. Import Audacity projects. Online tutorials. Practice. Reliable AI tools: Descript's editing. Otter.ai transcription. Balance recording, editing, marketing: schedule time blocks. Promote work without neglecting health. Hydration reminder app. Quick breaks. Meal idea: Thai restaurant. Green curry rice bowl. Served with cucumber salad and coconut drink. Portable, healthy. Craving flavorful quick meals. Green curry bowl fits. Lunch or dinner. Satisfies craving. Healthy. Portable studio snack.
+</think>
+Here’s a streamlined response addressing your questions:
+
+### Studio & Mic Tips
+- **Harsh Audio Fix**: Speak into Yeti’s side (with logo), keep it 6–8 inches from your mouth, and angle slightly off-axis. Harshness often comes from off-axis placement or reflections.
+
+### Vocal Endurance
+- **Warmups**: Daily 10-minute routine: lip trills, humming, tongue twisters, and vocal sirens (sliding pitch).
+- **Breathing**: Practice diaphragmatic breathing (belly breathing) to support phrases.
+- **Hydration**: Sip room-temperature water hourly. Cold water constricts vocal cords.
+- **Breaks**: Rest 5 mins every 20–30 minutes. Drink water, stretch, and avoid caffeine/alcohol.
+
+### DAW & Editing
+- **Adobe Audition vs. Audacity**: Audition is faster for multitrack editing, noise reduction, and automation (e.g., volume keyframing). The learning curve is steep but worthwhile for complex projects.
+- **Plugins**: 
+  - **Mouth Clicks**: iZotope RX 10 (De-click) or Waves Clarity Vx.
+  - **Background Noise**: RX 10 (Denoise) or Audition’s Noise Reduction dialog.
+- **AI Tools**: 
+  - **Trim Silence**: Descript (auto-trims gaps).
+  ️ **Labeling**: Otter.ai (transcription) or Descript’s "Edit in Studio" for easy edits.
+
+### Workflow & Organization
+- **Project Management**: Use cloud storage (Google Drive/Dropbox) with client-specific folders. Label files: `ClientName_Date_ScriptVersion.wav`.
+- **Time-Saving**: Batch-edit similar clips. Use shortcuts (e.g., Audition’s "S" for selection, "C" for cut).
+
+### Demo Clip Tips
+- **Hook**: Start with a 3-second high-energy character moment.
+- **Show Range**: Include 2–3 distinct voices (e.g., villain, child, narrator).
+- **Keep It Short**: 45–60 seconds max. End with a "call to action" (e.g., "Hire me for [genre]!").
+
+### Switching to Audition
+- **Transition Plan**: 
+  1. Export Audacity projects as WAV.
+  2. Import into Audition’s "Multitrack Editor."
+  3. Practice basics: volume automation, noise reduction, and rendering.
+  4. Use YouTube tutorials (e.g., "Audition for Beginners" by Sweetwater).
+
+### AI Tools Deep Dive
+- **Descript**: AI-powered editing (e.g., "Search and Replace" finds spoken words).
+- **Adobe Sensei**: Auto-normalizes volume, removes breaths.
+- **Avoid Over-Reliance**: AI can’t replace nuanced mixing—use it for efficiency, not creativity.
+
+### Vocal Health Habits
+- **Meal Suggestion**: Order a **Green Curry Rice Bowl** from your Thai spot: 
+  - *Why it fits*: Quick, flavorful, portable, and healthy (coconut aminos, veggies). Eat between takes to recharge.
+  - *Bonus*: Pair with ginger tea (anti-inflammatory) post-session.
+
+### Pro Balance Tip
+- **Time Blocking**: Schedule 2-hour recording blocks → 1-hour editing → 30 mins marketing (social posts, emails). Use calendar apps to enforce breaks.
+
+This keeps your setup polished, your voice strong, and your workflow efficient—without sacrificing health or creativity! 🎤✨

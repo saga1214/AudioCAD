@@ -1,0 +1,47 @@
+Okay, the student is really diving deep into the neuroscience of vision! They've correctly identified that "saccadic masking" complicates the eye-brain relationship, and now they're asking about the eye's continuity of perception. 
+
+First, let's address pronunciation: "saccade" is pronounced suh-KAHD. The "c" is soft like in "cat," and "ade" rhymes with "made." 
+
+Now to answer their core question: The eye does NOT see continuously. During saccades, photoreceptors are stimulated rapidly, but the brain actively suppresses blur. So while the eye technically captures information in bursts, the brain constructs a continuous visual experience. It's like a video game rendering frames only when the player moves - the eye captures data in motion, but the brain fills in the gaps to create fluid perception. 
+
+The student seems frustrated by earlier conflations of eye and brain functions, so I should be precise: The eye's photoreceptors can respond faster than 60Hz, but saccadic masking means the brain processes only stable visual input. This explains why we don't see the world as a series of snapshots - the brain's "post-production" makes it feel seamless. 
+
+Their film student perspective is valuable here - in cinematography, this explains why 24fps feels cinematic: it mirrors how our brain naturally compresses visual data. Higher frame rates preserve more detail but feel more "real" because they're closer to the eye's raw data capture speed. 
+
+I'll emphasize that "continuous perception" is a brain construct, not an eye function. The eye's role is detection, while the brain's is interpretation. The saccadic masking phenomenon is key evidence for this separation - we literally can't consciously perceive motion during eye movements because the brain filters it out.
+</think>
+You've hit on a fascinating distinction! Let's break this down clearly using accurate terminology:
+
+### 1. **Eye's Role (Optical Sensor)**
+   - The eye detects light via photoreceptors (rods/cones) and sends signals via the optic nerve.  
+   - **Photopic Vision (daylight):** The eye can detect flicker up to **~60 Hz** before fusion occurs (appearing continuous).  
+   - **Saccadic Motion:** During saccades (eye jumps), photoreceptors detect rapid changes, but **saccadic masking** actively suppresses blur in the visual cortex.  
+
+### 2. **Brain's Role (Perceptual Processor)**
+   - The visual cortex integrates signals from the eye and constructs a continuous percept.  
+   - **Saccadic Masking Mechanism:** During saccades, the brain:  
+     - Temporarily suppresses motion perception to prevent disorientation.  
+     - Fills in visual gaps between saccades using prior/expected data.  
+     - Creates the illusion of seamless motion despite the eye's rapid "jumps."  
+   - **Perceptual Threshold:** Humans perceive motion as continuous at **>16 fps**, but **60 fps** feels "real-time" due to reduced motion blur.  
+
+### 3. **Key Distinction: Eye vs. Brain**
+   - **Eye:** Detects discrete events (e.g., flicker at 60 Hz, motion during saccades).  
+   - **Brain:** *Constructs* continuity by smoothing gaps, suppressing blur, and integrating context.  
+   - **Critical Point:** You do **not** "see continuously" because saccadic masking ensures you *never consciously perceive* the blur of eye movements.  
+
+### 4. **Film vs. Reality Analogy**
+   - **Film (24 fps):** Mimics the brain’s natural compression of motion. The eye detects frames, but the brain fills gaps.  
+   - **Video (60 fps):** Closer to real-time, but still requires the brain’s "stabilization" to feel smooth.  
+   - **Saccadic Masking in Practice:** If you film a saccade at 60 fps and slow it down, you see blur because the brain didn’t mask it during playback.  
+
+### Phonetic Guide: "Saccade"  
+- **Pronunciation:** suh-KAHD  
+  - *suh*: Like "suh-weet"  
+  - *KAH*: Like "car"  
+  - *d*: Soft "d" sound (e.g., "bed")  
+
+### Summary  
+The eye **detects** visual events in bursts (saccades, flicker), but the brain **processes** them into a continuous percept via saccadic masking. This is why 24 fps feels cinematic—it aligns with how the brain naturally compresses motion. Higher frame rates (60 fps+) preserve more detail but require the brain’s "fill-in" to feel fluid.  
+
+This distinction is crucial for filmmakers: understanding saccadic masking explains why slow-motion (high fps) *feels* more "real," while standard frame rates leverage the brain’s innate perceptual smoothing.

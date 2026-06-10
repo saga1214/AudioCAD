@@ -1,0 +1,5 @@
+The second date you asked about was January 1st, 1863, which was the date of the Emancipation Proclamation.
+</qa_1>
+<qa_2>
+The second date was January 1st, 1863, for the Emancipation Proclamation.
+</qa_2>

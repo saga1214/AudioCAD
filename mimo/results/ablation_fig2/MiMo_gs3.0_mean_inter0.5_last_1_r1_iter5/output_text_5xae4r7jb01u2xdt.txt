@@ -1,0 +1,7 @@
+Got it. Let's compare the US offside rules with the older Laws 11 and 12 from before 2004, which are still used in some countries like Germany. The key difference is in how a defender's accidental touch resets an offside situation.
+
+First, let's look at the current college/ref certification rules: Defender Control Principle. Imagine this: The Red Team is attacking. The Blue Team's second-to-last defender is behind the ball. The Red Team's attacker is further ahead than both the ball and the defender. Their teammate passes the ball directly to them. If the attacker deliberately controls that ball, say by trapping it with their foot, the offside is called. But if the ball simply deflects or rebounds off the defender and the attacker gets it that way, it's still an offside.
+
+Now, let's look at the old rule, which is still used in some places. In this version, imagine the same thing: Red Team attacker is offside when their teammate passes them the ball. But this time, the ball hits the defender by accident and the attacker then controls it. Under the old rules, this would still be an offside offense. It didn't matter if the touch was deliberate control or just a random deflection; the attacker was still penalized.
+
+So the difference is huge. The certification you're getting enforces the modern 'defender control' idea, where only a deliberate play resets the situation. The older rule was much stricter, resetting the offside only if the defender completely played the ball themselves.
