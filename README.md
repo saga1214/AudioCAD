@@ -155,7 +155,17 @@ numbers per plot point.
 
 ## Citation
 
-_BibTeX entry will be added once the camera-ready version is available._
+```bibtex
+@inproceedings{lee26m_interspeech,
+  title     = {{From Awareness to Adherence: Bridging the Context Gap in Spoken Dialogue Systems via Context-Aware Decoding}},
+  author    = {Che Hyun Lee and Heeseung Kim and Sungroh Yoon},
+  year      = {2026},
+  booktitle = {{Interspeech 2026}},
+  pages     = {3421--3426},
+  doi       = {10.21437/Interspeech.2026-1589},
+  issn      = {2958-1796},
+}
+```
 
 ## Acknowledgements
 
